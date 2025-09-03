@@ -1,12 +1,12 @@
 name: VPP Feed
 
 on:
-  workflow_dispatch:      # 手动触发
+  workflow_dispatch:        # 手动触发
   schedule:
-    - cron: "0 * * * *"   # 每小时一次
+    - cron: "0 * * * *"     # 每小时一次
 
 permissions:
-  contents: write         # 允许提交 feed.json
+  contents: write           # 允许提交 feed.json
 
 jobs:
   build:
@@ -18,51 +18,168 @@ jobs:
         shell: bash
         run: |
           node - <<'NODE'
-          // Node 18 自带 fetch；这里无需任何 npm 依赖
-          const SOURCES = [
-            {name:"CanalEnergia", url:"https://www.canalenergia.com.br/feed/", bucket:"C"},
-            {name:"epbr",          url:"https://epbr.com.br/feed/",            bucket:"C"},
-            {name:"Energy Storage News", url:"https://www.energy-storage.news/feed/", bucket:"A"},
+          // ============ 配置：来源清单（A/B/C），优先 RSS，失败再解析栏目页 ============
+          const S = [
+            // ---- A：全球典型运营/聚合/零售 ----
+            {name:"Next Kraftwerke", bucket:"A", base:"https://www.next-kraftwerke.com", rss:["/news/feed"] , pages:["/news"]},
+            {name:"Octopus Energy Group", bucket:"A", base:"https://octopusenergy.group", rss:[], pages:["/news"]},
+            {name:"Octopus Energy (UK Blog)", bucket:"A", base:"https://octopus.energy", rss:["/blog/atom.xml","/blog/feed"], pages:["/blog"]},
+            {name:"Tesla Energy (Blog)", bucket:"A", base:"https://www.tesla.com", rss:[], pages:["/blog"]},
+            {name:"sonnen Press", bucket:"A", base:"https://sonnen.de", rss:[], pages:["/presse","/en/press"]},
+            {name:"Sunrun Press", bucket:"A", base:"https://www.sunrun.com", rss:[], pages:["/press"]},
+            {name:"Centrica Business Solutions", bucket:"A", base:"https://www.centrica.com", rss:[], pages:["/media","/media/press-releases"]},
+            {name:"Enel X", bucket:"A", base:"https://corporate.enelx.com", rss:[], pages:["/media","/media/news"]},
+            {name:"Flexcity", bucket:"A", base:"https://www.flexcity.energy", rss:[], pages:["/news"]},
+            {name:"PV Magazine (Markets & Policy)", bucket:"A", base:"https://www.pv-magazine.com", rss:["/feed/"], pages:["/category/markets-policy/"]},
+            {name:"Energy Storage News", bucket:"A", base:"https://www.energy-storage.news", rss:["/feed/"], pages:["/news"]},
+
+            // ---- B：平台/DERMS/V2G/AI ----
+            {name:"KrakenFlex", bucket:"B", base:"https://krakenflex.com", rss:[], pages:["/news","/blog"]},
+            {name:"AutoGrid", bucket:"B", base:"https://autogrid.com", rss:[], pages:["/newsroom","/blog"]},
+            {name:"Schneider Electric (Newsroom)", bucket:"B", base:"https://www.se.com", rss:[], pages:["/ww/en/about-us/newsroom/news"]},
+            {name:"Siemens Press", bucket:"B", base:"https://press.siemens.com", rss:[], pages:["/global/en/press"]},
+            {name:"GE Vernova", bucket:"B", base:"https://www.gevernova.com", rss:[], pages:["/news"]},
+            {name:"EnergyHub Blog", bucket:"B", base:"https://www.energyhub.com", rss:[], pages:["/blog"]},
+            {name:"Uplight Blog", bucket:"B", base:"https://uplight.com", rss:[], pages:["/blog","/resources/blog"]},
+            {name:"Sunverge", bucket:"B", base:"https://sunverge.com", rss:[], pages:["/news","/blog"]},
+            {name:"Tibber Blog", bucket:"B", base:"https://tibber.com", rss:["/blog/rss","/en/blog/rss","/se/blog/rss"], pages:["/blog","/en/blog"]},
+
+            // ---- C：巴西政策/市场 ----
+            {name:"ANEEL", bucket:"C", base:"https://www.aneel.gov.br", rss:[], pages:["/sala-de-imprensa","/sala-de-imprensa/-/paginacao/"]},
+            {name:"ONS", bucket:"C", base:"https://www.ons.org.br", rss:[], pages:["/Paginas/sala-de-imprensa","/paginas/noticias"]},
+            {name:"MME", bucket:"C", base:"https://www.gov.br/mme", rss:[], pages:["/pt-br/assuntos/noticias"]},
+            {name:"EPE", bucket:"C", base:"https://www.epe.gov.br", rss:[], pages:["/pt/imprensa","/pt/imprensa/noticias"]},
+            {name:"CCEE", bucket:"C", base:"https://www.ccee.org.br", rss:[], pages:["/web/guest/noticias","/web/guest/imprensa"]},
+            {name:"ABGD", bucket:"C", base:"https://abgd.com.br", rss:[], pages:["/noticias"]},
+            {name:"CanalEnergia", bucket:"C", base:"https://www.canalenergia.com.br", rss:["/feed/"], pages:["/noticias"]},
+            {name:"epbr", bucket:"C", base:"https://epbr.com.br", rss:["/feed/"], pages:["/noticias"]},
           ];
 
-          function clean(s){ return (s||"").replace(/<!\[CDATA\[|\]\]>/g,"").replace(/<[^>]+>/g,"").trim(); }
-          function pick(s,re){ return ((s||"").match(re)||[])[1] || ""; }
-          function parseRSS(xml){
-            const out=[]; const blocks=xml.match(/<item[\s\S]*?<\/item>|<entry[\s\S]*?<\/entry>/gi)||[];
-            for(const b of blocks){
-              const title = clean(pick(b,/<title[^>]*>([\s\S]*?)<\/title>/i));
-              const link  = pick(b,/<link[^>]*>([\s\S]*?)<\/link>/i) || pick(b,/<link[^>]*href="([^"]+)"/i);
-              const date  = pick(b,/<pubDate[^>]*>([\s\S]*?)<\/pubDate>/i) || pick(b,/<updated[^>]*>([\s\S]*?)<\/updated>/i);
-              out.push({ title, url: link, date: date || new Date().toISOString() });
+          // ============ 抓取主流程 ============
+          const cutoff = Date.now() - 30*24*3600*1000;  // 30天窗口
+          const MAX_PER_SOURCE = 80;
+          let items = [];
+
+          for (const s of S) {
+            try {
+              const arr = await fetchSource(s, MAX_PER_SOURCE);
+              for (const it of arr) {
+                const t = Date.parse(it.date || "") || Date.now();
+                if (t < cutoff) continue;
+                items.push({
+                  title: it.title || "",
+                  url: it.url || "",
+                  date: new Date(t).toISOString(),
+                  source: s.name,
+                  bucket: s.bucket
+                });
+              }
+            } catch (e) {
+              console.log("source failed:", s.name, e.message);
             }
-            return out;
           }
 
-          const cutoff = Date.now() - 30*24*3600*1000; // 30 天
-          async function main(){
-            let items = [];
-            for(const s of SOURCES){
-              try{
-                const r = await fetch(s.url, {headers:{'user-agent':'VPPBot/1.0'}});
-                const xml = await r.text();
-                const arr = parseRSS(xml).map(it => ({...it, source:s.name, bucket:s.bucket}));
-                items = items.concat(arr);
-              }catch(e){ console.log('fail:', s.name, e.message); }
-            }
-            // 去重 + 过滤 + 排序
-            const seen = new Set();
-            items = items.filter(x=>{
-              const k=(x.url||'').split('#')[0]; if(!k||seen.has(k)) return false; seen.add(k); return true;
-            }).filter(x=> Date.parse(x.date||'') >= cutoff)
-              .sort((a,b)=> Date.parse(b.date)-Date.parse(a.date))
-              .reverse()
-              .slice(0,800);
+          // 去重（按 URL）+ 排序 + 截断
+          const seen = new Set();
+          items = items.filter(x => {
+            const k = (x.url||"").split("#")[0];
+            if (!k || seen.has(k)) return false; seen.add(k); return true;
+          }).sort((a,b)=> Date.parse(b.date)-Date.parse(a.date))
+            .slice(0, 1000);
 
-            const fs = await import('fs/promises');
-            await fs.writeFile('feed.json', JSON.stringify({ ts:Date.now(), items }, null, 2));
-            console.log('items:', items.length);
+          // 输出 feed.json
+          const fs = await import('fs/promises');
+          await fs.writeFile('feed.json', JSON.stringify({ ts: Date.now(), items }, null, 2));
+          console.log("TOTAL:", items.length);
+
+          // ============ 工具函数 ============
+          async function fetchSource(s, limit=60){
+            const out = [];
+            // 1) 显式 RSS
+            for (const r of (s.rss||[])) {
+              const u = abs(s.base, r);
+              const txt = await tryFetchText(u);
+              if (txt && isRSS(txt)) {
+                out.push(...parseRSS(txt, limit));
+                if (out.length) return out.slice(0, limit);
+              }
+            }
+            // 2) 常见 RSS 猜测
+            const hints = ["/feed", "/feed/", "/rss", "/rss.xml", "/atom.xml", "/news/feed", "/blog/feed"];
+            for (const h of hints) {
+              const u = abs(s.base, h);
+              const txt = await tryFetchText(u);
+              if (txt && isRSS(txt)) {
+                out.push(...parseRSS(txt, limit));
+                if (out.length) return out.slice(0, limit);
+              }
+            }
+            // 3) 栏目页解析
+            const pages = (s.pages||[]).concat(["/news","/press","/blog","/media"]);
+            for (const p of pages) {
+              const u = abs(s.base, p);
+              const html = await tryFetchText(u);
+              if (!html) continue;
+              const arr = parseHTMLList(html, s.base, limit);
+              out.push(...arr);
+              if (out.length >= limit) break;
+            }
+            return out.slice(0, limit);
           }
-          main();
+
+          function abs(base, path){
+            if (!path) return base;
+            if (/^https?:\/\//i.test(path)) return path;
+            return base.replace(/\/$/,"") + path;
+          }
+
+          async function tryFetchText(url){
+            try{
+              const r = await fetch(url, { headers: { 'user-agent':'Mozilla/5.0 VPPBot/1.0' } });
+              if (!r.ok) return null;
+              const ct = r.headers.get('content-type') || '';
+              if (!/text|xml|html/i.test(ct)) return null;
+              return await r.text();
+            }catch{ return null; }
+          }
+
+          function isRSS(text){ return /<rss|<feed|<item|<entry/i.test(text); }
+
+          function parseRSS(xml, limit=60){
+            const list = [];
+            const blocks = xml.match(/<item[\s\S]*?<\/item>|<entry[\s\S]*?<\/entry>/gi) || [];
+            for (const b of blocks) {
+              const title = pick(b, /<title[^>]*>([\s\S]*?)<\/title>/i);
+              const link  = pick(b, /<link[^>]*>([\s\S]*?)<\/link>/i) || pick(b, /<link[^>]*href="([^"]+)"/i);
+              const date  = pick(b, /<pubDate[^>]*>([\s\S]*?)<\/pubDate>/i) || pick(b, /<updated[^>]*>([\s\S]*?)<\/updated>/i) || pick(b, /<published[^>]*>([\s\S]*?)<\/published>/i);
+              list.push({ title: clean(title), url: safeUrl(link), date: date || new Date().toISOString() });
+              if (list.length >= limit) break;
+            }
+            return list;
+          }
+
+          function parseHTMLList(html, base, limit=60){
+            const host = new URL(base).host;
+            const anchors = [...html.matchAll(/<a\s+[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi)];
+            const items = [];
+            for (const m of anchors) {
+              const href = m[1]; let text = clean(m[2]).replace(/\s+/g," ").trim();
+              if (!href || !text || text.length < 20) continue;
+              let u; try { u = new URL(href, base); } catch { continue; }
+              if (u.host !== host) continue;
+              const ustr = u.toString();
+              if (/javascript:|#|\/tag\/|\/category\/|\/page\/|utm_/i.test(ustr)) continue;
+              if (!/(news|press|blog|article|stories|\/\d{4}\/)/i.test(ustr) && !m[0].toLowerCase().includes("press")) continue;
+              items.push({ title: text, url: ustr, date: new Date().toISOString() });
+              if (items.length >= limit) break;
+            }
+            return items;
+          }
+
+          const pick  = (s,re)=>((s||"").match(re)||[])[1]||"";
+          const clean = (s)=>s.replace(/<!\[CDATA\[|\]\]>/g,"").replace(/<[^>]+>/g,"").replace(/&[a-z]+;?/gi," ").trim();
+          const safeUrl = (u)=>{ try{ return new URL(u).toString(); } catch{ return ""; } };
+
           NODE
 
       - name: Commit feed.json
