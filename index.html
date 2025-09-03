@@ -1,0 +1,26 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8">
+<title>VPP 看板（GitHub Pages）</title>
+<style>
+  body{font-family:system-ui,Arial;margin:24px;max-width:900px}
+  .item{border-bottom:1px solid #e5e5e5;padding:12px 0}
+  .muted{color:#666;font-size:14px}
+  a{color:#0a58ca;text-decoration:none}
+</style>
+<h1>VPP 外部动态</h1>
+<p class="muted">说明：每小时自动抓取几个新闻源，合并到 <code>feed.json</code>；本页只负责展示。</p>
+<div id="meta" class="muted">正在加载数据…</div>
+<div id="list"></div>
+<script>
+const FEED = "./feed.json"; // 同仓库下的 feed.json
+fetch(FEED, {cache:"no-store"}).then(r=>r.json()).then(data=>{
+  document.getElementById('meta').textContent =
+    `共 ${data.items.length} 条 · 更新时间：`+new Date(data.ts).toLocaleString();
+  const box = document.getElementById('list');
+  data.items.forEach(x=>{
+    const d=document.createElement('div'); d.className='item';
+    d.innerHTML = `<div><b>[${x.bucket||'A'}]</b> <a target="_blank" href="${x.url}">${x.title}</a></div>
+                   <div class="muted">${x.source||''} · ${new Date(x.date).toLocaleString()}</div>`;
+    box.appendChild(d);
+  });
+}).catch(()=>{document.getElementById('meta').textContent='还没有 feed.json，稍等工作流跑完或手动触发一次。';});
+</script>
