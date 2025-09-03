@@ -1,31 +1,27 @@
 name: VPP Feed
+
 on:
+  workflow_dispatch:      # 手动触发
   schedule:
-    - cron: "0 * * * *"   # 每小时自动运行
-  workflow_dispatch:      # 允许在页面上手动触发
+    - cron: "0 * * * *"   # 每小时一次
+
+permissions:
+  contents: write         # 允许提交 feed.json
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18
-
-      - name: Install deps
-        run: npm init -y && npm i node-fetch@3
-
-      - name: Fetch & build feed.json
+      - name: Build feed.json (Node18, no deps)
+        shell: bash
         run: |
           node - <<'NODE'
-          import fetch from 'node-fetch';
-
-          // 你可以先用这 3 个源跑通，再逐步加：
+          // Node 18 自带 fetch；这里无需任何 npm 依赖
           const SOURCES = [
             {name:"CanalEnergia", url:"https://www.canalenergia.com.br/feed/", bucket:"C"},
-            {name:"epbr", url:"https://epbr.com.br/feed/", bucket:"C"},
+            {name:"epbr",          url:"https://epbr.com.br/feed/",            bucket:"C"},
             {name:"Energy Storage News", url:"https://www.energy-storage.news/feed/", bucket:"A"},
           ];
 
@@ -42,29 +38,31 @@ jobs:
             return out;
           }
 
-          const cutoff = Date.now() - 30*24*3600*1000; // 最近30天
-          let items = [];
-          for(const s of SOURCES){
-            try{
-              const r = await fetch(s.url, {headers:{'user-agent':'VPPBot/1.0'}});
-              const xml = await r.text();
-              const arr = parseRSS(xml).map(it => ({...it, source:s.name, bucket:s.bucket}));
-              items = items.concat(arr);
-            }catch(e){ /* 某源失败就跳过 */ }
-          }
-          // 去重 + 过滤 + 排序
-          const seen = new Set();
-          items = items.filter(x=>{
-            const k=(x.url||'').split('#')[0]; if(!k||seen.has(k)) return false; seen.add(k); return true;
-          }).filter(x=> Date.parse(x.date||'') >= cutoff)
-            .sort((a,b)=> Date.parse(b.date) - Date.parse(a.date))
-            .reverse()
-            .slice(0,800);
+          const cutoff = Date.now() - 30*24*3600*1000; // 30 天
+          async function main(){
+            let items = [];
+            for(const s of SOURCES){
+              try{
+                const r = await fetch(s.url, {headers:{'user-agent':'VPPBot/1.0'}});
+                const xml = await r.text();
+                const arr = parseRSS(xml).map(it => ({...it, source:s.name, bucket:s.bucket}));
+                items = items.concat(arr);
+              }catch(e){ console.log('fail:', s.name, e.message); }
+            }
+            // 去重 + 过滤 + 排序
+            const seen = new Set();
+            items = items.filter(x=>{
+              const k=(x.url||'').split('#')[0]; if(!k||seen.has(k)) return false; seen.add(k); return true;
+            }).filter(x=> Date.parse(x.date||'') >= cutoff)
+              .sort((a,b)=> Date.parse(b.date)-Date.parse(a.date))
+              .reverse()
+              .slice(0,800);
 
-          // 写入 feed.json
-          const fs = await import('fs');
-          fs.writeFileSync('feed.json', JSON.stringify({ ts:Date.now(), items }, null, 2));
-          console.log('items:', items.length);
+            const fs = await import('fs/promises');
+            await fs.writeFile('feed.json', JSON.stringify({ ts:Date.now(), items }, null, 2));
+            console.log('items:', items.length);
+          }
+          main();
           NODE
 
       - name: Commit feed.json
