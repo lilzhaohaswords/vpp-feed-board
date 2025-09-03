@@ -1,6 +1,13 @@
 {
-  "ts": 1756910295156,
+  "ts": 1756913624347,
   "items": [
+    {
+      "title": "Michigan utilities’ US$800 million case over ‘defective’ pumped hydro upgrade goes to trial",
+      "url": "https://www.energy-storage.news/michigan-utilities-us800-million-case-over-defective-pumped-hydro-upgrade-goes-to-trial/",
+      "date": "2025-09-03T15:08:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Fire at Arevon Energy’s California solar-plus-storage facility",
       "url": "https://www.energy-storage.news/fire-at-arevon-energys-california-solar-plus-storage-facility/",
@@ -516,13 +523,6 @@
       "title": "Threshold projects scrapped, higher PPA prices, FEOC uncertainty: Life as a US BESS developer-operator post-OBBB",
       "url": "https://www.energy-storage.news/threshold-projects-scrapped-higher-ppa-prices-feoc-uncertainty-life-us-developer-operator-post-tax-reconciliation-bill-obbb/",
       "date": "2025-08-21T12:23:05.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "North America energy storage acquisitions: FlexGen acquires Powin, Glencore acquires Li-Cycle",
-      "url": "https://www.energy-storage.news/north-america-energy-storage-acquisitions-flexgen-acquires-powin-glencore-acquires-li-cycle/",
-      "date": "2025-08-21T12:15:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
