@@ -1,6 +1,48 @@
 {
-  "ts": 1756897256510,
+  "ts": 1756905521920,
   "items": [
+    {
+      "title": "Fire at Arevon Energy’s California solar-plus-storage facility",
+      "url": "https://www.energy-storage.news/fire-at-arevon-energys-california-solar-plus-storage-facility/",
+      "date": "2025-09-03T13:10:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Coal India seeks EPC bids for 3 GW of grid-connected solar",
+      "url": "https://www.pv-magazine.com/2025/09/03/coal-india-seeks-epc-bids-for-3-gw-of-grid-connected-solar/",
+      "date": "2025-09-03T13:00:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Finnish glass maker offers PV systems integrated into glass balcony parapets",
+      "url": "https://www.pv-magazine.com/2025/09/03/finnish-glass-maker-offers-pv-systems-integrated-into-glass-balcony-parapets/",
+      "date": "2025-09-03T12:00:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "World’s largest solar park adds 1 GW",
+      "url": "https://www.pv-magazine.com/2025/09/03/worlds-largest-solar-park-adds-1-gw-of-solar/",
+      "date": "2025-09-03T11:24:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Freen launches scalable sodium-ion battery storage",
+      "url": "https://www.pv-magazine.com/2025/09/03/freen-launches-scalable-sodium-ion-battery-storage/",
+      "date": "2025-09-03T11:16:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bangladesh scraps 5.68 GW of solar",
+      "url": "https://www.pv-magazine.com/2025/09/03/bangladesh-scraps-5-68-gw-of-pv-projects/",
+      "date": "2025-09-03T11:00:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Tips from an EPC to navigate complex BESS codes, constructability and safety, Pt. 2",
       "url": "https://www.energy-storage.news/tips-from-an-epc-to-navigate-complex-bess-codes-constructability-and-safety-pt-2/",
@@ -37,7 +79,7 @@
       "bucket": "A"
     },
     {
-      "title": "Holosolis acquires TOPCon patent portfolio from Trina Solar",
+      "title": "Holosolis signs TOPCon patent licensing agreement with Trina Solar",
       "url": "https://www.pv-magazine.com/2025/09/03/holosolis-acquires-topcon-patent-portfolio-from-trina-solar/",
       "date": "2025-09-03T08:16:52.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -205,34 +247,6 @@
       "bucket": "A"
     },
     {
-      "title": "All-perovskite PV-powered battery for portable electronics",
-      "url": "https://www.pv-magazine.com/2025/09/02/all-perovskite-pv-powered-battery-for-portable-electronics/",
-      "date": "2025-09-02T07:58:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How to measure solar cell vibrations in vehicle-integrated photovoltaics",
-      "url": "https://www.pv-magazine.com/2025/09/02/how-to-measure-solar-cell-vibrations-in-vehicle-integrated-photovoltaics/",
-      "date": "2025-09-02T07:43:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia rooftop solar installs fall to 206 MW in August",
-      "url": "https://www.pv-magazine.com/2025/09/02/australia-rooftop-solar-installs-fall-to-206-mw-in-august/",
-      "date": "2025-09-02T07:30:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Euronergy launches new lightweight PV module series",
-      "url": "https://www.pv-magazine.com/2025/09/02/euronergy-launches-new-lightweight-pv-module-series/",
-      "date": "2025-09-02T06:45:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Grid-forming battery storage: ‘Standby consumption will be higher’ says Australia&#8217;s AGL",
       "url": "https://www.energy-storage.news/grid-forming-battery-storage-standby-consumption-will-be-higher-says-australias-agl/",
       "date": "2025-09-02T04:39:02.000Z",
@@ -244,13 +258,6 @@
       "url": "https://www.energy-storage.news/securing-the-future-of-energy-storage-navigating-the-cybersecurity-landscape/",
       "date": "2025-09-02T04:28:56.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany battery storage grid-connection requests exceed 500 GW",
-      "url": "https://www.pv-magazine.com/2025/09/02/germany-battery-storage-grid-connection-requests-exceed-500-gw/",
-      "date": "2025-09-02T03:33:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "North America energy storage acquisitions: FlexGen acquires Powin, Glencore acquires Li-Cycle",
       "url": "https://www.energy-storage.news/north-america-energy-storage-acquisitions-flexgen-acquires-powin-glencore-acquires-li-cycle/",
       "date": "2025-08-21T12:15:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ultra-low cost battery storage launch provokes price war discussion at Shanghai trade show",
-      "url": "https://www.energy-storage.news/ultra-low-cost-battery-storage-launch-provokes-price-war-discussion-at-shanghai-trade-show/",
-      "date": "2025-08-21T09:55:46.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
