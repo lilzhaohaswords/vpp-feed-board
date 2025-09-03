@@ -1,4 +1,530 @@
 {
-  "ts": 1756888512766,
-  "items": []
+  "ts": 1756889640698,
+  "items": [
+    {
+      "title": "Chinese manufacturer plans solar glass factory in Algeria",
+      "url": "https://www.pv-magazine.com/2025/09/03/chinese-manufacturer-plans-solar-glass-factory-in-algeria/",
+      "date": "2025-09-03T08:20:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Holosolis acquires TOPCon patent portfolio from Trina Solar",
+      "url": "https://www.pv-magazine.com/2025/09/03/holosolis-acquires-topcon-patent-portfolio-from-trina-solar/",
+      "date": "2025-09-03T08:16:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Finetuning 2D Dion-Jacobson perovskites for photovoltaic applications",
+      "url": "https://www.pv-magazine.com/2025/09/03/finetuning-2d-dion-jacobson-perovskites-for-photovoltaic-applications/",
+      "date": "2025-09-03T07:51:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Central-West Orana renewable zone draws community backlash in Australia",
+      "url": "https://www.pv-magazine.com/2025/09/03/central-west-orana-renewable-zone-draws-community-backlash-in-australia/",
+      "date": "2025-09-03T07:30:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Huasun achieves 34.02% efficiency for perovskite-heterojunction solar cell",
+      "url": "https://www.pv-magazine.com/2025/09/03/huasun-achieves-34-02-efficiency-for-perovskite-heterojunction-solar-cell/",
+      "date": "2025-09-03T07:27:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK BESS operators complete 427MW of grid-scale capacity in August",
+      "url": "https://www.energy-storage.news/uk-bess-operators-complete-427mw-of-grid-scale-capacity-in-august/",
+      "date": "2025-09-03T07:09:39.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New deep learning tech for PV inverter fault diagnosis",
+      "url": "https://www.pv-magazine.com/2025/09/03/new-deep-learning-tech-for-pv-inverter-fault-diagnosis/",
+      "date": "2025-09-03T07:03:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Americans back solar tax credits as civic duty, carbon pricing tool",
+      "url": "https://www.pv-magazine.com/2025/09/03/americans-back-solar-tax-credits-as-civic-duty-carbon-pricing-tool/",
+      "date": "2025-09-03T06:45:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Navigating One Big Beautiful Bill and tariffs in U.S. solar PV and storage",
+      "url": "https://www.pv-magazine.com/2025/09/03/navigating-one-big-beautiful-bill-and-tariffs-in-u-s-solar-pv-and-storage/",
+      "date": "2025-09-03T06:02:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "kWh Analytics launches excess natural catastrophe insurance for solar projects",
+      "url": "https://www.pv-magazine.com/2025/09/03/kwh-analytics-launches-excess-natural-catastrophe-insurance-for-solar-projects/",
+      "date": "2025-09-03T05:57:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "NREL releases energy procurement navigation tool",
+      "url": "https://www.pv-magazine.com/2025/09/03/nrel-releases-energy-procurement-navigation-tool/",
+      "date": "2025-09-03T05:53:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "910MWh of BESS from Quinbrook, Akaysha Energy nears commissioning in Queensland, Australia",
+      "url": "https://www.energy-storage.news/910mwh-of-bess-from-quinbrook-akaysha-energy-nears-commissioning-in-queensland-australia/",
+      "date": "2025-09-03T02:35:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Talon PV, Fraunhofer ISE set up pilot TOPCon solar cell production in Germany",
+      "url": "https://www.pv-magazine.com/2025/09/02/talon-pv-fraunhofer-ise-set-up-pilot-topcon-solar-cell-production-in-germany/",
+      "date": "2025-09-02T15:55:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India rooftop solar installs hit 2.8 GW in H1, up 155% year on year",
+      "url": "https://www.pv-magazine.com/2025/09/02/india-rooftop-solar-installs-hit-2-8-gw-in-h1-up-155-year-on-year/",
+      "date": "2025-09-02T15:40:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China energy storage project pipeline grows by 140 GWh in July",
+      "url": "https://www.pv-magazine.com/2025/09/02/china-adds-1556-new-energy-storage-projects-in-july-with-140-gwh-capacity/",
+      "date": "2025-09-02T14:06:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How PAE Engineers is incorporating microgrids into sustainable building designs",
+      "url": "https://www.energy-storage.news/how-pae-engineers-is-incorporating-microgrids-into-sustainable-building-designs/",
+      "date": "2025-09-02T12:08:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "UK study finds space-based solar could supply 80% of Europe’s renewable energy needs",
+      "url": "https://www.pv-magazine.com/2025/09/02/space-based-solar-could-offset-up-to-80-percent-of-wind-and-solar-and-cut-battery-usage-by-more-than-70-percent-kings-college-london-study/",
+      "date": "2025-09-02T12:00:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sungrow debuts 2.5 kW microinverter",
+      "url": "https://www.pv-magazine.com/2025/09/02/sungrow-debuts-2-5-kw-microinverter/",
+      "date": "2025-09-02T11:29:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Maryland county officials deny rezoning request for East Point Energy&#8217;s 600MWh BESS project",
+      "url": "https://www.energy-storage.news/maryland-county-officials-deny-rezoning-request-for-east-point-energys-600mwh-bess-project/",
+      "date": "2025-09-02T11:03:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "LG and Octopus Energy to offer integrated heat pump solution in Europe",
+      "url": "https://www.pv-magazine.com/2025/09/02/lg-and-octopus-energy-to-offer-integrated-heat-pump-solution-in-europe/",
+      "date": "2025-09-02T11:00:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Argentina awards 667 MW in inaugural battery storage tender",
+      "url": "https://www.pv-magazine.com/2025/09/02/argentina-awards-667-mw-in-inaugural-battery-storage-tender/",
+      "date": "2025-09-02T09:34:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Azerbaijan, Chinese PV firm plan export-focused solar factory in free zone",
+      "url": "https://www.pv-magazine.com/2025/09/02/azerbaijan-chinese-pv-firm-plan-export-focused-solar-plant-in-free-zone/",
+      "date": "2025-09-02T09:30:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BESS codes, constructability and safety require technical, regulatory insight: 10 tips from an EPC",
+      "url": "https://www.energy-storage.news/bess-codes-constructability-and-safety-require-technical-regulatory-insight-10-tips-from-an-epc/",
+      "date": "2025-09-02T09:19:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "HEIT sale &#8216;proved us right&#8217; about private capital and BESS, Harmony says",
+      "url": "https://www.energy-storage.news/heit-sale-proved-us-right-about-private-capital-and-bess-harmony-says/",
+      "date": "2025-09-02T09:13:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Vertically integrated cell-BESS suppliers lose market share as competition increases",
+      "url": "https://www.energy-storage.news/vertically-integrated-cell-bess-suppliers-lose-market-share-as-competition-increases/",
+      "date": "2025-09-02T08:13:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "All-perovskite PV-powered battery for portable electronics",
+      "url": "https://www.pv-magazine.com/2025/09/02/all-perovskite-pv-powered-battery-for-portable-electronics/",
+      "date": "2025-09-02T07:58:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How to measure solar cell vibrations in vehicle-integrated photovoltaics",
+      "url": "https://www.pv-magazine.com/2025/09/02/how-to-measure-solar-cell-vibrations-in-vehicle-integrated-photovoltaics/",
+      "date": "2025-09-02T07:43:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia rooftop solar installs fall to 206 MW in August",
+      "url": "https://www.pv-magazine.com/2025/09/02/australia-rooftop-solar-installs-fall-to-206-mw-in-august/",
+      "date": "2025-09-02T07:30:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Euronergy launches new lightweight PV module series",
+      "url": "https://www.pv-magazine.com/2025/09/02/euronergy-launches-new-lightweight-pv-module-series/",
+      "date": "2025-09-02T06:45:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Grid-forming battery storage: ‘Standby consumption will be higher’ says Australia&#8217;s AGL",
+      "url": "https://www.energy-storage.news/grid-forming-battery-storage-standby-consumption-will-be-higher-says-australias-agl/",
+      "date": "2025-09-02T04:39:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Securing the future of energy storage: Navigating the cybersecurity landscape",
+      "url": "https://www.energy-storage.news/securing-the-future-of-energy-storage-navigating-the-cybersecurity-landscape/",
+      "date": "2025-09-02T04:28:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany battery storage grid-connection requests exceed 500 GW",
+      "url": "https://www.pv-magazine.com/2025/09/02/germany-battery-storage-grid-connection-requests-exceed-500-gw/",
+      "date": "2025-09-02T03:33:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Building a new solar industry segment",
+      "url": "https://www.pv-magazine.com/2025/09/01/building-a-new-solar-industry-segment/",
+      "date": "2025-09-01T15:55:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy issues special procedures for PV tenders up to 1 MW with &#8216;non-Chinese&#8217; components",
+      "url": "https://www.pv-magazine.com/2025/09/01/italy-issues-special-procedures-for-pv-tenders-up-to-1-mw-with-non-chinese-components/",
+      "date": "2025-09-01T15:45:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese battery manufacturer Hithium ships first units from Texas BESS assembly plant",
+      "url": "https://www.energy-storage.news/chinese-battery-manufacturer-hithium-ships-first-units-from-texas-bess-assembly-plant/",
+      "date": "2025-09-01T14:58:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Multinational consortium agrees to invest US$220 million in solar PV, BESS factory in Egypt",
+      "url": "https://www.energy-storage.news/multinational-consortium-agrees-to-invest-us220-million-in-solar-pv-bess-factory-in-egypt/",
+      "date": "2025-09-01T09:30:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "India&#8217;s Sunsure signs 500MWh fixed tariff BESS contract to supply Uttar Pradesh during peaks",
+      "url": "https://www.energy-storage.news/indias-sunsure-signs-500mwh-fixed-tariff-bess-contract-to-supply-uttar-pradesh-during-peaks/",
+      "date": "2025-09-01T07:54:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Hitachi Energy acquires Powin’s remaining stake in power conversion system maker Eks Energy",
+      "url": "https://www.energy-storage.news/hitachi-energy-acquires-powin-stake-eks-energy/",
+      "date": "2025-08-29T07:44:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Capacity Investment Scheme Tenders open, targeting 2.4GWh of energy storage in Western Australia",
+      "url": "https://www.energy-storage.news/capacity-investment-scheme-tenders-open-targeting-2-4gwh-of-energy-storage-in-western-australia/",
+      "date": "2025-08-29T05:35:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Potentia’s 900MWh BESS site the first to be approved under South Australia&#8217;s HRE Act",
+      "url": "https://www.energy-storage.news/potentias-900mwh-bess-site-the-first-to-be-approved-under-south-australias-hre-act/",
+      "date": "2025-08-29T04:01:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Neoen switches on 2.2GWh BESS in Western Australia",
+      "url": "https://www.energy-storage.news/neoen-switches-on-2-2gwh-bess-in-western-australia/",
+      "date": "2025-08-29T03:59:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "CAISO monitoring for ‘detrimental market behaviour’ in BESS Bid Cost Recovery process",
+      "url": "https://www.energy-storage.news/caiso-monitoring-for-detrimental-market-behaviour-in-bess-bid-cost-recovery-process/",
+      "date": "2025-08-28T13:12:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "PG&#038;E delays recommissioning of California BESS adjacent to fire-hit Moss Landing project to next year",
+      "url": "https://www.energy-storage.news/pge-delays-recommissioning-of-california-bess-adjacent-to-fire-hit-moss-landing-project-to-next-year/",
+      "date": "2025-08-28T12:39:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "California and Texas ‘remain the most stable profiles’ for battery storage asset owners",
+      "url": "https://www.energy-storage.news/california-and-texas-remain-the-most-stable-profiles-for-battery-storage-asset-owners/",
+      "date": "2025-08-28T10:42:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "MEAG and SMA Altenso partner on 354MWh Germany BESS with &#8216;next-gen&#8217; inverters",
+      "url": "https://www.energy-storage.news/meag-and-sma-altenso-partner-on-354mwh-germany-bess-with-next-gen-inverters/",
+      "date": "2025-08-28T09:29:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EC-funded study progresses battery storage hybridisation of pumped hydro plant in Slovakia",
+      "url": "https://www.energy-storage.news/ec-funded-study-progresses-battery-storage-hybridisation-of-pumped-hydro-plant-in-slovakia/",
+      "date": "2025-08-28T06:59:11.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Wood Mackenzie: ‘Australia is a leading country for grid-forming BESS’",
+      "url": "https://www.energy-storage.news/wood-mackenzie-australia-is-a-leading-country-for-grid-forming-bess/",
+      "date": "2025-08-28T05:32:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "TagEnergy acquires ACE Power, adding 6GW of energy storage and renewables in Australia",
+      "url": "https://www.energy-storage.news/tagenergy-acquires-ace-power-adding-6gw-of-energy-storage-and-renewables-in-australia/",
+      "date": "2025-08-28T03:18:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Harmony Energy CEO on lessons learned from HEIT, strategy going forward and European expansion",
+      "url": "https://www.energy-storage.news/harmony-energy-ceo-on-lessons-learned-from-heit-strategy-going-forward-and-european-expansion/",
+      "date": "2025-08-27T14:51:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "California’s Orange County is latest jurisdiction to introduce new BESS zoning standards",
+      "url": "https://www.energy-storage.news/californias-orange-county-is-latest-jurisdiction-to-introduce-new-bess-zoning-standards/",
+      "date": "2025-08-27T14:48:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Pacifico, Zenith Volts and Fermi America propose gigawatt-scale energy solutions with BESS to feed US data centres",
+      "url": "https://www.energy-storage.news/pacifico-zenith-volts-and-fermi-america-propose-gigawatt-scale-energy-solutions-with-bess-to-feed-us-data-centres/",
+      "date": "2025-08-27T13:07:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Lithuania&#8217;s capex support scheme to help fund 4,000MWh of energy storage",
+      "url": "https://www.energy-storage.news/lithuania-capex-support-scheme-help-fund-4000mwh-of-bess-battery-storage/",
+      "date": "2025-08-27T09:48:18.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Sungrow plans Hong Kong listing; ESS revenues overtake PV inverters",
+      "url": "https://www.energy-storage.news/sungrow-plans-hong-kong-listing-ess-revenues-overtake-pv-inverters/",
+      "date": "2025-08-27T09:46:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Hithium deploys 1175Ah ‘long-duration’ cells at 4GWh BESS projects in Saudi Arabia",
+      "url": "https://www.energy-storage.news/hithium-deploys-1175ah-long-duration-cells-at-4gwh-bess-projects-in-saudi-arabia/",
+      "date": "2025-08-27T07:35:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘BESS ownership typically changes hands 2-4 times during a 40-year lifecycle,’ says Pottinger",
+      "url": "https://www.energy-storage.news/bess-ownership-typically-changes-hands-2-4-times-during-a-40-year-lifecycle-says-pottinger/",
+      "date": "2025-08-27T04:46:09.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Neoen and NHOA partner on BESS with capacity market contract in North Italy",
+      "url": "https://www.energy-storage.news/neoen-and-nhoa-partner-on-bess-with-capacity-market-contract-in-north-italy/",
+      "date": "2025-08-26T14:23:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New Jersey Governor signs laws to increase energy storage and community solar installations",
+      "url": "https://www.energy-storage.news/new-jersey-governor-signs-laws-to-increase-energy-storage-and-community-solar-installations/",
+      "date": "2025-08-26T13:08:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Megawatts are not enough anymore for leading US BESS markets",
+      "url": "https://www.energy-storage.news/megawatts-are-not-enough-anymore-for-leading-us-bess-markets/",
+      "date": "2025-08-26T13:02:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New EU end-of-life battery regulations create legal and commercial complexities for suppliers",
+      "url": "https://www.energy-storage.news/new-eu-end-of-life-battery-regulations-create-legal-and-commercial-complexities-for-suppliers/",
+      "date": "2025-08-26T08:47:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Gigawatt-hour-scale ‘Energy Parks’ BESS developer Pacific Green raises AU$77 million for Australia projects",
+      "url": "https://www.energy-storage.news/gigawatt-hour-scale-energy-parks-bess-developer-pacific-green-raises-au77-million-for-australia-projects/",
+      "date": "2025-08-26T06:14:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia: Capacity Investment Scheme results for 16GWh tender expected &#8216;in the coming weeks&#8217;",
+      "url": "https://www.energy-storage.news/australia-capacity-investment-scheme-results-for-16gwh-tender-expected-in-the-coming-weeks/",
+      "date": "2025-08-26T05:02:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Fullmark Energy’s 20MW/40MWh California BESS reaches commercial operation",
+      "url": "https://www.energy-storage.news/fullmark-energys-20mw-40mwh-california-bess-reaches-commercial-operation/",
+      "date": "2025-08-25T14:23:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "NextEra Energy Resources receives approval for 200MW Utah BESS",
+      "url": "https://www.energy-storage.news/nextera-energy-resources-receives-approval-for-200mw-utah-bess/",
+      "date": "2025-08-25T13:06:50.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New Mexico utility picks batteries over fossil fuels, ordering BESS retrofits for solar PV plants",
+      "url": "https://www.energy-storage.news/new-mexico-utility-picks-batteries-over-fossil-fuels-ordering-bess-retrofits-for-solar-pv-plants/",
+      "date": "2025-08-25T12:44:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New community batteries launch in Queensland and Victoria, Australia",
+      "url": "https://www.energy-storage.news/new-community-batteries-launch-in-queensland-and-victoria-australia/",
+      "date": "2025-08-25T02:46:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "AEMO: BESS secures the highest reliability amongst clean energy technologies in Australia",
+      "url": "https://www.energy-storage.news/aemo-bess-secures-the-highest-reliability-amongst-clean-energy-technologies-in-australia/",
+      "date": "2025-08-25T02:42:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US ROUNDUP: Energy Vault, Richardson and Fluence make strategic supply chain moves",
+      "url": "https://www.energy-storage.news/us-roundup-energy-vault-richardson-and-fluence-make-strategic-supply-chain-moves/",
+      "date": "2025-08-22T11:03:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "China drives global BESS deployments in July, technology nears pumped hydro GW capacity",
+      "url": "https://www.energy-storage.news/china-drives-global-bess-deployments-in-july-technology-nears-pumped-hydro-gw-capacity/",
+      "date": "2025-08-22T10:35:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Iberdrola hires Ingeteam for 100MW/200MWh BESS hybridisation of PV plants in Spain",
+      "url": "https://www.energy-storage.news/iberdrola-hires-ingeteam-for-100mw-200mwh-bess-hybridisation-of-pv-plants-in-spain/",
+      "date": "2025-08-22T08:14:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "State-owned utility commissions five new community batteries in Western Australia",
+      "url": "https://www.energy-storage.news/state-owned-utility-commissions-five-new-community-batteries-in-western-australia/",
+      "date": "2025-08-22T02:43:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Threshold projects scrapped, higher PPA prices, FEOC uncertainty: Life as a US BESS developer-operator post-OBBB",
+      "url": "https://www.energy-storage.news/threshold-projects-scrapped-higher-ppa-prices-feoc-uncertainty-life-us-developer-operator-post-tax-reconciliation-bill-obbb/",
+      "date": "2025-08-21T12:23:05.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "North America energy storage acquisitions: FlexGen acquires Powin, Glencore acquires Li-Cycle",
+      "url": "https://www.energy-storage.news/north-america-energy-storage-acquisitions-flexgen-acquires-powin-glencore-acquires-li-cycle/",
+      "date": "2025-08-21T12:15:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ultra-low cost battery storage launch provokes price war discussion at Shanghai trade show",
+      "url": "https://www.energy-storage.news/ultra-low-cost-battery-storage-launch-provokes-price-war-discussion-at-shanghai-trade-show/",
+      "date": "2025-08-21T09:55:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Statera brings online UK&#8217;s biggest battery storage project to date",
+      "url": "https://www.energy-storage.news/statera-brings-online-uks-biggest-battery-storage-project-to-date/",
+      "date": "2025-08-21T09:27:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "ACE Power finalises the sale of ‘ready-to-build’ 206MWh grid-forming BESS in Australia",
+      "url": "https://www.energy-storage.news/ace-power-finalises-the-sale-of-ready-to-build-206mwh-grid-forming-bess-in-australia/",
+      "date": "2025-08-21T05:38:39.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    }
+  ]
 }
