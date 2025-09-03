@@ -1,6 +1,20 @@
 {
-  "ts": 1756891926949,
+  "ts": 1756895779955,
   "items": [
+    {
+      "title": "Malaysia approves 2 GW of large-scale solar",
+      "url": "https://www.pv-magazine.com/2025/09/03/malaysia-approves-2-gw-of-large-scale-solar/",
+      "date": "2025-09-03T09:59:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chile: Big renewables-plus-storage project progress from Grenergy, AES and Verano",
+      "url": "https://www.energy-storage.news/chile-big-renewables-plus-storage-project-progress-from-grenergy-aes-and-verano/",
+      "date": "2025-09-03T09:58:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sungrow’s Brazilian business heating up for batteries as solar demand cools",
       "url": "https://www.pv-magazine.com/2025/09/03/sungrows-brazilian-business-heating-up-for-batteries-as-solar-demand-cools/",
@@ -229,13 +243,6 @@
       "title": "Germany battery storage grid-connection requests exceed 500 GW",
       "url": "https://www.pv-magazine.com/2025/09/02/germany-battery-storage-grid-connection-requests-exceed-500-gw/",
       "date": "2025-09-02T03:33:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Building a new solar industry segment",
-      "url": "https://www.pv-magazine.com/2025/09/01/building-a-new-solar-industry-segment/",
-      "date": "2025-09-01T15:55:34.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Statera brings online UK&#8217;s biggest battery storage project to date",
       "url": "https://www.energy-storage.news/statera-brings-online-uks-biggest-battery-storage-project-to-date/",
       "date": "2025-08-21T09:27:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ACE Power finalises the sale of ‘ready-to-build’ 206MWh grid-forming BESS in Australia",
-      "url": "https://www.energy-storage.news/ace-power-finalises-the-sale-of-ready-to-build-206mwh-grid-forming-bess-in-australia/",
-      "date": "2025-08-21T05:38:39.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
