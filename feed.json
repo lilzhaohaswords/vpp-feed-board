@@ -1,6 +1,20 @@
 {
-  "ts": 1756978301472,
+  "ts": 1756982214781,
   "items": [
+    {
+      "title": "Fraunhofer ISE defining test procedure for grid-forming inverters",
+      "url": "https://www.pv-magazine.com/2025/09/04/fraunhofer-ise-defining-test-procedure-for-grid-forming-inverters/",
+      "date": "2025-09-04T10:26:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "pv magazine Homeowner Guide: Understanding the solar installation process",
+      "url": "https://www.pv-magazine.com/2025/09/04/pv-magazine-homeowner-guide-understanding-the-solar-installation-process-2/",
+      "date": "2025-09-04T10:00:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Korean startup developing perovskite-CIGS tandem solar technology for satellites",
       "url": "https://www.pv-magazine.com/2025/09/04/korean-startup-developing-perovskite-cigs-tandem-solar-technology-for-satellites/",
@@ -216,20 +230,6 @@
       "url": "https://www.energy-storage.news/uk-bess-operators-complete-427mw-of-grid-scale-capacity-in-august/",
       "date": "2025-09-03T07:09:39.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New deep learning tech for PV inverter fault diagnosis",
-      "url": "https://www.pv-magazine.com/2025/09/03/new-deep-learning-tech-for-pv-inverter-fault-diagnosis/",
-      "date": "2025-09-03T07:03:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Americans back solar tax credits as civic duty, carbon pricing tool",
-      "url": "https://www.pv-magazine.com/2025/09/03/americans-back-solar-tax-credits-as-civic-duty-carbon-pricing-tool/",
-      "date": "2025-09-03T06:45:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
