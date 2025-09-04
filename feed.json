@@ -1,6 +1,20 @@
 {
-  "ts": 1756970853816,
+  "ts": 1756975320265,
   "items": [
+    {
+      "title": "Websol to expand solar cell, module capacity by 4 GW",
+      "url": "https://www.pv-magazine.com/2025/09/04/websol-to-expand-solar-cell-module-capacity-by-4-gw/",
+      "date": "2025-09-04T08:15:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia opens funding round for solar supply chain",
+      "url": "https://www.pv-magazine.com/2025/09/04/australia-opens-funding-round-for-solar-supply-chain/",
+      "date": "2025-09-04T07:30:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "South African government&#8217;s 11GWh BESS procurement in charts",
       "url": "https://www.energy-storage.news/south-africa-governments-11gwh-bess-procurement-visualised/",
@@ -223,20 +237,6 @@
       "url": "https://www.energy-storage.news/910mwh-of-bess-from-quinbrook-akaysha-energy-nears-commissioning-in-queensland-australia/",
       "date": "2025-09-03T02:35:48.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Talon PV, Fraunhofer ISE set up pilot TOPCon solar cell production in Germany",
-      "url": "https://www.pv-magazine.com/2025/09/02/talon-pv-fraunhofer-ise-set-up-pilot-topcon-solar-cell-production-in-germany/",
-      "date": "2025-09-02T15:55:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India rooftop solar installs hit 2.8 GW in H1, up 155% year on year",
-      "url": "https://www.pv-magazine.com/2025/09/02/india-rooftop-solar-installs-hit-2-8-gw-in-h1-up-155-year-on-year/",
-      "date": "2025-09-02T15:40:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
