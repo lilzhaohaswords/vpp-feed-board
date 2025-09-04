@@ -1,6 +1,20 @@
 {
-  "ts": 1756996728870,
+  "ts": 1756999989065,
   "items": [
+    {
+      "title": "Argentina awards 667MW in first energy storage tender",
+      "url": "https://www.energy-storage.news/argentina-awards-667mw-in-first-energy-storage-tender/",
+      "date": "2025-09-04T15:13:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Washington governor delays approval of hybrid BESS proposal from Cypress Creek Renewables",
+      "url": "https://www.energy-storage.news/washington-governor-delays-approval-of-hybrid-bess-proposal-from-cypress-creek-renewables/",
+      "date": "2025-09-04T14:58:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Canadian Solar’s e-STORAGE launches 8.36 MWh modular battery",
       "url": "https://www.pv-magazine.com/2025/09/04/canadian-solars-e-storage-launches-8-36-mwh-modular-battery/",
@@ -509,20 +523,6 @@
       "title": "New Mexico utility picks batteries over fossil fuels, ordering BESS retrofits for solar PV plants",
       "url": "https://www.energy-storage.news/new-mexico-utility-picks-batteries-over-fossil-fuels-ordering-bess-retrofits-for-solar-pv-plants/",
       "date": "2025-08-25T12:44:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New community batteries launch in Queensland and Victoria, Australia",
-      "url": "https://www.energy-storage.news/new-community-batteries-launch-in-queensland-and-victoria-australia/",
-      "date": "2025-08-25T02:46:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AEMO: BESS secures the highest reliability amongst clean energy technologies in Australia",
-      "url": "https://www.energy-storage.news/aemo-bess-secures-the-highest-reliability-amongst-clean-energy-technologies-in-australia/",
-      "date": "2025-08-25T02:42:38.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
