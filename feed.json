@@ -1,6 +1,48 @@
 {
-  "ts": 1756963920053,
+  "ts": 1756968492029,
   "items": [
+    {
+      "title": "South African government&#8217;s 11GWh BESS procurement in charts",
+      "url": "https://www.energy-storage.news/south-africa-governments-11gwh-bess-procurement-visualised/",
+      "date": "2025-09-04T06:45:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US residential solar hits record-low $29,000 before incentives",
+      "url": "https://www.pv-magazine.com/2025/09/04/us-residential-solar-hits-record-low-29000-before-incentives/",
+      "date": "2025-09-04T06:45:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Weathered PV backsheets have 46% faster flame spread than unweathered counterparts",
+      "url": "https://www.pv-magazine.com/2025/09/04/weathered-pv-backsheets-have-46-faster-flame-spread-than-unweathered-counterparts/",
+      "date": "2025-09-04T06:32:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "All back-contact perovskite solar cell designs at a glance",
+      "url": "https://www.pv-magazine.com/2025/09/04/all-back-contact-perovskite-solar-cell-designs-at-a-glance/",
+      "date": "2025-09-04T06:10:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia&#8217;s CEFC commits record AU$3.8 billion to Victoria-Tasmania Marinus Link interconnector",
+      "url": "https://www.energy-storage.news/australias-cefc-commits-record-au3-8-billion-to-victoria-tasmania-marinus-link-interconnector/",
+      "date": "2025-09-04T05:57:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Akaysha Energy bags AU$300 million corporate debt facility for global battery storage expansion",
+      "url": "https://www.energy-storage.news/akaysha-energy-bags-au300-million-corporate-debt-facility-for-global-battery-storage-expansion/",
+      "date": "2025-09-04T05:53:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Türkiye deploys 3.1 GW of solar in H1",
       "url": "https://www.pv-magazine.com/2025/09/04/turkiye-deploys-3-1-gw-of-solar-in-h1/",
@@ -198,31 +240,10 @@
       "bucket": "A"
     },
     {
-      "title": "China energy storage project pipeline grows by 140 GWh in July",
-      "url": "https://www.pv-magazine.com/2025/09/02/china-adds-1556-new-energy-storage-projects-in-july-with-140-gwh-capacity/",
-      "date": "2025-09-02T14:06:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "How PAE Engineers is incorporating microgrids into sustainable building designs",
       "url": "https://www.energy-storage.news/how-pae-engineers-is-incorporating-microgrids-into-sustainable-building-designs/",
       "date": "2025-09-02T12:08:20.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UK study finds space-based solar could supply 80% of Europe’s renewable energy needs",
-      "url": "https://www.pv-magazine.com/2025/09/02/space-based-solar-could-offset-up-to-80-percent-of-wind-and-solar-and-cut-battery-usage-by-more-than-70-percent-kings-college-london-study/",
-      "date": "2025-09-02T12:00:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow debuts 2.5 kW microinverter",
-      "url": "https://www.pv-magazine.com/2025/09/02/sungrow-debuts-2-5-kw-microinverter/",
-      "date": "2025-09-02T11:29:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "China drives global BESS deployments in July, technology nears pumped hydro GW capacity",
       "url": "https://www.energy-storage.news/china-drives-global-bess-deployments-in-july-technology-nears-pumped-hydro-gw-capacity/",
       "date": "2025-08-22T10:35:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Iberdrola hires Ingeteam for 100MW/200MWh BESS hybridisation of PV plants in Spain",
-      "url": "https://www.energy-storage.news/iberdrola-hires-ingeteam-for-100mw-200mwh-bess-hybridisation-of-pv-plants-in-spain/",
-      "date": "2025-08-22T08:14:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "State-owned utility commissions five new community batteries in Western Australia",
-      "url": "https://www.energy-storage.news/state-owned-utility-commissions-five-new-community-batteries-in-western-australia/",
-      "date": "2025-08-22T02:43:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Threshold projects scrapped, higher PPA prices, FEOC uncertainty: Life as a US BESS developer-operator post-OBBB",
-      "url": "https://www.energy-storage.news/threshold-projects-scrapped-higher-ppa-prices-feoc-uncertainty-life-us-developer-operator-post-tax-reconciliation-bill-obbb/",
-      "date": "2025-08-21T12:23:05.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
