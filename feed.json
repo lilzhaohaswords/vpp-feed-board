@@ -1,5 +1,5 @@
 {
-  "ts": 1757078194369,
+  "ts": 1757082851627,
   "items": [
     {
       "title": "&#8216;I’ve learned to let the mission speak louder than the doubt&#8217;",
@@ -34,6 +34,13 @@
       "url": "https://www.pv-magazine.com/2025/09/05/japanese-startup-debuts-silver-colored-bipv-solar-module/",
       "date": "2025-09-05T12:22:22.000Z",
       "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SK On signs 7.2GWh deal to supply US-made LFP batteries to Flatiron Energy Development",
+      "url": "https://www.energy-storage.news/sk-on-signs-7-2gwh-deal-to-supply-us-made-lfp-batteries-to-flatiron-energy-development/",
+      "date": "2025-09-05T11:59:32.000Z",
+      "source": "Energy Storage News",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "New EU end-of-life battery regulations create legal and commercial complexities for suppliers",
       "url": "https://www.energy-storage.news/new-eu-end-of-life-battery-regulations-create-legal-and-commercial-complexities-for-suppliers/",
       "date": "2025-08-26T08:47:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Gigawatt-hour-scale ‘Energy Parks’ BESS developer Pacific Green raises AU$77 million for Australia projects",
-      "url": "https://www.energy-storage.news/gigawatt-hour-scale-energy-parks-bess-developer-pacific-green-raises-au77-million-for-australia-projects/",
-      "date": "2025-08-26T06:14:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
