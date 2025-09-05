@@ -1,6 +1,41 @@
 {
-  "ts": 1757059241791,
+  "ts": 1757064705298,
   "items": [
+    {
+      "title": "Philippines renewable auction awards 9.4 GW, short of 10.6 GW goal",
+      "url": "https://www.pv-magazine.com/2025/09/05/philippines-renewable-auction-awards-9-4-gw-short-of-10-6-gw-goal/",
+      "date": "2025-09-05T09:30:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US policy-driven turbulence ‘changes but doesn’t eliminate the opportunity’ for battery storage",
+      "url": "https://www.energy-storage.news/us-policy-driven-turbulence-changes-but-doesnt-eliminate-the-opportunity-for-battery-storage/",
+      "date": "2025-09-05T09:09:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar production falls in US Midwest, Southeast amid wildfires and hurricanes",
+      "url": "https://www.pv-magazine.com/2025/09/05/solar-production-falls-in-us-midwest-southeast-amid-wildfires-and-hurricanes/",
+      "date": "2025-09-05T08:30:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Nextracker unveils NX PowerMerge trunk eBOS for utility-scale solar",
+      "url": "https://www.pv-magazine.com/2025/09/05/nextracker-unveils-nx-powermerge-trunk-ebos-for-utility-scale-solar/",
+      "date": "2025-09-05T08:17:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Cold climates are no obstacle for battery storage",
+      "url": "https://www.pv-magazine.com/2025/09/05/cold-climates-are-no-obstacle-for-battery-storage/",
+      "date": "2025-09-05T08:15:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "JinkoSolar launches 670 W TOPCon solar module with 24.8% efficiency",
       "url": "https://www.pv-magazine.com/2025/09/05/jinkosolar-launches-670-w-topcon-solar-module-with-24-8-efficiency/",
@@ -212,20 +247,6 @@
       "bucket": "A"
     },
     {
-      "title": "New hail test aims to more accurately measure solar panel resilience",
-      "url": "https://www.pv-magazine.com/2025/09/04/new-hail-test-aims-to-more-accurately-measure-solar-panel-resilience/",
-      "date": "2025-09-04T05:20:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy allocates 1.72 GW in rooftop PV tender for agricultural firms",
-      "url": "https://www.pv-magazine.com/2025/09/03/italy-allocates-1-72-gw-in-rooftop-pv-tender-for-agricultural-firms/",
-      "date": "2025-09-03T15:45:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Michigan utilities’ US$800 million case over ‘defective’ pumped hydro upgrade goes to trial",
       "url": "https://www.energy-storage.news/michigan-utilities-us800-million-case-over-defective-pumped-hydro-upgrade-goes-to-trial/",
       "date": "2025-09-03T15:08:42.000Z",
@@ -237,20 +258,6 @@
       "url": "https://www.energy-storage.news/fire-at-arevon-energys-california-solar-plus-storage-facility/",
       "date": "2025-09-03T13:10:24.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Coal India seeks EPC bids for 3 GW of grid-connected solar",
-      "url": "https://www.pv-magazine.com/2025/09/03/coal-india-seeks-epc-bids-for-3-gw-of-grid-connected-solar/",
-      "date": "2025-09-03T13:00:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Finnish glass maker offers PV systems integrated into glass balcony parapets",
-      "url": "https://www.pv-magazine.com/2025/09/03/finnish-glass-maker-offers-pv-systems-integrated-into-glass-balcony-parapets/",
-      "date": "2025-09-03T12:00:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Australia: Capacity Investment Scheme results for 16GWh tender expected &#8216;in the coming weeks&#8217;",
       "url": "https://www.energy-storage.news/australia-capacity-investment-scheme-results-for-16gwh-tender-expected-in-the-coming-weeks/",
       "date": "2025-08-26T05:02:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fullmark Energy’s 20MW/40MWh California BESS reaches commercial operation",
-      "url": "https://www.energy-storage.news/fullmark-energys-20mw-40mwh-california-bess-reaches-commercial-operation/",
-      "date": "2025-08-25T14:23:33.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
