@@ -1,6 +1,13 @@
 {
-  "ts": 1757054875987,
+  "ts": 1757057303602,
   "items": [
+    {
+      "title": "EU gives 10 GW solar, wind project priority status",
+      "url": "https://www.pv-magazine.com/2025/09/05/eu-gives-10-gw-solar-wind-project-priority-status/",
+      "date": "2025-09-05T06:48:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Sweden’s largest solar plant goes online",
       "url": "https://www.pv-magazine.com/2025/09/05/swedens-largest-solar-plant-goes-online/",
@@ -13,6 +20,13 @@
       "url": "https://www.pv-magazine.com/2025/09/05/us-installs-14-5-gw-of-large-scale-solar-in-h1/",
       "date": "2025-09-05T06:45:40.000Z",
       "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SOC errors in LFP batteries are draining revenue &#8211; here&#8217;s how to fix it",
+      "url": "https://www.energy-storage.news/soc-errors-in-lfp-batteries-are-draining-revenue-heres-how-to-fix-it/",
+      "date": "2025-09-05T05:25:00.000Z",
+      "source": "Energy Storage News",
       "bucket": "A"
     },
     {
@@ -236,13 +250,6 @@
       "title": "Freen launches scalable sodium-ion battery storage",
       "url": "https://www.pv-magazine.com/2025/09/03/freen-launches-scalable-sodium-ion-battery-storage/",
       "date": "2025-09-03T11:16:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bangladesh scraps 5.68 GW of solar",
-      "url": "https://www.pv-magazine.com/2025/09/03/bangladesh-scraps-5-68-gw-of-pv-projects/",
-      "date": "2025-09-03T11:00:58.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Fullmark Energy’s 20MW/40MWh California BESS reaches commercial operation",
       "url": "https://www.energy-storage.news/fullmark-energys-20mw-40mwh-california-bess-reaches-commercial-operation/",
       "date": "2025-08-25T14:23:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NextEra Energy Resources receives approval for 200MW Utah BESS",
-      "url": "https://www.energy-storage.news/nextera-energy-resources-receives-approval-for-200mw-utah-bess/",
-      "date": "2025-08-25T13:06:50.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
