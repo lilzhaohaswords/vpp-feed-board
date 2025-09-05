@@ -1,6 +1,13 @@
 {
-  "ts": 1757028369792,
+  "ts": 1757041557932,
   "items": [
+    {
+      "title": "Fluence deploys first full product ecosystem at Tilt Renewables&#8217; 200MWh BESS in Victoria, Australia",
+      "url": "https://www.energy-storage.news/fluence-deploys-first-full-product-ecosystem-at-tilt-renewables-200mwh-bess-in-victoria-australia/",
+      "date": "2025-09-05T02:04:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Argentina awards 667MW in first energy storage tender",
       "url": "https://www.energy-storage.news/argentina-awards-667mw-in-first-energy-storage-tender/",
@@ -516,13 +523,6 @@
       "title": "NextEra Energy Resources receives approval for 200MW Utah BESS",
       "url": "https://www.energy-storage.news/nextera-energy-resources-receives-approval-for-200mw-utah-bess/",
       "date": "2025-08-25T13:06:50.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New Mexico utility picks batteries over fossil fuels, ordering BESS retrofits for solar PV plants",
-      "url": "https://www.energy-storage.news/new-mexico-utility-picks-batteries-over-fossil-fuels-ordering-bess-retrofits-for-solar-pv-plants/",
-      "date": "2025-08-25T12:44:38.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
