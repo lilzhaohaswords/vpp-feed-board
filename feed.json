@@ -1,6 +1,55 @@
 {
-  "ts": 1757070039555,
+  "ts": 1757078194369,
   "items": [
+    {
+      "title": "&#8216;I’ve learned to let the mission speak louder than the doubt&#8217;",
+      "url": "https://www.pv-magazine.com/2025/09/05/ive-learned-to-let-the-mission-speak-louder-than-the-doubt/",
+      "date": "2025-09-05T13:13:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: Top solar module makers report H1 losses",
+      "url": "https://www.pv-magazine.com/2025/09/05/chinese-pv-industry-brief-top-4-module-manufacturers-post-heavy-losses-in-h1/",
+      "date": "2025-09-05T13:00:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The Cybersecurity gap in solar and how to close it",
+      "url": "https://www.pv-magazine.com/2025/09/05/the-cybersecurity-gap-in-solar-and-how-to-close-it/",
+      "date": "2025-09-05T12:56:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Digital transformation in off-grid solar: A comprehensive roadmap for practitioners",
+      "url": "https://www.pv-magazine.com/2025/09/05/digital-transformation-in-off-grid-solar-a-comprehensive-roadmap-for-practitioners/",
+      "date": "2025-09-05T12:43:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Japanese startup debuts silver-colored BIPV solar module",
+      "url": "https://www.pv-magazine.com/2025/09/05/japanese-startup-debuts-silver-colored-bipv-solar-module/",
+      "date": "2025-09-05T12:22:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Model and maximise C&#038;I battery storage profits with Qcells + Geli",
+      "url": "https://www.energy-storage.news/video-model-and-maximise-ci-battery-storage-profits-with-qcells-geli/",
+      "date": "2025-09-05T11:43:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Longi linked to storage shift with reported stake in systems integrator",
+      "url": "https://www.pv-magazine.com/2025/09/05/longi-linked-to-storage-shift-with-reported-stake-in-systems-integrator/",
+      "date": "2025-09-05T11:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "China wafer prices jump nearly 4%, ending three-week lull",
       "url": "https://www.pv-magazine.com/2025/09/05/china-wafer-prices-jump-nearly-4-ending-three-week-lull/",
@@ -184,52 +233,10 @@
       "bucket": "A"
     },
     {
-      "title": "Korean startup developing perovskite-CIGS tandem solar technology for satellites",
-      "url": "https://www.pv-magazine.com/2025/09/04/korean-startup-developing-perovskite-cigs-tandem-solar-technology-for-satellites/",
-      "date": "2025-09-04T09:11:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chile moves on storage to ‘decarbonize the night’",
-      "url": "https://www.pv-magazine.com/2025/09/04/chile-moves-on-storage-to-decarbonize-the-night/",
-      "date": "2025-09-04T09:00:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How to size PV systems and batteries",
-      "url": "https://www.pv-magazine.com/2025/09/04/how-to-size-pv-systems-and-batteries/",
-      "date": "2025-09-04T08:46:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Websol to expand solar cell, module capacity by 4 GW",
-      "url": "https://www.pv-magazine.com/2025/09/04/websol-to-expand-solar-cell-module-capacity-by-4-gw/",
-      "date": "2025-09-04T08:15:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia opens funding round for solar supply chain",
-      "url": "https://www.pv-magazine.com/2025/09/04/australia-opens-funding-round-for-solar-supply-chain/",
-      "date": "2025-09-04T07:30:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "South African government&#8217;s 11GWh BESS procurement in charts",
       "url": "https://www.energy-storage.news/south-africa-governments-11gwh-bess-procurement-visualised/",
       "date": "2025-09-04T06:45:37.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US residential solar hits record-low $29,000 before incentives",
-      "url": "https://www.pv-magazine.com/2025/09/04/us-residential-solar-hits-record-low-29000-before-incentives/",
-      "date": "2025-09-04T06:45:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Gigawatt-hour-scale ‘Energy Parks’ BESS developer Pacific Green raises AU$77 million for Australia projects",
       "url": "https://www.energy-storage.news/gigawatt-hour-scale-energy-parks-bess-developer-pacific-green-raises-au77-million-for-australia-projects/",
       "date": "2025-08-26T06:14:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: Capacity Investment Scheme results for 16GWh tender expected &#8216;in the coming weeks&#8217;",
-      "url": "https://www.energy-storage.news/australia-capacity-investment-scheme-results-for-16gwh-tender-expected-in-the-coming-weeks/",
-      "date": "2025-08-26T05:02:54.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
