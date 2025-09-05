@@ -1,8 +1,29 @@
 {
-  "ts": 1757064705298,
+  "ts": 1757068722594,
   "items": [
     {
-      "title": "Philippines renewable auction awards 9.4 GW, short of 10.6 GW goal",
+      "title": "China wafer prices jump nearly 4%, ending three-week lull",
+      "url": "https://www.pv-magazine.com/2025/09/05/china-wafer-prices-jump-nearly-4-ending-three-week-lull/",
+      "date": "2025-09-05T10:10:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Self-powered electroluminescence for daylight PV system inspection",
+      "url": "https://www.pv-magazine.com/2025/09/05/self-powered-electroluminescence-for-daylight-pv-system-inspection/",
+      "date": "2025-09-05T09:51:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "KAUST, Franuhofer ISE announce 33.1%-efficient fully texturized perovskite-silicon tandem solar cell",
+      "url": "https://www.pv-magazine.com/2025/09/05/kaust-franuhofer-ise-announce-33-1-efficient-fully-texturized-perovskite-silicon-tandem-solar-cell/",
+      "date": "2025-09-05T09:40:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Philippines renewables auction awards 9.4 GW, short of 10.6 GW goal",
       "url": "https://www.pv-magazine.com/2025/09/05/philippines-renewable-auction-awards-9-4-gw-short-of-10-6-gw-goal/",
       "date": "2025-09-05T09:30:04.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -212,20 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "Weathered PV backsheets have 46% faster flame spread than unweathered counterparts",
-      "url": "https://www.pv-magazine.com/2025/09/04/weathered-pv-backsheets-have-46-faster-flame-spread-than-unweathered-counterparts/",
-      "date": "2025-09-04T06:32:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "All back-contact perovskite solar cell designs at a glance",
-      "url": "https://www.pv-magazine.com/2025/09/04/all-back-contact-perovskite-solar-cell-designs-at-a-glance/",
-      "date": "2025-09-04T06:10:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Australia&#8217;s CEFC commits record AU$3.8 billion to Victoria-Tasmania Marinus Link interconnector",
       "url": "https://www.energy-storage.news/australias-cefc-commits-record-au3-8-billion-to-victoria-tasmania-marinus-link-interconnector/",
       "date": "2025-09-04T05:57:12.000Z",
@@ -237,13 +244,6 @@
       "url": "https://www.energy-storage.news/akaysha-energy-bags-au300-million-corporate-debt-facility-for-global-battery-storage-expansion/",
       "date": "2025-09-04T05:53:57.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Türkiye deploys 3.1 GW of solar in H1",
-      "url": "https://www.pv-magazine.com/2025/09/04/turkiye-deploys-3-1-gw-of-solar-in-h1/",
-      "date": "2025-09-04T05:31:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
