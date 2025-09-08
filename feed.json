@@ -1,6 +1,41 @@
 {
-  "ts": 1757316606964,
+  "ts": 1757321314951,
   "items": [
+    {
+      "title": "Sungrow deploys first C&#038;I community batteries to undergo CSIP-AUS testing in South Australia",
+      "url": "https://www.energy-storage.news/sungrow-deploys-first-ci-community-batteries-to-undergo-csip-aus-testing-in-south-australia/",
+      "date": "2025-09-08T08:47:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Neoen Australia energises Western Downs BESS Stage 2 six weeks ahead of schedule",
+      "url": "https://www.energy-storage.news/neoen-australia-energises-western-downs-bess-stage-2-six-weeks-ahead-of-schedule/",
+      "date": "2025-09-08T08:41:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Avaada Electro to unveil n-type TOPCon PV modules",
+      "url": "https://www.pv-magazine.com/2025/09/08/avaada-electro-to-unveil-n-type-topcon-pv-modules/",
+      "date": "2025-09-08T08:15:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bluetti debuts world’s first sodium-ion portable power station",
+      "url": "https://www.pv-magazine.com/2025/09/08/bluetti-debuts-worlds-first-sodium-ion-portable-power-station/",
+      "date": "2025-09-08T07:40:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "First Graphene claims major boost for perovskite solar cell efficiency",
+      "url": "https://www.pv-magazine.com/2025/09/08/first-graphene-claims-major-boost-for-perovskite-solar-cell-efficiency/",
+      "date": "2025-09-08T07:30:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Aermec launches propane heat pumps for commercial, industrial buildings",
       "url": "https://www.pv-magazine.com/2025/09/08/aermec-launches-propane-heat-pumps-for-commercial-industrial-buildings/",
@@ -177,20 +212,6 @@
       "bucket": "A"
     },
     {
-      "title": "Sweden’s largest solar plant goes online",
-      "url": "https://www.pv-magazine.com/2025/09/05/swedens-largest-solar-plant-goes-online/",
-      "date": "2025-09-05T06:46:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US installs 14.5 GW of large-scale solar in H1",
-      "url": "https://www.pv-magazine.com/2025/09/05/us-installs-14-5-gw-of-large-scale-solar-in-h1/",
-      "date": "2025-09-05T06:45:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "SOC errors in LFP batteries are draining revenue &#8211; here&#8217;s how to fix it",
       "url": "https://www.energy-storage.news/soc-errors-in-lfp-batteries-are-draining-revenue-heres-how-to-fix-it/",
       "date": "2025-09-05T05:25:00.000Z",
@@ -216,13 +237,6 @@
       "url": "https://www.energy-storage.news/washington-governor-delays-approval-of-hybrid-bess-proposal-from-cypress-creek-renewables/",
       "date": "2025-09-04T14:58:19.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Canadian Solar’s e-STORAGE launches 8.36 MWh modular battery",
-      "url": "https://www.pv-magazine.com/2025/09/04/canadian-solars-e-storage-launches-8-36-mwh-modular-battery/",
-      "date": "2025-09-04T13:29:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "New Jersey Governor signs laws to increase energy storage and community solar installations",
       "url": "https://www.energy-storage.news/new-jersey-governor-signs-laws-to-increase-energy-storage-and-community-solar-installations/",
       "date": "2025-08-26T13:08:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Megawatts are not enough anymore for leading US BESS markets",
-      "url": "https://www.energy-storage.news/megawatts-are-not-enough-anymore-for-leading-us-bess-markets/",
-      "date": "2025-08-26T13:02:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New EU end-of-life battery regulations create legal and commercial complexities for suppliers",
-      "url": "https://www.energy-storage.news/new-eu-end-of-life-battery-regulations-create-legal-and-commercial-complexities-for-suppliers/",
-      "date": "2025-08-26T08:47:45.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
