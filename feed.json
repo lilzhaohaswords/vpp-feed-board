@@ -1,6 +1,27 @@
 {
-  "ts": 1757309630005,
+  "ts": 1757314300185,
   "items": [
+    {
+      "title": "PV Hardware opens solar tracker factory in Texas",
+      "url": "https://www.pv-magazine.com/2025/09/08/pv-hardware-opens-solar-tracker-factory-in-texas/",
+      "date": "2025-09-08T06:45:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France allocates 971 MW in ground-mounted PV tender",
+      "url": "https://www.pv-magazine.com/2025/09/08/france-allocates-971-mw-in-ground-mounted-pv-tender/",
+      "date": "2025-09-08T06:25:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Investigating solar glass quality for recycling in new glass products",
+      "url": "https://www.pv-magazine.com/2025/09/08/investigating-solar-glass-quality-for-recycling-in-new-glass-products/",
+      "date": "2025-09-08T05:51:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: France, Germany back nuclear H2, Southwestern Corridor",
       "url": "https://www.pv-magazine.com/2025/09/05/the-hydrogen-stream-france-and-germany-to-work-with-eu-institutions-to-de-risk/",
@@ -212,31 +233,10 @@
       "bucket": "A"
     },
     {
-      "title": "SEIA unveils policy agenda to expand US solar, storage and grid reforms",
-      "url": "https://www.pv-magazine.com/2025/09/04/seia-unveils-policy-agenda-to-expand-us-solar-storage-and-grid-reforms/",
-      "date": "2025-09-04T13:00:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Texas: Ormat brings online 120MWh BESS, Engie partners with data centre developer",
       "url": "https://www.energy-storage.news/texas-ormat-brings-online-120mwh-bess-engie-partners-with-data-centre-developer/",
       "date": "2025-09-04T12:55:26.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Montenegro utility launches 240 MWh battery storage tender",
-      "url": "https://www.pv-magazine.com/2025/09/04/montenegro-utility-launches-240-mwh-battery-storage-tender/",
-      "date": "2025-09-04T12:00:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Moldova brings 60 MW of solar online from first renewables auction",
-      "url": "https://www.pv-magazine.com/2025/09/04/moldova-brings-60-mw-of-solar-online-from-first-renewables-auction/",
-      "date": "2025-09-04T11:00:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
