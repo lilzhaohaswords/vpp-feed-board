@@ -1,6 +1,20 @@
 {
-  "ts": 1757338576320,
+  "ts": 1757342453629,
   "items": [
+    {
+      "title": "California set to cut funding for load-reducing distributed storage programme",
+      "url": "https://www.energy-storage.news/california-set-to-cut-funding-for-load-reducing-distributed-storage-programme/",
+      "date": "2025-09-08T14:27:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Czech cybersecurity agency warns against Chinese solar inverters",
+      "url": "https://www.pv-magazine.com/2025/09/08/czech-cybersecurity-agency-warns-against-chinese-solar-inverters/",
+      "date": "2025-09-08T13:56:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Novel MPPT methodology uses grey wolf hunting as inspiration",
       "url": "https://www.pv-magazine.com/2025/09/08/novel-mppt-methodology-uses-grey-wolf-hunting-as-inspiration/",
@@ -202,13 +216,6 @@
       "url": "https://www.energy-storage.news/us-policy-driven-turbulence-changes-but-doesnt-eliminate-the-opportunity-for-battery-storage/",
       "date": "2025-09-05T09:09:54.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar production falls in US Midwest, Southeast amid wildfires and hurricanes",
-      "url": "https://www.pv-magazine.com/2025/09/05/solar-production-falls-in-us-midwest-southeast-amid-wildfires-and-hurricanes/",
-      "date": "2025-09-05T08:30:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Neoen and NHOA partner on BESS with capacity market contract in North Italy",
       "url": "https://www.energy-storage.news/neoen-and-nhoa-partner-on-bess-with-capacity-market-contract-in-north-italy/",
       "date": "2025-08-26T14:23:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New Jersey Governor signs laws to increase energy storage and community solar installations",
-      "url": "https://www.energy-storage.news/new-jersey-governor-signs-laws-to-increase-energy-storage-and-community-solar-installations/",
-      "date": "2025-08-26T13:08:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
