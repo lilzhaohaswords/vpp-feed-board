@@ -1,6 +1,20 @@
 {
-  "ts": 1757408468351,
+  "ts": 1757414380840,
   "items": [
+    {
+      "title": "Tesla unveils new generation of utility-scale batteries",
+      "url": "https://www.pv-magazine.com/2025/09/09/tesla-unveils-new-generation-of-utility-scale-batteries/",
+      "date": "2025-09-09T10:06:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bermuda tenders up to 10 MW of floating solar",
+      "url": "https://www.pv-magazine.com/2025/09/09/bermuda-tenders-up-to-10-mw-of-floating-solar/",
+      "date": "2025-09-09T09:30:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Renewables reach record 76% of demand on Australia’s main grid",
       "url": "https://www.pv-magazine.com/2025/09/09/renewables-reach-record-76-of-demand-on-australias-main-grid/",
@@ -215,20 +229,6 @@
       "title": "France allocates 971 MW in ground-mounted PV tender",
       "url": "https://www.pv-magazine.com/2025/09/08/france-allocates-971-mw-in-ground-mounted-pv-tender/",
       "date": "2025-09-08T06:25:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Investigating solar glass quality for recycling in new glass products",
-      "url": "https://www.pv-magazine.com/2025/09/08/investigating-solar-glass-quality-for-recycling-in-new-glass-products/",
-      "date": "2025-09-08T05:51:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: France, Germany back nuclear H2, Southwestern Corridor",
-      "url": "https://www.pv-magazine.com/2025/09/05/the-hydrogen-stream-france-and-germany-to-work-with-eu-institutions-to-de-risk/",
-      "date": "2025-09-05T15:50:50.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
