@@ -1,6 +1,13 @@
 {
-  "ts": 1757414380840,
+  "ts": 1757415647059,
   "items": [
+    {
+      "title": "Hithium and BOS Power sign 3GWh BESS agreement for Nordics",
+      "url": "https://www.energy-storage.news/hithium-and-bos-power-sign-3gwh-bess-agreement-for-nordics/",
+      "date": "2025-09-09T10:40:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Tesla unveils new generation of utility-scale batteries",
       "url": "https://www.pv-magazine.com/2025/09/09/tesla-unveils-new-generation-of-utility-scale-batteries/",
@@ -516,13 +523,6 @@
       "title": "California’s Orange County is latest jurisdiction to introduce new BESS zoning standards",
       "url": "https://www.energy-storage.news/californias-orange-county-is-latest-jurisdiction-to-introduce-new-bess-zoning-standards/",
       "date": "2025-08-27T14:48:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Pacifico, Zenith Volts and Fermi America propose gigawatt-scale energy solutions with BESS to feed US data centres",
-      "url": "https://www.energy-storage.news/pacifico-zenith-volts-and-fermi-america-propose-gigawatt-scale-energy-solutions-with-bess-to-feed-us-data-centres/",
-      "date": "2025-08-27T13:07:57.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
