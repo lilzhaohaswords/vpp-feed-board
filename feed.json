@@ -1,6 +1,20 @@
 {
-  "ts": 1757374046598,
+  "ts": 1757387360438,
   "items": [
+    {
+      "title": "US energy storage market ‘getting used to policy uncertainty’",
+      "url": "https://www.energy-storage.news/us-energy-storage-market-getting-used-to-policy-uncertainty/",
+      "date": "2025-09-08T23:55:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "12GWh PHES and 1.2GWh BESS added to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/12gwh-phes-and-1-2gwh-bess-added-to-australias-epbc-act/",
+      "date": "2025-09-08T23:52:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Germany adds almost 4.59 GWh of battery storage already this year",
       "url": "https://www.pv-magazine.com/2025/09/08/germany-adds-almost-4-59-gwh-of-battery-storage-already-this-year/",
@@ -509,20 +523,6 @@
       "title": "Sungrow plans Hong Kong listing; ESS revenues overtake PV inverters",
       "url": "https://www.energy-storage.news/sungrow-plans-hong-kong-listing-ess-revenues-overtake-pv-inverters/",
       "date": "2025-08-27T09:46:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hithium deploys 1175Ah ‘long-duration’ cells at 4GWh BESS projects in Saudi Arabia",
-      "url": "https://www.energy-storage.news/hithium-deploys-1175ah-long-duration-cells-at-4gwh-bess-projects-in-saudi-arabia/",
-      "date": "2025-08-27T07:35:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘BESS ownership typically changes hands 2-4 times during a 40-year lifecycle,’ says Pottinger",
-      "url": "https://www.energy-storage.news/bess-ownership-typically-changes-hands-2-4-times-during-a-40-year-lifecycle-says-pottinger/",
-      "date": "2025-08-27T04:46:09.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
