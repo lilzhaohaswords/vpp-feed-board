@@ -1,6 +1,41 @@
 {
-  "ts": 1757404857847,
+  "ts": 1757408468351,
   "items": [
+    {
+      "title": "Renewables reach record 76% of demand on Australia’s main grid",
+      "url": "https://www.pv-magazine.com/2025/09/09/renewables-reach-record-76-of-demand-on-australias-main-grid/",
+      "date": "2025-09-09T08:58:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar, wave-powered uncrewed vehicle for marine monitoring",
+      "url": "https://www.pv-magazine.com/2025/09/09/solar-and-wave-powered-uncrewed-vehicle-for-marine-monitoring/",
+      "date": "2025-09-09T08:52:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia: &#8216;Social licensing is the next frontier for battery energy storage systems&#8217;",
+      "url": "https://www.energy-storage.news/australia-social-licensing-is-the-next-frontier-for-battery-energy-storage-systems/",
+      "date": "2025-09-09T08:44:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘Optimising BESS performance requires long-term perspective,’ says Fluence",
+      "url": "https://www.energy-storage.news/optimising-bess-performance-requires-long-term-perspective-says-fluence/",
+      "date": "2025-09-09T08:33:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Canadian Solar presents 660 W &#8216;low-carbon&#8217; heterojunction module with 24.4% efficiency",
+      "url": "https://www.pv-magazine.com/2025/09/09/canadian-solar-presents-660-w-low-carbon-heterojunction-module-with-24-4-efficiency/",
+      "date": "2025-09-09T08:12:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solarcleano launches panel cleaning robot for large PV installations, trackers",
       "url": "https://www.pv-magazine.com/2025/09/09/solarcleano-launches-panel-cleaning-robot-for-large-pv-installations-trackers/",
@@ -194,27 +229,6 @@
       "title": "The Hydrogen Stream: France, Germany back nuclear H2, Southwestern Corridor",
       "url": "https://www.pv-magazine.com/2025/09/05/the-hydrogen-stream-france-and-germany-to-work-with-eu-institutions-to-de-risk/",
       "date": "2025-09-05T15:50:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "AleaSoft notes mixed electricity price trends in European markets",
-      "url": "https://www.pv-magazine.com/2025/09/05/aleasoft-notes-mixed-evolution-in-european-electricity-prices/",
-      "date": "2025-09-05T15:30:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;I’ve learned to let the mission speak louder than the doubt&#8217;",
-      "url": "https://www.pv-magazine.com/2025/09/05/ive-learned-to-let-the-mission-speak-louder-than-the-doubt/",
-      "date": "2025-09-05T13:13:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: Top solar module makers report H1 losses",
-      "url": "https://www.pv-magazine.com/2025/09/05/chinese-pv-industry-brief-top-4-module-manufacturers-post-heavy-losses-in-h1/",
-      "date": "2025-09-05T13:00:30.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Pacifico, Zenith Volts and Fermi America propose gigawatt-scale energy solutions with BESS to feed US data centres",
       "url": "https://www.energy-storage.news/pacifico-zenith-volts-and-fermi-america-propose-gigawatt-scale-energy-solutions-with-bess-to-feed-us-data-centres/",
       "date": "2025-08-27T13:07:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Lithuania&#8217;s capex support scheme to help fund 4,000MWh of energy storage",
-      "url": "https://www.energy-storage.news/lithuania-capex-support-scheme-help-fund-4000mwh-of-bess-battery-storage/",
-      "date": "2025-08-27T09:48:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow plans Hong Kong listing; ESS revenues overtake PV inverters",
-      "url": "https://www.energy-storage.news/sungrow-plans-hong-kong-listing-ess-revenues-overtake-pv-inverters/",
-      "date": "2025-08-27T09:46:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
