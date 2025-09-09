@@ -1,6 +1,34 @@
 {
-  "ts": 1757415647059,
+  "ts": 1757425144688,
   "items": [
+    {
+      "title": "India installs 3.8 GW open-access solar in H1 2025, says Mercom",
+      "url": "https://www.pv-magazine.com/2025/09/09/india-installs-3-8-gw-open-access-solar-in-h1-2025-says-mercom/",
+      "date": "2025-09-09T13:36:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Flatiron Energy proposes 672MWh BESS at former Massachusetts fossil plant, pauses indoor BESS project in Boston",
+      "url": "https://www.energy-storage.news/flatiron-energy-proposes-672mwh-bess-at-former-massachusetts-fossil-plant-pauses-indoor-bess-project-in-boston/",
+      "date": "2025-09-09T13:08:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Lithium-ion is long-duration energy storage (LDES)",
+      "url": "https://www.energy-storage.news/lithium-ion-is-long-duration-energy-storage-ldes/",
+      "date": "2025-09-09T11:31:05.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Nextracker acquires Origami Solar for $53 million",
+      "url": "https://www.pv-magazine.com/2025/09/09/nextracker-acquires-origami-solar-for-53-million/",
+      "date": "2025-09-09T11:00:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hithium and BOS Power sign 3GWh BESS agreement for Nordics",
       "url": "https://www.energy-storage.news/hithium-and-bos-power-sign-3gwh-bess-agreement-for-nordics/",
@@ -222,20 +250,6 @@
       "title": "Aermec launches propane heat pumps for commercial, industrial buildings",
       "url": "https://www.pv-magazine.com/2025/09/08/aermec-launches-propane-heat-pumps-for-commercial-industrial-buildings/",
       "date": "2025-09-08T07:16:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "PV Hardware opens solar tracker factory in Texas",
-      "url": "https://www.pv-magazine.com/2025/09/08/pv-hardware-opens-solar-tracker-factory-in-texas/",
-      "date": "2025-09-08T06:45:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "France allocates 971 MW in ground-mounted PV tender",
-      "url": "https://www.pv-magazine.com/2025/09/08/france-allocates-971-mw-in-ground-mounted-pv-tender/",
-      "date": "2025-09-08T06:25:43.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "TagEnergy acquires ACE Power, adding 6GW of energy storage and renewables in Australia",
       "url": "https://www.energy-storage.news/tagenergy-acquires-ace-power-adding-6gw-of-energy-storage-and-renewables-in-australia/",
       "date": "2025-08-28T03:18:21.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Harmony Energy CEO on lessons learned from HEIT, strategy going forward and European expansion",
-      "url": "https://www.energy-storage.news/harmony-energy-ceo-on-lessons-learned-from-heit-strategy-going-forward-and-european-expansion/",
-      "date": "2025-08-27T14:51:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "California’s Orange County is latest jurisdiction to introduce new BESS zoning standards",
-      "url": "https://www.energy-storage.news/californias-orange-county-is-latest-jurisdiction-to-introduce-new-bess-zoning-standards/",
-      "date": "2025-08-27T14:48:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
