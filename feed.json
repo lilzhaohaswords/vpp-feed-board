@@ -1,6 +1,13 @@
 {
-  "ts": 1757433659944,
+  "ts": 1757438961410,
   "items": [
+    {
+      "title": "Tesla launches integrated 20MWh Megapack BESS solution",
+      "url": "https://www.energy-storage.news/tesla-launches-integrated-20mwh-megapack-bess-solution/",
+      "date": "2025-09-09T16:20:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Canada set to surpass 2024 solar growth with rise in behind-the-meter PV",
       "url": "https://www.pv-magazine.com/2025/09/09/canada-set-to-surpass-2024-solar-growth-with-rise-in-behind-the-meter-pv/",
@@ -516,13 +523,6 @@
       "title": "EC-funded study progresses battery storage hybridisation of pumped hydro plant in Slovakia",
       "url": "https://www.energy-storage.news/ec-funded-study-progresses-battery-storage-hybridisation-of-pumped-hydro-plant-in-slovakia/",
       "date": "2025-08-28T06:59:11.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Wood Mackenzie: ‘Australia is a leading country for grid-forming BESS’",
-      "url": "https://www.energy-storage.news/wood-mackenzie-australia-is-a-leading-country-for-grid-forming-bess/",
-      "date": "2025-08-28T05:32:36.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
