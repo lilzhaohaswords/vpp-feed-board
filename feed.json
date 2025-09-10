@@ -1,6 +1,20 @@
 {
-  "ts": 1757498471791,
+  "ts": 1757502025919,
   "items": [
+    {
+      "title": "Enphase presents bidirectional EV charger",
+      "url": "https://www.pv-magazine.com/2025/09/10/enphase-presents-bidirectional-ev-charger/",
+      "date": "2025-09-10T10:56:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BESS route-to-market deals between Greenvolt and Entrix in Poland, Zelestra and BKW in Italy",
+      "url": "https://www.energy-storage.news/bess-route-to-market-deals-greenvolt-and-entrix-poland-zelestra-and-bkw-italy/",
+      "date": "2025-09-10T10:43:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sungrow unveils 4.8 MW modular inverter",
       "url": "https://www.pv-magazine.com/2025/09/10/sungrow-unveils-modular-inverter-battery-energy-storage-systems/",
@@ -251,13 +265,6 @@
       "url": "https://www.energy-storage.news/california-set-to-cut-funding-for-load-reducing-distributed-storage-programme/",
       "date": "2025-09-08T14:27:12.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Czech cybersecurity agency warns against Chinese solar inverters",
-      "url": "https://www.pv-magazine.com/2025/09/08/czech-cybersecurity-agency-warns-against-chinese-solar-inverters/",
-      "date": "2025-09-08T13:56:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "California and Texas ‘remain the most stable profiles’ for battery storage asset owners",
       "url": "https://www.energy-storage.news/california-and-texas-remain-the-most-stable-profiles-for-battery-storage-asset-owners/",
       "date": "2025-08-28T10:42:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "MEAG and SMA Altenso partner on 354MWh Germany BESS with &#8216;next-gen&#8217; inverters",
-      "url": "https://www.energy-storage.news/meag-and-sma-altenso-partner-on-354mwh-germany-bess-with-next-gen-inverters/",
-      "date": "2025-08-28T09:29:58.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
