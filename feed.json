@@ -1,6 +1,27 @@
 {
-  "ts": 1757512871610,
+  "ts": 1757516449359,
   "items": [
+    {
+      "title": "&#8216;A key technology&#8217;: Google to help fund non-lithium LDES projects in Arizona with SRP",
+      "url": "https://www.energy-storage.news/a-key-technology-google-to-help-fund-non-lithium-ldes-projects-in-arizona-with-srp/",
+      "date": "2025-09-10T14:58:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "NextEra and California utility agree BESS offtake deal with protections against future Federal actions and market volatility",
+      "url": "https://www.energy-storage.news/nextera-and-california-utility-agree-bess-offtake-deal-with-protections-against-future-federal-actions-and-market-volatility/",
+      "date": "2025-09-10T14:44:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New alliance aims to unlock 35 GW of pumped hydro storage across Europe",
+      "url": "https://www.pv-magazine.com/2025/09/10/new-alliance-aims-to-unlock-35-gw-of-pumped-hydro-storage-across-europe/",
+      "date": "2025-09-10T14:35:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "PV system fire under investigation as suspected arson in Italy",
       "url": "https://www.pv-magazine.com/2025/09/10/pv-system-fire-under-investigation-as-suspected-arson-in-italy/",
@@ -236,13 +257,6 @@
       "title": "Canadian Solar presents 660 W &#8216;low-carbon&#8217; heterojunction module with 24.4% efficiency",
       "url": "https://www.pv-magazine.com/2025/09/09/canadian-solar-presents-660-w-low-carbon-heterojunction-module-with-24-4-efficiency/",
       "date": "2025-09-09T08:12:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solarcleano launches panel cleaning robot for large PV installations, trackers",
-      "url": "https://www.pv-magazine.com/2025/09/09/solarcleano-launches-panel-cleaning-robot-for-large-pv-installations-trackers/",
-      "date": "2025-09-09T07:31:39.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Neoen switches on 2.2GWh BESS in Western Australia",
       "url": "https://www.energy-storage.news/neoen-switches-on-2-2gwh-bess-in-western-australia/",
       "date": "2025-08-29T03:59:21.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CAISO monitoring for ‘detrimental market behaviour’ in BESS Bid Cost Recovery process",
-      "url": "https://www.energy-storage.news/caiso-monitoring-for-detrimental-market-behaviour-in-bess-bid-cost-recovery-process/",
-      "date": "2025-08-28T13:12:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "PG&#038;E delays recommissioning of California BESS adjacent to fire-hit Moss Landing project to next year",
-      "url": "https://www.energy-storage.news/pge-delays-recommissioning-of-california-bess-adjacent-to-fire-hit-moss-landing-project-to-next-year/",
-      "date": "2025-08-28T12:39:51.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
