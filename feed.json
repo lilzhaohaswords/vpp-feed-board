@@ -1,6 +1,27 @@
 {
-  "ts": 1757480432069,
+  "ts": 1757486873793,
   "items": [
+    {
+      "title": "ALDI expands rooftop solar and battery sales in eastern Australia",
+      "url": "https://www.pv-magazine.com/2025/09/10/aldi-expands-rooftop-solar-and-battery-sales-in-eastern-australia/",
+      "date": "2025-09-10T06:45:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tesla expects to have 4.5GW of grid-forming BESS operating in Australia by the end of 2026",
+      "url": "https://www.energy-storage.news/tesla-expects-to-have-4-5gw-of-grid-forming-bess-operating-in-australia-by-the-end-of-2026/",
+      "date": "2025-09-10T05:23:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Domain adaptation framework for PV power forecasting",
+      "url": "https://www.pv-magazine.com/2025/09/10/domain-adaptation-framework-for-pv-power-forecasting/",
+      "date": "2025-09-10T05:17:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Tesla launches integrated 20MWh Megapack BESS solution",
       "url": "https://www.energy-storage.news/tesla-launches-integrated-20mwh-megapack-bess-solution/",
@@ -254,20 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "Avaada Electro unveils n-type TOPCon PV modules",
-      "url": "https://www.pv-magazine.com/2025/09/08/avaada-electro-to-unveil-n-type-topcon-pv-modules/",
-      "date": "2025-09-08T08:15:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bluetti debuts world’s first sodium-ion portable power station",
-      "url": "https://www.pv-magazine.com/2025/09/08/bluetti-debuts-worlds-first-sodium-ion-portable-power-station/",
-      "date": "2025-09-08T07:40:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "SK On signs 7.2GWh deal to supply US-made LFP batteries to Flatiron Energy Development",
       "url": "https://www.energy-storage.news/sk-on-signs-7-2gwh-deal-to-supply-us-made-lfp-batteries-to-flatiron-energy-development/",
       "date": "2025-09-05T11:59:32.000Z",
@@ -516,13 +523,6 @@
       "title": "MEAG and SMA Altenso partner on 354MWh Germany BESS with &#8216;next-gen&#8217; inverters",
       "url": "https://www.energy-storage.news/meag-and-sma-altenso-partner-on-354mwh-germany-bess-with-next-gen-inverters/",
       "date": "2025-08-28T09:29:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EC-funded study progresses battery storage hybridisation of pumped hydro plant in Slovakia",
-      "url": "https://www.energy-storage.news/ec-funded-study-progresses-battery-storage-hybridisation-of-pumped-hydro-plant-in-slovakia/",
-      "date": "2025-08-28T06:59:11.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
