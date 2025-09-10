@@ -1,6 +1,13 @@
 {
-  "ts": 1757493772554,
+  "ts": 1757496700001,
   "items": [
+    {
+      "title": "Sungrow unveils 4.8 MW modular inverter",
+      "url": "https://www.pv-magazine.com/2025/09/10/sungrow-unveils-modular-inverter-battery-energy-storage-systems/",
+      "date": "2025-09-10T09:00:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Decision making tool for crop selection in agrivoltaics",
       "url": "https://www.pv-magazine.com/2025/09/10/decision-making-tool-for-crop-selection-in-agrivoltaics/",
@@ -250,13 +257,6 @@
       "title": "Czech cybersecurity agency warns against Chinese solar inverters",
       "url": "https://www.pv-magazine.com/2025/09/08/czech-cybersecurity-agency-warns-against-chinese-solar-inverters/",
       "date": "2025-09-08T13:56:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Novel MPPT methodology uses grey wolf hunting as inspiration",
-      "url": "https://www.pv-magazine.com/2025/09/08/novel-mppt-methodology-uses-grey-wolf-hunting-as-inspiration/",
-      "date": "2025-09-08T12:44:47.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
