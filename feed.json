@@ -1,6 +1,62 @@
 {
-  "ts": 1757502025919,
+  "ts": 1757510232026,
   "items": [
+    {
+      "title": "PV system fire under investigation as suspected arson in Italy",
+      "url": "https://www.pv-magazine.com/2025/09/10/pv-system-fire-under-investigation-as-suspected-arson-in-italy/",
+      "date": "2025-09-10T13:00:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Financial close and RTM deals for major UK BESS projects from Fidra, Elements Green",
+      "url": "https://www.energy-storage.news/financial-close-and-rtm-deals-for-major-uk-bess-projects-from-fidra-elements-green/",
+      "date": "2025-09-10T12:58:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar floodplains and fault lines",
+      "url": "https://www.pv-magazine.com/2025/09/10/solar-floodplains-and-fault-lines/",
+      "date": "2025-09-10T12:43:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Panasonic testing new energy management system to combine solar, heat pumps, batteries",
+      "url": "https://www.pv-magazine.com/2025/09/10/panasonic-testing-new-energy-management-system-to-combine-solar-heat-pumps-batteries/",
+      "date": "2025-09-10T12:38:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The Netherlands adds around 550 MW of small-scale solar in H1",
+      "url": "https://www.pv-magazine.com/2025/09/10/the-netherlands-adds-around-550-mw-of-small-scale-solar-in-h1/",
+      "date": "2025-09-10T12:25:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Renewables investments shifting from US to EU, says BloombergNEF",
+      "url": "https://www.pv-magazine.com/2025/09/10/renewables-investments-shifting-from-us-to-eu-says-bloombergnef/",
+      "date": "2025-09-10T11:20:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese scientists develop colorless solar concentrator for PV windows",
+      "url": "https://www.pv-magazine.com/2025/09/10/chinese-scientists-develop-colorless-solar-concentrator-for-pv-windows/",
+      "date": "2025-09-10T11:01:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar output up sixfold in Czechia, Hungary, Poland, Slovakia",
+      "url": "https://www.pv-magazine.com/2025/09/10/solar-output-up-sixfold-in-czechia-hungary-poland-slovakia/",
+      "date": "2025-09-10T11:00:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Enphase presents bidirectional EV charger",
       "url": "https://www.pv-magazine.com/2025/09/10/enphase-presents-bidirectional-ev-charger/",
@@ -191,34 +247,6 @@
       "bucket": "A"
     },
     {
-      "title": "Azerbaijan builds largest BESS, Uzbekistan launches storage hub",
-      "url": "https://www.pv-magazine.com/2025/09/09/azerbaijan-builds-largest-bess-uzbekistan-launches-first-windstorage-hub/",
-      "date": "2025-09-09T07:30:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Photovoltaic trees can save forest cover",
-      "url": "https://www.pv-magazine.com/2025/09/09/photovoltaic-trees-can-save-forest-cover-2/",
-      "date": "2025-09-09T07:05:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Saharan dust events can reduce PV power output in Mediterranean area by up to 50%",
-      "url": "https://www.pv-magazine.com/2025/09/09/saharan-dust-events-can-reduce-pv-power-output-in-mediterranean-area-by-up-to-50/",
-      "date": "2025-09-09T07:00:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cutting-edge solar and energy storage tech at RE+ 2025",
-      "url": "https://www.pv-magazine.com/2025/09/09/cutting-edge-solar-and-energy-storage-tech-at-re-2025/",
-      "date": "2025-09-09T06:45:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US energy storage market ‘getting used to policy uncertainty’",
       "url": "https://www.energy-storage.news/us-energy-storage-market-getting-used-to-policy-uncertainty/",
       "date": "2025-09-08T23:55:02.000Z",
@@ -230,27 +258,6 @@
       "url": "https://www.energy-storage.news/12gwh-phes-and-1-2gwh-bess-added-to-australias-epbc-act/",
       "date": "2025-09-08T23:52:42.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany adds almost 4.59 GWh of battery storage already this year",
-      "url": "https://www.pv-magazine.com/2025/09/08/germany-adds-almost-4-59-gwh-of-battery-storage-already-this-year/",
-      "date": "2025-09-08T15:50:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EIA to cancel US solar module shipment report after review",
-      "url": "https://www.pv-magazine.com/2025/09/08/eia-to-cancel-us-solar-module-shipment-report-after-review/",
-      "date": "2025-09-08T15:45:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Magtel wins €500 million Spain tender for 289 MW pumped hydro with solar",
-      "url": "https://www.pv-magazine.com/2025/09/08/magtel-wins-e500-million-spain-tender-for-289-mw-pumped-hydro-with-solar/",
-      "date": "2025-09-08T15:35:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "PG&#038;E delays recommissioning of California BESS adjacent to fire-hit Moss Landing project to next year",
       "url": "https://www.energy-storage.news/pge-delays-recommissioning-of-california-bess-adjacent-to-fire-hit-moss-landing-project-to-next-year/",
       "date": "2025-08-28T12:39:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "California and Texas ‘remain the most stable profiles’ for battery storage asset owners",
-      "url": "https://www.energy-storage.news/california-and-texas-remain-the-most-stable-profiles-for-battery-storage-asset-owners/",
-      "date": "2025-08-28T10:42:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
