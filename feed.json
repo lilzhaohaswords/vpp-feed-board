@@ -1,6 +1,13 @@
 {
-  "ts": 1757616066622,
+  "ts": 1757617270798,
   "items": [
+    {
+      "title": "Hithium, Storion announce non-lithium BESS advances in US",
+      "url": "https://www.energy-storage.news/hithium-storion-announce-non-lithium-bess-advances-in-us/",
+      "date": "2025-09-11T18:58:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Primergy, Gridstor, Sunraycer and Plus Power progress large-scale US BESS projects",
       "url": "https://www.energy-storage.news/primergy-gridstor-sunraycer-and-plus-power-progress-large-scale-us-bess-projects/",
@@ -516,13 +523,6 @@
       "title": "Securing the future of energy storage: Navigating the cybersecurity landscape",
       "url": "https://www.energy-storage.news/securing-the-future-of-energy-storage-navigating-the-cybersecurity-landscape/",
       "date": "2025-09-02T04:28:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese battery manufacturer Hithium ships first units from Texas BESS assembly plant",
-      "url": "https://www.energy-storage.news/chinese-battery-manufacturer-hithium-ships-first-units-from-texas-bess-assembly-plant/",
-      "date": "2025-09-01T14:58:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
