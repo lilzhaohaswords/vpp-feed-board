@@ -1,6 +1,20 @@
 {
-  "ts": 1757586965295,
+  "ts": 1757588462565,
   "items": [
+    {
+      "title": "Still too early to see Trump tariffs&#8217; impact on BESS industry finances",
+      "url": "https://www.energy-storage.news/still-too-early-to-see-trump-tariffs-impact-on-bess-industry-finances/",
+      "date": "2025-09-11T11:00:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "PV industry could account for 40% of global silver demand by 2030",
+      "url": "https://www.pv-magazine.com/2025/09/11/pv-industry-could-account-for-40-of-global-silver-demand-by-2030/",
+      "date": "2025-09-11T10:55:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "&#8216;Storage as fundamental as generation&#8217;: DTEK and Fluence turn on 200MW Ukraine BESS",
       "url": "https://www.energy-storage.news/storage-as-fundamental-as-generation-dtek-and-fluence-turn-on-200mw-ukraine-bess/",
@@ -223,13 +237,6 @@
       "url": "https://www.energy-storage.news/tesla-launches-integrated-20mwh-megapack-bess-solution/",
       "date": "2025-09-09T16:20:25.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Canada set to surpass 2024 solar growth with rise in behind-the-meter PV",
-      "url": "https://www.pv-magazine.com/2025/09/09/canada-set-to-surpass-2024-solar-growth-with-rise-in-behind-the-meter-pv/",
-      "date": "2025-09-09T15:30:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Hitachi Energy acquires Powin’s remaining stake in power conversion system maker Eks Energy",
       "url": "https://www.energy-storage.news/hitachi-energy-acquires-powin-stake-eks-energy/",
       "date": "2025-08-29T07:44:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Capacity Investment Scheme Tenders open, targeting 2.4GWh of energy storage in Western Australia",
-      "url": "https://www.energy-storage.news/capacity-investment-scheme-tenders-open-targeting-2-4gwh-of-energy-storage-in-western-australia/",
-      "date": "2025-08-29T05:35:52.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
