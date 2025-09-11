@@ -1,6 +1,20 @@
 {
-  "ts": 1757604586652,
+  "ts": 1757608717800,
   "items": [
+    {
+      "title": "Primergy, Gridstor, Sunraycer and Plus Power progress large-scale US BESS projects",
+      "url": "https://www.energy-storage.news/primergy-gridstor-sunraycer-and-plus-power-progress-large-scale-us-bess-projects/",
+      "date": "2025-09-11T15:43:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ukraine’s biggest battery storage project goes online",
+      "url": "https://www.pv-magazine.com/2025/09/11/ukraines-biggest-battery-storage-project-goes-online/",
+      "date": "2025-09-11T15:30:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "BMW, E.ON offer bidirectional EV charging tariff",
       "url": "https://www.pv-magazine.com/2025/09/11/bmw-eon-offer-bidirectional-ev-charging-tariff/",
@@ -222,13 +236,6 @@
       "title": "Solar output up sixfold in Czechia, Hungary, Poland, Slovakia",
       "url": "https://www.pv-magazine.com/2025/09/10/solar-output-up-sixfold-in-czechia-hungary-poland-slovakia/",
       "date": "2025-09-10T11:00:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Enphase presents bidirectional EV charger",
-      "url": "https://www.pv-magazine.com/2025/09/10/enphase-presents-bidirectional-ev-charger/",
-      "date": "2025-09-10T10:56:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Chinese battery manufacturer Hithium ships first units from Texas BESS assembly plant",
       "url": "https://www.energy-storage.news/chinese-battery-manufacturer-hithium-ships-first-units-from-texas-bess-assembly-plant/",
       "date": "2025-09-01T14:58:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Multinational consortium agrees to invest US$220 million in solar PV, BESS factory in Egypt",
-      "url": "https://www.energy-storage.news/multinational-consortium-agrees-to-invest-us220-million-in-solar-pv-bess-factory-in-egypt/",
-      "date": "2025-09-01T09:30:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
