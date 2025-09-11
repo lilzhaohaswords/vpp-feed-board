@@ -1,6 +1,48 @@
 {
-  "ts": 1757588462565,
+  "ts": 1757596505569,
   "items": [
+    {
+      "title": "Vertical rooftop PV deployed in Spain with east-west orientation",
+      "url": "https://www.pv-magazine.com/2025/09/11/vertical-rooftop-pv-deployed-in-spain-with-east-west-orientation/",
+      "date": "2025-09-11T12:00:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Yunt releases MPPT module with 4 independent trackers for C&#038;I use",
+      "url": "https://www.pv-magazine.com/2025/09/11/yunt-releases-mppt-module-with-4-independent-trackers-for-ci-use/",
+      "date": "2025-09-11T11:51:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Grenergy secures US$270 million financing for 3.5GWh BESS in Oasis de Atacama Phase 6",
+      "url": "https://www.energy-storage.news/grenergy-secures-us270-million-financing-for-3-5gwh-bess-in-oasis-de-atacama-phase-6/",
+      "date": "2025-09-11T11:34:18.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;The bar is going up and up&#8217;: Sodium-ion firm Natron Energy&#8217;s closure highlights alternative chemistry challenges",
+      "url": "https://www.energy-storage.news/the-bar-is-going-up-and-up-sodium-ion-firm-natron-energys-closure-highlights-alternative-chemistry-challenges/",
+      "date": "2025-09-11T11:33:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "European consortium achieves 21.6% efficiency in flexible perovskite solar cell",
+      "url": "https://www.pv-magazine.com/2025/09/11/european-consortium-achieves-21-6-efficiency-in-flexible-perovskite-solar-cell/",
+      "date": "2025-09-11T11:32:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Global H2 investment tops $110 billion, says Hydrogen Council",
+      "url": "https://www.pv-magazine.com/2025/09/11/global-h2-investment-tops-110-billion-says-hydrogen-council/",
+      "date": "2025-09-11T11:00:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Still too early to see Trump tariffs&#8217; impact on BESS industry finances",
       "url": "https://www.energy-storage.news/still-too-early-to-see-trump-tariffs-impact-on-bess-industry-finances/",
@@ -198,38 +240,10 @@
       "bucket": "A"
     },
     {
-      "title": "Brazil PV curtailment hits 14% as Voltalia seeks compensation deal",
-      "url": "https://www.pv-magazine.com/2025/09/10/brazil-pv-curtailment-hits-14-as-voltalia-seeks-compensation-deal/",
-      "date": "2025-09-10T07:30:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Rable offers mounting system for east-west PV systems on low-load flat roofs",
-      "url": "https://www.pv-magazine.com/2025/09/10/rable-offers-mounting-system-for-east-west-pv-systems-on-low-load-flat-roofs/",
-      "date": "2025-09-10T07:06:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ALDI expands rooftop solar and battery sales in eastern Australia",
-      "url": "https://www.pv-magazine.com/2025/09/10/aldi-expands-rooftop-solar-and-battery-sales-in-eastern-australia/",
-      "date": "2025-09-10T06:45:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Tesla expects to have 4.5GW of grid-forming BESS operating in Australia by the end of 2026",
       "url": "https://www.energy-storage.news/tesla-expects-to-have-4-5gw-of-grid-forming-bess-operating-in-australia-by-the-end-of-2026/",
       "date": "2025-09-10T05:23:56.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Domain adaptation framework for PV power forecasting",
-      "url": "https://www.pv-magazine.com/2025/09/10/domain-adaptation-framework-for-pv-power-forecasting/",
-      "date": "2025-09-10T05:17:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Multinational consortium agrees to invest US$220 million in solar PV, BESS factory in Egypt",
       "url": "https://www.energy-storage.news/multinational-consortium-agrees-to-invest-us220-million-in-solar-pv-bess-factory-in-egypt/",
       "date": "2025-09-01T09:30:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India&#8217;s Sunsure signs 500MWh fixed tariff BESS contract to supply Uttar Pradesh during peaks",
-      "url": "https://www.energy-storage.news/indias-sunsure-signs-500mwh-fixed-tariff-bess-contract-to-supply-uttar-pradesh-during-peaks/",
-      "date": "2025-09-01T07:54:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hitachi Energy acquires Powin’s remaining stake in power conversion system maker Eks Energy",
-      "url": "https://www.energy-storage.news/hitachi-energy-acquires-powin-stake-eks-energy/",
-      "date": "2025-08-29T07:44:19.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
