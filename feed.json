@@ -1,6 +1,13 @@
 {
-  "ts": 1757596505569,
+  "ts": 1757599226838,
   "items": [
+    {
+      "title": "US authorities warn of hidden radios in PV-powered highway infrastructure",
+      "url": "https://www.pv-magazine.com/2025/09/11/us-authorities-warn-of-hidden-radios-in-pv-powered-highway-infrastructure/",
+      "date": "2025-09-11T13:41:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Vertical rooftop PV deployed in Spain with east-west orientation",
       "url": "https://www.pv-magazine.com/2025/09/11/vertical-rooftop-pv-deployed-in-spain-with-east-west-orientation/",
@@ -229,13 +236,6 @@
       "title": "Decision making tool for crop selection in agrivoltaics",
       "url": "https://www.pv-magazine.com/2025/09/10/decision-making-tool-for-crop-selection-in-agrivoltaics/",
       "date": "2025-09-10T08:20:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "SMA secures German certificate for grid-forming battery inverter",
-      "url": "https://www.pv-magazine.com/2025/09/10/sma-secures-german-certificate-for-grid-forming-battery-inverter/",
-      "date": "2025-09-10T08:15:14.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
