@@ -1,6 +1,27 @@
 {
-  "ts": 1757581266828,
+  "ts": 1757586965295,
   "items": [
+    {
+      "title": "&#8216;Storage as fundamental as generation&#8217;: DTEK and Fluence turn on 200MW Ukraine BESS",
+      "url": "https://www.energy-storage.news/storage-as-fundamental-as-generation-dtek-and-fluence-turn-on-200mw-ukraine-bess/",
+      "date": "2025-09-11T10:03:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "China&#8217;s intelamp sets world record for solar-powered LED display",
+      "url": "https://www.pv-magazine.com/2025/09/11/chinas-intelamp-sets-world-record-for-solar-powered-led-display/",
+      "date": "2025-09-11T09:19:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany&#8217;s largest agrivoltaic project goes online",
+      "url": "https://www.pv-magazine.com/2025/09/11/germanys-largest-agrivoltaic-project-goes-online/",
+      "date": "2025-09-11T09:00:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Powering ferries with floating PV, hydrogen",
       "url": "https://www.pv-magazine.com/2025/09/11/powering-ferries-with-floating-pv-hydrogen/",
@@ -212,24 +233,10 @@
       "bucket": "A"
     },
     {
-      "title": "Italy issues new fire safety rules for PV and storage systems",
-      "url": "https://www.pv-magazine.com/2025/09/09/italy-issues-new-fire-safety-rules-for-pv-and-storage-systems/",
-      "date": "2025-09-09T15:25:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US energy storage industry ‘has to continue to be aggressive’",
       "url": "https://www.energy-storage.news/us-energy-storage-industry-has-to-continue-to-be-aggressive/",
       "date": "2025-09-09T14:36:36.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India installs 3.8 GW open-access solar in H1 2025, says Mercom",
-      "url": "https://www.pv-magazine.com/2025/09/09/india-installs-3-8-gw-open-access-solar-in-h1-2025-says-mercom/",
-      "date": "2025-09-09T13:36:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Capacity Investment Scheme Tenders open, targeting 2.4GWh of energy storage in Western Australia",
       "url": "https://www.energy-storage.news/capacity-investment-scheme-tenders-open-targeting-2-4gwh-of-energy-storage-in-western-australia/",
       "date": "2025-08-29T05:35:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Potentia’s 900MWh BESS site the first to be approved under South Australia&#8217;s HRE Act",
-      "url": "https://www.energy-storage.news/potentias-900mwh-bess-site-the-first-to-be-approved-under-south-australias-hre-act/",
-      "date": "2025-08-29T04:01:59.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
