@@ -1,6 +1,20 @@
 {
-  "ts": 1757599226838,
+  "ts": 1757604586652,
   "items": [
+    {
+      "title": "BMW, E.ON offer bidirectional EV charging tariff",
+      "url": "https://www.pv-magazine.com/2025/09/11/bmw-eon-offer-bidirectional-ev-charging-tariff/",
+      "date": "2025-09-11T15:15:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Latin America’s energy storage market set to hit 23 GW by 2034",
+      "url": "https://www.pv-magazine.com/2025/09/11/latin-americas-energy-storage-market-set-to-hit-23-gw-by-2034/",
+      "date": "2025-09-11T14:22:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US authorities warn of hidden radios in PV-powered highway infrastructure",
       "url": "https://www.pv-magazine.com/2025/09/11/us-authorities-warn-of-hidden-radios-in-pv-powered-highway-infrastructure/",
@@ -223,20 +237,6 @@
       "url": "https://www.energy-storage.news/bess-route-to-market-deals-greenvolt-and-entrix-poland-zelestra-and-bkw-italy/",
       "date": "2025-09-10T10:43:40.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow unveils 4.8 MW modular inverter",
-      "url": "https://www.pv-magazine.com/2025/09/10/sungrow-unveils-modular-inverter-battery-energy-storage-systems/",
-      "date": "2025-09-10T09:00:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Decision making tool for crop selection in agrivoltaics",
-      "url": "https://www.pv-magazine.com/2025/09/10/decision-making-tool-for-crop-selection-in-agrivoltaics/",
-      "date": "2025-09-10T08:20:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
