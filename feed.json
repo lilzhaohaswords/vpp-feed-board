@@ -1,6 +1,13 @@
 {
-  "ts": 1757653263111,
+  "ts": 1757659647230,
   "items": [
+    {
+      "title": "US studies show 2050 cost forecasts for solar, wind and batteries far too high",
+      "url": "https://www.pv-magazine.com/2025/09/12/us-studies-show-2050-cost-forecasts-for-solar-wind-and-batteries-far-too-high/",
+      "date": "2025-09-12T06:44:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hithium, Storion announce non-lithium BESS advances in US",
       "url": "https://www.energy-storage.news/hithium-storion-announce-non-lithium-bess-advances-in-us/",
@@ -236,13 +243,6 @@
       "title": "Chinese scientists develop colorless solar concentrator for PV windows",
       "url": "https://www.pv-magazine.com/2025/09/10/chinese-scientists-develop-colorless-solar-concentrator-for-pv-windows/",
       "date": "2025-09-10T11:01:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar output up sixfold in Czechia, Hungary, Poland, Slovakia",
-      "url": "https://www.pv-magazine.com/2025/09/10/solar-output-up-sixfold-in-czechia-hungary-poland-slovakia/",
-      "date": "2025-09-10T11:00:35.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
