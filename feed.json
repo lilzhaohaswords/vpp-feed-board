@@ -1,8 +1,36 @@
 {
-  "ts": 1757667668074,
+  "ts": 1757673386009,
   "items": [
     {
-      "title": "California orders utilities to adopt dynamic power pricing",
+      "title": "Return, N2OFF embark on Germany BESS projects",
+      "url": "https://www.energy-storage.news/return-n2off-embark-on-germany-bess-projects/",
+      "date": "2025-09-12T10:33:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar surge hits most of Europe in August",
+      "url": "https://www.pv-magazine.com/2025/09/12/solar-surge-hits-most-of-europe-in-august/",
+      "date": "2025-09-12T09:55:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: Tongwei, GCL and Daqo post steep H1 losses",
+      "url": "https://www.pv-magazine.com/2025/09/12/chinese-pv-industry-brief-tongwei-gcl-and-daqo-post-steep-h1-losses/",
+      "date": "2025-09-12T09:30:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China’s TOPCon cell prices rise on tighter downstream oversight",
+      "url": "https://www.pv-magazine.com/2025/09/12/chinas-topcon-cell-prices-rise-on-tighter-downstream-oversight/",
+      "date": "2025-09-12T09:09:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "California orders utilities to offer dynamic power pricing",
       "url": "https://www.pv-magazine.com/2025/09/12/california-orders-utilities-to-adopt-dynamic-power-pricing/",
       "date": "2025-09-12T08:30:57.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -219,31 +247,10 @@
       "bucket": "A"
     },
     {
-      "title": "New alliance aims to unlock 35 GW of pumped hydro storage across Europe",
-      "url": "https://www.pv-magazine.com/2025/09/10/new-alliance-aims-to-unlock-35-gw-of-pumped-hydro-storage-across-europe/",
-      "date": "2025-09-10T14:35:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "PV system fire under investigation as suspected arson in Italy",
-      "url": "https://www.pv-magazine.com/2025/09/10/pv-system-fire-under-investigation-as-suspected-arson-in-italy/",
-      "date": "2025-09-10T13:00:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Financial close and RTM deals for major UK BESS projects from Fidra, Elements Green",
       "url": "https://www.energy-storage.news/financial-close-and-rtm-deals-for-major-uk-bess-projects-from-fidra-elements-green/",
       "date": "2025-09-10T12:58:53.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar floodplains and fault lines",
-      "url": "https://www.pv-magazine.com/2025/09/10/solar-floodplains-and-fault-lines/",
-      "date": "2025-09-10T12:43:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Grid-forming battery storage: ‘Standby consumption will be higher’ says Australia&#8217;s AGL",
       "url": "https://www.energy-storage.news/grid-forming-battery-storage-standby-consumption-will-be-higher-says-australias-agl/",
       "date": "2025-09-02T04:39:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Securing the future of energy storage: Navigating the cybersecurity landscape",
-      "url": "https://www.energy-storage.news/securing-the-future-of-energy-storage-navigating-the-cybersecurity-landscape/",
-      "date": "2025-09-02T04:28:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
