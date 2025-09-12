@@ -1,6 +1,69 @@
 {
-  "ts": 1757674842430,
+  "ts": 1757682322187,
   "items": [
+    {
+      "title": "Brazil solar curtailment hits 20% as renewables strain grid infrastructure",
+      "url": "https://www.pv-magazine.com/2025/09/12/brazilian-solar-sector-faces-rising-curtailment-grid-limits/",
+      "date": "2025-09-12T13:00:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Marstek Energy throws down a price gauntlet with new balcony battery",
+      "url": "https://www.pv-magazine.com/2025/09/12/marstek-energy-throws-down-a-price-gauntlet-with-new-balcony-battery/",
+      "date": "2025-09-12T12:58:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "NY local town officials call on moratorium to suspend 1GWh BESS, State representatives issue support for project",
+      "url": "https://www.energy-storage.news/ny-local-town-officials-call-on-moratorium-to-suspend-1gwh-bess-state-representatives-issue-support-for-project/",
+      "date": "2025-09-12T12:03:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "SunCable to supply solar and storage to data centers by 2028",
+      "url": "https://www.pv-magazine.com/2025/09/12/suncable-to-supply-solar-and-storage-to-data-centers-by-2028/",
+      "date": "2025-09-12T12:00:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China targets 180 GW of new energy storage by 2027 in ambitous national plan",
+      "url": "https://www.pv-magazine.com/2025/09/12/china-targets-180-gw-of-new-energy-storage-by-2027-in-ambitous-national-plan/",
+      "date": "2025-09-12T11:51:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "From stability to volatility: rethinking  performance management in today’s changing electricity markets",
+      "url": "https://www.energy-storage.news/from-stability-to-volatility-rethinking-performance-management-in-todays-changing-electricity-markets/",
+      "date": "2025-09-12T11:47:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Self-doubt has prevented many talented women from seizing opportunities they fully deserve&#8217;",
+      "url": "https://www.pv-magazine.com/2025/09/12/self-doubt-has-prevented-many-talented-women-from-seizing-opportunities-they-fully-deserve/",
+      "date": "2025-09-12T11:43:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar-to-X enables industrial defossilization turning power to molecules or materials",
+      "url": "https://www.pv-magazine.com/2025/09/12/solar-to-x-enables-industrial-defossilization-turning-power-to-molecules-or-materials/",
+      "date": "2025-09-12T11:14:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Cummins launches plug-and-play BESS in India for commercial, industrial use",
+      "url": "https://www.pv-magazine.com/2025/09/12/cummins-launches-plug-and-play-bess-in-india-for-commercial-industrial-use/",
+      "date": "2025-09-12T11:00:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "How IEC standards can help renewables adapt to climate change?",
       "url": "https://www.pv-magazine.com/2025/09/12/how-iec-standards-can-help-renewables-adapt-to-climate-change/",
@@ -174,55 +237,6 @@
       "url": "https://www.energy-storage.news/storage-as-fundamental-as-generation-dtek-and-fluence-turn-on-200mw-ukraine-bess/",
       "date": "2025-09-11T10:03:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China&#8217;s intelamp sets world record for solar-powered LED display",
-      "url": "https://www.pv-magazine.com/2025/09/11/chinas-intelamp-sets-world-record-for-solar-powered-led-display/",
-      "date": "2025-09-11T09:19:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany&#8217;s largest agrivoltaic project goes online",
-      "url": "https://www.pv-magazine.com/2025/09/11/germanys-largest-agrivoltaic-project-goes-online/",
-      "date": "2025-09-11T09:00:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Powering ferries with floating PV, hydrogen",
-      "url": "https://www.pv-magazine.com/2025/09/11/powering-ferries-with-floating-pv-hydrogen/",
-      "date": "2025-09-11T08:39:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Canadian startup launches residential heat pump with 24/7 monitoring",
-      "url": "https://www.pv-magazine.com/2025/09/11/canadian-startup-launches-residential-heat-pump-with-24-7-monitoring/",
-      "date": "2025-09-11T07:45:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Honeywell introduces all-in-one, modular BESS for C&#038;I segment",
-      "url": "https://www.pv-magazine.com/2025/09/11/honeywell-introduces-all-in-one-modular-bess-for-ci-segment/",
-      "date": "2025-09-11T07:45:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Vehicle integrated PV potential measured over a million km in Netherlands, Germany",
-      "url": "https://www.pv-magazine.com/2025/09/11/vehicle-integrated-pv-potential-measured-over-a-million-km-in-netherlands-germany/",
-      "date": "2025-09-11T07:18:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ClearVue unveils Gen3 solar glass with 66% higher energy output",
-      "url": "https://www.pv-magazine.com/2025/09/11/clearvue-unveils-gen3-solar-glass-with-66-higher-energy-output/",
-      "date": "2025-09-11T06:45:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "HEIT sale &#8216;proved us right&#8217; about private capital and BESS, Harmony says",
       "url": "https://www.energy-storage.news/heit-sale-proved-us-right-about-private-capital-and-bess-harmony-says/",
       "date": "2025-09-02T09:13:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Vertically integrated cell-BESS suppliers lose market share as competition increases",
-      "url": "https://www.energy-storage.news/vertically-integrated-cell-bess-suppliers-lose-market-share-as-competition-increases/",
-      "date": "2025-09-02T08:13:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Grid-forming battery storage: ‘Standby consumption will be higher’ says Australia&#8217;s AGL",
-      "url": "https://www.energy-storage.news/grid-forming-battery-storage-standby-consumption-will-be-higher-says-australias-agl/",
-      "date": "2025-09-02T04:39:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
