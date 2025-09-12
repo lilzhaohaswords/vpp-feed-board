@@ -1,6 +1,34 @@
 {
-  "ts": 1757660470178,
+  "ts": 1757666488674,
   "items": [
+    {
+      "title": "California orders utilities to adopt dynamic power pricing",
+      "url": "https://www.pv-magazine.com/2025/09/12/california-orders-utilities-to-adopt-dynamic-power-pricing/",
+      "date": "2025-09-12T08:30:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Lack of information, financing among barriers to UK’s heat pump adoption",
+      "url": "https://www.pv-magazine.com/2025/09/12/lack-of-information-financing-among-barriers-to-uks-heat-pump-adoption/",
+      "date": "2025-09-12T08:00:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The Hydrogen Stream: Qatari team outlines solar hybrid station design",
+      "url": "https://www.pv-magazine.com/2025/09/12/the-hydrogen-stream-qatari-team-outlines-solar-hybrid-station-design/",
+      "date": "2025-09-12T07:30:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Uncovering attitudes towards agrivoltaics via community engagement",
+      "url": "https://www.pv-magazine.com/2025/09/12/uncovering-attitudes-towards-agrivoltaics-via-community-engagement/",
+      "date": "2025-09-12T07:00:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US studies show 2050 cost forecasts for solar, wind and batteries far too high",
       "url": "https://www.pv-magazine.com/2025/09/12/us-studies-show-2050-cost-forecasts-for-solar-wind-and-batteries-far-too-high/",
@@ -215,34 +243,6 @@
       "title": "Solar floodplains and fault lines",
       "url": "https://www.pv-magazine.com/2025/09/10/solar-floodplains-and-fault-lines/",
       "date": "2025-09-10T12:43:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Panasonic testing new energy management system to combine solar, heat pumps, batteries",
-      "url": "https://www.pv-magazine.com/2025/09/10/panasonic-testing-new-energy-management-system-to-combine-solar-heat-pumps-batteries/",
-      "date": "2025-09-10T12:38:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Netherlands adds around 550 MW of small-scale solar in H1",
-      "url": "https://www.pv-magazine.com/2025/09/10/the-netherlands-adds-around-550-mw-of-small-scale-solar-in-h1/",
-      "date": "2025-09-10T12:25:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Renewables investments shifting from US to EU, says BloombergNEF",
-      "url": "https://www.pv-magazine.com/2025/09/10/renewables-investments-shifting-from-us-to-eu-says-bloombergnef/",
-      "date": "2025-09-10T11:20:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese scientists develop colorless solar concentrator for PV windows",
-      "url": "https://www.pv-magazine.com/2025/09/10/chinese-scientists-develop-colorless-solar-concentrator-for-pv-windows/",
-      "date": "2025-09-10T11:01:58.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
