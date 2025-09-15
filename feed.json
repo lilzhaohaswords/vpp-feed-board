@@ -1,6 +1,13 @@
 {
-  "ts": 1757912474502,
+  "ts": 1757919081807,
   "items": [
+    {
+      "title": "California risks losing major virtual power plant program as funds dry up",
+      "url": "https://www.pv-magazine.com/2025/09/15/california-risks-losing-major-virtual-power-plant-program-as-funds-dry-up/",
+      "date": "2025-09-15T06:42:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hithium, Fotowatio Renewable Ventures partner for first time with 500MWh grid-forming BESS in Australia",
       "url": "https://www.energy-storage.news/hithium-fotowatio-renewable-ventures-partner-for-first-time-with-500mwh-grid-forming-bess-in-australia/",
@@ -208,13 +215,6 @@
       "title": "Vertical rooftop PV deployed in Spain with east-west orientation",
       "url": "https://www.pv-magazine.com/2025/09/11/vertical-rooftop-pv-deployed-in-spain-with-east-west-orientation/",
       "date": "2025-09-11T12:00:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Yunt releases MPPT module with 4 independent trackers for C&#038;I use",
-      "url": "https://www.pv-magazine.com/2025/09/11/yunt-releases-mppt-module-with-4-independent-trackers-for-ci-use/",
-      "date": "2025-09-11T11:51:33.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
