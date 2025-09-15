@@ -1,6 +1,27 @@
 {
-  "ts": 1757934058109,
+  "ts": 1757937716126,
   "items": [
+    {
+      "title": "Philippines updates net-metering rules to ease adoption for 17,000 users",
+      "url": "https://www.pv-magazine.com/2025/09/15/philippines-updates-net-metering-rules-to-ease-adoption-for-17000-users/",
+      "date": "2025-09-15T12:00:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Poland allocates record budget for home solar, storage rebate scheme",
+      "url": "https://www.pv-magazine.com/2025/09/15/poland-allocates-record-budget-for-home-solar-storage-rebate-scheme/",
+      "date": "2025-09-15T11:38:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "12.5GWh of grid-scale BESS commissioned in August, including largest single-phase LFP project ever",
+      "url": "https://www.energy-storage.news/12-5gwh-of-grid-scale-bess-commissioned-in-august-including-largest-single-phase-lfp-project-ever/",
+      "date": "2025-09-15T11:32:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Midea launches air-to-air heat pump for high latitudes",
       "url": "https://www.pv-magazine.com/2025/09/15/midea-launches-air-to-air-heat-pump-for-high-latitudes/",
@@ -187,20 +208,6 @@
       "title": "Chinese PV Industry Brief: Tongwei, GCL and Daqo post steep H1 losses",
       "url": "https://www.pv-magazine.com/2025/09/12/chinese-pv-industry-brief-tongwei-gcl-and-daqo-post-steep-h1-losses/",
       "date": "2025-09-12T09:30:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China’s TOPCon cell prices rise on tighter downstream oversight",
-      "url": "https://www.pv-magazine.com/2025/09/12/chinas-topcon-cell-prices-rise-on-tighter-downstream-oversight/",
-      "date": "2025-09-12T09:09:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "California orders utilities to offer dynamic power pricing",
-      "url": "https://www.pv-magazine.com/2025/09/12/california-orders-utilities-to-adopt-dynamic-power-pricing/",
-      "date": "2025-09-12T08:30:57.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Maryland county officials deny rezoning request for East Point Energy&#8217;s 600MWh BESS project",
       "url": "https://www.energy-storage.news/maryland-county-officials-deny-rezoning-request-for-east-point-energys-600mwh-bess-project/",
       "date": "2025-09-02T11:03:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BESS codes, constructability and safety require technical, regulatory insight: 10 tips from an EPC",
-      "url": "https://www.energy-storage.news/bess-codes-constructability-and-safety-require-technical-regulatory-insight-10-tips-from-an-epc/",
-      "date": "2025-09-02T09:19:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
