@@ -1,6 +1,34 @@
 {
-  "ts": 1757921509530,
+  "ts": 1757925844924,
   "items": [
+    {
+      "title": "Dow releases new silicone gel for high voltage PV",
+      "url": "https://www.pv-magazine.com/2025/09/15/dow-releases-new-silicone-gel-for-high-voltage-pv/",
+      "date": "2025-09-15T08:17:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bluetti, EcoFlow, Jackery debut new battery systems at RE+ 2025",
+      "url": "https://www.pv-magazine.com/2025/09/15/bluetti-ecoflow-jackery-debut-new-battery-systems-at-re-2025/",
+      "date": "2025-09-15T08:15:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Dow releases new silicone gel for higher voltage PV",
+      "url": "https://www.pv-magazine.com/2025/09/15/dow-releases-new-silicone-gel-for-higher-voltage-pv/",
+      "date": "2025-09-15T07:54:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Itoki, Hitachi, Tokuyama recycle solar glass for office furniture",
+      "url": "https://www.pv-magazine.com/2025/09/15/itoki-hitachi-tokuyama-recycle-solar-glass-for-office-furniture/",
+      "date": "2025-09-15T07:41:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia rooftop solar hits 26.8 GW as home battery uptake surges",
       "url": "https://www.pv-magazine.com/2025/09/15/australia-rooftop-solar-hits-26-8-gw-as-home-battery-uptake-surges/",
@@ -114,7 +142,7 @@
       "bucket": "A"
     },
     {
-      "title": "How IEC standards can help renewables adapt to climate change?",
+      "title": "How can IEC standards help renewables adapt to climate change?",
       "url": "https://www.pv-magazine.com/2025/09/12/how-iec-standards-can-help-renewables-adapt-to-climate-change/",
       "date": "2025-09-12T10:53:50.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -177,13 +205,6 @@
       "bucket": "A"
     },
     {
-      "title": "US studies show 2050 cost forecasts for solar, wind and batteries far too high",
-      "url": "https://www.pv-magazine.com/2025/09/12/us-studies-show-2050-cost-forecasts-for-solar-wind-and-batteries-far-too-high/",
-      "date": "2025-09-12T06:44:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Hithium, Storion announce non-lithium BESS advances in US",
       "url": "https://www.energy-storage.news/hithium-storion-announce-non-lithium-bess-advances-in-us/",
       "date": "2025-09-11T18:58:02.000Z",
@@ -195,27 +216,6 @@
       "url": "https://www.energy-storage.news/primergy-gridstor-sunraycer-and-plus-power-progress-large-scale-us-bess-projects/",
       "date": "2025-09-11T15:43:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ukraine’s biggest battery storage project goes online",
-      "url": "https://www.pv-magazine.com/2025/09/11/ukraines-biggest-battery-storage-project-goes-online/",
-      "date": "2025-09-11T15:30:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "BMW, E.ON offer bidirectional EV charging tariff",
-      "url": "https://www.pv-magazine.com/2025/09/11/bmw-eon-offer-bidirectional-ev-charging-tariff/",
-      "date": "2025-09-11T15:15:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Latin America’s energy storage market set to hit 23 GW by 2034",
-      "url": "https://www.pv-magazine.com/2025/09/11/latin-americas-energy-storage-market-set-to-hit-23-gw-by-2034/",
-      "date": "2025-09-11T14:22:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
