@@ -1,6 +1,20 @@
 {
-  "ts": 1757919081807,
+  "ts": 1757921509530,
   "items": [
+    {
+      "title": "Australia rooftop solar hits 26.8 GW as home battery uptake surges",
+      "url": "https://www.pv-magazine.com/2025/09/15/australia-rooftop-solar-hits-26-8-gw-as-home-battery-uptake-surges/",
+      "date": "2025-09-15T07:30:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hydrogen can mitigate curtailment in floating PV-pumped hydro energy storage systems",
+      "url": "https://www.pv-magazine.com/2025/09/15/hydrogen-can-mitigate-curtailment-in-floating-pv-pumped-hydro-energy-storage-systems/",
+      "date": "2025-09-15T07:19:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "California risks losing major virtual power plant program as funds dry up",
       "url": "https://www.pv-magazine.com/2025/09/15/california-risks-losing-major-virtual-power-plant-program-as-funds-dry-up/",
@@ -201,20 +215,6 @@
       "title": "Latin America’s energy storage market set to hit 23 GW by 2034",
       "url": "https://www.pv-magazine.com/2025/09/11/latin-americas-energy-storage-market-set-to-hit-23-gw-by-2034/",
       "date": "2025-09-11T14:22:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US authorities warn of hidden radios in PV-powered highway infrastructure",
-      "url": "https://www.pv-magazine.com/2025/09/11/us-authorities-warn-of-hidden-radios-in-pv-powered-highway-infrastructure/",
-      "date": "2025-09-11T13:41:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Vertical rooftop PV deployed in Spain with east-west orientation",
-      "url": "https://www.pv-magazine.com/2025/09/11/vertical-rooftop-pv-deployed-in-spain-with-east-west-orientation/",
-      "date": "2025-09-11T12:00:20.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
