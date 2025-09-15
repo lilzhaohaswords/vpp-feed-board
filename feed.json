@@ -1,5 +1,5 @@
 {
-  "ts": 1757925844924,
+  "ts": 1757928884625,
   "items": [
     {
       "title": "Dow releases new silicone gel for high voltage PV",
@@ -12,13 +12,6 @@
       "title": "Bluetti, EcoFlow, Jackery debut new battery systems at RE+ 2025",
       "url": "https://www.pv-magazine.com/2025/09/15/bluetti-ecoflow-jackery-debut-new-battery-systems-at-re-2025/",
       "date": "2025-09-15T08:15:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Dow releases new silicone gel for higher voltage PV",
-      "url": "https://www.pv-magazine.com/2025/09/15/dow-releases-new-silicone-gel-for-higher-voltage-pv/",
-      "date": "2025-09-15T07:54:29.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -201,6 +194,13 @@
       "title": "Uncovering attitudes towards agrivoltaics via community engagement",
       "url": "https://www.pv-magazine.com/2025/09/12/uncovering-attitudes-towards-agrivoltaics-via-community-engagement/",
       "date": "2025-09-12T07:00:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US studies show 2050 cost forecasts for solar, wind and batteries far too high",
+      "url": "https://www.pv-magazine.com/2025/09/12/us-studies-show-2050-cost-forecasts-for-solar-wind-and-batteries-far-too-high/",
+      "date": "2025-09-12T06:44:59.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
