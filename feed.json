@@ -1,6 +1,20 @@
 {
-  "ts": 1757944938898,
+  "ts": 1757948442143,
   "items": [
+    {
+      "title": "IB Solar plans 4 GW TOPCon cell and module factory in India",
+      "url": "https://www.pv-magazine.com/2025/09/15/ib-solar-plans-4-gw-topcon-cell-and-module-factory-in-india/",
+      "date": "2025-09-15T14:32:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Axpo, energieUri and Fluence building 58.6MW of Swiss BESS",
+      "url": "https://www.energy-storage.news/axpo-energieuri-and-fluence-building-58-6mw-of-swiss-bess/",
+      "date": "2025-09-15T14:20:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Italy&#8217;s second Fer X solar auction draws bids for 10.1 GW",
       "url": "https://www.pv-magazine.com/2025/09/15/italys-second-fer-x-solar-auction-draws-bids-for-10-1-gw/",
@@ -202,13 +216,6 @@
       "url": "https://www.energy-storage.news/return-n2off-embark-on-germany-bess-projects/",
       "date": "2025-09-12T10:33:53.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar surge hits most of Europe in August",
-      "url": "https://www.pv-magazine.com/2025/09/12/solar-surge-hits-most-of-europe-in-august/",
-      "date": "2025-09-12T09:55:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "How PAE Engineers is incorporating microgrids into sustainable building designs",
       "url": "https://www.energy-storage.news/how-pae-engineers-is-incorporating-microgrids-into-sustainable-building-designs/",
       "date": "2025-09-02T12:08:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Maryland county officials deny rezoning request for East Point Energy&#8217;s 600MWh BESS project",
-      "url": "https://www.energy-storage.news/maryland-county-officials-deny-rezoning-request-for-east-point-energys-600mwh-bess-project/",
-      "date": "2025-09-02T11:03:37.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
