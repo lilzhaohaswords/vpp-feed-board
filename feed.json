@@ -1,6 +1,13 @@
 {
-  "ts": 1758020464443,
+  "ts": 1758028786420,
   "items": [
+    {
+      "title": "Can BESS answer US data center power demand?",
+      "url": "https://www.pv-magazine.com/2025/09/16/can-bess-answer-us-data-center-power-demand/",
+      "date": "2025-09-16T12:32:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Researchers identify main source of wide-bandgap solar perovskite degradation",
       "url": "https://www.pv-magazine.com/2025/09/16/researchers-identify-main-source-of-wide-bandgap-solar-perovskite-degradation/",
@@ -201,13 +208,6 @@
       "title": "Itoki, Hitachi, Tokuyama recycle solar glass for office furniture",
       "url": "https://www.pv-magazine.com/2025/09/15/itoki-hitachi-tokuyama-recycle-solar-glass-for-office-furniture/",
       "date": "2025-09-15T07:41:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia rooftop solar hits 26.8 GW as home battery uptake surges",
-      "url": "https://www.pv-magazine.com/2025/09/15/australia-rooftop-solar-hits-26-8-gw-as-home-battery-uptake-surges/",
-      "date": "2025-09-15T07:30:28.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
