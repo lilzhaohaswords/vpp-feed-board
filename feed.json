@@ -1,6 +1,13 @@
 {
-  "ts": 1758019126966,
+  "ts": 1758020464443,
   "items": [
+    {
+      "title": "Researchers identify main source of wide-bandgap solar perovskite degradation",
+      "url": "https://www.pv-magazine.com/2025/09/16/researchers-identify-main-source-of-wide-bandgap-solar-perovskite-degradation/",
+      "date": "2025-09-16T10:42:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Explosion test ‘demonstrates effectiveness’ of BESS safety control system, Wärtsilä says",
       "url": "https://www.energy-storage.news/explosion-test-demonstrates-effectiveness-of-bess-safety-control-system-wartsila-says/",
@@ -201,13 +208,6 @@
       "title": "Australia rooftop solar hits 26.8 GW as home battery uptake surges",
       "url": "https://www.pv-magazine.com/2025/09/15/australia-rooftop-solar-hits-26-8-gw-as-home-battery-uptake-surges/",
       "date": "2025-09-15T07:30:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hydrogen can mitigate curtailment in floating PV-pumped hydro energy storage systems",
-      "url": "https://www.pv-magazine.com/2025/09/15/hydrogen-can-mitigate-curtailment-in-floating-pv-pumped-hydro-energy-storage-systems/",
-      "date": "2025-09-15T07:19:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
