@@ -1,6 +1,20 @@
 {
-  "ts": 1758005357194,
+  "ts": 1758007770427,
   "items": [
+    {
+      "title": "Chinese Academy of Sciences developing thermoacoustic heat pump for industrial applications",
+      "url": "https://www.pv-magazine.com/2025/09/16/chinese-academy-of-sciences-developing-thermoacoustic-heat-pump-for-industrial-applications/",
+      "date": "2025-09-16T07:25:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ukrainian hospital receives solar-plus-storage system",
+      "url": "https://www.pv-magazine.com/2025/09/16/ukrainian-hospital-receives-solar-plus-storage-system/",
+      "date": "2025-09-16T06:55:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US solar faces steep cuts as OBBBA phases out key tax credits",
       "url": "https://www.pv-magazine.com/2025/09/16/us-solar-faces-steep-cuts-as-obbba-phases-out-key-tax-credits/",
@@ -187,20 +201,6 @@
       "title": "S&#038;P Global unveils 2025 Tier 1 module, inverter, battery supplier list",
       "url": "https://www.pv-magazine.com/2025/09/12/sp-global-unveils-2025-tier-1-module-inverter-battery-supplier-list/",
       "date": "2025-09-12T14:00:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil solar curtailment hits 20% as renewables strain grid infrastructure",
-      "url": "https://www.pv-magazine.com/2025/09/12/brazilian-solar-sector-faces-rising-curtailment-grid-limits/",
-      "date": "2025-09-12T13:00:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Marstek Energy throws down a price gauntlet with new balcony battery",
-      "url": "https://www.pv-magazine.com/2025/09/12/marstek-energy-throws-down-a-price-gauntlet-with-new-balcony-battery/",
-      "date": "2025-09-12T12:58:16.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
