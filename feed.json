@@ -1,6 +1,27 @@
 {
-  "ts": 1758013256111,
+  "ts": 1758019126966,
   "items": [
+    {
+      "title": "Explosion test ‘demonstrates effectiveness’ of BESS safety control system, Wärtsilä says",
+      "url": "https://www.energy-storage.news/explosion-test-demonstrates-effectiveness-of-bess-safety-control-system-wartsila-says/",
+      "date": "2025-09-16T10:21:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ignitis orders 582MWh from Rolls-Royce, Olana takes FID on Lithuania BESS projects",
+      "url": "https://www.energy-storage.news/ignitis-orders-582mwh-from-rolls-royce-olana-takes-fid-on-lithuania-bess-projects/",
+      "date": "2025-09-16T10:13:18.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "GCL to raise $450 million for China polysilicon consolidation plan",
+      "url": "https://www.pv-magazine.com/2025/09/16/gcl-to-raise-450-million-for-china-polysilicon-consolidation-plan/",
+      "date": "2025-09-16T09:50:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Saudi Arabia launches 3.1 GW solar tender",
       "url": "https://www.pv-magazine.com/2025/09/16/saudi-arabia-launches-3-1-gw-solar-tender/",
@@ -100,7 +121,7 @@
       "bucket": "A"
     },
     {
-      "title": "Italy&#8217;s second Fer X solar auction draws bids for 10.1 GW",
+      "title": "Italy&#8217;s first Fer X solar auction draws bids for 10.1 GW",
       "url": "https://www.pv-magazine.com/2025/09/15/italys-second-fer-x-solar-auction-draws-bids-for-10-1-gw/",
       "date": "2025-09-15T12:20:28.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -187,13 +208,6 @@
       "title": "Hydrogen can mitigate curtailment in floating PV-pumped hydro energy storage systems",
       "url": "https://www.pv-magazine.com/2025/09/15/hydrogen-can-mitigate-curtailment-in-floating-pv-pumped-hydro-energy-storage-systems/",
       "date": "2025-09-15T07:19:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "California risks losing major virtual power plant program as funds dry up",
-      "url": "https://www.pv-magazine.com/2025/09/15/california-risks-losing-major-virtual-power-plant-program-as-funds-dry-up/",
-      "date": "2025-09-15T06:42:02.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Chile: Big renewables-plus-storage project progress from Grenergy, AES and Verano",
       "url": "https://www.energy-storage.news/chile-big-renewables-plus-storage-project-progress-from-grenergy-aes-and-verano/",
       "date": "2025-09-03T09:58:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UK BESS operators complete 427MW of grid-scale capacity in August",
-      "url": "https://www.energy-storage.news/uk-bess-operators-complete-427mw-of-grid-scale-capacity-in-august/",
-      "date": "2025-09-03T07:09:39.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "910MWh of BESS from Quinbrook, Akaysha Energy nears commissioning in Queensland, Australia",
-      "url": "https://www.energy-storage.news/910mwh-of-bess-from-quinbrook-akaysha-energy-nears-commissioning-in-queensland-australia/",
-      "date": "2025-09-03T02:35:48.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
