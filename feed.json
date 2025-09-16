@@ -1,6 +1,20 @@
 {
-  "ts": 1758028786420,
+  "ts": 1758033542889,
   "items": [
+    {
+      "title": "Chinese BESS players still hope to supply US in FEOC policy environment",
+      "url": "https://www.energy-storage.news/chinese-bess-players-still-hope-to-supply-us-in-feoc-policy-environment/",
+      "date": "2025-09-16T14:23:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "French city favors domestic modules in 6.8 MW solar carport tender",
+      "url": "https://www.pv-magazine.com/2025/09/16/french-city-favors-domestic-modules-in-6-8-mw-solar-carport-tender/",
+      "date": "2025-09-16T14:15:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Can BESS answer US data center power demand?",
       "url": "https://www.pv-magazine.com/2025/09/16/can-bess-answer-us-data-center-power-demand/",
@@ -201,13 +215,6 @@
       "title": "Bluetti, EcoFlow, Jackery debut new battery systems at RE+ 2025",
       "url": "https://www.pv-magazine.com/2025/09/15/bluetti-ecoflow-jackery-debut-new-battery-systems-at-re-2025/",
       "date": "2025-09-15T08:15:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Itoki, Hitachi, Tokuyama recycle solar glass for office furniture",
-      "url": "https://www.pv-magazine.com/2025/09/15/itoki-hitachi-tokuyama-recycle-solar-glass-for-office-furniture/",
-      "date": "2025-09-15T07:41:40.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Tips from an EPC to navigate complex BESS codes, constructability and safety, Pt. 2",
       "url": "https://www.energy-storage.news/tips-from-an-epc-to-navigate-complex-bess-codes-constructability-and-safety-pt-2/",
       "date": "2025-09-03T10:45:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chile: Big renewables-plus-storage project progress from Grenergy, AES and Verano",
-      "url": "https://www.energy-storage.news/chile-big-renewables-plus-storage-project-progress-from-grenergy-aes-and-verano/",
-      "date": "2025-09-03T09:58:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
