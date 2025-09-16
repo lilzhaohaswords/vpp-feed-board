@@ -1,6 +1,13 @@
 {
-  "ts": 1758033542889,
+  "ts": 1758036802517,
   "items": [
+    {
+      "title": "Turbo Energy secures 336MWh C&#038;I battery storage order in Spain",
+      "url": "https://www.energy-storage.news/turbo-energy-secures-336mwh-ci-battery-storage-order-in-spain/",
+      "date": "2025-09-16T15:28:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Chinese BESS players still hope to supply US in FEOC policy environment",
       "url": "https://www.energy-storage.news/chinese-bess-players-still-hope-to-supply-us-in-feoc-policy-environment/",
@@ -516,13 +523,6 @@
       "title": "Fire at Arevon Energy’s California solar-plus-storage facility",
       "url": "https://www.energy-storage.news/fire-at-arevon-energys-california-solar-plus-storage-facility/",
       "date": "2025-09-03T13:10:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Tips from an EPC to navigate complex BESS codes, constructability and safety, Pt. 2",
-      "url": "https://www.energy-storage.news/tips-from-an-epc-to-navigate-complex-bess-codes-constructability-and-safety-pt-2/",
-      "date": "2025-09-03T10:45:47.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
