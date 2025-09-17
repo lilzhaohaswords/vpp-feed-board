@@ -1,6 +1,27 @@
 {
-  "ts": 1758115118146,
+  "ts": 1758119802358,
   "items": [
+    {
+      "title": "Samsung SDI to start US BESS manufacturing from 2026",
+      "url": "https://www.energy-storage.news/samsung-sdi-to-start-us-bess-manufacturing-from-2026/",
+      "date": "2025-09-17T14:21:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Arkansas utility seeks approval of 1.4GWh hybrid BESS, with financial support from Google as part of data centre deal",
+      "url": "https://www.energy-storage.news/arkansas-utility-seeks-approval-of-1-4gwh-hybrid-bess-with-financial-support-from-google-as-part-of-data-centre-deal/",
+      "date": "2025-09-17T14:14:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Scaling perovskite tandems’ U.S. prospects",
+      "url": "https://www.pv-magazine.com/2025/09/17/scaling-perovskite-tandems-u-s-prospects/",
+      "date": "2025-09-17T14:14:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India to extend approved list of solar parts to wafers by 2028",
       "url": "https://www.pv-magazine.com/2025/09/17/india-to-extend-approved-list-of-solar-parts-to-wafers-by-2028/",
@@ -229,13 +250,6 @@
       "title": "Malaysian utility plans solar expansion",
       "url": "https://www.pv-magazine.com/2025/09/15/malaysian-utility-plans-solar-expansion/",
       "date": "2025-09-15T15:00:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "IB Solar plans 4 GW TOPCon cell and module factory in India",
-      "url": "https://www.pv-magazine.com/2025/09/15/ib-solar-plans-4-gw-topcon-cell-and-module-factory-in-india/",
-      "date": "2025-09-15T14:32:07.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Swift Current Energy closes US$242 million financing for Virginia battery storage project",
       "url": "https://www.energy-storage.news/swift-current-energy-closes-us242-million-financing-for-virginia-battery-storage-project/",
       "date": "2025-09-04T13:05:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Texas: Ormat brings online 120MWh BESS, Engie partners with data centre developer",
-      "url": "https://www.energy-storage.news/texas-ormat-brings-online-120mwh-bess-engie-partners-with-data-centre-developer/",
-      "date": "2025-09-04T12:55:26.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "South African government&#8217;s 11GWh BESS procurement in charts",
-      "url": "https://www.energy-storage.news/south-africa-governments-11gwh-bess-procurement-visualised/",
-      "date": "2025-09-04T06:45:37.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
