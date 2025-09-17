@@ -1,6 +1,27 @@
 {
-  "ts": 1758099665504,
+  "ts": 1758105458570,
   "items": [
+    {
+      "title": "Improving diamond wire sawing to reduce kerf loss in solar wafer production",
+      "url": "https://www.pv-magazine.com/2025/09/17/improving-diamond-wire-sawing-to-reduce-kerf-loss-in-solar-wafer-production/",
+      "date": "2025-09-17T10:24:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany adds 1.95 GW of new solar in August",
+      "url": "https://www.pv-magazine.com/2025/09/17/germany-adds-1-95-gw-of-new-solar-in-august/",
+      "date": "2025-09-17T09:37:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sympower and Suena raise combined €27 million for European BESS optimisation, international expansion",
+      "url": "https://www.energy-storage.news/sympower-and-suena-raise-combined-e27-million-for-european-bess-optimisation-international-expansion/",
+      "date": "2025-09-17T09:31:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Polycab launches 350 kW string inverter for utility-scale solar projects",
       "url": "https://www.pv-magazine.com/2025/09/17/polycab-launches-350kw-three-phase-string-inverter-for-utility-scale-solar-projects/",
@@ -226,24 +247,10 @@
       "bucket": "A"
     },
     {
-      "title": "Poland allocates record budget for home solar, storage rebate scheme",
-      "url": "https://www.pv-magazine.com/2025/09/15/poland-allocates-record-budget-for-home-solar-storage-rebate-scheme/",
-      "date": "2025-09-15T11:38:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "12.5GWh of grid-scale BESS commissioned in August, including largest single-phase LFP project ever",
       "url": "https://www.energy-storage.news/12-5gwh-of-grid-scale-bess-commissioned-in-august-including-largest-single-phase-lfp-project-ever/",
       "date": "2025-09-15T11:32:43.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Midea launches air-to-air heat pump for high latitudes",
-      "url": "https://www.pv-magazine.com/2025/09/15/midea-launches-air-to-air-heat-pump-for-high-latitudes/",
-      "date": "2025-09-15T10:57:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "South African government&#8217;s 11GWh BESS procurement in charts",
       "url": "https://www.energy-storage.news/south-africa-governments-11gwh-bess-procurement-visualised/",
       "date": "2025-09-04T06:45:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s CEFC commits record AU$3.8 billion to Victoria-Tasmania Marinus Link interconnector",
-      "url": "https://www.energy-storage.news/australias-cefc-commits-record-au3-8-billion-to-victoria-tasmania-marinus-link-interconnector/",
-      "date": "2025-09-04T05:57:12.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
