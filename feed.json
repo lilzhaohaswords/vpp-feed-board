@@ -1,6 +1,13 @@
 {
-  "ts": 1758106877650,
+  "ts": 1758115118146,
   "items": [
+    {
+      "title": "India to extend approved list of solar parts to wafers by 2028",
+      "url": "https://www.pv-magazine.com/2025/09/17/india-to-extend-approved-list-of-solar-parts-to-wafers-by-2028/",
+      "date": "2025-09-17T12:30:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "QatarEnergy selects Samsung C&#038;T for 2 GW solar project",
       "url": "https://www.pv-magazine.com/2025/09/17/qatarenergy-selects-samsung-ct-for-2-gw-solar-project/",
@@ -237,13 +244,6 @@
       "url": "https://www.energy-storage.news/axpo-energieuri-and-fluence-building-58-6mw-of-swiss-bess/",
       "date": "2025-09-15T14:20:33.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy&#8217;s first Fer X solar auction draws bids for 10.1 GW",
-      "url": "https://www.pv-magazine.com/2025/09/15/italys-second-fer-x-solar-auction-draws-bids-for-10-1-gw/",
-      "date": "2025-09-15T12:20:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
