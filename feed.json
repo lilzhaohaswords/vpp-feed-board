@@ -1,6 +1,13 @@
 {
-  "ts": 1758123201000,
+  "ts": 1758124885553,
   "items": [
+    {
+      "title": "Czech electricity distributor connects 253 MW of solar in H1",
+      "url": "https://www.pv-magazine.com/2025/09/17/czech-electricity-distributor-connects-253-mw-of-solar-in-h1/",
+      "date": "2025-09-17T15:45:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Scatec’s investment portfolio in Egypt valued at $3.6 billion",
       "url": "https://www.pv-magazine.com/2025/09/17/scatecs-investment-portfolio-in-egypt-valued-at-3-6-billion/",
@@ -236,13 +243,6 @@
       "title": "Ukrainian hospital receives solar-plus-storage system",
       "url": "https://www.pv-magazine.com/2025/09/16/ukrainian-hospital-receives-solar-plus-storage-system/",
       "date": "2025-09-16T06:55:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US solar faces steep cuts as OBBBA phases out key tax credits",
-      "url": "https://www.pv-magazine.com/2025/09/16/us-solar-faces-steep-cuts-as-obbba-phases-out-key-tax-credits/",
-      "date": "2025-09-16T06:45:37.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
