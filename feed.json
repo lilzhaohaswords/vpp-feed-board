@@ -1,6 +1,41 @@
 {
-  "ts": 1758193221373,
+  "ts": 1758201558941,
   "items": [
+    {
+      "title": "National Fire Protection Association releases NFPA 855 ESS safety standard, 2026 edition",
+      "url": "https://www.energy-storage.news/national-fire-protection-association-releases-nfpa-855-ess-safety-standard-2026-edition/",
+      "date": "2025-09-18T13:18:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "German airport installs solar modules on chimney of thermal power plant",
+      "url": "https://www.pv-magazine.com/2025/09/18/german-airport-installs-solar-modules-on-chimney-of-thermal-power-plant/",
+      "date": "2025-09-18T13:15:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China connects largest battery-supercapacitor hybrid storage plant",
+      "url": "https://www.pv-magazine.com/2025/09/18/china-connects-largest-battery-supercapacitor-hybrid-storage-plant/",
+      "date": "2025-09-18T12:00:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Scientists boost organic solar cell efficiency using polymer zwitterions",
+      "url": "https://www.pv-magazine.com/2025/09/18/scientists-boost-organic-solar-cell-efficiency-using-polymer-zwitterions/",
+      "date": "2025-09-18T11:57:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "South Africa deploys 928 MW of solar in Q1",
+      "url": "https://www.pv-magazine.com/2025/09/18/south-africa-deploys-928-mw-of-solar-in-q1/",
+      "date": "2025-09-18T11:00:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "When quality slips through the cracks: A procurement guide to hidden BESS risks",
       "url": "https://www.energy-storage.news/when-quality-slips-through-the-cracks-a-procurement-guide-to-hidden-bess-risks/",
@@ -247,20 +282,6 @@
       "bucket": "A"
     },
     {
-      "title": "Can BESS answer US data center power demand?",
-      "url": "https://www.pv-magazine.com/2025/09/16/can-bess-answer-us-data-center-power-demand/",
-      "date": "2025-09-16T12:32:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Researchers identify main source of wide-bandgap solar perovskite degradation",
-      "url": "https://www.pv-magazine.com/2025/09/16/researchers-identify-main-source-of-wide-bandgap-solar-perovskite-degradation/",
-      "date": "2025-09-16T10:42:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Explosion test ‘demonstrates effectiveness’ of BESS safety control system, Wärtsilä says",
       "url": "https://www.energy-storage.news/explosion-test-demonstrates-effectiveness-of-bess-safety-control-system-wartsila-says/",
       "date": "2025-09-16T10:21:07.000Z",
@@ -272,20 +293,6 @@
       "url": "https://www.energy-storage.news/ignitis-orders-582mwh-from-rolls-royce-olana-takes-fid-on-lithuania-bess-projects/",
       "date": "2025-09-16T10:13:18.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "GCL to raise $450 million for China polysilicon consolidation plan",
-      "url": "https://www.pv-magazine.com/2025/09/16/gcl-to-raise-450-million-for-china-polysilicon-consolidation-plan/",
-      "date": "2025-09-16T09:50:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Saudi Arabia launches 3.1 GW solar tender",
-      "url": "https://www.pv-magazine.com/2025/09/16/saudi-arabia-launches-3-1-gw-solar-tender/",
-      "date": "2025-09-16T08:56:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "SK On signs 7.2GWh deal to supply US-made LFP batteries to Flatiron Energy Development",
       "url": "https://www.energy-storage.news/sk-on-signs-7-2gwh-deal-to-supply-us-made-lfp-batteries-to-flatiron-energy-development/",
       "date": "2025-09-05T11:59:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Model and maximise C&#038;I battery storage profits with Qcells + Geli",
-      "url": "https://www.energy-storage.news/video-model-and-maximise-ci-battery-storage-profits-with-qcells-geli/",
-      "date": "2025-09-05T11:43:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
