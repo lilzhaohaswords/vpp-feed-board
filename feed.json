@@ -1,6 +1,27 @@
 {
-  "ts": 1758151556109,
+  "ts": 1758164667949,
   "items": [
+    {
+      "title": "Tesla issues Powerwall 2 product recall in Australia following cases of fires",
+      "url": "https://www.energy-storage.news/tesla-issues-powerwall-2-product-recall-in-australia-following-cases-of-fires/",
+      "date": "2025-09-18T02:55:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "South Korea: ‘Companies have no model to recover their investment in DC energy storage’",
+      "url": "https://www.energy-storage.news/south-korea-companies-have-no-model-to-recover-their-investment-in-dc-energy-storage/",
+      "date": "2025-09-18T00:56:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Advanced compressed air energy storage: Hydrostor secures US$55 million for 1.6GWh Australia project",
+      "url": "https://www.energy-storage.news/advanced-compressed-air-energy-storage-hydrostor-secures-us55-million-for-1-6gwh-australia-project/",
+      "date": "2025-09-18T00:05:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Czech electricity distributor connects 253 MW of solar in H1",
       "url": "https://www.pv-magazine.com/2025/09/17/czech-electricity-distributor-connects-253-mw-of-solar-in-h1/",
@@ -502,27 +523,6 @@
       "title": "Fluence deploys first full product ecosystem at Tilt Renewables&#8217; 200MWh BESS in Victoria, Australia",
       "url": "https://www.energy-storage.news/fluence-deploys-first-full-product-ecosystem-at-tilt-renewables-200mwh-bess-in-victoria-australia/",
       "date": "2025-09-05T02:04:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Argentina awards 667MW in first energy storage tender",
-      "url": "https://www.energy-storage.news/argentina-awards-667mw-in-first-energy-storage-tender/",
-      "date": "2025-09-04T15:13:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Washington governor delays approval of hybrid BESS proposal from Cypress Creek Renewables",
-      "url": "https://www.energy-storage.news/washington-governor-delays-approval-of-hybrid-bess-proposal-from-cypress-creek-renewables/",
-      "date": "2025-09-04T14:58:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Swift Current Energy closes US$242 million financing for Virginia battery storage project",
-      "url": "https://www.energy-storage.news/swift-current-energy-closes-us242-million-financing-for-virginia-battery-storage-project/",
-      "date": "2025-09-04T13:05:37.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
