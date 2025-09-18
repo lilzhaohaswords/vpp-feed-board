@@ -1,6 +1,13 @@
 {
-  "ts": 1758170248037,
+  "ts": 1758171650413,
   "items": [
+    {
+      "title": "‘Vertical integration to the dirt in the ground’: Invinity hunts flow battery supply chain, manufacturing advantage",
+      "url": "https://www.energy-storage.news/vertical-integration-to-the-dirt-in-the-ground-invinity-hunts-flow-battery-supply-chain-manufacturing-advantage/",
+      "date": "2025-09-18T04:57:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Tesla issues Powerwall 2 product recall in Australia following cases of fires",
       "url": "https://www.energy-storage.news/tesla-issues-powerwall-2-product-recall-in-australia-following-cases-of-fires/",
@@ -516,13 +523,6 @@
       "title": "SOC errors in LFP batteries are draining revenue &#8211; here&#8217;s how to fix it",
       "url": "https://www.energy-storage.news/soc-errors-in-lfp-batteries-are-draining-revenue-heres-how-to-fix-it/",
       "date": "2025-09-05T05:25:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fluence deploys first full product ecosystem at Tilt Renewables&#8217; 200MWh BESS in Victoria, Australia",
-      "url": "https://www.energy-storage.news/fluence-deploys-first-full-product-ecosystem-at-tilt-renewables-200mwh-bess-in-victoria-australia/",
-      "date": "2025-09-05T02:04:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
