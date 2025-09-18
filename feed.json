@@ -1,6 +1,20 @@
 {
-  "ts": 1758201558941,
+  "ts": 1758204113263,
   "items": [
+    {
+      "title": "Meyer Burger gives up on selling itself as a whole, sells U.S. solar production tools",
+      "url": "https://www.pv-magazine.com/2025/09/18/meyer-burger-gives-up-on-selling-itself-as-a-whole-sells-u-s-solar-production-tools/",
+      "date": "2025-09-18T13:47:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How Canada is driving 8-12GW of storage deployments by 2035 &#8211; ESC report",
+      "url": "https://www.energy-storage.news/how-canada-is-driving-8-12gw-of-storage-deployments-by-2035-esc-report/",
+      "date": "2025-09-18T13:24:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "National Fire Protection Association releases NFPA 855 ESS safety standard, 2026 edition",
       "url": "https://www.energy-storage.news/national-fire-protection-association-releases-nfpa-855-ess-safety-standard-2026-edition/",
@@ -275,13 +289,6 @@
       "bucket": "A"
     },
     {
-      "title": "French city favors domestic modules in 6.8 MW solar carport tender",
-      "url": "https://www.pv-magazine.com/2025/09/16/french-city-favors-domestic-modules-in-6-8-mw-solar-carport-tender/",
-      "date": "2025-09-16T14:15:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Explosion test ‘demonstrates effectiveness’ of BESS safety control system, Wärtsilä says",
       "url": "https://www.energy-storage.news/explosion-test-demonstrates-effectiveness-of-bess-safety-control-system-wartsila-says/",
       "date": "2025-09-16T10:21:07.000Z",
@@ -516,13 +523,6 @@
       "title": "Neoen Australia energises Western Downs BESS Stage 2 six weeks ahead of schedule",
       "url": "https://www.energy-storage.news/neoen-australia-energises-western-downs-bess-stage-2-six-weeks-ahead-of-schedule/",
       "date": "2025-09-08T08:41:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SK On signs 7.2GWh deal to supply US-made LFP batteries to Flatiron Energy Development",
-      "url": "https://www.energy-storage.news/sk-on-signs-7-2gwh-deal-to-supply-us-made-lfp-batteries-to-flatiron-energy-development/",
-      "date": "2025-09-05T11:59:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
