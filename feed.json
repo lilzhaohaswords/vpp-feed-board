@@ -1,6 +1,48 @@
 {
-  "ts": 1758259936487,
+  "ts": 1758264511197,
   "items": [
+    {
+      "title": "Soaring energy storage orders, robust financial performance drive up Chinese ESS cell prices",
+      "url": "https://www.energy-storage.news/soaring-energy-storage-orders-robust-financial-performance-drive-up-chinese-ess-cell-prices/",
+      "date": "2025-09-19T06:23:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Hail damage to solar projects: 1% of filed claims, but over 50% of total losses",
+      "url": "https://www.pv-magazine.com/2025/09/19/hail-damage-to-solar-projects-1-of-filed-claims-but-over-50-of-total-losses/",
+      "date": "2025-09-19T06:22:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Lightsource bp kicks off construction on CIS contract-winning solar-plus-storage plant in Australia",
+      "url": "https://www.energy-storage.news/lightsource-bp-kicks-off-construction-on-cis-contract-winning-solar-plus-storage-plant-in-australia/",
+      "date": "2025-09-19T06:15:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "AlphaESS releases liquid-cooled ESS for commercial, industrial use",
+      "url": "https://www.pv-magazine.com/2025/09/19/alphaess-releases-liquid-cooled-ess-for-commercial-and-industrial-use/",
+      "date": "2025-09-19T06:04:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Making the business case for solar-plus-storage with heat-pumps in Japan",
+      "url": "https://www.pv-magazine.com/2025/09/19/making-the-business-case-for-solar-plus-storage-with-heat-pumps-in-japan/",
+      "date": "2025-09-19T05:39:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Increasing crystalline silicon solar cell efficiency with caesium bromide",
+      "url": "https://www.pv-magazine.com/2025/09/19/increasing-crystalline-silicon-solar-cell-efficiency-with-caesium-bromide/",
+      "date": "2025-09-19T05:35:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar Stewardship Initiative sets new targets, reporting requirements",
       "url": "https://www.pv-magazine.com/2025/09/18/solar-stewardship-initiative-sets-new-targets-reporting-requirements-for-manufacturers/",
@@ -219,38 +261,10 @@
       "bucket": "A"
     },
     {
-      "title": "Improving diamond wire sawing to reduce kerf loss in solar wafer production",
-      "url": "https://www.pv-magazine.com/2025/09/17/improving-diamond-wire-sawing-to-reduce-kerf-loss-in-solar-wafer-production/",
-      "date": "2025-09-17T10:24:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany adds 1.95 GW of new solar in August",
-      "url": "https://www.pv-magazine.com/2025/09/17/germany-adds-1-95-gw-of-new-solar-in-august/",
-      "date": "2025-09-17T09:37:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Sympower and Suena raise combined €27 million for European BESS optimisation, international expansion",
       "url": "https://www.energy-storage.news/sympower-and-suena-raise-combined-e27-million-for-european-bess-optimisation-international-expansion/",
       "date": "2025-09-17T09:31:21.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Polycab launches 350 kW string inverter for utility-scale solar projects",
-      "url": "https://www.pv-magazine.com/2025/09/17/polycab-launches-350kw-three-phase-string-inverter-for-utility-scale-solar-projects/",
-      "date": "2025-09-17T08:35:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Micronesia runs solar minigrid tender",
-      "url": "https://www.pv-magazine.com/2025/09/17/micronesia-runs-solar-minigrid-tender/",
-      "date": "2025-09-17T08:04:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "California set to cut funding for load-reducing distributed storage programme",
       "url": "https://www.energy-storage.news/california-set-to-cut-funding-for-load-reducing-distributed-storage-programme/",
       "date": "2025-09-08T14:27:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow deploys first C&#038;I community batteries to undergo CSIP-AUS testing in South Australia",
-      "url": "https://www.energy-storage.news/sungrow-deploys-first-ci-community-batteries-to-undergo-csip-aus-testing-in-south-australia/",
-      "date": "2025-09-08T08:47:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Neoen Australia energises Western Downs BESS Stage 2 six weeks ahead of schedule",
-      "url": "https://www.energy-storage.news/neoen-australia-energises-western-downs-bess-stage-2-six-weeks-ahead-of-schedule/",
-      "date": "2025-09-08T08:41:14.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
