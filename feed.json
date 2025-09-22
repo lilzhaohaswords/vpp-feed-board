@@ -1,6 +1,13 @@
 {
-  "ts": 1758533934294,
+  "ts": 1758535332023,
   "items": [
+    {
+      "title": "Seven projects pulled from EU hydrogen fund",
+      "url": "https://www.pv-magazine.com/2025/09/22/seven-projects-pulled-from-eu-hydrogen-fund/",
+      "date": "2025-09-22T09:56:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar-Fabrik debuts back-contact solar module for residential, C&#038;I applications",
       "url": "https://www.pv-magazine.com/2025/09/22/solar-fabrik-debuts-back-contact-solar-module-for-residential-ci-applications/",
@@ -215,13 +222,6 @@
       "title": "AlphaESS releases liquid-cooled ESS for commercial, industrial use",
       "url": "https://www.pv-magazine.com/2025/09/19/alphaess-releases-liquid-cooled-ess-for-commercial-and-industrial-use/",
       "date": "2025-09-19T06:04:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Making the business case for solar-plus-storage with heat-pumps in Japan",
-      "url": "https://www.pv-magazine.com/2025/09/19/making-the-business-case-for-solar-plus-storage-with-heat-pumps-in-japan/",
-      "date": "2025-09-19T05:39:15.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
