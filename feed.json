@@ -1,6 +1,55 @@
 {
-  "ts": 1758538871981,
+  "ts": 1758547251463,
   "items": [
+    {
+      "title": "GridStor, Flatiron Energy, and Jupiter Power advance US BESS projects totalling 1.6GWh",
+      "url": "https://www.energy-storage.news/gridstor-flatiron-energy-and-jupiter-power-advance-us-bess-projects-totalling-1-6gwh/",
+      "date": "2025-09-22T13:19:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "North American virtual power plants added 4.5GW of new capacity in 2024: Wood Mackenzie",
+      "url": "https://www.energy-storage.news/north-american-virtual-power-plants-added-4-5gw-of-new-capacity-in-2024-wood-mackenzie/",
+      "date": "2025-09-22T13:13:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Optimum tilt angle for PV systems ranging from 0° to 90°",
+      "url": "https://www.pv-magazine.com/2025/09/22/optimum-tilt-angle-for-pv-systems-ranging-from-0-to-90/",
+      "date": "2025-09-22T13:00:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Japan launches subsidies to accelerate perovskite solar deployment",
+      "url": "https://www.pv-magazine.com/2025/09/22/japan-launches-subsidies-to-accelerate-perovskite-solar-deployment/",
+      "date": "2025-09-22T12:15:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "LDES could have &#8216;real market-moving impacts&#8217; on price spreads and other UK flexibility assets",
+      "url": "https://www.energy-storage.news/ldes-could-have-real-market-moving-impacts-on-price-spreads-and-other-uk-flexibility-assets/",
+      "date": "2025-09-22T12:15:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EBRD to support solar, storage, wind tenders in Jordan",
+      "url": "https://www.pv-magazine.com/2025/09/22/ebrd-to-support-solar-storage-wind-tenders-in-jordan/",
+      "date": "2025-09-22T12:10:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Brookfield, Solarvest partner on 1.5 GW of solar-plus-storage in Malaysia",
+      "url": "https://www.pv-magazine.com/2025/09/22/brookfield-solarvest-partner-on-1-5-gw-of-solar-plus-storage-in-malaysia/",
+      "date": "2025-09-22T11:03:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US steel crunch puts solar deployment plans at risk",
       "url": "https://www.pv-magazine.com/2025/09/22/us-steel-crunch-puts-solar-deployment-plans-at-risk/",
@@ -184,38 +233,10 @@
       "bucket": "A"
     },
     {
-      "title": "Electricity prices increase across major European markets",
-      "url": "https://www.pv-magazine.com/2025/09/19/electricity-prices-increase-across-major-european-markets/",
-      "date": "2025-09-19T07:54:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "RP Sanjiv Goenka Group to build 3 GW solar cell plant in India",
-      "url": "https://www.pv-magazine.com/2025/09/19/rp-sanjiv-goenka-group-to-build-3-gw-solar-cell-plant-in-india/",
-      "date": "2025-09-19T07:43:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US startup launches AI platform for home solar, electrification sales",
-      "url": "https://www.pv-magazine.com/2025/09/19/us-startup-launches-ai-platform-for-home-solar-electrification-sales/",
-      "date": "2025-09-19T06:58:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Soaring energy storage orders, robust financial performance drive up Chinese ESS cell prices",
       "url": "https://www.energy-storage.news/soaring-energy-storage-orders-robust-financial-performance-drive-up-chinese-ess-cell-prices/",
       "date": "2025-09-19T06:23:07.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hail damage to solar projects: 1% of filed claims, but over 50% of total losses",
-      "url": "https://www.pv-magazine.com/2025/09/19/hail-damage-to-solar-projects-1-of-filed-claims-but-over-50-of-total-losses/",
-      "date": "2025-09-19T06:22:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "Flatiron Energy proposes 672MWh BESS at former Massachusetts fossil plant, pauses indoor BESS project in Boston",
       "url": "https://www.energy-storage.news/flatiron-energy-proposes-672mwh-bess-at-former-massachusetts-fossil-plant-pauses-indoor-bess-project-in-boston/",
       "date": "2025-09-09T13:08:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Lithium-ion is long-duration energy storage (LDES)",
-      "url": "https://www.energy-storage.news/lithium-ion-is-long-duration-energy-storage-ldes/",
-      "date": "2025-09-09T11:31:05.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hithium and BOS Power sign 3GWh BESS agreement for Nordics",
-      "url": "https://www.energy-storage.news/hithium-and-bos-power-sign-3gwh-bess-agreement-for-nordics/",
-      "date": "2025-09-09T10:40:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: &#8216;Social licensing is the next frontier for battery energy storage systems&#8217;",
-      "url": "https://www.energy-storage.news/australia-social-licensing-is-the-next-frontier-for-battery-energy-storage-systems/",
-      "date": "2025-09-09T08:44:46.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
