@@ -1,6 +1,20 @@
 {
-  "ts": 1758530846327,
+  "ts": 1758533934294,
   "items": [
+    {
+      "title": "Solar-Fabrik debuts back-contact solar module for residential, C&#038;I applications",
+      "url": "https://www.pv-magazine.com/2025/09/22/solar-fabrik-debuts-back-contact-solar-module-for-residential-ci-applications/",
+      "date": "2025-09-22T08:56:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China building 1.8 GW offshore PV project in Bohai Sea",
+      "url": "https://www.pv-magazine.com/2025/09/22/china-building-1-8-gw-offshore-pv-project-in-bohai-sea/",
+      "date": "2025-09-22T08:55:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Stochastic optimization for PV-powered EV charging stations",
       "url": "https://www.pv-magazine.com/2025/09/22/stochastic-optimization-for-pv-powered-ev-charging-stations/",
@@ -208,20 +222,6 @@
       "title": "Making the business case for solar-plus-storage with heat-pumps in Japan",
       "url": "https://www.pv-magazine.com/2025/09/19/making-the-business-case-for-solar-plus-storage-with-heat-pumps-in-japan/",
       "date": "2025-09-19T05:39:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Increasing crystalline silicon solar cell efficiency with caesium bromide",
-      "url": "https://www.pv-magazine.com/2025/09/19/increasing-crystalline-silicon-solar-cell-efficiency-with-caesium-bromide/",
-      "date": "2025-09-19T05:35:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar Stewardship Initiative sets new targets, reporting requirements",
-      "url": "https://www.pv-magazine.com/2025/09/18/solar-stewardship-initiative-sets-new-targets-reporting-requirements-for-manufacturers/",
-      "date": "2025-09-18T15:00:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
