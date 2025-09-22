@@ -1,6 +1,13 @@
 {
-  "ts": 1758495661689,
+  "ts": 1758510936780,
   "items": [
+    {
+      "title": "AGL, Someva receive approval for 2GWh wind-plus-storage site in New South Wales, Australia",
+      "url": "https://www.energy-storage.news/agl-someva-receive-approval-for-2gwh-wind-plus-storage-site-in-new-south-wales-australia/",
+      "date": "2025-09-22T02:01:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Japanese researchers develop low-temperature hydrogen battery",
       "url": "https://www.pv-magazine.com/2025/09/19/the-hydrogen-stream-japanese-researchers-develop-low-temperature-hydrogen-battery/",
@@ -516,13 +523,6 @@
       "title": "US energy storage market ‘getting used to policy uncertainty’",
       "url": "https://www.energy-storage.news/us-energy-storage-market-getting-used-to-policy-uncertainty/",
       "date": "2025-09-08T23:55:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "12GWh PHES and 1.2GWh BESS added to Australia’s EPBC Act",
-      "url": "https://www.energy-storage.news/12gwh-phes-and-1-2gwh-bess-added-to-australias-epbc-act/",
-      "date": "2025-09-08T23:52:42.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
