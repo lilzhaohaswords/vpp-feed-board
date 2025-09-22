@@ -1,6 +1,34 @@
 {
-  "ts": 1758524464532,
+  "ts": 1758530846327,
   "items": [
+    {
+      "title": "Stochastic optimization for PV-powered EV charging stations",
+      "url": "https://www.pv-magazine.com/2025/09/22/stochastic-optimization-for-pv-powered-ev-charging-stations/",
+      "date": "2025-09-22T08:37:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Xpanner launches robotic automation kit to retrofit solar pile drivers",
+      "url": "https://www.pv-magazine.com/2025/09/22/xpanner-launches-robotic-automation-kit-to-retrofit-solar-pile-drivers/",
+      "date": "2025-09-22T08:15:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fluence supplying largest BESS to enter Poland&#8217;s capacity market in 2027, for Ukrainian IPP DTEK",
+      "url": "https://www.energy-storage.news/fluence-supplying-largest-bess-to-enter-polands-capacity-market-in-2027-for-ukrainian-ipp-dtek/",
+      "date": "2025-09-22T08:05:39.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Record nuclear power output in 2024 irrelevant to global energy landscape",
+      "url": "https://www.pv-magazine.com/2025/09/22/2024-record-nuclear-power-output-irrelevant-to-global-energy-landscape/",
+      "date": "2025-09-22T08:00:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Avaada opens 280 MW solar plant in India, starts 100 MW project",
       "url": "https://www.pv-magazine.com/2025/09/22/avaada-opens-280-mw-solar-plant-in-india-starts-100-mw-project/",
@@ -194,27 +222,6 @@
       "title": "Solar Stewardship Initiative sets new targets, reporting requirements",
       "url": "https://www.pv-magazine.com/2025/09/18/solar-stewardship-initiative-sets-new-targets-reporting-requirements-for-manufacturers/",
       "date": "2025-09-18T15:00:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "French solar developer Everwatt goes bankrupt",
-      "url": "https://www.pv-magazine.com/2025/09/18/french-solar-developer-everwatt-goes-bankrupt/",
-      "date": "2025-09-18T14:25:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China completes 1 GW solar-wind-storage complex in Qinghai desert",
-      "url": "https://www.pv-magazine.com/2025/09/18/china-completes-1-gw-solar-wind-storage-complex-in-qinghai-desert/",
-      "date": "2025-09-18T14:15:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Meyer Burger gives up on selling itself as a whole, sells U.S. solar production tools",
-      "url": "https://www.pv-magazine.com/2025/09/18/meyer-burger-gives-up-on-selling-itself-as-a-whole-sells-u-s-solar-production-tools/",
-      "date": "2025-09-18T13:47:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Australia: &#8216;Social licensing is the next frontier for battery energy storage systems&#8217;",
       "url": "https://www.energy-storage.news/australia-social-licensing-is-the-next-frontier-for-battery-energy-storage-systems/",
       "date": "2025-09-09T08:44:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Optimising BESS performance requires long-term perspective,’ says Fluence",
-      "url": "https://www.energy-storage.news/optimising-bess-performance-requires-long-term-perspective-says-fluence/",
-      "date": "2025-09-09T08:33:49.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
