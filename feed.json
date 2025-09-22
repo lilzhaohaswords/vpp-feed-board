@@ -1,6 +1,13 @@
 {
-  "ts": 1758510936780,
+  "ts": 1758515955743,
   "items": [
+    {
+      "title": "Startup Green Gravity to trial gravitational energy storage at a former coal mine in Australia",
+      "url": "https://www.energy-storage.news/startup-green-gravity-to-trial-gravitational-energy-storage-at-a-former-coal-mine-in-australia/",
+      "date": "2025-09-22T03:18:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "AGL, Someva receive approval for 2GWh wind-plus-storage site in New South Wales, Australia",
       "url": "https://www.energy-storage.news/agl-someva-receive-approval-for-2gwh-wind-plus-storage-site-in-new-south-wales-australia/",
@@ -516,13 +523,6 @@
       "title": "‘Optimising BESS performance requires long-term perspective,’ says Fluence",
       "url": "https://www.energy-storage.news/optimising-bess-performance-requires-long-term-perspective-says-fluence/",
       "date": "2025-09-09T08:33:49.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US energy storage market ‘getting used to policy uncertainty’",
-      "url": "https://www.energy-storage.news/us-energy-storage-market-getting-used-to-policy-uncertainty/",
-      "date": "2025-09-08T23:55:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
