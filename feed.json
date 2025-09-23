@@ -1,6 +1,20 @@
 {
-  "ts": 1758623948714,
+  "ts": 1758626680895,
   "items": [
+    {
+      "title": "BYD launches 14.5MWh BESS as energy density race continues",
+      "url": "https://www.energy-storage.news/byd-launches-14-5mwh-bess-as-energy-density-race-continues/",
+      "date": "2025-09-23T11:16:11.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Spanish startup offers portable solar-plus-storage generators for irrigation",
+      "url": "https://www.pv-magazine.com/2025/09/23/spanish-startup-offers-portable-solar-plus-storage-generators-for-irrigation/",
+      "date": "2025-09-23T11:00:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Poland&#8217;s PGE starts building 981MWh BESS with locally manufactured LG batteries",
       "url": "https://www.energy-storage.news/polands-pge-starts-building-981mwh-bess-with-locally-manufactured-lg-batteries/",
@@ -215,13 +229,6 @@
       "title": "Record nuclear power output in 2024 irrelevant to global energy landscape",
       "url": "https://www.pv-magazine.com/2025/09/22/2024-record-nuclear-power-output-irrelevant-to-global-energy-landscape/",
       "date": "2025-09-22T08:00:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Avaada opens 280 MW solar plant in India, starts 100 MW project",
-      "url": "https://www.pv-magazine.com/2025/09/22/avaada-opens-280-mw-solar-plant-in-india-starts-100-mw-project/",
-      "date": "2025-09-22T06:46:42.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "BESS route-to-market deals between Greenvolt and Entrix in Poland, Zelestra and BKW in Italy",
       "url": "https://www.energy-storage.news/bess-route-to-market-deals-greenvolt-and-entrix-poland-zelestra-and-bkw-italy/",
       "date": "2025-09-10T10:43:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Tesla expects to have 4.5GW of grid-forming BESS operating in Australia by the end of 2026",
-      "url": "https://www.energy-storage.news/tesla-expects-to-have-4-5gw-of-grid-forming-bess-operating-in-australia-by-the-end-of-2026/",
-      "date": "2025-09-10T05:23:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
