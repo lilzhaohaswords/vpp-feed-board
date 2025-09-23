@@ -1,6 +1,20 @@
 {
-  "ts": 1758583578628,
+  "ts": 1758596720094,
   "items": [
+    {
+      "title": "Australia raises 2035 emissions reduction target to 62-70%",
+      "url": "https://www.energy-storage.news/australia-raises-2035-emissions-reduction-target-to-62-70/",
+      "date": "2025-09-23T02:08:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Approval granted for 4.9GWh of battery energy storage by developers in Victoria, Australia",
+      "url": "https://www.energy-storage.news/approval-granted-for-4-9gwh-of-battery-energy-storage-by-developers-in-victoria-australia/",
+      "date": "2025-09-23T02:06:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Banks fund $65 million for 100 MW solar project in Turkey",
       "url": "https://www.pv-magazine.com/2025/09/22/banks-fund-65-million-for-100-mw-solar-project-in-turkey/",
@@ -509,20 +523,6 @@
       "title": "Tesla launches integrated 20MWh Megapack BESS solution",
       "url": "https://www.energy-storage.news/tesla-launches-integrated-20mwh-megapack-bess-solution/",
       "date": "2025-09-09T16:20:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US energy storage industry ‘has to continue to be aggressive’",
-      "url": "https://www.energy-storage.news/us-energy-storage-industry-has-to-continue-to-be-aggressive/",
-      "date": "2025-09-09T14:36:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Flatiron Energy proposes 672MWh BESS at former Massachusetts fossil plant, pauses indoor BESS project in Boston",
-      "url": "https://www.energy-storage.news/flatiron-energy-proposes-672mwh-bess-at-former-massachusetts-fossil-plant-pauses-indoor-bess-project-in-boston/",
-      "date": "2025-09-09T13:08:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
