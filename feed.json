@@ -1,6 +1,34 @@
 {
-  "ts": 1758633556076,
+  "ts": 1758638448761,
   "items": [
+    {
+      "title": "Capstone, Eurowind file 3.2GWh long-duration BESS project application with California Energy Commission",
+      "url": "https://www.energy-storage.news/capstone-eurowind-file-3-2gwh-long-duration-bess-project-application-with-california-energy-commission/",
+      "date": "2025-09-23T14:16:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Arbitrage remains leading use case for US grid-scale batteries",
+      "url": "https://www.pv-magazine.com/2025/09/23/arbitrage-remains-leading-use-case-for-us-grid-scale-batteries/",
+      "date": "2025-09-23T14:00:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Capital Power’s first two BESS projects come online in Ontario",
+      "url": "https://www.energy-storage.news/capital-powers-first-two-bess-projects-come-online-in-ontario/",
+      "date": "2025-09-23T13:49:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "The majority of utility-scale batteries were used for arbitrage in 2024 – US EIA survey finds",
+      "url": "https://www.energy-storage.news/the-majority-of-utility-scale-batteries-were-used-for-arbitrage-in-2024-us-eia-survey-finds/",
+      "date": "2025-09-23T13:43:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Malaysian utility launches rebate program for residential PV",
       "url": "https://www.pv-magazine.com/2025/09/23/malaysian-utility-launches-rebate-program-for-residential-pv/",
@@ -215,13 +243,6 @@
       "title": "China building 1.8 GW offshore PV project in Bohai Sea",
       "url": "https://www.pv-magazine.com/2025/09/22/china-building-1-8-gw-offshore-pv-project-in-bohai-sea/",
       "date": "2025-09-22T08:55:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Stochastic optimization for PV-powered EV charging stations",
-      "url": "https://www.pv-magazine.com/2025/09/22/stochastic-optimization-for-pv-powered-ev-charging-stations/",
-      "date": "2025-09-22T08:37:14.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "&#8216;A key technology&#8217;: Google to help fund non-lithium LDES projects in Arizona with SRP",
       "url": "https://www.energy-storage.news/a-key-technology-google-to-help-fund-non-lithium-ldes-projects-in-arizona-with-srp/",
       "date": "2025-09-10T14:58:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NextEra and California utility agree BESS offtake deal with protections against future Federal actions and market volatility",
-      "url": "https://www.energy-storage.news/nextera-and-california-utility-agree-bess-offtake-deal-with-protections-against-future-federal-actions-and-market-volatility/",
-      "date": "2025-09-10T14:44:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Financial close and RTM deals for major UK BESS projects from Fidra, Elements Green",
-      "url": "https://www.energy-storage.news/financial-close-and-rtm-deals-for-major-uk-bess-projects-from-fidra-elements-green/",
-      "date": "2025-09-10T12:58:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BESS route-to-market deals between Greenvolt and Entrix in Poland, Zelestra and BKW in Italy",
-      "url": "https://www.energy-storage.news/bess-route-to-market-deals-greenvolt-and-entrix-poland-zelestra-and-bkw-italy/",
-      "date": "2025-09-10T10:43:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
