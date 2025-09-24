@@ -1,6 +1,27 @@
 {
-  "ts": 1758683166565,
+  "ts": 1758688718198,
   "items": [
+    {
+      "title": "Australia&#8217;s first 8-hour LDES battery energy storage system registered with AEMO",
+      "url": "https://www.energy-storage.news/australias-first-8-hour-ldes-battery-energy-storage-system-registered-with-aemo/",
+      "date": "2025-09-24T03:58:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Snowy Hydro, BHP sign offtake deals for over 2GWh of battery energy storage in Australia",
+      "url": "https://www.energy-storage.news/snowy-hydro-bhp-sign-offtake-deals-for-over-2gwh-of-battery-energy-storage-in-australia/",
+      "date": "2025-09-24T03:29:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Queensland government commits AU$48 million to 5.7GWh pumped hydro plant in Australia",
+      "url": "https://www.energy-storage.news/queensland-government-commits-au48-million-to-5-7gwh-pumped-hydro-plant-in-australia/",
+      "date": "2025-09-24T03:20:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Capstone, Eurowind file 3.2GWh long-duration BESS project application with California Energy Commission",
       "url": "https://www.energy-storage.news/capstone-eurowind-file-3-2gwh-long-duration-bess-project-application-with-california-energy-commission/",
@@ -502,27 +523,6 @@
       "title": "Still too early to see Trump tariffs&#8217; impact on BESS industry finances",
       "url": "https://www.energy-storage.news/still-too-early-to-see-trump-tariffs-impact-on-bess-industry-finances/",
       "date": "2025-09-11T11:00:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Storage as fundamental as generation&#8217;: DTEK and Fluence turn on 200MW Ukraine BESS",
-      "url": "https://www.energy-storage.news/storage-as-fundamental-as-generation-dtek-and-fluence-turn-on-200mw-ukraine-bess/",
-      "date": "2025-09-11T10:03:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Made in America’ and energy density race lead  battery storage discussions at RE+ 2025",
-      "url": "https://www.energy-storage.news/made-in-america-and-energy-density-race-lead-battery-storage-discussions-at-re-2025/",
-      "date": "2025-09-10T21:04:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;A key technology&#8217;: Google to help fund non-lithium LDES projects in Arizona with SRP",
-      "url": "https://www.energy-storage.news/a-key-technology-google-to-help-fund-non-lithium-ldes-projects-in-arizona-with-srp/",
-      "date": "2025-09-10T14:58:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
