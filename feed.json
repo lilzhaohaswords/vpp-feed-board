@@ -1,6 +1,20 @@
 {
-  "ts": 1758699039893,
+  "ts": 1758700868230,
   "items": [
+    {
+      "title": "India on track to add more than 45 GW of solar in fiscal 2026",
+      "url": "https://www.pv-magazine.com/2025/09/24/india-on-track-to-add-more-than-45-gw-of-solar-in-fiscal-2026/",
+      "date": "2025-09-24T07:30:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Swiss startup offers timber-framed solar carport",
+      "url": "https://www.pv-magazine.com/2025/09/24/swiss-startup-offers-timber-framed-solar-carport/",
+      "date": "2025-09-24T07:30:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar, storage push US tax credit market near $60 billion in 2025",
       "url": "https://www.pv-magazine.com/2025/09/24/us-clean-energy-tax-credit-market-nears-60-billion-in-2025-led-by-solar-and-storage/",
@@ -250,20 +264,6 @@
       "title": "Brookfield, Solarvest partner on 1.5 GW of solar-plus-storage in Malaysia",
       "url": "https://www.pv-magazine.com/2025/09/22/brookfield-solarvest-partner-on-1-5-gw-of-solar-plus-storage-in-malaysia/",
       "date": "2025-09-22T11:03:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US steel crunch puts solar deployment plans at risk",
-      "url": "https://www.pv-magazine.com/2025/09/22/us-steel-crunch-puts-solar-deployment-plans-at-risk/",
-      "date": "2025-09-22T11:00:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Seven projects pulled from EU hydrogen fund",
-      "url": "https://www.pv-magazine.com/2025/09/22/seven-projects-pulled-from-eu-hydrogen-fund/",
-      "date": "2025-09-22T09:56:07.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
