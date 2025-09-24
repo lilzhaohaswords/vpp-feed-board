@@ -1,6 +1,27 @@
 {
-  "ts": 1758700868230,
+  "ts": 1758706395256,
   "items": [
+    {
+      "title": "Non-lithium energy storage startups Fourth Power, Unbound Potential and XL Batteries raise financing",
+      "url": "https://www.energy-storage.news/non-lithium-energy-storage-startups-fourth-power-unbound-potential-and-xl-batteries-raise-financing/",
+      "date": "2025-09-24T09:20:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Copper-metalized heterojunction solar cells close to achieve same efficiency as silver-based counterparts",
+      "url": "https://www.pv-magazine.com/2025/09/24/copper-metalized-heterojunction-solar-cells-close-to-achieve-same-efficiency-as-silver-based-counterparts/",
+      "date": "2025-09-24T08:35:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Cobalt-iron catalyst boosts zinc-air battery stability and performance",
+      "url": "https://www.pv-magazine.com/2025/09/24/cobalt-iron-catalyst-boosts-zinc-air-battery-stability-and-performance/",
+      "date": "2025-09-24T08:15:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India on track to add more than 45 GW of solar in fiscal 2026",
       "url": "https://www.pv-magazine.com/2025/09/24/india-on-track-to-add-more-than-45-gw-of-solar-in-fiscal-2026/",
@@ -254,20 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "EBRD to support solar, storage, wind tenders in Jordan",
-      "url": "https://www.pv-magazine.com/2025/09/22/ebrd-to-support-solar-storage-wind-tenders-in-jordan/",
-      "date": "2025-09-22T12:10:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brookfield, Solarvest partner on 1.5 GW of solar-plus-storage in Malaysia",
-      "url": "https://www.pv-magazine.com/2025/09/22/brookfield-solarvest-partner-on-1-5-gw-of-solar-plus-storage-in-malaysia/",
-      "date": "2025-09-22T11:03:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Fluence supplying largest BESS to enter Poland&#8217;s capacity market in 2027, for Ukrainian IPP DTEK",
       "url": "https://www.energy-storage.news/fluence-supplying-largest-bess-to-enter-polands-capacity-market-in-2027-for-ukrainian-ipp-dtek/",
       "date": "2025-09-22T08:05:39.000Z",
@@ -516,13 +523,6 @@
       "title": "&#8216;The bar is going up and up&#8217;: Sodium-ion firm Natron Energy&#8217;s closure highlights alternative chemistry challenges",
       "url": "https://www.energy-storage.news/the-bar-is-going-up-and-up-sodium-ion-firm-natron-energys-closure-highlights-alternative-chemistry-challenges/",
       "date": "2025-09-11T11:33:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Still too early to see Trump tariffs&#8217; impact on BESS industry finances",
-      "url": "https://www.energy-storage.news/still-too-early-to-see-trump-tariffs-impact-on-bess-industry-finances/",
-      "date": "2025-09-11T11:00:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
