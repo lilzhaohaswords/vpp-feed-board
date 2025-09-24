@@ -1,6 +1,20 @@
 {
-  "ts": 1758690060831,
+  "ts": 1758696541194,
   "items": [
+    {
+      "title": "Solar, storage push US tax credit market near $60 billion in 2025",
+      "url": "https://www.pv-magazine.com/2025/09/24/us-clean-energy-tax-credit-market-nears-60-billion-in-2025-led-by-solar-and-storage/",
+      "date": "2025-09-24T06:45:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Enhancing dual-axis solar tracker performance with new optimization techniques",
+      "url": "https://www.pv-magazine.com/2025/09/24/enhancing-dual-axis-solar-tracker-performance-with-new-optimization-techniques/",
+      "date": "2025-09-24T06:24:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia&#8217;s first 8-hour LDES battery energy storage system registered with AEMO",
       "url": "https://www.energy-storage.news/australias-first-8-hour-ldes-battery-energy-storage-system-registered-with-aemo/",
@@ -250,20 +264,6 @@
       "title": "Seven projects pulled from EU hydrogen fund",
       "url": "https://www.pv-magazine.com/2025/09/22/seven-projects-pulled-from-eu-hydrogen-fund/",
       "date": "2025-09-22T09:56:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar-Fabrik debuts back-contact solar module for residential, C&#038;I applications",
-      "url": "https://www.pv-magazine.com/2025/09/22/solar-fabrik-debuts-back-contact-solar-module-for-residential-ci-applications/",
-      "date": "2025-09-22T08:56:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China building 1.8 GW offshore PV project in Bohai Sea",
-      "url": "https://www.pv-magazine.com/2025/09/22/china-building-1-8-gw-offshore-pv-project-in-bohai-sea/",
-      "date": "2025-09-22T08:55:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
