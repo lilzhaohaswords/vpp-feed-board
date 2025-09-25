@@ -1,6 +1,20 @@
 {
-  "ts": 1758769777749,
+  "ts": 1758775163865,
   "items": [
+    {
+      "title": "Victoria the first Australian state to cross 1GW BESS charging milestone",
+      "url": "https://www.energy-storage.news/victoria-the-first-australian-state-to-cross-1gw-bess-charging-milestone/",
+      "date": "2025-09-25T03:28:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "JinkoSolar bags federal approval for 1,440MWh solar-plus-storage site in Australia",
+      "url": "https://www.energy-storage.news/jinkosolar-bags-federal-approval-for-1440mwh-solar-plus-storage-site-in-australia/",
+      "date": "2025-09-25T03:24:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Thieves steal 50 km of cable from 11 MW solar farm in Germany",
       "url": "https://www.pv-magazine.com/2025/09/24/thieves-steal-50-km-of-cable-from-11-mw-solar-farm-in-germany/",
@@ -509,20 +523,6 @@
       "title": "NY local town officials call on moratorium to suspend 1GWh BESS, State representatives issue support for project",
       "url": "https://www.energy-storage.news/ny-local-town-officials-call-on-moratorium-to-suspend-1gwh-bess-state-representatives-issue-support-for-project/",
       "date": "2025-09-12T12:03:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "From stability to volatility: rethinking  performance management in today’s changing electricity markets",
-      "url": "https://www.energy-storage.news/from-stability-to-volatility-rethinking-performance-management-in-todays-changing-electricity-markets/",
-      "date": "2025-09-12T11:47:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Return, N2OFF embark on Germany BESS projects",
-      "url": "https://www.energy-storage.news/return-n2off-embark-on-germany-bess-projects/",
-      "date": "2025-09-12T10:33:53.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
