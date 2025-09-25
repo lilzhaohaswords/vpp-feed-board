@@ -1,6 +1,27 @@
 {
-  "ts": 1758798072713,
+  "ts": 1758807337452,
   "items": [
+    {
+      "title": "NCPA and Aypa Power negotiate offtake for 400MW San Bernardino BESS, includes &#8216;attractive&#8217; US$12.71/kW-month pricing",
+      "url": "https://www.energy-storage.news/ncpa-and-aypa-power-negotiate-offtake-for-400mw-san-bernardino-bess-includes-attractive-us12-71-kw-month-pricing/",
+      "date": "2025-09-25T12:47:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Europe’s largest sodium-ion battery installation goes live",
+      "url": "https://www.pv-magazine.com/2025/09/25/europes-largest-sodium-ion-battery-installation-goes-live/",
+      "date": "2025-09-25T12:36:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Microsoft among members of Schneider Electric-led US resilient community energy initiative",
+      "url": "https://www.energy-storage.news/microsoft-among-members-of-schneider-electric-led-us-resilient-community-energy-initiative/",
+      "date": "2025-09-25T12:20:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Mexico launches tender for 300 MW solar plant",
       "url": "https://www.pv-magazine.com/2025/09/25/mexico-launches-tender-for-300-mw-solar-plant/",
@@ -236,13 +257,6 @@
       "title": "Swiss startup offers timber-framed solar carport",
       "url": "https://www.pv-magazine.com/2025/09/24/swiss-startup-offers-timber-framed-solar-carport/",
       "date": "2025-09-24T07:30:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar, storage push US tax credit market near $60 billion in 2025",
-      "url": "https://www.pv-magazine.com/2025/09/24/us-clean-energy-tax-credit-market-nears-60-billion-in-2025-led-by-solar-and-storage/",
-      "date": "2025-09-24T06:45:47.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Ignitis orders 582MWh from Rolls-Royce, Olana takes FID on Lithuania BESS projects",
       "url": "https://www.energy-storage.news/ignitis-orders-582mwh-from-rolls-royce-olana-takes-fid-on-lithuania-bess-projects/",
       "date": "2025-09-16T10:13:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Power even without the sun’: President Marcos Jr inaugurates first ‘solar baseload’ power plant in Philippines",
-      "url": "https://www.energy-storage.news/power-even-without-the-sun-president-marcos-jr-inaugurates-first-solar-baseload-power-plant-in-philippines/",
-      "date": "2025-09-16T03:57:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Axpo, energieUri and Fluence building 58.6MW of Swiss BESS",
-      "url": "https://www.energy-storage.news/axpo-energieuri-and-fluence-building-58-6mw-of-swiss-bess/",
-      "date": "2025-09-15T14:20:33.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
