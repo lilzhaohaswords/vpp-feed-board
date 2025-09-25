@@ -1,6 +1,48 @@
 {
-  "ts": 1758790864842,
+  "ts": 1758796761764,
   "items": [
+    {
+      "title": "Mexico launches tender for 300 MW solar plant",
+      "url": "https://www.pv-magazine.com/2025/09/25/mexico-launches-tender-for-300-mw-solar-plant/",
+      "date": "2025-09-25T10:38:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Lebanon inks three PPAs for 45 MW of solar",
+      "url": "https://www.pv-magazine.com/2025/09/25/lebanon-inks-three-ppas-for-45-mw-of-solar/",
+      "date": "2025-09-25T10:19:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Poland &#8216;lacks precise development regulations and a clear long-term plan for energy storage&#8217;",
+      "url": "https://www.energy-storage.news/poland-lacks-precise-development-regulations-and-a-clear-long-term-plan-for-energy-storage/",
+      "date": "2025-09-25T09:57:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Agrivoltaics for arboriculture",
+      "url": "https://www.pv-magazine.com/2025/09/25/agrivoltaics-for-arboriculture/",
+      "date": "2025-09-25T09:54:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU policies could cut cost gap between European and Chinese solar modules",
+      "url": "https://www.pv-magazine.com/2025/09/25/policy-changes-can-reduce-cost-gap-between-european-chinese-solar-modules/",
+      "date": "2025-09-25T09:42:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Eni joint venture kicks off LFP battery cell factory development in Italy",
+      "url": "https://www.energy-storage.news/eni-joint-venture-kicks-off-lfp-battery-cell-factory-development-in-italy/",
+      "date": "2025-09-25T09:16:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "REC leads US residential solar panels as Tesla loses storage share",
       "url": "https://www.pv-magazine.com/2025/09/25/rec-leads-us-residential-solar-panels-as-tesla-loses-storage-share/",
@@ -205,13 +247,6 @@
       "bucket": "A"
     },
     {
-      "title": "Enhancing dual-axis solar tracker performance with new optimization techniques",
-      "url": "https://www.pv-magazine.com/2025/09/24/enhancing-dual-axis-solar-tracker-performance-with-new-optimization-techniques/",
-      "date": "2025-09-24T06:24:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Australia&#8217;s first 8-hour LDES battery energy storage system registered with AEMO",
       "url": "https://www.energy-storage.news/australias-first-8-hour-ldes-battery-energy-storage-system-registered-with-aemo/",
       "date": "2025-09-24T03:58:01.000Z",
@@ -240,13 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "Arbitrage remains leading use case for US grid-scale batteries",
-      "url": "https://www.pv-magazine.com/2025/09/23/arbitrage-remains-leading-use-case-for-us-grid-scale-batteries/",
-      "date": "2025-09-23T14:00:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Capital Power’s first two BESS projects come online in Ontario",
       "url": "https://www.energy-storage.news/capital-powers-first-two-bess-projects-come-online-in-ontario/",
       "date": "2025-09-23T13:49:47.000Z",
@@ -258,20 +286,6 @@
       "url": "https://www.energy-storage.news/the-majority-of-utility-scale-batteries-were-used-for-arbitrage-in-2024-us-eia-survey-finds/",
       "date": "2025-09-23T13:43:03.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Malaysian utility launches rebate program for residential PV",
-      "url": "https://www.pv-magazine.com/2025/09/23/malaysian-utility-launches-rebate-program-for-residential-pv/",
-      "date": "2025-09-23T13:00:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar &#038; Storage Live Zurich 2025 reflects growth of Swiss PV sector",
-      "url": "https://www.pv-magazine.com/2025/09/23/solar-storage-live-zurich-2025-reflects-growth-of-swiss-pv-sector/",
-      "date": "2025-09-23T12:00:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Axpo, energieUri and Fluence building 58.6MW of Swiss BESS",
       "url": "https://www.energy-storage.news/axpo-energieuri-and-fluence-building-58-6mw-of-swiss-bess/",
       "date": "2025-09-15T14:20:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "12.5GWh of grid-scale BESS commissioned in August, including largest single-phase LFP project ever",
-      "url": "https://www.energy-storage.news/12-5gwh-of-grid-scale-bess-commissioned-in-august-including-largest-single-phase-lfp-project-ever/",
-      "date": "2025-09-15T11:32:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hithium, Fotowatio Renewable Ventures partner for first time with 500MWh grid-forming BESS in Australia",
-      "url": "https://www.energy-storage.news/hithium-fotowatio-renewable-ventures-partner-for-first-time-with-500mwh-grid-forming-bess-in-australia/",
-      "date": "2025-09-15T03:04:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
