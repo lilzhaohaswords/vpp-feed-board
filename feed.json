@@ -1,6 +1,13 @@
 {
-  "ts": 1758869280597,
+  "ts": 1758871749084,
   "items": [
+    {
+      "title": "Scientists report experimental breach of Shockley-Queisser efficiency limit for silicon solar cell",
+      "url": "https://www.pv-magazine.com/2025/09/26/scientists-report-experimental-breach-of-shockley-queisser-efficiency-limit-for-silicon-solar-cell/",
+      "date": "2025-09-26T07:03:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Qcells secures release of detained South Korean solar cells for US factories",
       "url": "https://www.pv-magazine.com/2025/09/26/qcells-secures-release-of-detained-south-korean-solar-cells-for-us-factories/",
@@ -243,13 +250,6 @@
       "title": "Renewables overbuilding, proactive curtailment can reduce Europe&#8217;s energy system costs",
       "url": "https://www.pv-magazine.com/2025/09/24/renewables-overbuilding-proactive-curtailment-can-reduce-europes-energy-system-costs/",
       "date": "2025-09-24T10:24:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "World’s largest vertical rooftop solar installation deployed in Norway",
-      "url": "https://www.pv-magazine.com/2025/09/24/worlds-largest-vertical-rooftop-solar-installation-deployed-in-norway/",
-      "date": "2025-09-24T10:18:01.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
