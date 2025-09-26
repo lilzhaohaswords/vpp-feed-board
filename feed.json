@@ -1,6 +1,20 @@
 {
-  "ts": 1758900728479,
+  "ts": 1758904927978,
   "items": [
+    {
+      "title": "The Hydrogen Stream: Japanese researchers develop green rust catalyst",
+      "url": "https://www.pv-magazine.com/2025/09/26/the-hydrogen-stream-japanese-researchers-create-catalyst-from-green-rust-for-sodium-borohydride/",
+      "date": "2025-09-26T15:50:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: New PV additions for August total only 7.3 GW",
+      "url": "https://www.pv-magazine.com/2025/09/26/chinese-pv-industry-brief-new-pv-additions-for-august-total-only-7-3-gw/",
+      "date": "2025-09-26T15:45:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "AI platform compiles data on Spain’s renewable energy projects",
       "url": "https://www.pv-magazine.com/2025/09/26/ai-platform-compiles-data-on-spains-renewable-energy-projects/",
@@ -198,24 +212,10 @@
       "bucket": "A"
     },
     {
-      "title": "Europe’s largest sodium-ion battery installation goes live",
-      "url": "https://www.pv-magazine.com/2025/09/25/europes-largest-sodium-ion-battery-installation-goes-live/",
-      "date": "2025-09-25T12:36:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Microsoft among members of Schneider Electric-led US resilient community energy initiative",
       "url": "https://www.energy-storage.news/microsoft-among-members-of-schneider-electric-led-us-resilient-community-energy-initiative/",
       "date": "2025-09-25T12:20:06.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Mexico launches tender for 300 MW solar plant",
-      "url": "https://www.pv-magazine.com/2025/09/25/mexico-launches-tender-for-300-mw-solar-plant/",
-      "date": "2025-09-25T10:38:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
