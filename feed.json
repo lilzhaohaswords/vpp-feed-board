@@ -1,6 +1,20 @@
 {
-  "ts": 1758892690475,
+  "ts": 1758895245469,
   "items": [
+    {
+      "title": "AI platform compiles data on Spain’s renewable energy projects",
+      "url": "https://www.pv-magazine.com/2025/09/26/ai-platform-compiles-data-on-spains-renewable-energy-projects/",
+      "date": "2025-09-26T13:30:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Namibia approves 3 GW of solar for hydrogen production",
+      "url": "https://www.pv-magazine.com/2025/09/26/namibia-approves-3-gw-of-solar-for-hydrogen-production/",
+      "date": "2025-09-26T13:29:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Georgia Power announces 2025 RFP for 500MW of BESS",
       "url": "https://www.energy-storage.news/georgia-power-announces-2025-rfp-for-500mw-of-bess/",
@@ -205,24 +219,10 @@
       "bucket": "A"
     },
     {
-      "title": "Lebanon inks three PPAs for 45 MW of solar",
-      "url": "https://www.pv-magazine.com/2025/09/25/lebanon-inks-three-ppas-for-45-mw-of-solar/",
-      "date": "2025-09-25T10:19:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Poland &#8216;lacks precise development regulations and a clear long-term plan for energy storage&#8217;",
       "url": "https://www.energy-storage.news/poland-lacks-precise-development-regulations-and-a-clear-long-term-plan-for-energy-storage/",
       "date": "2025-09-25T09:57:47.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Agrivoltaics for arboriculture",
-      "url": "https://www.pv-magazine.com/2025/09/25/agrivoltaics-for-arboriculture/",
-      "date": "2025-09-25T09:54:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
