@@ -1,6 +1,48 @@
 {
-  "ts": 1758877238783,
+  "ts": 1758883125159,
   "items": [
+    {
+      "title": "‘I wouldn&#8217;t say it&#8217;s business as usual’: Prevalon on the global impacts of the OBBB",
+      "url": "https://www.energy-storage.news/i-wouldnt-say-its-business-as-usual-prevalon-on-the-global-impacts-of-the-obbb/",
+      "date": "2025-09-26T10:36:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "DTEK, Ingrid and Triodos expand BESS market footholds in Poland, Sweden and Germany",
+      "url": "https://www.energy-storage.news/dtek-ingrid-and-triodos-expand-bess-market-footholds-in-poland-sweden-and-germany/",
+      "date": "2025-09-26T10:14:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EU PVSEC 2025: Key takeaways",
+      "url": "https://www.pv-magazine.com/2025/09/26/eu-pvsec-2025-key-takeaways/",
+      "date": "2025-09-26T09:35:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hithium signs deal for Eastern Europe BESS projects featuring 587Ah, 1175Ah cells",
+      "url": "https://www.energy-storage.news/hithium-signs-deal-for-eastern-europe-bess-projects-featuring-587ah-1175ah-cells/",
+      "date": "2025-09-26T09:15:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Inclusive leadership emerges as a key factor in accelerating the energy transition",
+      "url": "https://www.pv-magazine.com/2025/09/26/inclusive-leadership-emerges-as-a-key-factor-in-accelerating-the-energy-transition/",
+      "date": "2025-09-26T09:08:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China&#8217;s Datang launches testing facility for PV with 2,000 V system voltage",
+      "url": "https://www.pv-magazine.com/2025/09/26/chinas-datang-launches-testing-facility-for-pv-with-2000-v-system-voltage/",
+      "date": "2025-09-26T09:00:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "New model to optimize desert PV plant cleaning schedule",
       "url": "https://www.pv-magazine.com/2025/09/26/new-model-to-optimize-desert-pv-plant-cleaning-schedule/",
@@ -191,13 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "Ireland allocates over 860 MW of solar in fifth renewables auction",
-      "url": "https://www.pv-magazine.com/2025/09/25/ireland-ress-5-provisional-results-solar-pv/",
-      "date": "2025-09-25T06:00:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Victoria the first Australian state to cross 1GW BESS charging milestone",
       "url": "https://www.energy-storage.news/victoria-the-first-australian-state-to-cross-1gw-bess-charging-milestone/",
       "date": "2025-09-25T03:28:00.000Z",
@@ -209,20 +244,6 @@
       "url": "https://www.energy-storage.news/jinkosolar-bags-federal-approval-for-1440mwh-solar-plus-storage-site-in-australia/",
       "date": "2025-09-25T03:24:48.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Thieves steal 50 km of cable from 11 MW solar farm in Germany",
-      "url": "https://www.pv-magazine.com/2025/09/24/thieves-steal-50-km-of-cable-from-11-mw-solar-farm-in-germany/",
-      "date": "2025-09-24T14:15:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The impact of sunlight spectral shifts on bifacial perovskite-silicon tandem solar cells",
-      "url": "https://www.pv-magazine.com/2025/09/24/the-impact-of-sunlight-spectral-shifts-on-bifacial-perovskite-silicon-tandem-solar-cells/",
-      "date": "2025-09-24T14:04:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "Turbo Energy secures 336MWh C&#038;I battery storage order in Spain",
       "url": "https://www.energy-storage.news/turbo-energy-secures-336mwh-ci-battery-storage-order-in-spain/",
       "date": "2025-09-16T15:28:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese BESS players still hope to supply US in FEOC policy environment",
-      "url": "https://www.energy-storage.news/chinese-bess-players-still-hope-to-supply-us-in-feoc-policy-environment/",
-      "date": "2025-09-16T14:23:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Explosion test ‘demonstrates effectiveness’ of BESS safety control system, Wärtsilä says",
-      "url": "https://www.energy-storage.news/explosion-test-demonstrates-effectiveness-of-bess-safety-control-system-wartsila-says/",
-      "date": "2025-09-16T10:21:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ignitis orders 582MWh from Rolls-Royce, Olana takes FID on Lithuania BESS projects",
-      "url": "https://www.energy-storage.news/ignitis-orders-582mwh-from-rolls-royce-olana-takes-fid-on-lithuania-bess-projects/",
-      "date": "2025-09-16T10:13:18.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
