@@ -1,6 +1,48 @@
 {
-  "ts": 1758884453706,
+  "ts": 1758892690475,
   "items": [
+    {
+      "title": "Georgia Power announces 2025 RFP for 500MW of BESS",
+      "url": "https://www.energy-storage.news/georgia-power-announces-2025-rfp-for-500mw-of-bess/",
+      "date": "2025-09-26T13:06:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Peak Energy announces operation of first large-scale sodium ion battery in US",
+      "url": "https://www.pv-magazine.com/2025/09/26/peak-energy-announces-operation-of-first-large-scale-sodium-ion-battery-in-us/",
+      "date": "2025-09-26T12:15:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "French startup offers water heater control to boost PV self-consumption",
+      "url": "https://www.pv-magazine.com/2025/09/26/french-startup-offers-water-heater-control-to-boost-pv-self-consumption/",
+      "date": "2025-09-26T12:13:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Cypriot startup unveils new device to reduce solar curtailment",
+      "url": "https://www.pv-magazine.com/2025/09/26/cypriot-startup-unveils-new-device-to-reduce-solar-curtailment/",
+      "date": "2025-09-26T11:38:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Slovenia plans 140 MW floating solar plant",
+      "url": "https://www.pv-magazine.com/2025/09/26/slovenia-plans-140-mw-floating-solar-plant/",
+      "date": "2025-09-26T11:35:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Czechia amends electricity generation licence threshold",
+      "url": "https://www.pv-magazine.com/2025/09/26/czechia-amends-electricity-generation-licence-threshold/",
+      "date": "2025-09-26T11:08:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "EcoFlow launches energy management system providing whole-home backup",
       "url": "https://www.pv-magazine.com/2025/09/26/ecoflow-launches-energy-management-system-providing-whole-home-backup/",
@@ -184,45 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "EU policies could cut cost gap between European and Chinese solar modules",
-      "url": "https://www.pv-magazine.com/2025/09/25/policy-changes-can-reduce-cost-gap-between-european-chinese-solar-modules/",
-      "date": "2025-09-25T09:42:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Eni joint venture kicks off LFP battery cell factory development in Italy",
       "url": "https://www.energy-storage.news/eni-joint-venture-kicks-off-lfp-battery-cell-factory-development-in-italy/",
       "date": "2025-09-25T09:16:13.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "REC leads US residential solar panels as Tesla loses storage share",
-      "url": "https://www.pv-magazine.com/2025/09/25/rec-leads-us-residential-solar-panels-as-tesla-loses-storage-share/",
-      "date": "2025-09-25T08:15:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "One-year testing shows ground-mounted PV achieves &#8216;superior&#8217; performance ratio in Sahara",
-      "url": "https://www.pv-magazine.com/2025/09/25/one-year-testing-shows-ground-mounted-pv-achieves-superior-performance-ratio-in-sahara/",
-      "date": "2025-09-25T08:01:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Perovskite solar cells with laminated carbon electrodes reach 20.4% efficiency",
-      "url": "https://www.pv-magazine.com/2025/09/25/perovskite-solar-cells-with-laminated-carbon-electrodes-reach-20-4-efficiency/",
-      "date": "2025-09-25T07:49:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "World Green Energy to build 2 GW solar cell, 1.2 GW module plant in India",
-      "url": "https://www.pv-magazine.com/2025/09/25/world-green-energy-to-build-2-gw-solar-cell-1-2-gw-module-plant-in-india/",
-      "date": "2025-09-25T07:30:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Over 15GWh of energy storage successful in Australia&#8217;s Capacity Investment Scheme Tender 3",
       "url": "https://www.energy-storage.news/over-15gwh-of-energy-storage-successful-in-australias-capacity-investment-scheme-tender-3/",
       "date": "2025-09-17T01:27:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Turbo Energy secures 336MWh C&#038;I battery storage order in Spain",
-      "url": "https://www.energy-storage.news/turbo-energy-secures-336mwh-ci-battery-storage-order-in-spain/",
-      "date": "2025-09-16T15:28:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
