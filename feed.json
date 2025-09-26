@@ -1,6 +1,13 @@
 {
-  "ts": 1758883125159,
+  "ts": 1758884453706,
   "items": [
+    {
+      "title": "EcoFlow launches energy management system providing whole-home backup",
+      "url": "https://www.pv-magazine.com/2025/09/26/ecoflow-launches-energy-management-system-providing-whole-home-backup/",
+      "date": "2025-09-26T10:59:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "‘I wouldn&#8217;t say it&#8217;s business as usual’: Prevalon on the global impacts of the OBBB",
       "url": "https://www.energy-storage.news/i-wouldnt-say-its-business-as-usual-prevalon-on-the-global-impacts-of-the-obbb/",
@@ -223,13 +230,6 @@
       "url": "https://www.energy-storage.news/vietnams-path-from-zero-bess-deployments-to-meeting-ambitious-2030-energy-storage-targets/",
       "date": "2025-09-25T07:02:36.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Boviet Solar to expand to 3 GW of annual US module production capacity",
-      "url": "https://www.pv-magazine.com/2025/09/25/boviet-solar-to-expand-to-3-gw-of-annual-us-module-production-capacity/",
-      "date": "2025-09-25T06:45:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
