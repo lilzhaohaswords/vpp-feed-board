@@ -1,6 +1,34 @@
 {
-  "ts": 1759152935556,
+  "ts": 1759156814631,
   "items": [
+    {
+      "title": "Italy storage deployments rise sixfold in Q2 on utility-scale growth",
+      "url": "https://www.pv-magazine.com/2025/09/29/italy-storage-deployments-rise-sixfold-in-q2-on-utility-scale-growth/",
+      "date": "2025-09-29T13:57:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Peak Energy, Phenogy deploy sodium-ion BESS projects in US and Europe",
+      "url": "https://www.energy-storage.news/peak-energy-phenogy-deploy-sodium-ion-bess-projects-in-us-and-europe/",
+      "date": "2025-09-29T13:47:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Rept Battero signs agreement in US to supply 3GWh of BESS to Energy Vault",
+      "url": "https://www.energy-storage.news/rept-battero-signs-agreement-in-us-to-supply-3gwh-of-bess-to-energy-vault/",
+      "date": "2025-09-29T13:44:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Legal ambiguity in South Dakota, regulator finds state permit required for NextEra 120MW BESS",
+      "url": "https://www.energy-storage.news/legal-ambiguity-in-south-dakota-regulator-finds-state-permit-required-for-nextera-120mw-bess/",
+      "date": "2025-09-29T13:36:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Voltage Energy releases two wiring solutions for PV projects",
       "url": "https://www.pv-magazine.com/2025/09/29/voltage-energy-releases-two-wiring-solutions-for-pv-projects/",
@@ -208,13 +236,6 @@
       "title": "New model to optimize desert PV plant cleaning schedule",
       "url": "https://www.pv-magazine.com/2025/09/26/new-model-to-optimize-desert-pv-plant-cleaning-schedule/",
       "date": "2025-09-26T08:42:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Record heat, rain fail to prevent solar gains across Asia",
-      "url": "https://www.pv-magazine.com/2025/09/26/record-heat-rain-fail-to-prevent-solar-gains-across-asia/",
-      "date": "2025-09-26T08:40:04.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "Samsung SDI to start US BESS manufacturing from 2026",
       "url": "https://www.energy-storage.news/samsung-sdi-to-start-us-bess-manufacturing-from-2026/",
       "date": "2025-09-17T14:21:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Arkansas utility seeks approval of 1.4GWh hybrid BESS, with financial support from Google as part of data centre deal",
-      "url": "https://www.energy-storage.news/arkansas-utility-seeks-approval-of-1-4gwh-hybrid-bess-with-financial-support-from-google-as-part-of-data-centre-deal/",
-      "date": "2025-09-17T14:14:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sympower and Suena raise combined €27 million for European BESS optimisation, international expansion",
-      "url": "https://www.energy-storage.news/sympower-and-suena-raise-combined-e27-million-for-european-bess-optimisation-international-expansion/",
-      "date": "2025-09-17T09:31:21.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China aims for energy storage installations equivalent to today’s global capacity by 2027",
-      "url": "https://www.energy-storage.news/china-aims-for-energy-storage-installations-equivalent-to-todays-global-capacity-by-2027/",
-      "date": "2025-09-17T02:24:20.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
