@@ -1,6 +1,13 @@
 {
-  "ts": 1759242810563,
+  "ts": 1759244452822,
   "items": [
+    {
+      "title": "Investor and system integrator discuss deploying both new and second life BESS in Germany",
+      "url": "https://www.energy-storage.news/investor-and-system-integrator-discuss-deploying-both-new-and-second-life-bess-in-germany/",
+      "date": "2025-09-30T14:33:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "California enables flexible interconnection for solar and storage",
       "url": "https://www.pv-magazine.com/2025/09/30/california-enables-flexible-interconnection-for-solar-and-storage/",
@@ -516,13 +523,6 @@
       "title": "National Fire Protection Association releases NFPA 855 ESS safety standard, 2026 edition",
       "url": "https://www.energy-storage.news/national-fire-protection-association-releases-nfpa-855-ess-safety-standard-2026-edition/",
       "date": "2025-09-18T13:18:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "When quality slips through the cracks: A procurement guide to hidden BESS risks",
-      "url": "https://www.energy-storage.news/when-quality-slips-through-the-cracks-a-procurement-guide-to-hidden-bess-risks/",
-      "date": "2025-09-18T10:41:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
