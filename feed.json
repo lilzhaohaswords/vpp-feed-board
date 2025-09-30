@@ -1,6 +1,41 @@
 {
-  "ts": 1759230061203,
+  "ts": 1759239328110,
   "items": [
+    {
+      "title": "California enables flexible interconnection for solar and storage",
+      "url": "https://www.pv-magazine.com/2025/09/30/california-enables-flexible-interconnection-for-solar-and-storage/",
+      "date": "2025-09-30T13:24:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Netherlands to accelerate permitting procedures for electricity projects",
+      "url": "https://www.pv-magazine.com/2025/09/30/netherlands-to-accelerate-permitting-procedures-for-electricity-projects/",
+      "date": "2025-09-30T12:52:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Brazil tenders 50 MW of battery, solar and hybrid sites for isolated areas",
+      "url": "https://www.pv-magazine.com/2025/09/30/brazil-tenders-50-mw-of-battery-solar-and-hybrid-sites-for-isolated-areas/",
+      "date": "2025-09-30T11:44:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US annual battery storage installations &#8216;will not reach 2025 levels again until 2029&#8217;: Wood Mac",
+      "url": "https://www.energy-storage.news/us-annual-battery-storage-installations-will-not-reach-2025-levels-again-until-2029-wood-mac/",
+      "date": "2025-09-30T11:35:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia registers first eight-hour duration grid battery",
+      "url": "https://www.pv-magazine.com/2025/09/30/australia-registers-first-eight-hour-duration-grid-battery/",
+      "date": "2025-09-30T11:33:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Europe continues move to 15-minute power market settlement, increasing value of flexibility",
       "url": "https://www.energy-storage.news/europe-continues-move-to-15-minute-power-market-settlement-increasing-value-of-flexibility/",
@@ -219,38 +254,10 @@
       "bucket": "A"
     },
     {
-      "title": "Chinese PV Industry Brief: New PV additions for August total only 7.3 GW",
-      "url": "https://www.pv-magazine.com/2025/09/26/chinese-pv-industry-brief-new-pv-additions-for-august-total-only-7-3-gw/",
-      "date": "2025-09-26T15:45:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "AI platform compiles data on Spain’s renewable energy projects",
-      "url": "https://www.pv-magazine.com/2025/09/26/ai-platform-compiles-data-on-spains-renewable-energy-projects/",
-      "date": "2025-09-26T13:30:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Namibia approves 3 GW of solar for hydrogen production",
-      "url": "https://www.pv-magazine.com/2025/09/26/namibia-approves-3-gw-of-solar-for-hydrogen-production/",
-      "date": "2025-09-26T13:29:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Georgia Power announces 2025 RFP for 500MW of BESS",
       "url": "https://www.energy-storage.news/georgia-power-announces-2025-rfp-for-500mw-of-bess/",
       "date": "2025-09-26T13:06:51.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Peak Energy announces operation of first large-scale sodium ion battery in US",
-      "url": "https://www.pv-magazine.com/2025/09/26/peak-energy-announces-operation-of-first-large-scale-sodium-ion-battery-in-us/",
-      "date": "2025-09-26T12:15:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "When quality slips through the cracks: A procurement guide to hidden BESS risks",
       "url": "https://www.energy-storage.news/when-quality-slips-through-the-cracks-a-procurement-guide-to-hidden-bess-risks/",
       "date": "2025-09-18T10:41:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Re.venture, Green Flexibility, EWE progress Germany BESS projects, Terra One raises €150 million",
-      "url": "https://www.energy-storage.news/re-venture-green-flexibility-ewe-progress-germany-bess-projects-terra-one-raises-e150-million/",
-      "date": "2025-09-18T10:40:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
