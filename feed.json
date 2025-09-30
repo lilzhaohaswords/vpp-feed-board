@@ -1,6 +1,27 @@
 {
-  "ts": 1759222157246,
+  "ts": 1759224779230,
   "items": [
+    {
+      "title": "VIDEO: Extract more value from BESS assets in GB &#038; Ireland, from advanced analytics to the full stack",
+      "url": "https://www.energy-storage.news/video-extract-more-value-from-bess-assets-in-gb-ireland-from-advanced-analytics-to-the-full-stack/",
+      "date": "2025-09-30T09:25:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "NPC Incorporated, Gosan Tech partner on perovskite solar module manufacturing",
+      "url": "https://www.pv-magazine.com/2025/09/30/npc-incorporated-gosan-tech-partner-on-perovskite-solar-module-manufacturing/",
+      "date": "2025-09-30T09:13:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar tops EU power mix in June with record 22% share",
+      "url": "https://www.pv-magazine.com/2025/09/30/solar-tops-eu-power-mix-in-june-with-record-22-share/",
+      "date": "2025-09-30T08:52:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Loom Solar launches 10 kW three-phase hybrid inverter for C&#038;I solar",
       "url": "https://www.pv-magazine.com/2025/09/30/loom-solar-launches-10-kw-three-phase-hybrid-inverter-for-ci-solar/",
@@ -222,20 +243,6 @@
       "title": "Peak Energy announces operation of first large-scale sodium ion battery in US",
       "url": "https://www.pv-magazine.com/2025/09/26/peak-energy-announces-operation-of-first-large-scale-sodium-ion-battery-in-us/",
       "date": "2025-09-26T12:15:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "French startup offers water heater control to boost PV self-consumption",
-      "url": "https://www.pv-magazine.com/2025/09/26/french-startup-offers-water-heater-control-to-boost-pv-self-consumption/",
-      "date": "2025-09-26T12:13:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cypriot startup unveils new device to reduce solar curtailment",
-      "url": "https://www.pv-magazine.com/2025/09/26/cypriot-startup-unveils-new-device-to-reduce-solar-curtailment/",
-      "date": "2025-09-26T11:38:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "‘Vertical integration to the dirt in the ground’: Invinity hunts flow battery supply chain, manufacturing advantage",
       "url": "https://www.energy-storage.news/vertical-integration-to-the-dirt-in-the-ground-invinity-hunts-flow-battery-supply-chain-manufacturing-advantage/",
       "date": "2025-09-18T04:57:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Tesla issues Powerwall 2 product recall in Australia following cases of fires",
-      "url": "https://www.energy-storage.news/tesla-issues-powerwall-2-product-recall-in-australia-following-cases-of-fires/",
-      "date": "2025-09-18T02:55:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
