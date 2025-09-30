@@ -1,6 +1,41 @@
 {
-  "ts": 1759217420489,
+  "ts": 1759222157246,
   "items": [
+    {
+      "title": "Loom Solar launches 10 kW three-phase hybrid inverter for C&#038;I solar",
+      "url": "https://www.pv-magazine.com/2025/09/30/loom-solar-launches-10-kw-three-phase-hybrid-inverter-for-ci-solar/",
+      "date": "2025-09-30T08:30:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Guyana commissions solar grid for Indigenous village",
+      "url": "https://www.pv-magazine.com/2025/09/30/guyana-commissions-solar-grid-for-indigenous-village/",
+      "date": "2025-09-30T08:07:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Using Asterisk Sudoku for PV system reconfiguration under shading conditions",
+      "url": "https://www.pv-magazine.com/2025/09/30/using-asterisk-sudoku-for-pv-system-reconfiguration-under-shading-conditions/",
+      "date": "2025-09-30T07:47:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar Servicing to acquire insolvent Mosaic",
+      "url": "https://www.pv-magazine.com/2025/09/30/solar-servicing-to-acquire-insolvent-mosaic/",
+      "date": "2025-09-30T07:45:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Consortium sign agreements for Malaysia’s first battery-backed ‘firm’ solar power facility",
+      "url": "https://www.energy-storage.news/consortium-sign-agreements-for-malaysias-first-battery-backed-firm-solar-power-facility/",
+      "date": "2025-09-30T07:42:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "South Africa awards energy trading license to largest private bank",
       "url": "https://www.pv-magazine.com/2025/09/30/south-africa-awards-energy-trading-license-to-largest-private-bank/",
@@ -205,27 +240,6 @@
       "bucket": "A"
     },
     {
-      "title": "Slovenia plans 140 MW floating solar plant",
-      "url": "https://www.pv-magazine.com/2025/09/26/slovenia-plans-140-mw-floating-solar-plant/",
-      "date": "2025-09-26T11:35:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Czechia amends electricity generation licence threshold",
-      "url": "https://www.pv-magazine.com/2025/09/26/czechia-amends-electricity-generation-licence-threshold/",
-      "date": "2025-09-26T11:08:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EcoFlow launches energy management system providing whole-home backup",
-      "url": "https://www.pv-magazine.com/2025/09/26/ecoflow-launches-energy-management-system-providing-whole-home-backup/",
-      "date": "2025-09-26T10:59:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "‘I wouldn&#8217;t say it&#8217;s business as usual’: Prevalon on the global impacts of the OBBB",
       "url": "https://www.energy-storage.news/i-wouldnt-say-its-business-as-usual-prevalon-on-the-global-impacts-of-the-obbb/",
       "date": "2025-09-26T10:36:42.000Z",
@@ -237,13 +251,6 @@
       "url": "https://www.energy-storage.news/dtek-ingrid-and-triodos-expand-bess-market-footholds-in-poland-sweden-and-germany/",
       "date": "2025-09-26T10:14:12.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU PVSEC 2025: Key takeaways",
-      "url": "https://www.pv-magazine.com/2025/09/26/eu-pvsec-2025-key-takeaways/",
-      "date": "2025-09-26T09:35:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Tesla issues Powerwall 2 product recall in Australia following cases of fires",
       "url": "https://www.energy-storage.news/tesla-issues-powerwall-2-product-recall-in-australia-following-cases-of-fires/",
       "date": "2025-09-18T02:55:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korea: ‘Companies have no model to recover their investment in DC energy storage’",
-      "url": "https://www.energy-storage.news/south-korea-companies-have-no-model-to-recover-their-investment-in-dc-energy-storage/",
-      "date": "2025-09-18T00:56:14.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
