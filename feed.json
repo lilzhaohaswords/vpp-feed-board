@@ -1,6 +1,20 @@
 {
-  "ts": 1759188372091,
+  "ts": 1759201514424,
   "items": [
+    {
+      "title": "State-owned Stanwell reaches halfway mark on 1,200MWh BESS project in Queensland, Australia",
+      "url": "https://www.energy-storage.news/state-owned-stanwell-reaches-halfway-mark-on-1200mwh-bess-project-in-queensland-australia/",
+      "date": "2025-09-30T02:34:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia&#8217;s NEM battery storage surpasses 6.5GWh milestone in weekend of records",
+      "url": "https://www.energy-storage.news/australias-nem-battery-storage-surpasses-6-5gwh-milestone-in-weekend-of-records/",
+      "date": "2025-09-30T02:34:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "China’s SoleFiori to build 6 GW HJT solar module factory in Saudi Arabia",
       "url": "https://www.pv-magazine.com/2025/09/29/chinas-solefiori-to-build-6-gw-hjt-solar-module-factory-in-saudi-arabia/",
@@ -509,20 +523,6 @@
       "title": "South Korea: ‘Companies have no model to recover their investment in DC energy storage’",
       "url": "https://www.energy-storage.news/south-korea-companies-have-no-model-to-recover-their-investment-in-dc-energy-storage/",
       "date": "2025-09-18T00:56:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Advanced compressed air energy storage: Hydrostor secures US$55 million for 1.6GWh Australia project",
-      "url": "https://www.energy-storage.news/advanced-compressed-air-energy-storage-hydrostor-secures-us55-million-for-1-6gwh-australia-project/",
-      "date": "2025-09-18T00:05:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Samsung SDI to start US BESS manufacturing from 2026",
-      "url": "https://www.energy-storage.news/samsung-sdi-to-start-us-bess-manufacturing-from-2026/",
-      "date": "2025-09-17T14:21:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
