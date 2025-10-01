@@ -1,6 +1,20 @@
 {
-  "ts": 1759273281964,
+  "ts": 1759289486204,
   "items": [
+    {
+      "title": "ASL to open 500MW firming tender for Sydney-Newcastle-Wollongong in NSW, Australia",
+      "url": "https://www.energy-storage.news/asl-to-open-500mw-firming-tender-for-sydney-newcastle-wollongong-in-nsw-australia/",
+      "date": "2025-10-01T02:40:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia: AGL’s 1,000MWh Liddell BESS in New South Wales registers with AEMO",
+      "url": "https://www.energy-storage.news/australia-agls-1000mwh-liddell-bess-in-new-south-wales-registers-with-aemo/",
+      "date": "2025-10-01T02:35:09.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Investor and system integrator discuss deploying both new and second life BESS in Germany",
       "url": "https://www.energy-storage.news/investor-and-system-integrator-discuss-deploying-both-new-and-second-life-bess-in-germany/",
@@ -509,20 +523,6 @@
       "title": "Lightsource bp kicks off construction on CIS contract-winning solar-plus-storage plant in Australia",
       "url": "https://www.energy-storage.news/lightsource-bp-kicks-off-construction-on-cis-contract-winning-solar-plus-storage-plant-in-australia/",
       "date": "2025-09-19T06:15:55.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How Canada is driving 8-12GW of storage deployments by 2035 &#8211; ESC report",
-      "url": "https://www.energy-storage.news/how-canada-is-driving-8-12gw-of-storage-deployments-by-2035-esc-report/",
-      "date": "2025-09-18T13:24:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "National Fire Protection Association releases NFPA 855 ESS safety standard, 2026 edition",
-      "url": "https://www.energy-storage.news/national-fire-protection-association-releases-nfpa-855-ess-safety-standard-2026-edition/",
-      "date": "2025-09-18T13:18:03.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
