@@ -1,6 +1,41 @@
 {
-  "ts": 1759317942848,
+  "ts": 1759325759363,
   "items": [
+    {
+      "title": "The &#8216;One, Big, Beautiful Bill Act&#8217; brought changes, some clarity to US energy storage development",
+      "url": "https://www.energy-storage.news/the-one-big-beautiful-bill-act-brought-changes-some-clarity-to-us-energy-storage-development/",
+      "date": "2025-10-01T13:30:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US tariffs on Chinese battery suppliers could trigger global &#8216;race to the bottom,&#8217; Prevalon CEO warns",
+      "url": "https://www.energy-storage.news/us-tariffs-on-chinese-battery-suppliers-could-trigger-global-race-to-the-bottom-prevalon-ceo-warns/",
+      "date": "2025-10-01T13:30:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "India adds 20.1 GW of renewables capacity in April-August, says ICRA",
+      "url": "https://www.pv-magazine.com/2025/10/01/india-adds-20-1-gw-renewable-capacity-in-april-august-says-icra/",
+      "date": "2025-10-01T13:00:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US community solar likely peaked in 2024, says Wood Mackenzie",
+      "url": "https://www.pv-magazine.com/2025/10/01/us-community-solar-likely-peaked-in-2024-says-wood-mackenzie/",
+      "date": "2025-10-01T12:00:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VPI and ADS-TEC reveal combined 1.7GW German BESS plans",
+      "url": "https://www.energy-storage.news/vpi-and-ads-tec-reveal-combined-1-7gw-german-bess-plans/",
+      "date": "2025-10-01T11:42:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Chad starts first utility-scale solar plant with 50 MW and storage",
       "url": "https://www.pv-magazine.com/2025/10/01/chad-starts-first-utility-scale-solar-plant-with-50-mw-and-storage/",
@@ -226,13 +261,6 @@
       "bucket": "A"
     },
     {
-      "title": "Risen presents 475 W TOPCon solar panel with 23.8% efficiency",
-      "url": "https://www.pv-magazine.com/2025/09/30/risen-presents-475-w-topcon-solar-panel-with-23-8-efficiency/",
-      "date": "2025-09-30T07:00:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "State-owned Stanwell reaches halfway mark on 1,200MWh BESS project in Queensland, Australia",
       "url": "https://www.energy-storage.news/state-owned-stanwell-reaches-halfway-mark-on-1200mwh-bess-project-in-queensland-australia/",
       "date": "2025-09-30T02:34:59.000Z",
@@ -244,13 +272,6 @@
       "url": "https://www.energy-storage.news/australias-nem-battery-storage-surpasses-6-5gwh-milestone-in-weekend-of-records/",
       "date": "2025-09-30T02:34:02.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China’s SoleFiori to build 6 GW HJT solar module factory in Saudi Arabia",
-      "url": "https://www.pv-magazine.com/2025/09/29/chinas-solefiori-to-build-6-gw-hjt-solar-module-factory-in-saudi-arabia/",
-      "date": "2025-09-29T14:45:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "Startup Green Gravity to trial gravitational energy storage at a former coal mine in Australia",
       "url": "https://www.energy-storage.news/startup-green-gravity-to-trial-gravitational-energy-storage-at-a-former-coal-mine-in-australia/",
       "date": "2025-09-22T03:18:21.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AGL, Someva receive approval for 2GWh wind-plus-storage site in New South Wales, Australia",
-      "url": "https://www.energy-storage.news/agl-someva-receive-approval-for-2gwh-wind-plus-storage-site-in-new-south-wales-australia/",
-      "date": "2025-09-22T02:01:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Dominion receives approval to develop 400MWh BESS in Virginia after fire safety concerns alleviated",
-      "url": "https://www.energy-storage.news/dominion-receives-approval-to-develop-400mwh-bess-in-virginia-after-fire-safety-concerns-alleviated/",
-      "date": "2025-09-19T12:01:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy: IPP orders 220MWh from Sungrow as MACSE approaches",
-      "url": "https://www.energy-storage.news/italy-ipp-orders-220mwh-from-sungrow-as-macse-approaches/",
-      "date": "2025-09-19T09:41:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
