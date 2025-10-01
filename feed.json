@@ -1,6 +1,13 @@
 {
-  "ts": 1759289486204,
+  "ts": 1759293576814,
   "items": [
+    {
+      "title": "Zombie apocalypse-ready solar-plus-storage kit",
+      "url": "https://www.pv-magazine.com/2025/10/01/zombie-apocalypse-ready-solar-plus-storage-kit/",
+      "date": "2025-10-01T04:30:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "ASL to open 500MW firming tender for Sydney-Newcastle-Wollongong in NSW, Australia",
       "url": "https://www.energy-storage.news/asl-to-open-500mw-firming-tender-for-sydney-newcastle-wollongong-in-nsw-australia/",
@@ -265,13 +272,6 @@
       "url": "https://www.energy-storage.news/samsung-ct-submits-300mwh-solar-plus-storage-site-to-australias-epbc-act/",
       "date": "2025-09-29T03:01:03.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Japanese researchers develop green rust catalyst",
-      "url": "https://www.pv-magazine.com/2025/09/26/the-hydrogen-stream-japanese-researchers-create-catalyst-from-green-rust-for-sodium-borohydride/",
-      "date": "2025-09-26T15:50:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
