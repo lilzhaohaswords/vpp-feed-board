@@ -1,6 +1,13 @@
 {
-  "ts": 1759301393641,
+  "ts": 1759303838104,
   "items": [
+    {
+      "title": "New control strategy for grid-forming inverters",
+      "url": "https://www.pv-magazine.com/2025/10/01/new-control-strategy-for-grid-forming-inverters/",
+      "date": "2025-10-01T07:00:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "European electricity spot market shifts to 15-minute trading blocks",
       "url": "https://www.pv-magazine.com/2025/10/01/european-electricity-spot-market-shifts-to-15-minute-trading-blocks/",
@@ -264,13 +271,6 @@
       "title": "US solar pricing needs a reality check",
       "url": "https://www.pv-magazine.com/2025/09/29/us-solar-pricing-needs-a-reality-check/",
       "date": "2025-09-29T08:15:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sweden switches on 89 MW hybrid wind, solar project",
-      "url": "https://www.pv-magazine.com/2025/09/29/sweden-switches-on-89-mw-hybrid-wind-solar-project/",
-      "date": "2025-09-29T07:39:23.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
