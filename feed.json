@@ -1,6 +1,34 @@
 {
-  "ts": 1759406485635,
+  "ts": 1759411091058,
   "items": [
+    {
+      "title": "Albania reviews 105 MW of new solar project applications",
+      "url": "https://www.pv-magazine.com/2025/10/02/albania-reviews-105-mw-of-new-solar-project-applications/",
+      "date": "2025-10-02T13:00:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US utility Duke Energy files Carolinas Resource Plan, including 5.6GWh of energy storage",
+      "url": "https://www.energy-storage.news/us-utility-duke-energy-files-carolinas-resource-plan-including-5-6gwh-of-energy-storage/",
+      "date": "2025-10-02T12:41:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Canadian Solar enters agreements with Aypa Power for 2.1GWh BESS projects in Ontario",
+      "url": "https://www.energy-storage.news/canadian-solar-enters-agreements-with-aypa-power-for-2-1gwh-bess-projects-in-ontario/",
+      "date": "2025-10-02T12:38:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy&#8217;s &#8216;exceptionally competitive&#8217; first MACSE energy storage auction concludes, procuring 10GWh",
+      "url": "https://www.energy-storage.news/italys-exceptionally-competitive-first-macse-energy-storage-auction-concludes-procuring-10gwh/",
+      "date": "2025-10-02T12:28:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Belgium powers up first 400 MWh phase of mainland Europe’s largest battery",
       "url": "https://www.pv-magazine.com/2025/10/02/belgium-powers-up-first-400-mwh-phase-of-mainland-europes-largest-battery/",
@@ -208,13 +236,6 @@
       "title": "New control strategy for grid-forming inverters",
       "url": "https://www.pv-magazine.com/2025/10/01/new-control-strategy-for-grid-forming-inverters/",
       "date": "2025-10-01T07:00:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "European electricity spot market shifts to 15-minute trading blocks",
-      "url": "https://www.pv-magazine.com/2025/10/01/european-electricity-spot-market-shifts-to-15-minute-trading-blocks/",
-      "date": "2025-10-01T06:48:33.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "Approval granted for 4.9GWh of battery energy storage by developers in Victoria, Australia",
       "url": "https://www.energy-storage.news/approval-granted-for-4-9gwh-of-battery-energy-storage-by-developers-in-victoria-australia/",
       "date": "2025-09-23T02:06:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "GridStor, Flatiron Energy, and Jupiter Power advance US BESS projects totalling 1.6GWh",
-      "url": "https://www.energy-storage.news/gridstor-flatiron-energy-and-jupiter-power-advance-us-bess-projects-totalling-1-6gwh/",
-      "date": "2025-09-22T13:19:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "North American virtual power plants added 4.5GW of new capacity in 2024: Wood Mackenzie",
-      "url": "https://www.energy-storage.news/north-american-virtual-power-plants-added-4-5gw-of-new-capacity-in-2024-wood-mackenzie/",
-      "date": "2025-09-22T13:13:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "LDES could have &#8216;real market-moving impacts&#8217; on price spreads and other UK flexibility assets",
-      "url": "https://www.energy-storage.news/ldes-could-have-real-market-moving-impacts-on-price-spreads-and-other-uk-flexibility-assets/",
-      "date": "2025-09-22T12:15:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
