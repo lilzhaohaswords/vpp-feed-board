@@ -1,6 +1,20 @@
 {
-  "ts": 1759489245525,
+  "ts": 1759493655936,
   "items": [
+    {
+      "title": "Sungrow and Engie complete first half of 200MW/800MW Belgium BESS",
+      "url": "https://www.energy-storage.news/sungrow-and-engie-complete-first-half-of-200mw-800mw-belgium-bess/",
+      "date": "2025-10-03T11:37:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "India launches 1.2 GW renewables-plus-storage tender",
+      "url": "https://www.pv-magazine.com/2025/10/03/india-launches-1-2-gw-renewables-plus-storage-tender/",
+      "date": "2025-10-03T11:26:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Western wildfires, storms cut solar gains in the West while Eastern US sees boost",
       "url": "https://www.pv-magazine.com/2025/10/03/western-wildfires-storms-cut-solar-gains-in-the-west-while-eastern-us-sees-boost/",
@@ -208,13 +222,6 @@
       "title": "Smartvolt adds rooftop lightning protection to pre-assembled mounting system",
       "url": "https://www.pv-magazine.com/2025/10/02/smartvolt-adds-rooftop-lightning-protection-to-pre-assembled-mounting-system/",
       "date": "2025-10-02T04:51:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Most of China’s coastal solar is in low-risk typhoon areas",
-      "url": "https://www.pv-magazine.com/2025/10/02/most-of-chinas-coastal-solar-is-in-low-risk-typhoon-areas/",
-      "date": "2025-10-02T04:45:42.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "The majority of utility-scale batteries were used for arbitrage in 2024 – US EIA survey finds",
       "url": "https://www.energy-storage.news/the-majority-of-utility-scale-batteries-were-used-for-arbitrage-in-2024-us-eia-survey-finds/",
       "date": "2025-09-23T13:43:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BYD launches 14.5MWh BESS as energy density race continues",
-      "url": "https://www.energy-storage.news/byd-launches-14-5mwh-bess-as-energy-density-race-continues/",
-      "date": "2025-09-23T11:16:11.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
