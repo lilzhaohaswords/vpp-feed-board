@@ -1,6 +1,27 @@
 {
-  "ts": 1759482063589,
+  "ts": 1759485668503,
   "items": [
+    {
+      "title": "Western wildfires, storms cut solar gains in the West while Eastern US sees boost",
+      "url": "https://www.pv-magazine.com/2025/10/03/western-wildfires-storms-cut-solar-gains-in-the-west-while-eastern-us-sees-boost/",
+      "date": "2025-10-03T09:59:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tesla, LG ES Vertech join US Energy Storage Coalition to represent industry",
+      "url": "https://www.energy-storage.news/tesla-lg-es-vertech-join-us-energy-storage-coalition-to-represent-industry/",
+      "date": "2025-10-03T09:46:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Rooftop solar could generate 30 TWh of electricity in Norway",
+      "url": "https://www.pv-magazine.com/2025/10/03/rooftop-solar-could-generate-30-twh-of-electricity-in-norway/",
+      "date": "2025-10-03T09:00:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Robots speed installation of 500,000 panels at solar farm in Australia",
       "url": "https://www.pv-magazine.com/2025/10/03/robots-speed-installation-of-500000-panels-at-solar-farm-in-australia/",
@@ -209,20 +230,6 @@
       "url": "https://www.energy-storage.news/quinbrook-completes-the-560mwh-first-stage-of-the-supernode-bess-in-australia/",
       "date": "2025-10-02T02:16:45.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "IEA-PVPS warns soiling costs solar industry billions per year",
-      "url": "https://www.pv-magazine.com/2025/10/01/iea-pvps-warns-soiling-costs-solar-industry-billions-per-year/",
-      "date": "2025-10-01T15:20:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India adds 44.2 GW solar module and 7.5 GW cell capacity in H1",
-      "url": "https://www.pv-magazine.com/2025/10/01/india-adds-44-2-gw-solar-module-and-7-5-gw-cell-capacity-in-h1/",
-      "date": "2025-10-01T15:00:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "BYD launches 14.5MWh BESS as energy density race continues",
       "url": "https://www.energy-storage.news/byd-launches-14-5mwh-bess-as-energy-density-race-continues/",
       "date": "2025-09-23T11:16:11.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Poland&#8217;s PGE starts building 981MWh BESS with locally manufactured LG batteries",
-      "url": "https://www.energy-storage.news/polands-pge-starts-building-981mwh-bess-with-locally-manufactured-lg-batteries/",
-      "date": "2025-09-23T09:58:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
