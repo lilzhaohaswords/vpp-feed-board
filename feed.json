@@ -1,6 +1,20 @@
 {
-  "ts": 1759467666018,
+  "ts": 1759471257463,
   "items": [
+    {
+      "title": "WaterNSW picks pumped hydro sites with potential to support Australian state’s renewable energy objectives",
+      "url": "https://www.energy-storage.news/waternsw-picks-pumped-hydro-sites-with-potential-to-support-australian-states-renewable-energy-objectives/",
+      "date": "2025-10-03T05:42:11.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Rooftop solar could cover 20% of Norway&#8217;s power demand",
+      "url": "https://www.pv-magazine.com/2025/10/03/rooftop-solar-could-cover-20-of-norways-power-demand/",
+      "date": "2025-10-03T05:35:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Neoen advances 2.2 GWh of battery storage projects in Australia",
       "url": "https://www.pv-magazine.com/2025/10/02/neoen-advances-2-2-gwh-of-battery-storage-projects-in-australia/",
@@ -236,13 +250,6 @@
       "title": "Sunwoda Energy unveils 40 kWh storage system for homes, businesses",
       "url": "https://www.pv-magazine.com/2025/10/01/sunwoda-energy-unveils-40-kwh-storage-system-for-homes-businesses/",
       "date": "2025-10-01T09:15:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil opens consultation on nationwide smart meter deployment",
-      "url": "https://www.pv-magazine.com/2025/10/01/brazil-opens-consultation-on-nationwide-smart-meter-deployment/",
-      "date": "2025-10-01T08:30:53.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Poland&#8217;s PGE starts building 981MWh BESS with locally manufactured LG batteries",
       "url": "https://www.energy-storage.news/polands-pge-starts-building-981mwh-bess-with-locally-manufactured-lg-batteries/",
       "date": "2025-09-23T09:58:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia raises 2035 emissions reduction target to 62-70%",
-      "url": "https://www.energy-storage.news/australia-raises-2035-emissions-reduction-target-to-62-70/",
-      "date": "2025-09-23T02:08:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
