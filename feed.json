@@ -1,6 +1,20 @@
 {
-  "ts": 1759500074707,
+  "ts": 1759503667848,
   "items": [
+    {
+      "title": "Plan-B Net Zero combines battery storage and hydrogen storage in new concept",
+      "url": "https://www.pv-magazine.com/2025/10/03/plan-b-net-zero-combines-battery-storage-and-hydrogen-storage-in-new-concept/",
+      "date": "2025-10-03T14:19:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EDF, Enlight advance solar-plus-storage projects in Southwestern US",
+      "url": "https://www.energy-storage.news/edf-enlight-advance-solar-plus-storage-projects-in-southwestern-us/",
+      "date": "2025-10-03T14:15:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "US commercial solar sales teams move from micromanagement to alignment",
       "url": "https://www.pv-magazine.com/2025/10/03/us-commercial-solar-sales-teams-move-from-micromanagement-to-alignment/",
@@ -215,13 +229,6 @@
       "title": "Ghana starts building solar for irrigation scheme",
       "url": "https://www.pv-magazine.com/2025/10/02/ghana-starts-building-solar-for-irrigation-scheme/",
       "date": "2025-10-02T06:45:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy’s second Fer X solar auction draws bids for 3.16 GW",
-      "url": "https://www.pv-magazine.com/2025/10/02/italys-second-fer-x-solar-auction-draws-bids-for-3-16-gw/",
-      "date": "2025-10-02T05:10:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Capital Power’s first two BESS projects come online in Ontario",
       "url": "https://www.energy-storage.news/capital-powers-first-two-bess-projects-come-online-in-ontario/",
       "date": "2025-09-23T13:49:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The majority of utility-scale batteries were used for arbitrage in 2024 – US EIA survey finds",
-      "url": "https://www.energy-storage.news/the-majority-of-utility-scale-batteries-were-used-for-arbitrage-in-2024-us-eia-survey-finds/",
-      "date": "2025-09-23T13:43:03.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
