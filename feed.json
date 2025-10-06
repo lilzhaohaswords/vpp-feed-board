@@ -1,6 +1,20 @@
 {
-  "ts": 1759744873787,
+  "ts": 1759748461923,
   "items": [
+    {
+      "title": "Hithium&#8217;s Hong Kong IPO lapses with CATL lawsuit looming",
+      "url": "https://www.energy-storage.news/hithiums-hong-kong-ipo-lapses-with-catl-lawsuit-looming/",
+      "date": "2025-10-06T10:35:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Mitsubishi debuts 640 kW heat pump providing hot water up to 90 C",
+      "url": "https://www.pv-magazine.com/2025/10/06/mitsubishi-debuts-640-kw-heat-pump-providing-hot-water-up-to-90-c/",
+      "date": "2025-10-06T10:15:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Chile’s energy storage capacity reaches 4.6 GWh",
       "url": "https://www.pv-magazine.com/2025/10/06/chiles-energy-storage-capacity-reaches-4-6-gwh/",
@@ -201,13 +215,6 @@
       "title": "Tender opens for supply, installation of solar systems in Ukraine",
       "url": "https://www.pv-magazine.com/2025/10/02/tender-opens-for-supply-installation-of-solar-systems-in-ukraine/",
       "date": "2025-10-02T14:24:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Volvo Energy launches 2 MWh containerized battery for C&#038;I projects",
-      "url": "https://www.pv-magazine.com/2025/10/02/volvo-energy-launches-2-mwh-containerized-battery-for-ci-applications/",
-      "date": "2025-10-02T14:22:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Queensland government commits AU$48 million to 5.7GWh pumped hydro plant in Australia",
       "url": "https://www.energy-storage.news/queensland-government-commits-au48-million-to-5-7gwh-pumped-hydro-plant-in-australia/",
       "date": "2025-09-24T03:20:55.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Capstone, Eurowind file 3.2GWh long-duration BESS project application with California Energy Commission",
-      "url": "https://www.energy-storage.news/capstone-eurowind-file-3-2gwh-long-duration-bess-project-application-with-california-energy-commission/",
-      "date": "2025-09-23T14:16:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
