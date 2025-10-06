@@ -1,6 +1,41 @@
 {
-  "ts": 1759748461923,
+  "ts": 1759752092201,
   "items": [
+    {
+      "title": "Colombia creates fast-track licensing for 10 MW to 100 MW solar projects",
+      "url": "https://www.pv-magazine.com/2025/10/06/colombia-creates-fast-track-licensing-for-10-mw-to-100-mw-solar-projects/",
+      "date": "2025-10-06T12:00:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Rajasthan launches 2GWh standalone BESS tender after India relaxes VGF guidelines",
+      "url": "https://www.energy-storage.news/rajasthan-launches-2gwh-standalone-bess-tender-after-india-relaxes-vgf-guidelines/",
+      "date": "2025-10-06T12:00:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Sermatec’s 6.25 MWh battery storage system enters mass production",
+      "url": "https://www.pv-magazine.com/2025/10/06/sermatecs-6-25-mwh-battery-storage-system-enters-mass-production/",
+      "date": "2025-10-06T11:51:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sentorise releases 100 Ah battery for off-grid use",
+      "url": "https://www.pv-magazine.com/2025/10/06/sentorise-releases-100-ah-battery-for-off-grid-use/",
+      "date": "2025-10-06T11:02:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK resorts to PV for military sites",
+      "url": "https://www.pv-magazine.com/2025/10/06/uk-resorts-to-pv-for-military-sites/",
+      "date": "2025-10-06T11:00:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hithium&#8217;s Hong Kong IPO lapses with CATL lawsuit looming",
       "url": "https://www.energy-storage.news/hithiums-hong-kong-ipo-lapses-with-catl-lawsuit-looming/",
@@ -184,38 +219,10 @@
       "bucket": "A"
     },
     {
-      "title": "New research confirms rooftop PV affects urban temperatures, cooling demand",
-      "url": "https://www.pv-magazine.com/2025/10/03/new-research-confirms-rooftop-pv-affects-urban-temperatures-cooling-demand/",
-      "date": "2025-10-03T06:23:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New sieving tech for solar cell silver recovery",
-      "url": "https://www.pv-magazine.com/2025/10/03/new-sieving-tech-for-solar-cell-silver-recovery/",
-      "date": "2025-10-03T06:11:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "WaterNSW picks pumped hydro sites with potential to support Australian state’s renewable energy objectives",
       "url": "https://www.energy-storage.news/waternsw-picks-pumped-hydro-sites-with-potential-to-support-australian-states-renewable-energy-objectives/",
       "date": "2025-10-03T05:42:11.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Neoen advances 2.2 GWh of battery storage projects in Australia",
-      "url": "https://www.pv-magazine.com/2025/10/02/neoen-advances-2-2-gwh-of-battery-storage-projects-in-australia/",
-      "date": "2025-10-02T14:30:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tender opens for supply, installation of solar systems in Ukraine",
-      "url": "https://www.pv-magazine.com/2025/10/02/tender-opens-for-supply-installation-of-solar-systems-in-ukraine/",
-      "date": "2025-10-02T14:24:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Snowy Hydro, BHP sign offtake deals for over 2GWh of battery energy storage in Australia",
       "url": "https://www.energy-storage.news/snowy-hydro-bhp-sign-offtake-deals-for-over-2gwh-of-battery-energy-storage-in-australia/",
       "date": "2025-09-24T03:29:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Queensland government commits AU$48 million to 5.7GWh pumped hydro plant in Australia",
-      "url": "https://www.energy-storage.news/queensland-government-commits-au48-million-to-5-7gwh-pumped-hydro-plant-in-australia/",
-      "date": "2025-09-24T03:20:55.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
