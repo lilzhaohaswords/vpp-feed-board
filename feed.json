@@ -1,6 +1,34 @@
 {
-  "ts": 1759741278494,
+  "ts": 1759744873787,
   "items": [
+    {
+      "title": "Chile’s energy storage capacity reaches 4.6 GWh",
+      "url": "https://www.pv-magazine.com/2025/10/06/chiles-energy-storage-capacity-reaches-4-6-gwh/",
+      "date": "2025-10-06T09:42:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "IPVF demonstrates 16.8%-efficient mini bifacial perovskite solar module",
+      "url": "https://www.pv-magazine.com/2025/10/06/ipvf-demonstrates-16-8-efficient-mini-bifacial-perovskite-solar-module/",
+      "date": "2025-10-06T09:17:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Astrobotic, Honda developing vertical solar, storage solution for lunar missions",
+      "url": "https://www.pv-magazine.com/2025/10/06/astrobotic-honda-developing-vertical-solar-storage-solution-for-lunar-missions/",
+      "date": "2025-10-06T09:13:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Challenges, lessons learned and analytics in action from operating a BESS for the first time",
+      "url": "https://www.energy-storage.news/video-challenges-lessons-learned-and-analytics-in-action-from-operating-a-bess-for-the-first-time/",
+      "date": "2025-10-06T09:04:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "SMA to cut 350 jobs by 2026 amid weak solar inverter market",
       "url": "https://www.pv-magazine.com/2025/10/06/sma-to-cut-350-jobs-by-2026-amid-weak-solar-inverter-market/",
@@ -184,24 +212,10 @@
       "bucket": "A"
     },
     {
-      "title": "EcoFlow unveils Delta 3 Max and Ultra portable power stations",
-      "url": "https://www.pv-magazine.com/2025/10/02/ecoflow-unveils-delta-3-max-and-ultra-portable-power-stations/",
-      "date": "2025-10-02T14:00:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "SPP utility to invest over US$600 million in 1.9GWh BESS projects to address &#8216;significant capacity deficit&#8217;",
       "url": "https://www.energy-storage.news/spp-utility-to-invest-over-us600-million-in-1-9gwh-bess-projects-to-address-significant-capacity-deficit/",
       "date": "2025-10-02T13:31:23.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Albania reviews 105 MW of new solar project applications",
-      "url": "https://www.pv-magazine.com/2025/10/02/albania-reviews-105-mw-of-new-solar-project-applications/",
-      "date": "2025-10-02T13:00:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -223,13 +237,6 @@
       "url": "https://www.energy-storage.news/italys-exceptionally-competitive-first-macse-energy-storage-auction-concludes-procuring-10gwh/",
       "date": "2025-10-02T12:28:37.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Belgium powers up first 400 MWh phase of mainland Europe’s largest battery",
-      "url": "https://www.pv-magazine.com/2025/10/02/belgium-powers-up-first-400-mwh-phase-of-mainland-europes-largest-battery/",
-      "date": "2025-10-02T12:00:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Capstone, Eurowind file 3.2GWh long-duration BESS project application with California Energy Commission",
       "url": "https://www.energy-storage.news/capstone-eurowind-file-3-2gwh-long-duration-bess-project-application-with-california-energy-commission/",
       "date": "2025-09-23T14:16:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Capital Power’s first two BESS projects come online in Ontario",
-      "url": "https://www.energy-storage.news/capital-powers-first-two-bess-projects-come-online-in-ontario/",
-      "date": "2025-09-23T13:49:47.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
