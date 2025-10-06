@@ -1,6 +1,20 @@
 {
-  "ts": 1759756866571,
+  "ts": 1759759277987,
   "items": [
+    {
+      "title": "Nightpeak Energy commences operation of 300MWh Texas BESS",
+      "url": "https://www.energy-storage.news/nightpeak-energy-commences-operation-of-300mwh-texas-bess/",
+      "date": "2025-10-06T13:45:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "AIP acquires 49% stake in BW ESS UK storage portfolio for nearly US$900 million",
+      "url": "https://www.energy-storage.news/aip-acquires-49-stake-in-bw-ess-uk-storage-portfolio-for-nearly-us900-million/",
+      "date": "2025-10-06T13:38:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "French startup launches solar-based EV charging optimization system",
       "url": "https://www.pv-magazine.com/2025/10/06/french-startup-launches-solar-based-ev-charging-optimization-system/",
@@ -509,20 +523,6 @@
       "title": "Non-lithium energy storage startups Fourth Power, Unbound Potential and XL Batteries raise financing",
       "url": "https://www.energy-storage.news/non-lithium-energy-storage-startups-fourth-power-unbound-potential-and-xl-batteries-raise-financing/",
       "date": "2025-09-24T09:20:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s first 8-hour LDES battery energy storage system registered with AEMO",
-      "url": "https://www.energy-storage.news/australias-first-8-hour-ldes-battery-energy-storage-system-registered-with-aemo/",
-      "date": "2025-09-24T03:58:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Snowy Hydro, BHP sign offtake deals for over 2GWh of battery energy storage in Australia",
-      "url": "https://www.energy-storage.news/snowy-hydro-bhp-sign-offtake-deals-for-over-2gwh-of-battery-energy-storage-in-australia/",
-      "date": "2025-09-24T03:29:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
