@@ -1,6 +1,27 @@
 {
-  "ts": 1759834855804,
+  "ts": 1759838502188,
   "items": [
+    {
+      "title": "Solar fridges for the developing world",
+      "url": "https://www.pv-magazine.com/2025/10/07/solar-fridges-for-the-developing-world/",
+      "date": "2025-10-07T11:22:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "IEA lowers 2025-30 forecast for solar growth",
+      "url": "https://www.pv-magazine.com/2025/10/07/iea-lowers-2025-30-forecast-for-solar-growth/",
+      "date": "2025-10-07T11:16:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Philippines regulator’s ESS market rules will be ‘a watershed moment’",
+      "url": "https://www.energy-storage.news/philippines-regulators-ess-market-rules-will-be-a-watershed-moment/",
+      "date": "2025-10-07T11:08:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Researchers discover photovoltaic properties in zinc-based film",
       "url": "https://www.pv-magazine.com/2025/10/07/researchers-discover-photovoltaic-properties-in-zinc-based-film/",
@@ -208,20 +229,6 @@
       "title": "Spain&#8217;s solar capacity to hit 152.8 GW by 2035, says GlobalData",
       "url": "https://www.pv-magazine.com/2025/10/06/spain-solar-capacity-to-hit-152-8-gw-by-2035-says-globaldata/",
       "date": "2025-10-06T07:30:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s Vsole Solar opens inverter plant with 20,000-unit monthly capacity",
-      "url": "https://www.pv-magazine.com/2025/10/06/indias-vsole-solar-opens-inverter-plant-with-20000-unit-monthly-capacity/",
-      "date": "2025-10-06T06:45:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solis launches 16 kW residential and 60 kW commercial hybrid inverters",
-      "url": "https://www.pv-magazine.com/2025/10/06/solis-launches-16-kw-residential-and-60-kw-commercial-hybrid-inverters/",
-      "date": "2025-10-06T04:52:01.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "OCI Energy, Nexus Renewable Power secure financing for Texas BESS projects",
       "url": "https://www.energy-storage.news/oci-energy-nexus-renewable-power-secure-financing-for-texas-bess-projects/",
       "date": "2025-09-24T13:03:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Lithium-ion dominates first round of UK LDES cap-and-floor scheme",
-      "url": "https://www.energy-storage.news/lithium-ion-dominates-first-round-of-uk-ldes-cap-and-floor-scheme/",
-      "date": "2025-09-24T11:38:18.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
