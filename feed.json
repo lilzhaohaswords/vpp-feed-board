@@ -1,6 +1,13 @@
 {
-  "ts": 1759827678119,
+  "ts": 1759831263683,
   "items": [
+    {
+      "title": "Optimal sizing for AC multi-bus microgrids based on solar, storage",
+      "url": "https://www.pv-magazine.com/2025/10/07/optimal-sizing-for-ac-multi-bus-microgrids-based-on-solar-storage/",
+      "date": "2025-10-07T09:11:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Costa Rica doubles feed-in rates for new distributed solar producers",
       "url": "https://www.pv-magazine.com/2025/10/07/costa-rica-doubles-feed-in-rates-for-new-distributed-solar-producers/",
@@ -215,13 +222,6 @@
       "title": "The Hydrogen Stream: CF Industries ships first low-carbon ammonia from the US to Europe",
       "url": "https://www.pv-magazine.com/2025/10/03/the-hydrogen-stream-cf-industries-ships-first-low-carbon-ammonia-from-the-us-to-europe/",
       "date": "2025-10-03T15:50:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: PowerChina opens 3 GWp n-type TOPCon tender",
-      "url": "https://www.pv-magazine.com/2025/10/03/chinese-pv-industry-brief-powerchina-opens-3-gwp-n-type-topcon-tender/",
-      "date": "2025-10-03T15:40:34.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
