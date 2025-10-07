@@ -1,6 +1,27 @@
 {
-  "ts": 1759843278274,
+  "ts": 1759845672818,
   "items": [
+    {
+      "title": "‘The industry must do a better job of putting BESS safety in perspective’: Prevalon and Honeywell on addressing BESS fire safety",
+      "url": "https://www.energy-storage.news/the-industry-must-do-a-better-job-of-putting-bess-safety-in-perspective-prevalon-and-honeywell-on-addressing-bess-fire-safety/",
+      "date": "2025-10-07T13:53:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Eolian and utility CPS Energy begin operating 100MWh Texas BESS",
+      "url": "https://www.energy-storage.news/eolian-and-utility-cps-energy-begin-operating-100mwh-texas-bess/",
+      "date": "2025-10-07T13:47:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Chemitek Solar launches cleaning solutions for agrivoltaics",
+      "url": "https://www.pv-magazine.com/2025/10/07/chemitek-solar-launches-cleaning-solutions-for-agrivoltaics/",
+      "date": "2025-10-07T13:39:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Key takeaways from Italy&#8217;s Solar Solutions",
       "url": "https://www.pv-magazine.com/2025/10/07/key-takeaways-from-italys-solar-solutions/",
@@ -215,13 +236,6 @@
       "title": "Chile’s energy storage capacity reaches 4.6 GWh",
       "url": "https://www.pv-magazine.com/2025/10/06/chiles-energy-storage-capacity-reaches-4-6-gwh/",
       "date": "2025-10-06T09:42:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "IPVF demonstrates 16.8%-efficient mini bifacial perovskite solar module",
-      "url": "https://www.pv-magazine.com/2025/10/06/ipvf-demonstrates-16-8-efficient-mini-bifacial-perovskite-solar-module/",
-      "date": "2025-10-06T09:17:29.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "JinkoSolar bags federal approval for 1,440MWh solar-plus-storage site in Australia",
       "url": "https://www.energy-storage.news/jinkosolar-bags-federal-approval-for-1440mwh-solar-plus-storage-site-in-australia/",
       "date": "2025-09-25T03:24:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BESS in Trump 2.0: Does the administration&#8217;s rhetoric have to become the industry’s?",
-      "url": "https://www.energy-storage.news/bess-in-trump-2-0-does-the-administrations-rhetoric-have-to-become-the-industrys/",
-      "date": "2025-09-24T13:34:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "OCI Energy, Nexus Renewable Power secure financing for Texas BESS projects",
-      "url": "https://www.energy-storage.news/oci-energy-nexus-renewable-power-secure-financing-for-texas-bess-projects/",
-      "date": "2025-09-24T13:03:25.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
