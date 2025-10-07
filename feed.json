@@ -1,6 +1,34 @@
 {
-  "ts": 1759824069907,
+  "ts": 1759827678119,
   "items": [
+    {
+      "title": "Costa Rica doubles feed-in rates for new distributed solar producers",
+      "url": "https://www.pv-magazine.com/2025/10/07/costa-rica-doubles-feed-in-rates-for-new-distributed-solar-producers/",
+      "date": "2025-10-07T09:00:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Virtual battery tolls explained: Revenue vertainty in a volatile market",
+      "url": "https://www.energy-storage.news/virtual-battery-tolls-explained-revenue-vertainty-in-a-volatile-market/",
+      "date": "2025-10-07T08:28:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Battery trading complexity demands software solutions as the Australian market matures",
+      "url": "https://www.energy-storage.news/battery-trading-complexity-demands-software-solutions-as-the-australian-market-matures/",
+      "date": "2025-10-07T08:25:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Chile loses $562 million to rising solar and wind curtailment",
+      "url": "https://www.pv-magazine.com/2025/10/07/chile-loses-562-million-to-rising-solar-and-wind-curtailment/",
+      "date": "2025-10-07T08:15:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Indian scientists create scalable recycling process for solar waste",
       "url": "https://www.pv-magazine.com/2025/10/07/indian-scientists-create-scalable-recycling-process-for-solar-waste/",
@@ -198,24 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "Plan-B Net Zero combines battery storage and hydrogen storage in new concept",
-      "url": "https://www.pv-magazine.com/2025/10/03/plan-b-net-zero-combines-battery-storage-and-hydrogen-storage-in-new-concept/",
-      "date": "2025-10-03T14:19:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "EDF, Enlight advance solar-plus-storage projects in Southwestern US",
       "url": "https://www.energy-storage.news/edf-enlight-advance-solar-plus-storage-projects-in-southwestern-us/",
       "date": "2025-10-03T14:15:19.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US commercial solar sales teams move from micromanagement to alignment",
-      "url": "https://www.pv-magazine.com/2025/10/03/us-commercial-solar-sales-teams-move-from-micromanagement-to-alignment/",
-      "date": "2025-10-03T12:15:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Lithium-ion dominates first round of UK LDES cap-and-floor scheme",
       "url": "https://www.energy-storage.news/lithium-ion-dominates-first-round-of-uk-ldes-cap-and-floor-scheme/",
       "date": "2025-09-24T11:38:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ancillary service prices &#8216;through the roof&#8217; in Baltics, 20-30% IRRs for BESS first-movers",
-      "url": "https://www.energy-storage.news/ancillary-service-prices-through-the-roof-in-baltics-20-30-irrs-for-bess-first-movers/",
-      "date": "2025-09-24T10:42:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Non-lithium energy storage startups Fourth Power, Unbound Potential and XL Batteries raise financing",
-      "url": "https://www.energy-storage.news/non-lithium-energy-storage-startups-fourth-power-unbound-potential-and-xl-batteries-raise-financing/",
-      "date": "2025-09-24T09:20:28.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
