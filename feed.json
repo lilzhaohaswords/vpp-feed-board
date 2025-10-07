@@ -1,6 +1,13 @@
 {
-  "ts": 1759816863283,
+  "ts": 1759820489650,
   "items": [
+    {
+      "title": "California’s Ivanpah CSP closure shows tech shift, not solar decline",
+      "url": "https://www.pv-magazine.com/2025/10/07/californias-ivanpah-csp-closure-shows-tech-shift-not-solar-decline/",
+      "date": "2025-10-07T06:45:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Japan launches R&#038;D call for tandem perovskite solar cell mass production",
       "url": "https://www.pv-magazine.com/2025/10/06/japan-opens-bidding-for-tandem-perovskite-solar-cell-mass-production-rd/",
@@ -223,13 +230,6 @@
       "url": "https://www.energy-storage.news/tesla-lg-es-vertech-join-us-energy-storage-coalition-to-represent-industry/",
       "date": "2025-10-03T09:46:44.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Rooftop solar could generate 30 TWh of electricity in Norway",
-      "url": "https://www.pv-magazine.com/2025/10/03/rooftop-solar-could-generate-30-twh-of-electricity-in-norway/",
-      "date": "2025-10-03T09:00:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
