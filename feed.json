@@ -1,6 +1,13 @@
 {
-  "ts": 1759845672818,
+  "ts": 1759849266942,
   "items": [
+    {
+      "title": "BSW-Solar calls for 100GWh of German storage deployments by 2030",
+      "url": "https://www.energy-storage.news/bsw-solar-calls-for-100gwh-german-storage-deployments-2030/",
+      "date": "2025-10-07T14:21:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "‘The industry must do a better job of putting BESS safety in perspective’: Prevalon and Honeywell on addressing BESS fire safety",
       "url": "https://www.energy-storage.news/the-industry-must-do-a-better-job-of-putting-bess-safety-in-perspective-prevalon-and-honeywell-on-addressing-bess-fire-safety/",
@@ -516,13 +523,6 @@
       "title": "Victoria the first Australian state to cross 1GW BESS charging milestone",
       "url": "https://www.energy-storage.news/victoria-the-first-australian-state-to-cross-1gw-bess-charging-milestone/",
       "date": "2025-09-25T03:28:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "JinkoSolar bags federal approval for 1,440MWh solar-plus-storage site in Australia",
-      "url": "https://www.energy-storage.news/jinkosolar-bags-federal-approval-for-1440mwh-solar-plus-storage-site-in-australia/",
-      "date": "2025-09-25T03:24:48.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
