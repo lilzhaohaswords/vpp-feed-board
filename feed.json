@@ -1,6 +1,13 @@
 {
-  "ts": 1759849266942,
+  "ts": 1759852863854,
   "items": [
+    {
+      "title": "Operational faults cut returns in 19% of battery storage projects",
+      "url": "https://www.pv-magazine.com/2025/10/07/operational-faults-cut-returns-in-19-of-battery-storage-projects/",
+      "date": "2025-10-07T15:46:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "BSW-Solar calls for 100GWh of German storage deployments by 2030",
       "url": "https://www.energy-storage.news/bsw-solar-calls-for-100gwh-german-storage-deployments-2030/",
@@ -236,13 +243,6 @@
       "title": "Mitsubishi debuts 640 kW heat pump providing hot water up to 90 C",
       "url": "https://www.pv-magazine.com/2025/10/06/mitsubishi-debuts-640-kw-heat-pump-providing-hot-water-up-to-90-c/",
       "date": "2025-10-06T10:15:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chile’s energy storage capacity reaches 4.6 GWh",
-      "url": "https://www.pv-magazine.com/2025/10/06/chiles-energy-storage-capacity-reaches-4-6-gwh/",
-      "date": "2025-10-06T09:42:56.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
