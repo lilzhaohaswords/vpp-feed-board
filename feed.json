@@ -1,6 +1,13 @@
 {
-  "ts": 1759831263683,
+  "ts": 1759834855804,
   "items": [
+    {
+      "title": "Researchers discover photovoltaic properties in zinc-based film",
+      "url": "https://www.pv-magazine.com/2025/10/07/researchers-discover-photovoltaic-properties-in-zinc-based-film/",
+      "date": "2025-10-07T10:55:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Optimal sizing for AC multi-bus microgrids based on solar, storage",
       "url": "https://www.pv-magazine.com/2025/10/07/optimal-sizing-for-ac-multi-bus-microgrids-based-on-solar-storage/",
@@ -16,8 +23,8 @@
       "bucket": "A"
     },
     {
-      "title": "Virtual battery tolls explained: Revenue vertainty in a volatile market",
-      "url": "https://www.energy-storage.news/virtual-battery-tolls-explained-revenue-vertainty-in-a-volatile-market/",
+      "title": "Virtual battery tolls explained: Revenue certainty in a volatile market",
+      "url": "https://www.energy-storage.news/virtual-battery-tolls-explained-revenue-certainty-in-a-volatile-market/",
       "date": "2025-10-07T08:28:28.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
@@ -215,13 +222,6 @@
       "title": "Solis launches 16 kW residential and 60 kW commercial hybrid inverters",
       "url": "https://www.pv-magazine.com/2025/10/06/solis-launches-16-kw-residential-and-60-kw-commercial-hybrid-inverters/",
       "date": "2025-10-06T04:52:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: CF Industries ships first low-carbon ammonia from the US to Europe",
-      "url": "https://www.pv-magazine.com/2025/10/03/the-hydrogen-stream-cf-industries-ships-first-low-carbon-ammonia-from-the-us-to-europe/",
-      "date": "2025-10-03T15:50:24.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
