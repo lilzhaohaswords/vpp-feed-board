@@ -1,6 +1,27 @@
 {
-  "ts": 1759914071277,
+  "ts": 1759917652075,
   "items": [
+    {
+      "title": "Bitesize takeaways from Energy Storage Summit Asia 2025",
+      "url": "https://www.energy-storage.news/bitesize-takeaways-from-energy-storage-summit-asia-2025/",
+      "date": "2025-10-08T09:48:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Xcel Energy proposes 200MW distributed battery storage network in Minnesota",
+      "url": "https://www.energy-storage.news/xcel-energy-minnesota-200mw-distributed-battery-storage-network/",
+      "date": "2025-10-08T09:25:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Austria opens final €8 million solar-plus-storage rebate round",
+      "url": "https://www.pv-magazine.com/2025/10/08/austria-opens-final-e8-million-solar-plus-storage-rebate-round/",
+      "date": "2025-10-08T09:15:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Montserrat runs solar-plus-storage tender",
       "url": "https://www.pv-magazine.com/2025/10/08/montserrat-runs-solar-plus-storage-tender/",
@@ -229,13 +250,6 @@
       "title": "French startup launches solar-based EV charging optimization system",
       "url": "https://www.pv-magazine.com/2025/10/06/french-startup-launches-solar-based-ev-charging-optimization-system/",
       "date": "2025-10-06T13:00:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Colombia creates fast-track licensing for 10 MW to 100 MW solar projects",
-      "url": "https://www.pv-magazine.com/2025/10/06/colombia-creates-fast-track-licensing-for-10-mw-to-100-mw-solar-projects/",
-      "date": "2025-10-06T12:00:42.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Poland &#8216;lacks precise development regulations and a clear long-term plan for energy storage&#8217;",
       "url": "https://www.energy-storage.news/poland-lacks-precise-development-regulations-and-a-clear-long-term-plan-for-energy-storage/",
       "date": "2025-09-25T09:57:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Eni joint venture kicks off LFP battery cell factory development in Italy",
-      "url": "https://www.energy-storage.news/eni-joint-venture-kicks-off-lfp-battery-cell-factory-development-in-italy/",
-      "date": "2025-09-25T09:16:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Vietnam&#8217;s path from zero BESS deployments to meeting ambitious 2030 energy storage targets",
-      "url": "https://www.energy-storage.news/vietnams-path-from-zero-bess-deployments-to-meeting-ambitious-2030-energy-storage-targets/",
-      "date": "2025-09-25T07:02:36.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
