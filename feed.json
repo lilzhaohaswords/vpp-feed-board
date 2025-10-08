@@ -1,6 +1,20 @@
 {
-  "ts": 1759924873865,
+  "ts": 1759929686837,
   "items": [
+    {
+      "title": "Mauritania, Niger sign major solar financing deals",
+      "url": "https://www.pv-magazine.com/2025/10/08/mauritania-niger-sign-major-solar-financing-deals/",
+      "date": "2025-10-08T12:43:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Longroad Energy signs Utah BESS offtake deal, tariff-related price adjustments could increase cost by 4.7%",
+      "url": "https://www.energy-storage.news/longroad-energy-signs-utah-bess-offtake-deal-tariff-related-price-adjustments-could-increase-cost-by-4-7/",
+      "date": "2025-10-08T12:38:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "India reaches 490 MWh energy storage capacity by June 2025",
       "url": "https://www.pv-magazine.com/2025/10/08/india-reaches-490-mwh-energy-storage-capacity-by-june-2025/",
@@ -237,13 +251,6 @@
       "url": "https://www.energy-storage.news/battery-trading-complexity-demands-software-solutions-as-the-australian-market-matures/",
       "date": "2025-10-07T08:25:56.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chile loses $562 million to rising solar and wind curtailment",
-      "url": "https://www.pv-magazine.com/2025/10/07/chile-loses-562-million-to-rising-solar-and-wind-curtailment/",
-      "date": "2025-10-07T08:15:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "NCPA and Aypa Power negotiate offtake for 400MW San Bernardino BESS, includes &#8216;attractive&#8217; US$12.71/kW-month pricing",
       "url": "https://www.energy-storage.news/ncpa-and-aypa-power-negotiate-offtake-for-400mw-san-bernardino-bess-includes-attractive-us12-71-kw-month-pricing/",
       "date": "2025-09-25T12:47:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Microsoft among members of Schneider Electric-led US resilient community energy initiative",
-      "url": "https://www.energy-storage.news/microsoft-among-members-of-schneider-electric-led-us-resilient-community-energy-initiative/",
-      "date": "2025-09-25T12:20:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
