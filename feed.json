@@ -1,6 +1,13 @@
 {
-  "ts": 1759896066350,
+  "ts": 1759899664368,
   "items": [
+    {
+      "title": "Potentia’s 500MW solar-plus-storage site in Australia receives NSW approval",
+      "url": "https://www.energy-storage.news/potentias-500mw-solar-plus-storage-site-in-australia-receives-nsw-approval/",
+      "date": "2025-10-08T04:55:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Operational faults cut returns in 19% of battery storage projects",
       "url": "https://www.pv-magazine.com/2025/10/07/operational-faults-cut-returns-in-19-of-battery-storage-projects/",
@@ -516,13 +523,6 @@
       "title": "Vietnam&#8217;s path from zero BESS deployments to meeting ambitious 2030 energy storage targets",
       "url": "https://www.energy-storage.news/vietnams-path-from-zero-bess-deployments-to-meeting-ambitious-2030-energy-storage-targets/",
       "date": "2025-09-25T07:02:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Victoria the first Australian state to cross 1GW BESS charging milestone",
-      "url": "https://www.energy-storage.news/victoria-the-first-australian-state-to-cross-1gw-bess-charging-milestone/",
-      "date": "2025-09-25T03:28:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
