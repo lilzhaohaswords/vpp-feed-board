@@ -1,6 +1,27 @@
 {
-  "ts": 1760007641762,
+  "ts": 1760011269356,
   "items": [
+    {
+      "title": "IEA says cost of capital for solar remains high in Southeast Asia",
+      "url": "https://www.pv-magazine.com/2025/10/09/iea-says-cost-of-capital-for-solar-remains-high-in-southeast-asia/",
+      "date": "2025-10-09T12:00:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Lithuania expands energy storage support scheme, aims for speedy turnaround",
+      "url": "https://www.energy-storage.news/lithuania-expands-energy-storage-support-scheme-aims-for-speedy-turnaround/",
+      "date": "2025-10-09T11:39:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Zurich launches insurance for agrivoltaics",
+      "url": "https://www.pv-magazine.com/2025/10/09/zurich-launches-insurance-for-agrivoltaics/",
+      "date": "2025-10-09T11:00:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Huawei signs MoU with GoldenPeaks for 500MWh of European grid-forming BESS",
       "url": "https://www.energy-storage.news/huawei-signs-mou-with-goldenpeaks-for-500mwh-of-european-grid-forming-bess/",
@@ -223,20 +244,6 @@
       "url": "https://www.energy-storage.news/xcel-energy-minnesota-200mw-distributed-battery-storage-network/",
       "date": "2025-10-08T09:25:59.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Austria opens final €8 million solar-plus-storage rebate round",
-      "url": "https://www.pv-magazine.com/2025/10/08/austria-opens-final-e8-million-solar-plus-storage-rebate-round/",
-      "date": "2025-10-08T09:15:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Montserrat runs solar-plus-storage tender",
-      "url": "https://www.pv-magazine.com/2025/10/08/montserrat-runs-solar-plus-storage-tender/",
-      "date": "2025-10-08T08:58:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "VIDEO: Exploring C&#038;I ESS technologies for flexibility and resilience with Honeywell",
       "url": "https://www.energy-storage.news/video-exploring-ci-ess-technologies-for-flexibility-and-resilience-with-honeywell/",
       "date": "2025-09-29T10:46:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Samsung C&#038;T submits 300MWh solar-plus-storage site to Australia’s EPBC Act",
-      "url": "https://www.energy-storage.news/samsung-ct-submits-300mwh-solar-plus-storage-site-to-australias-epbc-act/",
-      "date": "2025-09-29T03:01:03.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
