@@ -1,6 +1,27 @@
 {
-  "ts": 1760000464966,
+  "ts": 1760004067620,
   "items": [
+    {
+      "title": "Huawei signs MoU with GoldenPeaks for 500MWh of European grid-forming BESS",
+      "url": "https://www.energy-storage.news/huawei-signs-mou-with-goldenpeaks-for-500mwh-of-european-grid-forming-bess/",
+      "date": "2025-10-09T10:00:26.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Sungrow files Hong Kong IPO prospectus; strong financials but &#8216;global trade policy&#8217; risk looms",
+      "url": "https://www.energy-storage.news/sungrow-files-hong-kong-ipo-prospectus-strong-financials-but-global-trade-policy-risk-looms/",
+      "date": "2025-10-09T09:40:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Brazilian law reignites debate on framework for distributed solar, storage",
+      "url": "https://www.pv-magazine.com/2025/10/09/brazilian-law-reignites-debate-on-framework-for-distributed-solar-storage/",
+      "date": "2025-10-09T09:14:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Silver prices surge, yet &#8216;thrifting&#8217; poses little threat to solar cell, module quality",
       "url": "https://www.pv-magazine.com/2025/10/09/silver-prices-surge-yet-thrifting-poses-little-threat-to-solar-cell-module-quality/",
@@ -215,13 +236,6 @@
       "title": "Montserrat runs solar-plus-storage tender",
       "url": "https://www.pv-magazine.com/2025/10/08/montserrat-runs-solar-plus-storage-tender/",
       "date": "2025-10-08T08:58:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain installs 7.2 GW of solar in 2024 amid rooftop slowdown",
-      "url": "https://www.pv-magazine.com/2025/10/08/spain-installs-7-2-gw-of-solar-in-2024-amid-rooftop-slowdown/",
-      "date": "2025-10-08T08:30:29.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Samsung C&#038;T submits 300MWh solar-plus-storage site to Australia’s EPBC Act",
       "url": "https://www.energy-storage.news/samsung-ct-submits-300mwh-solar-plus-storage-site-to-australias-epbc-act/",
       "date": "2025-09-29T03:01:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Georgia Power announces 2025 RFP for 500MW of BESS",
-      "url": "https://www.energy-storage.news/georgia-power-announces-2025-rfp-for-500mw-of-bess/",
-      "date": "2025-09-26T13:06:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘I wouldn&#8217;t say it&#8217;s business as usual’: Prevalon on the global impacts of the OBBB",
-      "url": "https://www.energy-storage.news/i-wouldnt-say-its-business-as-usual-prevalon-on-the-global-impacts-of-the-obbb/",
-      "date": "2025-09-26T10:36:42.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
