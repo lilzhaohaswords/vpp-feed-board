@@ -1,6 +1,13 @@
 {
-  "ts": 1760016157230,
+  "ts": 1760018467242,
   "items": [
+    {
+      "title": "Greenflash Infrastructure secures financing for Texas’s largest standalone BESS",
+      "url": "https://www.energy-storage.news/greenflash-infrastructure-secures-financing-for-texass-largest-standalone-bess/",
+      "date": "2025-10-09T13:31:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Ireland allocates over €1 billion to renewables, solar takes lead",
       "url": "https://www.pv-magazine.com/2025/10/09/ireland-allocates-over-e1-billion-to-renewables-solar-takes-lead/",
@@ -516,13 +523,6 @@
       "title": "Legal ambiguity in South Dakota, regulator finds state permit required for NextEra 120MW BESS",
       "url": "https://www.energy-storage.news/legal-ambiguity-in-south-dakota-regulator-finds-state-permit-required-for-nextera-120mw-bess/",
       "date": "2025-09-29T13:36:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Exploring C&#038;I ESS technologies for flexibility and resilience with Honeywell",
-      "url": "https://www.energy-storage.news/video-exploring-ci-ess-technologies-for-flexibility-and-resilience-with-honeywell/",
-      "date": "2025-09-29T10:46:42.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
