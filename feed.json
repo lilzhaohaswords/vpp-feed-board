@@ -1,6 +1,55 @@
 {
-  "ts": 1759996867270,
+  "ts": 1760000464966,
   "items": [
+    {
+      "title": "Silver prices surge, yet &#8216;thrifting&#8217; poses little threat to solar cell, module quality",
+      "url": "https://www.pv-magazine.com/2025/10/09/silver-prices-surge-yet-thrifting-poses-little-threat-to-solar-cell-module-quality/",
+      "date": "2025-10-09T08:43:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s Capacity Investment Scheme Tender 4 sees 11.4GWh of solar-plus-storage awarded",
+      "url": "https://www.energy-storage.news/australias-capacity-investment-scheme-tender-4-sees-11-4gwh-of-solar-plus-storage-awarded/",
+      "date": "2025-10-09T08:32:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "PV-powered sorption system for atmospheric water harvesting",
+      "url": "https://www.pv-magazine.com/2025/10/09/pv-powered-sorption-system-for-atmospheric-water-harvesting/",
+      "date": "2025-10-09T08:30:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "South Australia prepares its first 700MW tender for long-duration energy storage",
+      "url": "https://www.energy-storage.news/south-australia-prepares-its-first-700mw-tender-for-long-duration-energy-storage/",
+      "date": "2025-10-09T08:18:50.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Battery storage revenues fall 61% as Australia&#8217;s NEM navigates market volatility",
+      "url": "https://www.energy-storage.news/battery-storage-revenues-fall-61-as-australias-nem-navigates-market-volatility/",
+      "date": "2025-10-09T08:16:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia eyes resale certification to curb solar panel waste",
+      "url": "https://www.pv-magazine.com/2025/10/09/australia-eyes-resale-certification-to-curb-solar-panel-waste/",
+      "date": "2025-10-09T08:15:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Over 6 GW of solar approved under Malaysia’s large-scale solar program",
+      "url": "https://www.pv-magazine.com/2025/10/09/over-6-gw-of-solar-approved-under-malaysias-large-scale-solar-program/",
+      "date": "2025-10-09T08:10:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Eastman introduces integrated inverter-battery system for solar users",
       "url": "https://www.pv-magazine.com/2025/10/09/eastman-introduces-integrated-inverter-battery-system-for-solar-users/",
@@ -177,31 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "Australian researchers hit 27.06% with triple-junction perovskite cell",
-      "url": "https://www.pv-magazine.com/2025/10/08/australian-researchers-hit-27-06-with-triple-junction-perovskite-cell/",
-      "date": "2025-10-08T07:45:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "California may order 6 GW early to secure expiring renewables credits",
-      "url": "https://www.pv-magazine.com/2025/10/08/california-may-order-6-gw-early-to-secure-expiring-renewables-credits/",
-      "date": "2025-10-08T07:01:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Potentia’s 500MW solar-plus-storage site in Australia receives NSW approval",
       "url": "https://www.energy-storage.news/potentias-500mw-solar-plus-storage-site-in-australia-receives-nsw-approval/",
       "date": "2025-10-08T04:55:01.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Operational faults cut returns in 19% of battery storage projects",
-      "url": "https://www.pv-magazine.com/2025/10/07/operational-faults-cut-returns-in-19-of-battery-storage-projects/",
-      "date": "2025-10-07T15:46:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -223,13 +251,6 @@
       "url": "https://www.energy-storage.news/eolian-and-utility-cps-energy-begin-operating-100mwh-texas-bess/",
       "date": "2025-10-07T13:47:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chemitek Solar launches cleaning solutions for agrivoltaics",
-      "url": "https://www.pv-magazine.com/2025/10/07/chemitek-solar-launches-cleaning-solutions-for-agrivoltaics/",
-      "date": "2025-10-07T13:39:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "‘I wouldn&#8217;t say it&#8217;s business as usual’: Prevalon on the global impacts of the OBBB",
       "url": "https://www.energy-storage.news/i-wouldnt-say-its-business-as-usual-prevalon-on-the-global-impacts-of-the-obbb/",
       "date": "2025-09-26T10:36:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "DTEK, Ingrid and Triodos expand BESS market footholds in Poland, Sweden and Germany",
-      "url": "https://www.energy-storage.news/dtek-ingrid-and-triodos-expand-bess-market-footholds-in-poland-sweden-and-germany/",
-      "date": "2025-09-26T10:14:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hithium signs deal for Eastern Europe BESS projects featuring 587Ah, 1175Ah cells",
-      "url": "https://www.energy-storage.news/hithium-signs-deal-for-eastern-europe-bess-projects-featuring-587ah-1175ah-cells/",
-      "date": "2025-09-26T09:15:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NCPA and Aypa Power negotiate offtake for 400MW San Bernardino BESS, includes &#8216;attractive&#8217; US$12.71/kW-month pricing",
-      "url": "https://www.energy-storage.news/ncpa-and-aypa-power-negotiate-offtake-for-400mw-san-bernardino-bess-includes-attractive-us12-71-kw-month-pricing/",
-      "date": "2025-09-25T12:47:33.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
