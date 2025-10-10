@@ -1,6 +1,13 @@
 {
-  "ts": 1760079672413,
+  "ts": 1760083268347,
   "items": [
+    {
+      "title": "Germany: Federal Network Agency picks 490MW of solar-plus-storage from oversubscribed tender",
+      "url": "https://www.energy-storage.news/germany-federal-network-agency-picks-490mw-of-solar-plus-storage-from-oversubscribed-tender/",
+      "date": "2025-10-10T07:40:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Australian photovoltaic thermal system piloted at Sydney landmark",
       "url": "https://www.pv-magazine.com/2025/10/10/australian-photovoltaic-thermal-system-piloted-at-sydney-landmark/",
@@ -516,13 +523,6 @@
       "title": "Peak Energy, Phenogy deploy sodium-ion BESS projects in US and Europe",
       "url": "https://www.energy-storage.news/peak-energy-phenogy-deploy-sodium-ion-bess-projects-in-us-and-europe/",
       "date": "2025-09-29T13:47:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Rept Battero signs agreement in US to supply 3GWh of BESS to Energy Vault",
-      "url": "https://www.energy-storage.news/rept-battero-signs-agreement-in-us-to-supply-3gwh-of-bess-to-energy-vault/",
-      "date": "2025-09-29T13:44:12.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
