@@ -1,6 +1,34 @@
 {
-  "ts": 1760083268347,
+  "ts": 1760086866945,
   "items": [
+    {
+      "title": "Europe’s solar gains offset by storms and floods in September",
+      "url": "https://www.pv-magazine.com/2025/10/10/europes-solar-gains-offset-by-storms-and-floods-in-september/",
+      "date": "2025-10-10T08:43:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New tech can tell if your EV will make it home",
+      "url": "https://www.pv-magazine.com/2025/10/10/new-tech-can-tell-if-your-ev-will-make-it-home/",
+      "date": "2025-10-10T08:30:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Market eyes Indian buying surge ahead of anti-dumping duty on Chinese solar cells",
+      "url": "https://www.pv-magazine.com/2025/10/10/market-eyes-indian-buying-surge-ahead-of-anti-dumping-duty-on-chinese-cells/",
+      "date": "2025-10-10T08:09:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spain&#8217;s grid operator warns of sudden voltage variations in the network",
+      "url": "https://www.pv-magazine.com/2025/10/10/spains-grid-operator-warns-of-sudden-voltage-variations-in-the-network/",
+      "date": "2025-10-10T08:02:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Germany: Federal Network Agency picks 490MW of solar-plus-storage from oversubscribed tender",
       "url": "https://www.energy-storage.news/germany-federal-network-agency-picks-490mw-of-solar-plus-storage-from-oversubscribed-tender/",
@@ -208,34 +236,6 @@
       "title": "Shell, QAES unveil immersion-cooled battery system in China",
       "url": "https://www.pv-magazine.com/2025/10/08/shell-qaes-unveil-immersion-cooled-battery-system-in-china/",
       "date": "2025-10-08T15:53:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Large-scale PV faces market contraction in Brazil",
-      "url": "https://www.pv-magazine.com/2025/10/08/large-scale-pv-faces-market-contraction-in-brazil/",
-      "date": "2025-10-08T15:50:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan’s Aomori prefecture sets capacity tax on large wind, solar",
-      "url": "https://www.pv-magazine.com/2025/10/08/japans-aomori-prefecture-sets-capacity-tax-on-large-wind-solar/",
-      "date": "2025-10-08T15:45:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Czechia expands rules for agrivoltaics, permits vertical installations",
-      "url": "https://www.pv-magazine.com/2025/10/08/czechia-expands-rules-for-agrivoltaics-permits-vertical-installations/",
-      "date": "2025-10-08T15:45:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s large-scale solar expansion faces land, technical, climate hurdles",
-      "url": "https://www.pv-magazine.com/2025/10/08/indias-large-scale-solar-expansion-faces-land-technical-climate-hurdles/",
-      "date": "2025-10-08T15:00:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
