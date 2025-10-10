@@ -1,6 +1,34 @@
 {
-  "ts": 1760102376667,
+  "ts": 1760104869420,
   "items": [
+    {
+      "title": "US ROUNDUP: Cross-industry collaborations target energy storage growth and accessibility",
+      "url": "https://www.energy-storage.news/us-roundup-cross-industry-collaborations-target-energy-storage-growth-and-accessibility/",
+      "date": "2025-10-10T13:46:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "UK BESS asset management has moved to &#8216;disciplined, systems-level approach&#8217;",
+      "url": "https://www.energy-storage.news/uk-bess-asset-management-has-moved-to-disciplined-systems-level-approach/",
+      "date": "2025-10-10T13:40:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "France revises grid tariffs to spur smarter battery storage use",
+      "url": "https://www.pv-magazine.com/2025/10/10/france-revises-grid-tariffs-to-spur-smarter-battery-storage-use/",
+      "date": "2025-10-10T13:38:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India’s H1 energy storage installations plunge 74% year-on-year to 49MWh: Mercom",
+      "url": "https://www.energy-storage.news/indias-h1-energy-storage-installations-plunge-74-year-on-year-to-49mwh-mercom/",
+      "date": "2025-10-10T13:35:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "&#8216;You deserve your seat at the table&#8217;",
       "url": "https://www.pv-magazine.com/2025/10/10/you-deserve-your-seat-at-the-table/",
@@ -215,13 +243,6 @@
       "title": "Brazilian law reignites debate on framework for distributed solar, storage",
       "url": "https://www.pv-magazine.com/2025/10/09/brazilian-law-reignites-debate-on-framework-for-distributed-solar-storage/",
       "date": "2025-10-09T09:14:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Silver prices surge, yet &#8216;thrifting&#8217; poses little threat to solar cell, module quality",
-      "url": "https://www.pv-magazine.com/2025/10/09/silver-prices-surge-yet-thrifting-poses-little-threat-to-solar-cell-module-quality/",
-      "date": "2025-10-09T08:43:01.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "VIDEO: Extract more value from BESS assets in GB &#038; Ireland, from advanced analytics to the full stack",
       "url": "https://www.energy-storage.news/video-extract-more-value-from-bess-assets-in-gb-ireland-from-advanced-analytics-to-the-full-stack/",
       "date": "2025-09-30T09:25:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Consortium sign agreements for Malaysia’s first battery-backed ‘firm’ solar power facility",
-      "url": "https://www.energy-storage.news/consortium-sign-agreements-for-malaysias-first-battery-backed-firm-solar-power-facility/",
-      "date": "2025-09-30T07:42:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "State-owned Stanwell reaches halfway mark on 1,200MWh BESS project in Queensland, Australia",
-      "url": "https://www.energy-storage.news/state-owned-stanwell-reaches-halfway-mark-on-1200mwh-bess-project-in-queensland-australia/",
-      "date": "2025-09-30T02:34:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s NEM battery storage surpasses 6.5GWh milestone in weekend of records",
-      "url": "https://www.energy-storage.news/australias-nem-battery-storage-surpasses-6-5gwh-milestone-in-weekend-of-records/",
-      "date": "2025-09-30T02:34:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
