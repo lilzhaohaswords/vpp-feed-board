@@ -1,6 +1,13 @@
 {
-  "ts": 1760050854672,
+  "ts": 1760056671457,
   "items": [
+    {
+      "title": "NSW Independent Planning Commission approves ACEnergy&#8217;s 1,100MWh battery storage system in Australia",
+      "url": "https://www.energy-storage.news/nsw-independent-planning-commission-approves-acenergys-1100mwh-battery-storage-system-in-australia/",
+      "date": "2025-10-10T00:36:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Greenflash Infrastructure secures financing for Texas’s largest standalone BESS",
       "url": "https://www.energy-storage.news/greenflash-infrastructure-secures-financing-for-texass-largest-standalone-bess/",
@@ -516,13 +523,6 @@
       "title": "Rept Battero signs agreement in US to supply 3GWh of BESS to Energy Vault",
       "url": "https://www.energy-storage.news/rept-battero-signs-agreement-in-us-to-supply-3gwh-of-bess-to-energy-vault/",
       "date": "2025-09-29T13:44:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Legal ambiguity in South Dakota, regulator finds state permit required for NextEra 120MW BESS",
-      "url": "https://www.energy-storage.news/legal-ambiguity-in-south-dakota-regulator-finds-state-permit-required-for-nextera-120mw-bess/",
-      "date": "2025-09-29T13:36:28.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
