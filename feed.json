@@ -1,6 +1,20 @@
 {
-  "ts": 1760090460270,
+  "ts": 1760094068222,
   "items": [
+    {
+      "title": "Transparent amorphous-silicon solar cell lets in more than 60% of visible light",
+      "url": "https://www.pv-magazine.com/2025/10/10/transparent-amorphous-silicon-solar-cell-lets-in-more-than-60-of-visible-light/",
+      "date": "2025-10-10T10:58:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Texas utility signs 200MWh BESS offtake agreement with Jupiter Power to combat ERCOT duck curve",
+      "url": "https://www.energy-storage.news/texas-utility-signs-200mwh-bess-offtake-agreement-with-jupiter-power-to-combat-ercot-duck-curve/",
+      "date": "2025-10-10T10:45:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Engie sells Africa off-grid business to Ignite",
       "url": "https://www.pv-magazine.com/2025/10/10/engie-sells-africa-off-grid-business-to-ignite/",
@@ -229,13 +243,6 @@
       "title": "Vanuatu runs tender for supply, installation of solar systems",
       "url": "https://www.pv-magazine.com/2025/10/09/vanuatu-runs-tender-for-supply-installation-of-solar-systems/",
       "date": "2025-10-09T06:21:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Generac launches microinverter with ‘unlimited backup’ package",
-      "url": "https://www.pv-magazine.com/2025/10/09/generac-launches-microinverter-with-unlimited-backup-package/",
-      "date": "2025-10-09T05:58:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Australia&#8217;s NEM battery storage surpasses 6.5GWh milestone in weekend of records",
       "url": "https://www.energy-storage.news/australias-nem-battery-storage-surpasses-6-5gwh-milestone-in-weekend-of-records/",
       "date": "2025-09-30T02:34:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Peak Energy, Phenogy deploy sodium-ion BESS projects in US and Europe",
-      "url": "https://www.energy-storage.news/peak-energy-phenogy-deploy-sodium-ion-bess-projects-in-us-and-europe/",
-      "date": "2025-09-29T13:47:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
