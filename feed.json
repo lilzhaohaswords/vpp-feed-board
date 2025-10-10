@@ -1,6 +1,13 @@
 {
-  "ts": 1760072461015,
+  "ts": 1760076066841,
   "items": [
+    {
+      "title": "‘Grid in a box’ combines storage and solar PV modules for a microgrid in a 20 ft. container",
+      "url": "https://www.pv-magazine.com/2025/10/10/grid-in-a-box-combines-storage-and-solar-pv-modules-for-a-microgrid-in-a-20-ft-container/",
+      "date": "2025-10-10T05:58:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "NSW Independent Planning Commission approves ACEnergy&#8217;s 1,100MWh battery storage system in Australia",
       "url": "https://www.energy-storage.news/nsw-independent-planning-commission-approves-acenergys-1100mwh-battery-storage-system-in-australia/",
@@ -229,13 +236,6 @@
       "title": "Germany wraps up solar-plus-storage tender with average price of €0.0531/kWh",
       "url": "https://www.pv-magazine.com/2025/10/08/germany-wraps-up-solar-plus-storage-tender-with-average-price-of-e0-0531-kwh/",
       "date": "2025-10-08T11:14:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Berlin solar mandate drives rooftop PV installations",
-      "url": "https://www.pv-magazine.com/2025/10/08/berlin-solar-mandate-drives-rooftop-pv-installations/",
-      "date": "2025-10-08T11:00:47.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
