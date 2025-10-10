@@ -1,6 +1,20 @@
 {
-  "ts": 1760108471048,
+  "ts": 1760112083782,
   "items": [
+    {
+      "title": "The Hydrogen Stream: Australia opens second Hydrogen Headstart round",
+      "url": "https://www.pv-magazine.com/2025/10/10/the-hydrogen-stream-australia-launches-the-second-round-of-its-program-for-large-scale-projects/",
+      "date": "2025-10-10T15:50:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: Inner Mongolia launches 16 GW renewables project",
+      "url": "https://www.pv-magazine.com/2025/10/10/chinese-pv-industry-brief-inner-mongolia-launches-16-gw-renewables-project/",
+      "date": "2025-10-10T15:40:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "SolarPower Europe suspends exclusion proceedings for Huawei",
       "url": "https://www.pv-magazine.com/2025/10/10/solarpower-europe-suspends-exclusion-proceedings-for-huawei/",
@@ -212,24 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "IEA says cost of capital for solar remains high in Southeast Asia",
-      "url": "https://www.pv-magazine.com/2025/10/09/iea-says-cost-of-capital-for-solar-remains-high-in-southeast-asia/",
-      "date": "2025-10-09T12:00:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Lithuania expands energy storage support scheme, aims for speedy turnaround",
       "url": "https://www.energy-storage.news/lithuania-expands-energy-storage-support-scheme-aims-for-speedy-turnaround/",
       "date": "2025-10-09T11:39:56.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Zurich launches insurance for agrivoltaics",
-      "url": "https://www.pv-magazine.com/2025/10/09/zurich-launches-insurance-for-agrivoltaics/",
-      "date": "2025-10-09T11:00:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
