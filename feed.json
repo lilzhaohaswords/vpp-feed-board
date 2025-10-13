@@ -1,6 +1,27 @@
 {
-  "ts": 1760356884572,
+  "ts": 1760361738553,
   "items": [
+    {
+      "title": "Swedish organic PV manufacturer secures financial boost",
+      "url": "https://www.pv-magazine.com/2025/10/13/swedish-organic-pv-manufacturer-secures-financial-boost/",
+      "date": "2025-10-13T12:29:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Base Power raises US$1 billion for residential energy storage systems",
+      "url": "https://www.energy-storage.news/base-power-raises-us1-billion-for-residential-energy-storage-systems/",
+      "date": "2025-10-13T12:17:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Hithium &#8216;actively preparing resubmission&#8217; for Hong Kong IPO",
+      "url": "https://www.energy-storage.news/hithium-actively-preparing-resubmission-for-hong-kong-ipo/",
+      "date": "2025-10-13T12:15:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "France cuts feed-in tariffs for solar up to 100 kW",
       "url": "https://www.pv-magazine.com/2025/10/13/france-cuts-feed-in-tariffs-for-solar-up-to-100-kw/",
@@ -222,13 +243,6 @@
       "title": "Engie sells Africa off-grid business to Ignite",
       "url": "https://www.pv-magazine.com/2025/10/10/engie-sells-africa-off-grid-business-to-ignite/",
       "date": "2025-10-10T09:00:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Europe’s solar gains offset by storms and floods in September",
-      "url": "https://www.pv-magazine.com/2025/10/10/europes-solar-gains-offset-by-storms-and-floods-in-september/",
-      "date": "2025-10-10T08:43:11.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Japan’s unique challenges offer valuable lessons to energy storage developers across Asia-Pacific",
       "url": "https://www.energy-storage.news/japans-unique-challenges-offer-valuable-lessons-to-energy-storage-developers-across-asia-pacific/",
       "date": "2025-10-01T04:53:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ASL to open 500MW firming tender for Sydney-Newcastle-Wollongong in NSW, Australia",
-      "url": "https://www.energy-storage.news/asl-to-open-500mw-firming-tender-for-sydney-newcastle-wollongong-in-nsw-australia/",
-      "date": "2025-10-01T02:40:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: AGL’s 1,000MWh Liddell BESS in New South Wales registers with AEMO",
-      "url": "https://www.energy-storage.news/australia-agls-1000mwh-liddell-bess-in-new-south-wales-registers-with-aemo/",
-      "date": "2025-10-01T02:35:09.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
