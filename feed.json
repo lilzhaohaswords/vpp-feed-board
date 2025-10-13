@@ -1,6 +1,27 @@
 {
-  "ts": 1760331655007,
+  "ts": 1760335263725,
   "items": [
+    {
+      "title": "Akaysha Energy&#8217;s Waratah Super Battery discharges its first full output to Australia’s NEM",
+      "url": "https://www.energy-storage.news/akaysha-energys-waratah-super-battery-discharges-its-first-full-output-to-australias-nem/",
+      "date": "2025-10-13T05:43:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Queensland&#8217;s Energy Roadmap: 4.3GW of short-duration energy storage by 2030, pumped hydro plans revised",
+      "url": "https://www.energy-storage.news/queenslands-energy-roadmap-4-3gw-of-short-duration-energy-storage-by-2030-pumped-hydro-plans-revised/",
+      "date": "2025-10-13T05:37:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New South Wales electricity prices hit AU$20,300/MWh cap as battery storage captures volatility",
+      "url": "https://www.energy-storage.news/new-south-wales-electricity-prices-hit-au20300-mwh-cap-as-battery-storage-captures-volatility/",
+      "date": "2025-10-13T05:33:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Australia opens second Hydrogen Headstart round",
       "url": "https://www.pv-magazine.com/2025/10/10/the-hydrogen-stream-australia-launches-the-second-round-of-its-program-for-large-scale-projects/",
@@ -502,27 +523,6 @@
       "title": "Investor and system integrator discuss deploying both new and second life BESS in Germany",
       "url": "https://www.energy-storage.news/investor-and-system-integrator-discuss-deploying-both-new-and-second-life-bess-in-germany/",
       "date": "2025-09-30T14:33:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US annual battery storage installations &#8216;will not reach 2025 levels again until 2029&#8217;: Wood Mac",
-      "url": "https://www.energy-storage.news/us-annual-battery-storage-installations-will-not-reach-2025-levels-again-until-2029-wood-mac/",
-      "date": "2025-09-30T11:35:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Europe continues move to 15-minute power market settlement, increasing value of flexibility",
-      "url": "https://www.energy-storage.news/europe-continues-move-to-15-minute-power-market-settlement-increasing-value-of-flexibility/",
-      "date": "2025-09-30T10:35:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Extract more value from BESS assets in GB &#038; Ireland, from advanced analytics to the full stack",
-      "url": "https://www.energy-storage.news/video-extract-more-value-from-bess-assets-in-gb-ireland-from-advanced-analytics-to-the-full-stack/",
-      "date": "2025-09-30T09:25:58.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
