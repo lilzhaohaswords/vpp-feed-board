@@ -1,6 +1,20 @@
 {
-  "ts": 1760342483824,
+  "ts": 1760346056817,
   "items": [
+    {
+      "title": "Battery storage boosts viability of south-facing solar facades",
+      "url": "https://www.pv-magazine.com/2025/10/13/battery-storage-boosts-viability-of-south-facing-solar-facades/",
+      "date": "2025-10-13T08:51:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "California adopts battery storage safety legislation following Moss Landing fire",
+      "url": "https://www.pv-magazine.com/2025/10/13/california-adopts-battery-storage-safety-legislation-following-moss-landing-fire/",
+      "date": "2025-10-13T08:15:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Engie, Masdar win 1.5 GW solar project in UAE",
       "url": "https://www.pv-magazine.com/2025/10/13/engie-masdar-win-1-5-gw-solar-project-in-uae/",
@@ -219,13 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "‘Grid in a box’ combines storage and solar PV modules for a microgrid in a 20 ft. container",
-      "url": "https://www.pv-magazine.com/2025/10/10/grid-in-a-box-combines-storage-and-solar-pv-modules-for-a-microgrid-in-a-20-ft-container/",
-      "date": "2025-10-10T05:58:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "NSW Independent Planning Commission approves ACEnergy&#8217;s 1,100MWh battery storage system in Australia",
       "url": "https://www.energy-storage.news/nsw-independent-planning-commission-approves-acenergys-1100mwh-battery-storage-system-in-australia/",
       "date": "2025-10-10T00:36:02.000Z",
@@ -237,13 +244,6 @@
       "url": "https://www.energy-storage.news/greenflash-infrastructure-secures-financing-for-texass-largest-standalone-bess/",
       "date": "2025-10-09T13:31:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ireland allocates over €1 billion to renewables, solar takes lead",
-      "url": "https://www.pv-magazine.com/2025/10/09/ireland-allocates-over-e1-billion-to-renewables-solar-takes-lead/",
-      "date": "2025-10-09T13:00:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
