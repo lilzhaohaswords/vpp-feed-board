@@ -1,6 +1,34 @@
 {
-  "ts": 1760353267650,
+  "ts": 1760356884572,
   "items": [
+    {
+      "title": "France cuts feed-in tariffs for solar up to 100 kW",
+      "url": "https://www.pv-magazine.com/2025/10/13/france-cuts-feed-in-tariffs-for-solar-up-to-100-kw/",
+      "date": "2025-10-13T12:00:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Global grid-scale BESS deployments up 36% in first nine months of 2025",
+      "url": "https://www.energy-storage.news/global-grid-scale-bess-deployments-up-36-first-nine-months-of-2025/",
+      "date": "2025-10-13T11:26:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "OCI Holdings acquires 65% stake in 2.7 GW Vietnamese solar wafer factory",
+      "url": "https://www.pv-magazine.com/2025/10/13/oci-holdings-acquires-65-stake-in-2-7-gw-vietnamese-solar-wafer-factory/",
+      "date": "2025-10-13T11:07:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China imposes new export controls on lithium ion battery tech",
+      "url": "https://www.pv-magazine.com/2025/10/13/china-imposes-new-export-controls-on-lithium-ion-battery-tech/",
+      "date": "2025-10-13T11:00:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Vertical floating PV plant comes online in Germany",
       "url": "https://www.pv-magazine.com/2025/10/13/vertical-floating-pv-plant-comes-online-in-germany/",
@@ -201,27 +229,6 @@
       "title": "Europe’s solar gains offset by storms and floods in September",
       "url": "https://www.pv-magazine.com/2025/10/10/europes-solar-gains-offset-by-storms-and-floods-in-september/",
       "date": "2025-10-10T08:43:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New tech can tell if your EV will make it home",
-      "url": "https://www.pv-magazine.com/2025/10/10/new-tech-can-tell-if-your-ev-will-make-it-home/",
-      "date": "2025-10-10T08:30:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Market eyes Indian buying surge ahead of anti-dumping duty on Chinese solar cells",
-      "url": "https://www.pv-magazine.com/2025/10/10/market-eyes-indian-buying-surge-ahead-of-anti-dumping-duty-on-chinese-cells/",
-      "date": "2025-10-10T08:09:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain&#8217;s grid operator warns of sudden voltage variations in the network",
-      "url": "https://www.pv-magazine.com/2025/10/10/spains-grid-operator-warns-of-sudden-voltage-variations-in-the-network/",
-      "date": "2025-10-10T08:02:23.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Australia: AGL’s 1,000MWh Liddell BESS in New South Wales registers with AEMO",
       "url": "https://www.energy-storage.news/australia-agls-1000mwh-liddell-bess-in-new-south-wales-registers-with-aemo/",
       "date": "2025-10-01T02:35:09.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Investor and system integrator discuss deploying both new and second life BESS in Germany",
-      "url": "https://www.energy-storage.news/investor-and-system-integrator-discuss-deploying-both-new-and-second-life-bess-in-germany/",
-      "date": "2025-09-30T14:33:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
