@@ -1,6 +1,27 @@
 {
-  "ts": 1760439639315,
+  "ts": 1760443270076,
   "items": [
+    {
+      "title": "German railway areas have 37.6 GW of solar potential",
+      "url": "https://www.pv-magazine.com/2025/10/14/german-railway-areas-have-37-6-gw-of-solar-potential/",
+      "date": "2025-10-14T11:44:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany BESS platform Terra One: &#8216;The delta between merchant and tolling is big&#8217;",
+      "url": "https://www.energy-storage.news/germany-bess-platform-terra-one-the-delta-between-merchant-and-tolling-is-big/",
+      "date": "2025-10-14T11:21:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Negative pricing reshapes solar finance as investors turn to storage for flexibility in Europe",
+      "url": "https://www.pv-magazine.com/2025/10/14/negative-pricing-reshapes-solar-finance-as-investors-turn-to-storage-for-flexibility-in-europe/",
+      "date": "2025-10-14T11:04:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Kyoto Group’s 56MWh thermal energy storage system replaces natural gas at corn processing plant in Hungary",
       "url": "https://www.energy-storage.news/kyoto-groups-56mwh-thermal-energy-storage-system-replaces-natural-gas-at-corn-processing-plant-in-hungary/",
@@ -212,13 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "US government cancels 6.2 GW Esmeralda solar project in Nevada",
-      "url": "https://www.pv-magazine.com/2025/10/13/us-government-cancels-6-2-gw-esmeralda-solar-project-in-nevada/",
-      "date": "2025-10-13T06:45:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Akaysha Energy&#8217;s Waratah Super Battery discharges its first full output to Australia’s NEM",
       "url": "https://www.energy-storage.news/akaysha-energys-waratah-super-battery-discharges-its-first-full-output-to-australias-nem/",
       "date": "2025-10-13T05:43:00.000Z",
@@ -237,13 +251,6 @@
       "url": "https://www.energy-storage.news/new-south-wales-electricity-prices-hit-au20300-mwh-cap-as-battery-storage-captures-volatility/",
       "date": "2025-10-13T05:33:21.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Australia opens second Hydrogen Headstart round",
-      "url": "https://www.pv-magazine.com/2025/10/10/the-hydrogen-stream-australia-launches-the-second-round-of-its-program-for-large-scale-projects/",
-      "date": "2025-10-10T15:50:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Quinbrook completes the 560MWh first stage of the Supernode BESS in Australia",
       "url": "https://www.energy-storage.news/quinbrook-completes-the-560mwh-first-stage-of-the-supernode-bess-in-australia/",
       "date": "2025-10-02T02:16:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The &#8216;One, Big, Beautiful Bill Act&#8217; brought changes, some clarity to US energy storage development",
-      "url": "https://www.energy-storage.news/the-one-big-beautiful-bill-act-brought-changes-some-clarity-to-us-energy-storage-development/",
-      "date": "2025-10-01T13:30:30.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
