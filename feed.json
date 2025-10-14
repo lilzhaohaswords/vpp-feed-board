@@ -1,6 +1,27 @@
 {
-  "ts": 1760443270076,
+  "ts": 1760448159698,
   "items": [
+    {
+      "title": "PJM area faces urgent energy storage need, US Energy Storage Coalition reports",
+      "url": "https://www.energy-storage.news/pjm-area-faces-urgent-energy-storage-need-us-energy-storage-coalition-reports/",
+      "date": "2025-10-14T13:15:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Eolian secures US$463 million for 1.7GWh Texas BESS complex",
+      "url": "https://www.energy-storage.news/eolian-secures-us463-million-for-1-7gwh-texas-bess-complex/",
+      "date": "2025-10-14T13:13:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Cameroon, Zambia electrify villages with solar",
+      "url": "https://www.pv-magazine.com/2025/10/14/cameroon-zambia-electrify-villages-with-solar/",
+      "date": "2025-10-14T12:53:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "German railway areas have 37.6 GW of solar potential",
       "url": "https://www.pv-magazine.com/2025/10/14/german-railway-areas-have-37-6-gw-of-solar-potential/",
@@ -222,13 +243,6 @@
       "title": "Engie, Masdar win 1.5 GW solar project in UAE",
       "url": "https://www.pv-magazine.com/2025/10/13/engie-masdar-win-1-5-gw-solar-project-in-uae/",
       "date": "2025-10-13T08:00:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Toshiba to deploy AI-driven monitoring system at 165 power plants in India",
-      "url": "https://www.pv-magazine.com/2025/10/13/toshiba-to-deploy-ai-driven-monitoring-system-at-165-power-plants-in-india/",
-      "date": "2025-10-13T07:30:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Italy&#8217;s &#8216;exceptionally competitive&#8217; first MACSE energy storage auction concludes, procuring 10GWh",
       "url": "https://www.energy-storage.news/italys-exceptionally-competitive-first-macse-energy-storage-auction-concludes-procuring-10gwh/",
       "date": "2025-10-02T12:28:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Origin, Eku Energy submit 2,200MWh of battery storage applications to Australia’s EPBC Act",
-      "url": "https://www.energy-storage.news/origin-eku-energy-submit-2200mwh-battery-storage-australias-epbc-act/",
-      "date": "2025-10-02T02:20:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Quinbrook completes the 560MWh first stage of the Supernode BESS in Australia",
-      "url": "https://www.energy-storage.news/quinbrook-completes-the-560mwh-first-stage-of-the-supernode-bess-in-australia/",
-      "date": "2025-10-02T02:16:45.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
