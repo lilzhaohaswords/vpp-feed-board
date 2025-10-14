@@ -1,6 +1,13 @@
 {
-  "ts": 1760448159698,
+  "ts": 1760450477328,
   "items": [
+    {
+      "title": "Global PV outlook clouded by policy shifts and China export risks",
+      "url": "https://www.pv-magazine.com/2025/10/14/global-pv-outlook-clouded-by-policy-shifts-and-china-export-risks/",
+      "date": "2025-10-14T14:00:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "PJM area faces urgent energy storage need, US Energy Storage Coalition reports",
       "url": "https://www.energy-storage.news/pjm-area-faces-urgent-energy-storage-need-us-energy-storage-coalition-reports/",
@@ -236,13 +243,6 @@
       "title": "California adopts battery storage safety legislation following Moss Landing fire",
       "url": "https://www.pv-magazine.com/2025/10/13/california-adopts-battery-storage-safety-legislation-following-moss-landing-fire/",
       "date": "2025-10-13T08:15:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Engie, Masdar win 1.5 GW solar project in UAE",
-      "url": "https://www.pv-magazine.com/2025/10/13/engie-masdar-win-1-5-gw-solar-project-in-uae/",
-      "date": "2025-10-13T08:00:45.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
