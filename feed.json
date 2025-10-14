@@ -1,6 +1,13 @@
 {
-  "ts": 1760421680662,
+  "ts": 1760425255765,
   "items": [
+    {
+      "title": "US adopts new standard for solar supply chain traceability compliance",
+      "url": "https://www.pv-magazine.com/2025/10/14/us-adopts-new-standard-for-solar-supply-chain-traceability-compliance/",
+      "date": "2025-10-14T06:45:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Epic Energy brings 200MWh Mannum battery storage system online in South Australia",
       "url": "https://www.energy-storage.news/epic-energy-brings-200mwh-mannum-battery-storage-system-online-in-south-australia/",
@@ -243,13 +250,6 @@
       "title": "KAUST explores polymer alternatives to glass for solar panel covers",
       "url": "https://www.pv-magazine.com/2025/10/10/kaust-explores-polymer-alternatives-to-glass-for-solar-panel-covers/",
       "date": "2025-10-10T11:39:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Romania’s Hidroelectrica to install battery storage at its hydro power plants",
-      "url": "https://www.pv-magazine.com/2025/10/10/romanias-hidroelectrica-to-install-battery-storage-at-its-hydro-power-plants/",
-      "date": "2025-10-10T11:10:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
