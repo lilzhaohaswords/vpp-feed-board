@@ -1,6 +1,20 @@
 {
-  "ts": 1760436060973,
+  "ts": 1760439639315,
   "items": [
+    {
+      "title": "Kyoto Group’s 56MWh thermal energy storage system replaces natural gas at corn processing plant in Hungary",
+      "url": "https://www.energy-storage.news/kyoto-groups-56mwh-thermal-energy-storage-system-replaces-natural-gas-at-corn-processing-plant-in-hungary/",
+      "date": "2025-10-14T10:16:09.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Scientists hit 9% efficiency record for antimony trisulfide solar cell",
+      "url": "https://www.pv-magazine.com/2025/10/14/chinese-scientists-hit-9-efficiency-record-for-antimony-trisulfide-solar-cell/",
+      "date": "2025-10-14T10:01:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Renalfa switches on 260 MWh battery storage system in Bulgaria",
       "url": "https://www.pv-magazine.com/2025/10/14/renalfa-switches-on-260-mwh-battery-storage-system-in-bulgaria/",
@@ -229,13 +243,6 @@
       "title": "The Hydrogen Stream: Australia opens second Hydrogen Headstart round",
       "url": "https://www.pv-magazine.com/2025/10/10/the-hydrogen-stream-australia-launches-the-second-round-of-its-program-for-large-scale-projects/",
       "date": "2025-10-10T15:50:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: Inner Mongolia launches 16 GW renewables project",
-      "url": "https://www.pv-magazine.com/2025/10/10/chinese-pv-industry-brief-inner-mongolia-launches-16-gw-renewables-project/",
-      "date": "2025-10-10T15:40:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "The &#8216;One, Big, Beautiful Bill Act&#8217; brought changes, some clarity to US energy storage development",
       "url": "https://www.energy-storage.news/the-one-big-beautiful-bill-act-brought-changes-some-clarity-to-us-energy-storage-development/",
       "date": "2025-10-01T13:30:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US tariffs on Chinese battery suppliers could trigger global &#8216;race to the bottom,&#8217; Prevalon CEO warns",
-      "url": "https://www.energy-storage.news/us-tariffs-on-chinese-battery-suppliers-could-trigger-global-race-to-the-bottom-prevalon-ceo-warns/",
-      "date": "2025-10-01T13:30:03.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
