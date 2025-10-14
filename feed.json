@@ -1,6 +1,20 @@
 {
-  "ts": 1760396456641,
+  "ts": 1760402254811,
   "items": [
+    {
+      "title": "Epic Energy brings 200MWh Mannum battery storage system online in South Australia",
+      "url": "https://www.energy-storage.news/epic-energy-brings-200mwh-mannum-battery-storage-system-online-in-south-australia/",
+      "date": "2025-10-14T00:26:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;NEM-specific battery optimisers&#8217; capture more revenue during AU$20,300/MWh NSW price spike",
+      "url": "https://www.energy-storage.news/nem-specific-battery-optimisers-capture-more-revenue-during-au20300-mwh-nsw-price-spike/",
+      "date": "2025-10-14T00:23:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Cyprus to replace net metering with new self-consumption regime",
       "url": "https://www.pv-magazine.com/2025/10/13/cyprus-to-replace-net-metering-with-new-self-consumption-regime/",
@@ -509,20 +523,6 @@
       "title": "VPI and ADS-TEC reveal combined 1.7GW German BESS plans",
       "url": "https://www.energy-storage.news/vpi-and-ads-tec-reveal-combined-1-7gw-german-bess-plans/",
       "date": "2025-10-01T11:42:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "September sees 2.5GWh of BESS approved in UK",
-      "url": "https://www.energy-storage.news/september-sees-2-5gwh-of-bess-approved-in-uk/",
-      "date": "2025-10-01T10:38:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan’s unique challenges offer valuable lessons to energy storage developers across Asia-Pacific",
-      "url": "https://www.energy-storage.news/japans-unique-challenges-offer-valuable-lessons-to-energy-storage-developers-across-asia-pacific/",
-      "date": "2025-10-01T04:53:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
