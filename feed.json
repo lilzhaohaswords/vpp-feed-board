@@ -1,6 +1,20 @@
 {
-  "ts": 1760536865946,
+  "ts": 1760540474752,
   "items": [
+    {
+      "title": "Sofab Inks achieves 22.2% efficiency in mini inverted perovskite solar panel",
+      "url": "https://www.pv-magazine.com/2025/10/15/sofab-inks-achieves-22-2-efficiency-in-mini-inverted-perovskite-solar-panel/",
+      "date": "2025-10-15T14:34:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US ROUNDUP: ESS Inc LDES pilot, investments in Energy Vault, NineDot",
+      "url": "https://www.energy-storage.news/us-roundup-ess-inc-ldes-pilot-investments-in-energy-vault-ninedot/",
+      "date": "2025-10-15T14:04:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Novar establishes own grid connection for solar park in the Netherlands",
       "url": "https://www.pv-magazine.com/2025/10/15/novar-establishes-own-grid-connection-for-solar-park-in-the-netherlands/",
@@ -243,13 +257,6 @@
       "title": "Ivory Coast breaks ground on 50 MW solar project",
       "url": "https://www.pv-magazine.com/2025/10/14/ivory-coast-breaks-ground-on-50-mw-solar-project/",
       "date": "2025-10-14T08:12:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India installs record 29.5 GW of solar in first nine months of 2025",
-      "url": "https://www.pv-magazine.com/2025/10/14/india-installs-record-29-5-gw-of-solar-in-first-nine-months-of-2025/",
-      "date": "2025-10-14T07:30:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "EDF, Enlight advance solar-plus-storage projects in Southwestern US",
       "url": "https://www.energy-storage.news/edf-enlight-advance-solar-plus-storage-projects-in-southwestern-us/",
       "date": "2025-10-03T14:15:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow and Engie complete first half of 200MW/800MW Belgium BESS",
-      "url": "https://www.energy-storage.news/sungrow-and-engie-complete-first-half-of-200mw-800mw-belgium-bess/",
-      "date": "2025-10-03T11:37:27.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
