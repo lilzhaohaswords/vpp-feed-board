@@ -1,6 +1,20 @@
 {
-  "ts": 1760522478056,
+  "ts": 1760526066481,
   "items": [
+    {
+      "title": "Floating photovoltaics based on spiderweb design",
+      "url": "https://www.pv-magazine.com/2025/10/15/floating-photovoltaics-based-on-spiderweb-design/",
+      "date": "2025-10-15T10:32:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BESS projects totalling over 1.5GWh progress in Bulgaria, Romania, Finland and Greece",
+      "url": "https://www.energy-storage.news/bess-projects-totalling-over-1-5gwh-progress-in-bulgaria-romania-finland-and-greece/",
+      "date": "2025-10-15T10:08:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "SINEXCEL&#8217;s Silicon Carbide Edge: A Decade of US Market Experience Meets Next-Generation Power Electronics",
       "url": "https://www.energy-storage.news/sinexcel-silicon-carbide-edge-a-decade-of-us-market-experience-meets-next-generation-power-electronics/",
@@ -251,13 +265,6 @@
       "url": "https://www.energy-storage.news/hithium-actively-preparing-resubmission-for-hong-kong-ipo/",
       "date": "2025-10-13T12:15:00.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "France cuts feed-in tariffs for solar up to 100 kW",
-      "url": "https://www.pv-magazine.com/2025/10/13/france-cuts-feed-in-tariffs-for-solar-up-to-100-kw/",
-      "date": "2025-10-13T12:00:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "WaterNSW picks pumped hydro sites with potential to support Australian state’s renewable energy objectives",
       "url": "https://www.energy-storage.news/waternsw-picks-pumped-hydro-sites-with-potential-to-support-australian-states-renewable-energy-objectives/",
       "date": "2025-10-03T05:42:11.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SPP utility to invest over US$600 million in 1.9GWh BESS projects to address &#8216;significant capacity deficit&#8217;",
-      "url": "https://www.energy-storage.news/spp-utility-to-invest-over-us600-million-in-1-9gwh-bess-projects-to-address-significant-capacity-deficit/",
-      "date": "2025-10-02T13:31:23.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
