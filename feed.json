@@ -1,6 +1,13 @@
 {
-  "ts": 1760494758600,
+  "ts": 1760498991976,
   "items": [
+    {
+      "title": "CleanCo Queensland&#8217;s 500MWh Tesla Megapack BESS at former coal site enters commissioning in Australia",
+      "url": "https://www.energy-storage.news/cleanco-queenslands-500mwh-tesla-megapack-bess-at-former-coal-site-enters-commissioning-in-australia/",
+      "date": "2025-10-15T03:14:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "ArcelorMittal starts BIPV module production in France",
       "url": "https://www.pv-magazine.com/2025/10/14/arcelormittal-starts-bipv-module-production-in-france/",
@@ -516,13 +523,6 @@
       "title": "Canadian Solar enters agreements with Aypa Power for 2.1GWh BESS projects in Ontario",
       "url": "https://www.energy-storage.news/canadian-solar-enters-agreements-with-aypa-power-for-2-1gwh-bess-projects-in-ontario/",
       "date": "2025-10-02T12:38:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy&#8217;s &#8216;exceptionally competitive&#8217; first MACSE energy storage auction concludes, procuring 10GWh",
-      "url": "https://www.energy-storage.news/italys-exceptionally-competitive-first-macse-energy-storage-auction-concludes-procuring-10gwh/",
-      "date": "2025-10-02T12:28:37.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
