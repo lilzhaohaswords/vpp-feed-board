@@ -1,6 +1,20 @@
 {
-  "ts": 1760534634854,
+  "ts": 1760536865946,
   "items": [
+    {
+      "title": "Novar establishes own grid connection for solar park in the Netherlands",
+      "url": "https://www.pv-magazine.com/2025/10/15/novar-establishes-own-grid-connection-for-solar-park-in-the-netherlands/",
+      "date": "2025-10-15T13:35:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Long-term risk, KPIs and the value of developers and optimisers in BESS asset management",
+      "url": "https://www.energy-storage.news/long-term-risk-kpis-and-the-value-of-developers-and-optimisers-in-bess-asset-management/",
+      "date": "2025-10-15T13:27:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "France to double grid tax on pre-2021 solar systems over 100 kW",
       "url": "https://www.pv-magazine.com/2025/10/15/france-to-double-grid-tax-on-pre-2021-solar-systems-over-100-kw/",
@@ -236,13 +250,6 @@
       "title": "India installs record 29.5 GW of solar in first nine months of 2025",
       "url": "https://www.pv-magazine.com/2025/10/14/india-installs-record-29-5-gw-of-solar-in-first-nine-months-of-2025/",
       "date": "2025-10-14T07:30:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EDP to advance 1.7 GW of solar and storage under Australia’s CIS",
-      "url": "https://www.pv-magazine.com/2025/10/14/edp-to-advance-1-7-gw-of-solar-and-storage-under-australias-cis/",
-      "date": "2025-10-14T07:26:52.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Sungrow and Engie complete first half of 200MW/800MW Belgium BESS",
       "url": "https://www.energy-storage.news/sungrow-and-engie-complete-first-half-of-200mw-800mw-belgium-bess/",
       "date": "2025-10-03T11:37:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Tesla, LG ES Vertech join US Energy Storage Coalition to represent industry",
-      "url": "https://www.energy-storage.news/tesla-lg-es-vertech-join-us-energy-storage-coalition-to-represent-industry/",
-      "date": "2025-10-03T09:46:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
