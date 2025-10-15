@@ -1,6 +1,27 @@
 {
-  "ts": 1760526066481,
+  "ts": 1760529685892,
   "items": [
+    {
+      "title": "US energy storage industry sees data centre load growth as bridge to low-carbon energy transition",
+      "url": "https://www.energy-storage.news/us-energy-storage-industry-sees-data-centre-load-growth-as-bridge-to-low-carbon-energy-transition/",
+      "date": "2025-10-15T11:59:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "High-rise buildings could soon use gravity energy storage, say researchers",
+      "url": "https://www.pv-magazine.com/2025/10/15/high-rise-buildings-could-soon-use-gravity-energy-storage-say-researchers/",
+      "date": "2025-10-15T11:58:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Philippines approves world&#8217;s largest solar project for grid connection",
+      "url": "https://www.pv-magazine.com/2025/10/15/philippines-approves-worlds-largest-solar-project-for-grid-connection/",
+      "date": "2025-10-15T11:00:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Floating photovoltaics based on spiderweb design",
       "url": "https://www.pv-magazine.com/2025/10/15/floating-photovoltaics-based-on-spiderweb-design/",
@@ -236,20 +257,6 @@
       "title": "Zimbabwe plans competitive bidding for electricity projects",
       "url": "https://www.pv-magazine.com/2025/10/13/zimbabwe-plans-competitive-bidding-for-electricity-projects/",
       "date": "2025-10-13T14:11:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Iran inaugurates 250 MW of new solar plants",
-      "url": "https://www.pv-magazine.com/2025/10/13/iran-inaugurates-250-mw-of-new-solar-plants/",
-      "date": "2025-10-13T13:39:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Swedish organic PV manufacturer secures financial boost",
-      "url": "https://www.pv-magazine.com/2025/10/13/swedish-organic-pv-manufacturer-secures-financial-boost/",
-      "date": "2025-10-13T12:29:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Tesla, LG ES Vertech join US Energy Storage Coalition to represent industry",
       "url": "https://www.energy-storage.news/tesla-lg-es-vertech-join-us-energy-storage-coalition-to-represent-industry/",
       "date": "2025-10-03T09:46:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "WaterNSW picks pumped hydro sites with potential to support Australian state’s renewable energy objectives",
-      "url": "https://www.energy-storage.news/waternsw-picks-pumped-hydro-sites-with-potential-to-support-australian-states-renewable-energy-objectives/",
-      "date": "2025-10-03T05:42:11.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
