@@ -1,6 +1,20 @@
 {
-  "ts": 1760601666798,
+  "ts": 1760605276868,
   "items": [
+    {
+      "title": "Australia seeking 5 GW of renewables via Capacity Investment Scheme",
+      "url": "https://www.pv-magazine.com/2025/10/16/australia-seeks-5-gw-renewable-generation-in-capacity-investment-scheme/",
+      "date": "2025-10-16T09:00:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Supermarket EV chargers in Berlin could improve efficiency by over 250%",
+      "url": "https://www.pv-magazine.com/2025/10/16/supermarket-ev-chargers-in-berlin-could-improve-efficiency-by-over-250/",
+      "date": "2025-10-16T08:15:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India’s solar-plus-storage tender sets record low INR 2.86 tariff",
       "url": "https://www.pv-magazine.com/2025/10/16/indias-solar-plus-storage-tender-sets-record-low-inr-2-86-tariff/",
@@ -247,24 +261,10 @@
       "bucket": "A"
     },
     {
-      "title": "Negative pricing reshapes solar finance as investors turn to storage for flexibility in Europe",
-      "url": "https://www.pv-magazine.com/2025/10/14/negative-pricing-reshapes-solar-finance-as-investors-turn-to-storage-for-flexibility-in-europe/",
-      "date": "2025-10-14T11:04:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Kyoto Group’s 56MWh thermal energy storage system replaces natural gas at corn processing plant in Hungary",
       "url": "https://www.energy-storage.news/kyoto-groups-56mwh-thermal-energy-storage-system-replaces-natural-gas-at-corn-processing-plant-in-hungary/",
       "date": "2025-10-14T10:16:09.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Scientists hit 9% efficiency record for antimony trisulfide solar cell",
-      "url": "https://www.pv-magazine.com/2025/10/14/chinese-scientists-hit-9-efficiency-record-for-antimony-trisulfide-solar-cell/",
-      "date": "2025-10-14T10:01:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
