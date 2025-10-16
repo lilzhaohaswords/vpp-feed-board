@@ -1,6 +1,20 @@
 {
-  "ts": 1760626869216,
+  "ts": 1760630457433,
   "items": [
+    {
+      "title": "German lab pilots 20 kV battery system to cut energy losses",
+      "url": "https://www.pv-magazine.com/2025/10/16/german-lab-pilots-20-kv-battery-system-to-cut-energy-losses/",
+      "date": "2025-10-16T15:05:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Panasonic supplies hydrogen fuel cell and solar system to Osaka Metro",
+      "url": "https://www.pv-magazine.com/2025/10/16/panasonic-supplies-hydrogen-fuel-cell-and-solar-system-to-osaka-metro/",
+      "date": "2025-10-16T15:00:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "SB Energy receives CEC grant to purchase Fluence batteries for portion of 1.6GWh Riverside County BESS",
       "url": "https://www.energy-storage.news/sb-energy-receives-cec-grant-to-purchase-fluence-batteries-for-portion-of-1-6gwh-riverside-county-bess/",
@@ -258,20 +272,6 @@
       "url": "https://www.energy-storage.news/cleanco-queenslands-500mwh-tesla-megapack-bess-at-former-coal-site-enters-commissioning-in-australia/",
       "date": "2025-10-15T03:14:00.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ArcelorMittal starts BIPV module production in France",
-      "url": "https://www.pv-magazine.com/2025/10/14/arcelormittal-starts-bipv-module-production-in-france/",
-      "date": "2025-10-14T15:00:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Prototype magnesium battery operates at room temperature in breakthrough",
-      "url": "https://www.pv-magazine.com/2025/10/14/prototype-magnesium-battery-operates-at-room-temperature-in-breakthrough/",
-      "date": "2025-10-14T14:34:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
