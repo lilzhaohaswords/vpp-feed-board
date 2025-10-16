@@ -1,6 +1,41 @@
 {
-  "ts": 1760612455204,
+  "ts": 1760616953719,
   "items": [
+    {
+      "title": "&#8216;There will be incidents&#8217;: Fire safety risk mitigation, public perception and design factors in BESS asset management",
+      "url": "https://www.energy-storage.news/there-will-be-incidents-fire-safety-risk-mitigation-public-perception-and-design-factors-in-bess-asset-management/",
+      "date": "2025-10-16T11:53:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Shadow-aware route planning for vehicle-integrated photovoltaics",
+      "url": "https://www.pv-magazine.com/2025/10/16/shadow-aware-route-planning-for-vehicle-integrated-photovoltaics/",
+      "date": "2025-10-16T11:49:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Perovksite solar cell based on MXene achieves 25.13% efficiency",
+      "url": "https://www.pv-magazine.com/2025/10/16/perovksite-solar-cell-based-on-mxene-achieves-25-13-efficiency/",
+      "date": "2025-10-16T11:43:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chile to reach 2050 energy storage target within next two years, says energy minister",
+      "url": "https://www.energy-storage.news/chile-to-reach-2050-energy-storage-target-within-next-two-years-says-energy-minister/",
+      "date": "2025-10-16T11:31:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "State government, project partners inaugurate Germany’s first utility-scale grid-forming BESS",
+      "url": "https://www.energy-storage.news/state-government-project-partners-inaugurate-germanys-first-utility-scale-grid-forming-bess/",
+      "date": "2025-10-16T11:28:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Vietnam proposes financial support for residential solar, storage systems",
       "url": "https://www.pv-magazine.com/2025/10/16/vietnam-proposes-financial-support-for-residential-solar-storage-systems/",
@@ -226,13 +261,6 @@
       "bucket": "A"
     },
     {
-      "title": "Global PV outlook clouded by policy shifts and China export risks",
-      "url": "https://www.pv-magazine.com/2025/10/14/global-pv-outlook-clouded-by-policy-shifts-and-china-export-risks/",
-      "date": "2025-10-14T14:00:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "PJM area faces urgent energy storage need, US Energy Storage Coalition reports",
       "url": "https://www.energy-storage.news/pjm-area-faces-urgent-energy-storage-need-us-energy-storage-coalition-reports/",
       "date": "2025-10-14T13:15:31.000Z",
@@ -244,13 +272,6 @@
       "url": "https://www.energy-storage.news/eolian-secures-us463-million-for-1-7gwh-texas-bess-complex/",
       "date": "2025-10-14T13:13:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Cameroon, Zambia electrify villages with solar",
-      "url": "https://www.pv-magazine.com/2025/10/14/cameroon-zambia-electrify-villages-with-solar/",
-      "date": "2025-10-14T12:53:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "Nightpeak Energy commences operation of 300MWh Texas BESS",
       "url": "https://www.energy-storage.news/nightpeak-energy-commences-operation-of-300mwh-texas-bess/",
       "date": "2025-10-06T13:45:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AIP acquires 49% stake in BW ESS UK storage portfolio for nearly US$900 million",
-      "url": "https://www.energy-storage.news/aip-acquires-49-stake-in-bw-ess-uk-storage-portfolio-for-nearly-us900-million/",
-      "date": "2025-10-06T13:38:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Rajasthan launches 2GWh standalone BESS tender after India relaxes VGF guidelines",
-      "url": "https://www.energy-storage.news/rajasthan-launches-2gwh-standalone-bess-tender-after-india-relaxes-vgf-guidelines/",
-      "date": "2025-10-06T12:00:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hithium&#8217;s Hong Kong IPO lapses with CATL lawsuit looming",
-      "url": "https://www.energy-storage.news/hithiums-hong-kong-ipo-lapses-with-catl-lawsuit-looming/",
-      "date": "2025-10-06T10:35:35.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
