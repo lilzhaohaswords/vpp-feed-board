@@ -1,6 +1,13 @@
 {
-  "ts": 1760623265867,
+  "ts": 1760626869216,
   "items": [
+    {
+      "title": "SB Energy receives CEC grant to purchase Fluence batteries for portion of 1.6GWh Riverside County BESS",
+      "url": "https://www.energy-storage.news/sb-energy-receives-cec-grant-to-purchase-fluence-batteries-for-portion-of-1-6gwh-riverside-county-bess/",
+      "date": "2025-10-16T14:01:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Fluence supplies US-made BESS solution to 640MWh project in Arizona",
       "url": "https://www.energy-storage.news/fluence-supplies-us-made-bess-solution-to-640mwh-project-in-arizona/",
@@ -516,13 +523,6 @@
       "title": "Virtual battery tolls explained: Revenue certainty in a volatile market",
       "url": "https://www.energy-storage.news/virtual-battery-tolls-explained-revenue-certainty-in-a-volatile-market/",
       "date": "2025-10-07T08:28:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery trading complexity demands software solutions as the Australian market matures",
-      "url": "https://www.energy-storage.news/battery-trading-complexity-demands-software-solutions-as-the-australian-market-matures/",
-      "date": "2025-10-07T08:25:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
