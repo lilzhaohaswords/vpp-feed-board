@@ -1,6 +1,20 @@
 {
-  "ts": 1760598063943,
+  "ts": 1760601666798,
   "items": [
+    {
+      "title": "India’s solar-plus-storage tender sets record low INR 2.86 tariff",
+      "url": "https://www.pv-magazine.com/2025/10/16/indias-solar-plus-storage-tender-sets-record-low-inr-2-86-tariff/",
+      "date": "2025-10-16T07:30:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Cadmium telluride vs. crystalline silicon in agrivoltaics",
+      "url": "https://www.pv-magazine.com/2025/10/16/cadmium-telluride-vs-crystalline-silicon-in-agrivoltaics-2/",
+      "date": "2025-10-16T07:07:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Novel swapping technique for partially shaded PV systems",
       "url": "https://www.pv-magazine.com/2025/10/16/novel-swapping-technique-for-partially-shaded-pv-systems/",
@@ -254,24 +268,10 @@
       "bucket": "A"
     },
     {
-      "title": "Renalfa switches on 260 MWh battery storage system in Bulgaria",
-      "url": "https://www.pv-magazine.com/2025/10/14/renalfa-switches-on-260-mwh-battery-storage-system-in-bulgaria/",
-      "date": "2025-10-14T09:42:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Chile: Grenergy breaks ground on newest solar-plus-storage hybrid in 1.1GW/3.8GWh portfolio",
       "url": "https://www.energy-storage.news/chile-grenergy-breaks-ground-on-newest-solar-plus-storage-hybrid-in-1-1gw-3-8gwh-portfolio/",
       "date": "2025-10-14T09:37:58.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "IPS inaugurates Bulgaria’s first battery storage gigafactory",
-      "url": "https://www.pv-magazine.com/2025/10/14/ips-inaugurates-bulgarias-first-battery-storage-gigafactory/",
-      "date": "2025-10-14T09:00:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -282,7 +282,7 @@
       "bucket": "A"
     },
     {
-      "title": "&#8216;NEM-specific battery optimisers&#8217; capture more revenue during AU$20,300/MWh NSW price spike",
+      "title": "&#8216;NEM-specific battery optimisers&#8217; capture more revenue during the market volatility around AU$20,300/MWh NSW price spike",
       "url": "https://www.energy-storage.news/nem-specific-battery-optimisers-capture-more-revenue-during-au20300-mwh-nsw-price-spike/",
       "date": "2025-10-14T00:23:44.000Z",
       "source": "Energy Storage News",
