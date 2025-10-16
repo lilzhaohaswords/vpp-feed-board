@@ -1,6 +1,20 @@
 {
-  "ts": 1760581070056,
+  "ts": 1760585366153,
   "items": [
+    {
+      "title": "Octopus Australia acquires 400MWh Coleambally battery project in New South Wales",
+      "url": "https://www.energy-storage.news/octopus-australia-acquires-400mwh-coleambally-battery-project-in-new-south-wales/",
+      "date": "2025-10-16T03:09:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Spanish utility Iberdrola acquires 1GWh Tungkillo battery storage project in South Australia",
+      "url": "https://www.energy-storage.news/spanish-utility-iberdrola-acquires-1gwh-tungkillo-battery-storage-project-in-south-australia/",
+      "date": "2025-10-16T02:55:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sofab Inks achieves 22.2% efficiency in mini inverted perovskite solar panel",
       "url": "https://www.pv-magazine.com/2025/10/15/sofab-inks-achieves-22-2-efficiency-in-mini-inverted-perovskite-solar-panel/",
@@ -509,20 +523,6 @@
       "title": "Hithium&#8217;s Hong Kong IPO lapses with CATL lawsuit looming",
       "url": "https://www.energy-storage.news/hithiums-hong-kong-ipo-lapses-with-catl-lawsuit-looming/",
       "date": "2025-10-06T10:35:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Challenges, lessons learned and analytics in action from operating a BESS for the first time",
-      "url": "https://www.energy-storage.news/video-challenges-lessons-learned-and-analytics-in-action-from-operating-a-bess-for-the-first-time/",
-      "date": "2025-10-06T09:04:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EDF, Enlight advance solar-plus-storage projects in Southwestern US",
-      "url": "https://www.energy-storage.news/edf-enlight-advance-solar-plus-storage-projects-in-southwestern-us/",
-      "date": "2025-10-03T14:15:19.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
