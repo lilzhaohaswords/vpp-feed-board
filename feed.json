@@ -1,6 +1,13 @@
 {
-  "ts": 1760620987541,
+  "ts": 1760623265867,
   "items": [
+    {
+      "title": "Fluence supplies US-made BESS solution to 640MWh project in Arizona",
+      "url": "https://www.energy-storage.news/fluence-supplies-us-made-bess-solution-to-640mwh-project-in-arizona/",
+      "date": "2025-10-16T13:41:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "UK’s largest solar project approved, joins 2.1 GW cluster",
       "url": "https://www.pv-magazine.com/2025/10/16/uks-largest-solar-project-approved-joins-2-1-gw-cluster/",
@@ -516,13 +523,6 @@
       "title": "Battery trading complexity demands software solutions as the Australian market matures",
       "url": "https://www.energy-storage.news/battery-trading-complexity-demands-software-solutions-as-the-australian-market-matures/",
       "date": "2025-10-07T08:25:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Nightpeak Energy commences operation of 300MWh Texas BESS",
-      "url": "https://www.energy-storage.news/nightpeak-energy-commences-operation-of-300mwh-texas-bess/",
-      "date": "2025-10-06T13:45:51.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
