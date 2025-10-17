@@ -1,6 +1,27 @@
 {
-  "ts": 1760695256156,
+  "ts": 1760698868366,
   "items": [
+    {
+      "title": "Dutch energy suppliers update electricity origin reporting after review",
+      "url": "https://www.pv-magazine.com/2025/10/17/dutch-energy-suppliers-correct-electricity-origin-reporting-after-regulatory-review/",
+      "date": "2025-10-17T11:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bahrain launches tender for 100 MW solar project",
+      "url": "https://www.pv-magazine.com/2025/10/17/bahrain-launches-tender-for-100-mw-solar-project/",
+      "date": "2025-10-17T10:47:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Naturgy launches construction on first portion of ten-site, 160MW BESS portfolio in Spain",
+      "url": "https://www.energy-storage.news/naturgy-launches-construction-on-first-portion-of-ten-site-160mw-bess-portfolio-in-spain/",
+      "date": "2025-10-17T10:37:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "EASE rebrands as Energy Storage Europe Association for era of &#8216;unprecedented growth’",
       "url": "https://www.energy-storage.news/ease-rebrands-as-energy-storage-europe-association-for-era-of-unprecedented-growth/",
@@ -219,13 +240,6 @@
       "bucket": "A"
     },
     {
-      "title": "Solar accounted for 70% of new global power capacity in 2024",
-      "url": "https://www.pv-magazine.com/2025/10/16/solar-accounted-for-70-of-new-global-power-capacity-in-2024/",
-      "date": "2025-10-16T06:45:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Octopus Australia acquires 400MWh Coleambally battery project in New South Wales",
       "url": "https://www.energy-storage.news/octopus-australia-acquires-400mwh-coleambally-battery-project-in-new-south-wales/",
       "date": "2025-10-16T03:09:36.000Z",
@@ -237,13 +251,6 @@
       "url": "https://www.energy-storage.news/spanish-utility-iberdrola-acquires-1gwh-tungkillo-battery-storage-project-in-south-australia/",
       "date": "2025-10-16T02:55:02.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sofab Inks achieves 22.2% efficiency in mini inverted perovskite solar panel",
-      "url": "https://www.pv-magazine.com/2025/10/15/sofab-inks-achieves-22-2-efficiency-in-mini-inverted-perovskite-solar-panel/",
-      "date": "2025-10-15T14:34:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "BSW-Solar calls for 100GWh of German storage deployments by 2030",
       "url": "https://www.energy-storage.news/bsw-solar-calls-for-100gwh-german-storage-deployments-2030/",
       "date": "2025-10-07T14:21:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘The industry must do a better job of putting BESS safety in perspective’: Prevalon and Honeywell on addressing BESS fire safety",
-      "url": "https://www.energy-storage.news/the-industry-must-do-a-better-job-of-putting-bess-safety-in-perspective-prevalon-and-honeywell-on-addressing-bess-fire-safety/",
-      "date": "2025-10-07T13:53:04.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
