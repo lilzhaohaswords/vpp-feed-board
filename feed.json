@@ -1,6 +1,20 @@
 {
-  "ts": 1760691671844,
+  "ts": 1760695256156,
   "items": [
+    {
+      "title": "EASE rebrands as Energy Storage Europe Association for era of &#8216;unprecedented growth’",
+      "url": "https://www.energy-storage.news/ease-rebrands-as-energy-storage-europe-association-for-era-of-unprecedented-growth/",
+      "date": "2025-10-17T09:40:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "France certifies first solar panels eligible for reduced 5.5% VAT",
+      "url": "https://www.pv-magazine.com/2025/10/17/france-certifies-first-solar-panels-eligible-for-reduced-5-5-vat/",
+      "date": "2025-10-17T09:15:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar panel cleaning based on rolling film, motors",
       "url": "https://www.pv-magazine.com/2025/10/17/solar-panel-cleaning-based-on-rolling-film-motors/",
@@ -237,13 +251,6 @@
       "url": "https://www.energy-storage.news/us-roundup-ess-inc-ldes-pilot-investments-in-energy-vault-ninedot/",
       "date": "2025-10-15T14:04:28.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Novar establishes own grid connection for solar park in the Netherlands",
-      "url": "https://www.pv-magazine.com/2025/10/15/novar-establishes-own-grid-connection-for-solar-park-in-the-netherlands/",
-      "date": "2025-10-15T13:35:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "‘The industry must do a better job of putting BESS safety in perspective’: Prevalon and Honeywell on addressing BESS fire safety",
       "url": "https://www.energy-storage.news/the-industry-must-do-a-better-job-of-putting-bess-safety-in-perspective-prevalon-and-honeywell-on-addressing-bess-fire-safety/",
       "date": "2025-10-07T13:53:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Eolian and utility CPS Energy begin operating 100MWh Texas BESS",
-      "url": "https://www.energy-storage.news/eolian-and-utility-cps-energy-begin-operating-100mwh-texas-bess/",
-      "date": "2025-10-07T13:47:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
