@@ -1,6 +1,20 @@
 {
-  "ts": 1760677260214,
+  "ts": 1760680856504,
   "items": [
+    {
+      "title": "Powerlink Queensland seeks federal approval for AGL&#8217;s 2GWh Tuckeroo battery transmission connection",
+      "url": "https://www.energy-storage.news/powerlink-queensland-seeks-federal-approval-for-agls-2gwh-tuckeroo-battery-transmission-connection/",
+      "date": "2025-10-17T05:57:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ark Energy bags state approval for 3.1GWh Richmond Valley solar-plus-storage site in Australia",
+      "url": "https://www.energy-storage.news/ark-energy-bags-state-approval-for-3-1gwh-richmond-valley-solar-plus-storage-site-in-australia/",
+      "date": "2025-10-17T05:56:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "German lab pilots 20 kV battery system to cut energy losses",
       "url": "https://www.pv-magazine.com/2025/10/16/german-lab-pilots-20-kv-battery-system-to-cut-energy-losses/",
@@ -509,20 +523,6 @@
       "title": "Eolian and utility CPS Energy begin operating 100MWh Texas BESS",
       "url": "https://www.energy-storage.news/eolian-and-utility-cps-energy-begin-operating-100mwh-texas-bess/",
       "date": "2025-10-07T13:47:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Philippines regulator’s ESS market rules will be ‘a watershed moment’",
-      "url": "https://www.energy-storage.news/philippines-regulators-ess-market-rules-will-be-a-watershed-moment/",
-      "date": "2025-10-07T11:08:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Virtual battery tolls explained: Revenue certainty in a volatile market",
-      "url": "https://www.energy-storage.news/virtual-battery-tolls-explained-revenue-certainty-in-a-volatile-market/",
-      "date": "2025-10-07T08:28:28.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
