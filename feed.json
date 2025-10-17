@@ -1,6 +1,27 @@
 {
-  "ts": 1760698868366,
+  "ts": 1760702446174,
   "items": [
+    {
+      "title": "Spain updates grid rules to expand energy storage, renewables integration",
+      "url": "https://www.pv-magazine.com/2025/10/17/spain-updates-grid-rules-to-expand-energy-storage-renewables-integration/",
+      "date": "2025-10-17T11:45:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sunny summer forecast for South America despite La Niña",
+      "url": "https://www.pv-magazine.com/2025/10/17/sunny-summer-forecast-for-south-america-despite-la-nina/",
+      "date": "2025-10-17T11:22:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Lightshift Energy secures US$75 million for East Coast project pipeline",
+      "url": "https://www.energy-storage.news/lightshift-energy-secures-us75-million-for-east-coast-project-pipeline/",
+      "date": "2025-10-17T11:18:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Dutch energy suppliers update electricity origin reporting after review",
       "url": "https://www.pv-magazine.com/2025/10/17/dutch-energy-suppliers-correct-electricity-origin-reporting-after-regulatory-review/",
@@ -222,20 +243,6 @@
       "title": "India’s solar-plus-storage tender sets record low INR 2.86 tariff",
       "url": "https://www.pv-magazine.com/2025/10/16/indias-solar-plus-storage-tender-sets-record-low-inr-2-86-tariff/",
       "date": "2025-10-16T07:30:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cadmium telluride vs. crystalline silicon in agrivoltaics",
-      "url": "https://www.pv-magazine.com/2025/10/16/cadmium-telluride-vs-crystalline-silicon-in-agrivoltaics-2/",
-      "date": "2025-10-16T07:07:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Novel swapping technique for partially shaded PV systems",
-      "url": "https://www.pv-magazine.com/2025/10/16/novel-swapping-technique-for-partially-shaded-pv-systems/",
-      "date": "2025-10-16T06:52:24.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Potentia’s 500MW solar-plus-storage site in Australia receives NSW approval",
       "url": "https://www.energy-storage.news/potentias-500mw-solar-plus-storage-site-in-australia-receives-nsw-approval/",
       "date": "2025-10-08T04:55:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BSW-Solar calls for 100GWh of German storage deployments by 2030",
-      "url": "https://www.energy-storage.news/bsw-solar-calls-for-100gwh-german-storage-deployments-2030/",
-      "date": "2025-10-07T14:21:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
