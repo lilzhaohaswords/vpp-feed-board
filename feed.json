@@ -1,6 +1,34 @@
 {
-  "ts": 1760961670439,
+  "ts": 1760966495990,
   "items": [
+    {
+      "title": "Singapore approves 1 GW hydropower import project from Malaysia",
+      "url": "https://www.pv-magazine.com/2025/10/20/singapore-approves-1-gw-hydropower-import-project-from-malaysia/",
+      "date": "2025-10-20T13:15:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Jigar Shah chairs new US virtual power plant advisory group",
+      "url": "https://www.energy-storage.news/jigar-shah-chairs-new-us-virtual-power-plant-advisory-group/",
+      "date": "2025-10-20T13:05:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Deployable tracker-based rooftop PV system for stadiums",
+      "url": "https://www.pv-magazine.com/2025/10/20/deployable-tracker-based-rooftop-pv-system-for-stadiums/",
+      "date": "2025-10-20T12:51:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ireland sets four-hour, 75%-efficient, 201 MW storage target by 2030",
+      "url": "https://www.pv-magazine.com/2025/10/20/ireland-sets-four-hour-75-efficient-201-mw-storage-target-by-2030/",
+      "date": "2025-10-20T12:15:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Mexico targets up to 9.5 GW of solar and wind by 2030",
       "url": "https://www.pv-magazine.com/2025/10/20/mexico-targets-up-to-9-5-gw-of-solar-and-wind-by-2030/",
@@ -180,27 +208,6 @@
       "title": "Ark Energy wins approval for 435 MW solar and storage project in Australia",
       "url": "https://www.pv-magazine.com/2025/10/17/ark-energy-wins-approval-for-435-mw-solar-and-storage-project-in-australia/",
       "date": "2025-10-17T08:30:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Jakson Green, Blueleaf secure funding for 840 MW of solar in India",
-      "url": "https://www.pv-magazine.com/2025/10/17/jakson-green-blueleaf-secure-funding-for-840-mwp-of-solar-in-india/",
-      "date": "2025-10-17T07:45:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany deploys 920 MW of solar in September",
-      "url": "https://www.pv-magazine.com/2025/10/17/germany-deploys-920-mw-of-solar-in-september/",
-      "date": "2025-10-17T07:26:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pollinator-friendly solar gains ground in renewable credit markets",
-      "url": "https://www.pv-magazine.com/2025/10/17/pollinator-friendly-solar-gains-ground-in-renewable-credit-markets/",
-      "date": "2025-10-17T07:06:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Bitesize takeaways from Energy Storage Summit Asia 2025",
       "url": "https://www.energy-storage.news/bitesize-takeaways-from-energy-storage-summit-asia-2025/",
       "date": "2025-10-08T09:48:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Xcel Energy proposes 200MW distributed battery storage network in Minnesota",
-      "url": "https://www.energy-storage.news/xcel-energy-minnesota-200mw-distributed-battery-storage-network/",
-      "date": "2025-10-08T09:25:59.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
