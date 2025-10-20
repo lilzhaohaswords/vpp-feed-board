@@ -1,6 +1,13 @@
 {
-  "ts": 1760940063803,
+  "ts": 1760943663358,
   "items": [
+    {
+      "title": "Solar tracker repowering emerges as key to sustaining older arrays",
+      "url": "https://www.pv-magazine.com/2025/10/20/solar-tracker-repowering-emerges-as-key-to-sustaining-older-arrays/",
+      "date": "2025-10-20T06:45:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: mixed evidences from Germany&#8217;s hydrogen market",
       "url": "https://www.pv-magazine.com/2025/10/17/the-hydrogen-stream-mixed-evidences-from-germanys-hydrogen-market/",
@@ -215,13 +222,6 @@
       "title": "UK’s largest solar project approved, joins 2.1 GW cluster",
       "url": "https://www.pv-magazine.com/2025/10/16/uks-largest-solar-project-approved-joins-2-1-gw-cluster/",
       "date": "2025-10-16T13:00:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Dutch startup secures technology license, contractor for polysilicon plant",
-      "url": "https://www.pv-magazine.com/2025/10/16/dutch-startup-secures-technology-license-contractor-for-polysilicon-plant/",
-      "date": "2025-10-16T12:29:50.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
