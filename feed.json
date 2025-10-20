@@ -1,6 +1,20 @@
 {
-  "ts": 1760954460338,
+  "ts": 1760958064719,
   "items": [
+    {
+      "title": "Improving sodium-ion battery stability with calcium",
+      "url": "https://www.pv-magazine.com/2025/10/20/improving-sodium-ion-battery-stability-with-calcium/",
+      "date": "2025-10-20T10:57:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "First &#8216;Made in Europe&#8217; BESS factory opens in Bulgaria, Lyten closes Northvolt Poland acquisition",
+      "url": "https://www.energy-storage.news/first-made-in-europe-bess-factory-opens-in-bulgaria-lyten-closes-northvolt-poland-acquisition/",
+      "date": "2025-10-20T10:41:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Longi BC modules surpass TOPCon output by 2.45% in desert comparison",
       "url": "https://www.pv-magazine.com/2025/10/20/longi-bc-modules-surpass-topcon-output-by-2-45-in-desert-comparison/",
@@ -187,13 +201,6 @@
       "title": "The impact of solar minigrids in rural Pakistan",
       "url": "https://www.pv-magazine.com/2025/10/17/the-impact-of-solar-minigrids-in-rural-pakistan/",
       "date": "2025-10-17T06:55:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ten reasons why behind-the-meter solar is a benefit",
-      "url": "https://www.pv-magazine.com/2025/10/17/ten-reasons-why-behind-the-meter-solar-is-a-benefit/",
-      "date": "2025-10-17T06:32:04.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Xcel Energy proposes 200MW distributed battery storage network in Minnesota",
       "url": "https://www.energy-storage.news/xcel-energy-minnesota-200mw-distributed-battery-storage-network/",
       "date": "2025-10-08T09:25:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Potentia’s 500MW solar-plus-storage site in Australia receives NSW approval",
-      "url": "https://www.energy-storage.news/potentias-500mw-solar-plus-storage-site-in-australia-receives-nsw-approval/",
-      "date": "2025-10-08T04:55:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
