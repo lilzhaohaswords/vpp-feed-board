@@ -1,6 +1,34 @@
 {
-  "ts": 1761040847490,
+  "ts": 1761044471516,
   "items": [
+    {
+      "title": "New Zealand approves 200 MWh solar-plus-storage project",
+      "url": "https://www.pv-magazine.com/2025/10/21/new-zealand-approves-200-mwh-solar-plus-storage-project/",
+      "date": "2025-10-21T11:00:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Nearly half of solar capacity will be co-located with storage by 2060, says DNV",
+      "url": "https://www.pv-magazine.com/2025/10/21/nearly-half-of-solar-capacity-will-be-co-located-with-storage-by-2060-says-dnv/",
+      "date": "2025-10-21T10:31:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "DR Congo provides grants for minigrids, solar home systems",
+      "url": "https://www.pv-magazine.com/2025/10/21/dr-congo-provides-grants-for-minigrids-solar-home-systems/",
+      "date": "2025-10-21T10:27:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Wärtsilä opts for in-house control over battery storage data analytics",
+      "url": "https://www.energy-storage.news/wartsila-opts-for-in-house-control-over-battery-storage-data-analytics/",
+      "date": "2025-10-21T10:02:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Australia becomes world&#8217;s third-largest utility battery market",
       "url": "https://www.pv-magazine.com/2025/10/21/australia-becomes-worlds-third-largest-utility-battery-market/",
@@ -187,27 +215,6 @@
       "title": "New tech to improve energy efficiency in Siemens polysilicon production process",
       "url": "https://www.pv-magazine.com/2025/10/17/new-tech-to-improve-energy-efficiency-in-siemens-polysilicon-production-process/",
       "date": "2025-10-17T13:44:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;I discovered the importance of letting results speak louder than words&#8217;",
-      "url": "https://www.pv-magazine.com/2025/10/17/i-discovered-the-importance-of-letting-results-speak-louder-than-words/",
-      "date": "2025-10-17T12:06:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain updates grid rules to expand energy storage, renewables integration",
-      "url": "https://www.pv-magazine.com/2025/10/17/spain-updates-grid-rules-to-expand-energy-storage-renewables-integration/",
-      "date": "2025-10-17T11:45:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sunny summer forecast for South America despite La Niña",
-      "url": "https://www.pv-magazine.com/2025/10/17/sunny-summer-forecast-for-south-america-despite-la-nina/",
-      "date": "2025-10-17T11:22:31.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "South Australia prepares its first 700MW tender for long-duration energy storage",
       "url": "https://www.energy-storage.news/south-australia-prepares-its-first-700mw-tender-for-long-duration-energy-storage/",
       "date": "2025-10-09T08:18:50.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery storage revenues fall 61% as Australia&#8217;s NEM navigates market volatility",
-      "url": "https://www.energy-storage.news/battery-storage-revenues-fall-61-as-australias-nem-navigates-market-volatility/",
-      "date": "2025-10-09T08:16:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
