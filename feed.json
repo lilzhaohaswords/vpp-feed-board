@@ -1,6 +1,13 @@
 {
-  "ts": 1761058903892,
+  "ts": 1761062482351,
   "items": [
+    {
+      "title": "Ameresco, Alliant Energy, begin operating record-breaking BESS projects in Arizona, Wisconsin",
+      "url": "https://www.energy-storage.news/ameresco-alliant-energy-begin-operating-record-breaking-bess-projects-in-arizona-wisconsin/",
+      "date": "2025-10-21T15:08:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Rondo Energy’s 100 MWh heat battery powered by 20 MW of onsite solar",
       "url": "https://www.pv-magazine.com/2025/10/21/rondo-energys-100-mwh-heat-battery-powered-by-20-mw-of-onsite-solar/",
@@ -516,13 +523,6 @@
       "title": "Greenflash Infrastructure secures financing for Texas’s largest standalone BESS",
       "url": "https://www.energy-storage.news/greenflash-infrastructure-secures-financing-for-texass-largest-standalone-bess/",
       "date": "2025-10-09T13:31:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Lithuania expands energy storage support scheme, aims for speedy turnaround",
-      "url": "https://www.energy-storage.news/lithuania-expands-energy-storage-support-scheme-aims-for-speedy-turnaround/",
-      "date": "2025-10-09T11:39:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
