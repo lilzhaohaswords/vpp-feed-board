@@ -1,6 +1,13 @@
 {
-  "ts": 1761053162850,
+  "ts": 1761055274495,
   "items": [
+    {
+      "title": "Croatia’s regulatory deadlock is strangling large-scale solar",
+      "url": "https://www.pv-magazine.com/2025/10/21/res-croatia-solar-utility-scale-grid-access-european-commission-solvis-epc-developers/",
+      "date": "2025-10-21T13:30:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Boralex progresses 500MWh Ontario BESS, prepares another 1.6GWh project for upcoming IESO LT2 RFP",
       "url": "https://www.energy-storage.news/boralex-progresses-500mwh-ontario-bess-prepares-another-1-6gwh-project-for-upcoming-ieso-lt2-rfp/",
@@ -236,13 +243,6 @@
       "title": "Chinese PV Industry Brief: Energy China secures 5 GW EPC deal in Saudi Arabia",
       "url": "https://www.pv-magazine.com/2025/10/17/chinese-pv-industry-brief-energy-china-secures-5-gw-epc-contract-in-saudi-arabia/",
       "date": "2025-10-17T15:45:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "PV module recycling gains momentum as waste volumes surge globally",
-      "url": "https://www.pv-magazine.com/2025/10/17/pv-module-recycling-gains-momentum-as-waste-volumes-surge-globally/",
-      "date": "2025-10-17T14:11:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
