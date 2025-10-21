@@ -1,6 +1,27 @@
 {
-  "ts": 1761030069565,
+  "ts": 1761033688139,
   "items": [
+    {
+      "title": "TotalEnergies turns closed US landfill into 7 MW solar plant",
+      "url": "https://www.pv-magazine.com/2025/10/21/totalenergies-turns-closed-us-landfill-into-7-mw-solar-plant/",
+      "date": "2025-10-21T08:00:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Optimizing solar-plus-storage operation for markets with imbalance penalties",
+      "url": "https://www.pv-magazine.com/2025/10/21/optimizing-solar-plus-storage-operation-for-markets-with-imbalance-penalties/",
+      "date": "2025-10-21T07:26:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Romania drafts cybersecurity rules for PV, cogeneration up to 1 MW",
+      "url": "https://www.pv-magazine.com/2025/10/21/romania-drafts-cybersecurity-rules-for-pv-cogeneration-up-to-1-mw/",
+      "date": "2025-10-21T07:15:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "ADB, World Bank commit $12.5 billion to ASEAN Power Grid plan",
       "url": "https://www.pv-magazine.com/2025/10/21/adb-world-bank-commit-12-5-billion-to-asean-power-grid-plan/",
@@ -198,13 +219,6 @@
       "bucket": "A"
     },
     {
-      "title": "Bahrain launches tender for 100 MW solar project",
-      "url": "https://www.pv-magazine.com/2025/10/17/bahrain-launches-tender-for-100-mw-solar-project/",
-      "date": "2025-10-17T10:47:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Naturgy launches construction on first portion of ten-site, 160MW BESS portfolio in Spain",
       "url": "https://www.energy-storage.news/naturgy-launches-construction-on-first-portion-of-ten-site-160mw-bess-portfolio-in-spain/",
       "date": "2025-10-17T10:37:22.000Z",
@@ -216,20 +230,6 @@
       "url": "https://www.energy-storage.news/ease-rebrands-as-energy-storage-europe-association-for-era-of-unprecedented-growth/",
       "date": "2025-10-17T09:40:13.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "France certifies first solar panels eligible for reduced 5.5% VAT",
-      "url": "https://www.pv-magazine.com/2025/10/17/france-certifies-first-solar-panels-eligible-for-reduced-5-5-vat/",
-      "date": "2025-10-17T09:15:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar panel cleaning based on rolling film, motors",
-      "url": "https://www.pv-magazine.com/2025/10/17/solar-panel-cleaning-based-on-rolling-film-motors/",
-      "date": "2025-10-17T09:00:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
