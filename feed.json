@@ -1,6 +1,13 @@
 {
-  "ts": 1761120073443,
+  "ts": 1761123665594,
   "items": [
+    {
+      "title": "Australian-made solar microgrid system enters US market",
+      "url": "https://www.pv-magazine.com/2025/10/22/australian-made-solar-microgrid-system-enters-us-market/",
+      "date": "2025-10-22T08:45:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Engie India eyes 7 GW of hybrid and storage-backed renewables by 2030",
       "url": "https://www.pv-magazine.com/2025/10/22/engie-india-eyes-7-gw-of-hybrid-and-storage-backed-renewables-by-2030/",
@@ -250,13 +257,6 @@
       "title": "Longi BC modules surpass TOPCon output by 2.45% in desert comparison",
       "url": "https://www.pv-magazine.com/2025/10/20/longi-bc-modules-surpass-topcon-output-by-2-45-in-desert-comparison/",
       "date": "2025-10-20T09:00:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain makes agrivoltaic projects eligible for farm subsidy program",
-      "url": "https://www.pv-magazine.com/2025/10/20/spain-makes-agrivoltaic-projects-eligible-for-farm-subsidy-program/",
-      "date": "2025-10-20T09:00:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
