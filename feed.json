@@ -1,6 +1,20 @@
 {
-  "ts": 1761141687070,
+  "ts": 1761145274043,
   "items": [
+    {
+      "title": "France adds 4.2 GW of solar in first nine months of 2025",
+      "url": "https://www.pv-magazine.com/2025/10/22/france-adds-4-2-gw-of-solar-in-first-nine-months-of-2025/",
+      "date": "2025-10-22T15:00:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US battery storage financing &#8216;has become more challenging&#8217;",
+      "url": "https://www.energy-storage.news/us-battery-storage-financing-has-become-more-challenging/",
+      "date": "2025-10-22T14:08:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Energy storage could cut Brazil’s electricity system costs 16% in 2029",
       "url": "https://www.pv-magazine.com/2025/10/22/energy-storage-could-cut-brazils-electricity-system-costs-16-in-2029/",
@@ -261,13 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "Energy storage reshapes data center siting amid US regulatory pressure",
-      "url": "https://www.pv-magazine.com/2025/10/20/energy-storage-reshapes-data-center-siting-amid-us-regulatory-pressure/",
-      "date": "2025-10-20T14:15:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Data centre loads and domestic content policy define US battery storage market&#8217;s future, law firm says",
       "url": "https://www.energy-storage.news/data-centre-loads-and-domestic-content-policy-define-us-battery-storage-markets-future-law-firm-says/",
       "date": "2025-10-20T13:26:45.000Z",
@@ -516,13 +523,6 @@
       "title": "US ROUNDUP: Cross-industry collaborations target energy storage growth and accessibility",
       "url": "https://www.energy-storage.news/us-roundup-cross-industry-collaborations-target-energy-storage-growth-and-accessibility/",
       "date": "2025-10-10T13:46:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UK BESS asset management has moved to &#8216;disciplined, systems-level approach&#8217;",
-      "url": "https://www.energy-storage.news/uk-bess-asset-management-has-moved-to-disciplined-systems-level-approach/",
-      "date": "2025-10-10T13:40:38.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
