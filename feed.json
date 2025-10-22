@@ -1,6 +1,27 @@
 {
-  "ts": 1761139529642,
+  "ts": 1761141687070,
   "items": [
+    {
+      "title": "Energy storage could cut Brazil’s electricity system costs 16% in 2029",
+      "url": "https://www.pv-magazine.com/2025/10/22/energy-storage-could-cut-brazils-electricity-system-costs-16-in-2029/",
+      "date": "2025-10-22T14:00:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Recurrent Energy secures US$825 million financing for Arizona BESS and solar projects",
+      "url": "https://www.energy-storage.news/recurrent-energy-secures-us825-million-financing-for-arizona-bess-and-solar-projects/",
+      "date": "2025-10-22T13:39:18.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Future-proof or fail: how battery storage projects can thrive in Germany",
+      "url": "https://www.pv-magazine.com/2025/10/22/future-proof-or-fail-how-battery-storage-projects-can-thrive-in-germany/",
+      "date": "2025-10-22T13:34:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Taiwan to revise environmental impact rules amid floating solar scrutiny",
       "url": "https://www.pv-magazine.com/2025/10/22/taiwan-to-revise-solar-eia-rules-amid-floating-pv-scrutiny/",
@@ -254,24 +275,10 @@
       "bucket": "A"
     },
     {
-      "title": "Singapore approves 1 GW hydropower import project from Malaysia",
-      "url": "https://www.pv-magazine.com/2025/10/20/singapore-approves-1-gw-hydropower-import-project-from-malaysia/",
-      "date": "2025-10-20T13:15:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Jigar Shah chairs new US virtual power plant advisory group",
       "url": "https://www.energy-storage.news/jigar-shah-chairs-new-us-virtual-power-plant-advisory-group/",
       "date": "2025-10-20T13:05:20.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Deployable tracker-based rooftop PV system for stadiums",
-      "url": "https://www.pv-magazine.com/2025/10/20/deployable-tracker-based-rooftop-pv-system-for-stadiums/",
-      "date": "2025-10-20T12:51:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "UK BESS asset management has moved to &#8216;disciplined, systems-level approach&#8217;",
       "url": "https://www.energy-storage.news/uk-bess-asset-management-has-moved-to-disciplined-systems-level-approach/",
       "date": "2025-10-10T13:40:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s H1 energy storage installations plunge 74% year-on-year to 49MWh: Mercom",
-      "url": "https://www.energy-storage.news/indias-h1-energy-storage-installations-plunge-74-year-on-year-to-49mwh-mercom/",
-      "date": "2025-10-10T13:35:24.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
