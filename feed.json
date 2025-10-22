@@ -1,6 +1,34 @@
 {
-  "ts": 1761127261420,
+  "ts": 1761130920836,
   "items": [
+    {
+      "title": "South Africa simplifies registration process for distributed PV",
+      "url": "https://www.pv-magazine.com/2025/10/22/south-africa-simplifies-registration-process-for-distributed-pv/",
+      "date": "2025-10-22T11:00:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU Roundup: Big BESS project news in Greece, Germany, Romania and Portugal",
+      "url": "https://www.energy-storage.news/eu-roundup-big-bess-project-news-in-greece-germany-romania-and-portugal/",
+      "date": "2025-10-22T10:29:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Developers don&#8217;t want geopolitical risks&#8217;: Fluence talks up US domestic content strategy",
+      "url": "https://www.energy-storage.news/developers-dont-want-geopolitical-risks-fluence-talks-up-us-domestic-content-strategy/",
+      "date": "2025-10-22T10:28:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US thermal energy storage startup Rondo deploys 100MWh industrial ‘Heat Battery’",
+      "url": "https://www.energy-storage.news/us-thermal-energy-storage-startup-rondo-deploys-100mwh-industrial-heat-battery/",
+      "date": "2025-10-22T10:03:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Unlimited low-cost energy storage",
       "url": "https://www.pv-magazine.com/2025/10/22/unlimited-low-cost-energy-storage/",
@@ -243,13 +271,6 @@
       "title": "Mexico targets up to 9.5 GW of solar and wind by 2030",
       "url": "https://www.pv-magazine.com/2025/10/20/mexico-targets-up-to-9-5-gw-of-solar-and-wind-by-2030/",
       "date": "2025-10-20T11:15:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar, off-grid systems key to Cameroon’s electrification",
-      "url": "https://www.pv-magazine.com/2025/10/20/solar-off-grid-systems-key-to-cameroons-electrification/",
-      "date": "2025-10-20T11:14:02.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "India’s H1 energy storage installations plunge 74% year-on-year to 49MWh: Mercom",
       "url": "https://www.energy-storage.news/indias-h1-energy-storage-installations-plunge-74-year-on-year-to-49mwh-mercom/",
       "date": "2025-10-10T13:35:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Texas utility signs 200MWh BESS offtake agreement with Jupiter Power to combat ERCOT duck curve",
-      "url": "https://www.energy-storage.news/texas-utility-signs-200mwh-bess-offtake-agreement-with-jupiter-power-to-combat-ercot-duck-curve/",
-      "date": "2025-10-10T10:45:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany: Federal Network Agency picks 490MW of solar-plus-storage from oversubscribed tender",
-      "url": "https://www.energy-storage.news/germany-federal-network-agency-picks-490mw-of-solar-plus-storage-from-oversubscribed-tender/",
-      "date": "2025-10-10T07:40:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NSW Independent Planning Commission approves ACEnergy&#8217;s 1,100MWh battery storage system in Australia",
-      "url": "https://www.energy-storage.news/nsw-independent-planning-commission-approves-acenergys-1100mwh-battery-storage-system-in-australia/",
-      "date": "2025-10-10T00:36:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
