@@ -1,6 +1,13 @@
 {
-  "ts": 1761106262498,
+  "ts": 1761109269446,
   "items": [
+    {
+      "title": "South Australia launches first capacity tender for 700MW of long-duration energy storage",
+      "url": "https://www.energy-storage.news/south-australia-launches-first-capacity-tender-for-700mw-of-long-duration-energy-storage/",
+      "date": "2025-10-22T04:22:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Ameresco, Alliant Energy, begin operating record-breaking BESS projects in Arizona, Wisconsin",
       "url": "https://www.energy-storage.news/ameresco-alliant-energy-begin-operating-record-breaking-bess-projects-in-arizona-wisconsin/",
@@ -516,13 +523,6 @@
       "title": "NSW Independent Planning Commission approves ACEnergy&#8217;s 1,100MWh battery storage system in Australia",
       "url": "https://www.energy-storage.news/nsw-independent-planning-commission-approves-acenergys-1100mwh-battery-storage-system-in-australia/",
       "date": "2025-10-10T00:36:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Greenflash Infrastructure secures financing for Texas’s largest standalone BESS",
-      "url": "https://www.energy-storage.news/greenflash-infrastructure-secures-financing-for-texass-largest-standalone-bess/",
-      "date": "2025-10-09T13:31:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
