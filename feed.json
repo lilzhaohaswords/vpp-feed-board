@@ -1,6 +1,20 @@
 {
-  "ts": 1761213676047,
+  "ts": 1761217265896,
   "items": [
+    {
+      "title": "Elecnova releases 1 MW/2 MWh ESS for grid-scale use",
+      "url": "https://www.pv-magazine.com/2025/10/23/elecnova-releases-1-mw-2-mwh-ess-for-grid-scale-use/",
+      "date": "2025-10-23T10:40:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "CATL&#8217;s Q3 ESS battery shipments reach 36GWh, market share &#8216;impacted by capacity constraints&#8217;",
+      "url": "https://www.energy-storage.news/catls-q3-ess-battery-shipments-36gwh-market-share-capacity-constraints/",
+      "date": "2025-10-23T10:33:50.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Ireland reveals plans for electricity interconnector with Spain",
       "url": "https://www.pv-magazine.com/2025/10/23/ireland-reveals-plans-for-electricity-interconnector-with-spain/",
@@ -261,13 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "New Zealand approves 200 MWh solar-plus-storage project",
-      "url": "https://www.pv-magazine.com/2025/10/21/new-zealand-approves-200-mwh-solar-plus-storage-project/",
-      "date": "2025-10-21T11:00:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Wärtsilä opts for in-house control over battery storage data analytics",
       "url": "https://www.energy-storage.news/wartsila-opts-for-in-house-control-over-battery-storage-data-analytics/",
       "date": "2025-10-21T10:02:49.000Z",
@@ -516,13 +523,6 @@
       "title": "Akaysha Energy&#8217;s Waratah Super Battery discharges its first full output to Australia’s NEM",
       "url": "https://www.energy-storage.news/akaysha-energys-waratah-super-battery-discharges-its-first-full-output-to-australias-nem/",
       "date": "2025-10-13T05:43:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Queensland&#8217;s Energy Roadmap: 4.3GW of short-duration energy storage by 2030, pumped hydro plans revised",
-      "url": "https://www.energy-storage.news/queenslands-energy-roadmap-4-3gw-of-short-duration-energy-storage-by-2030-pumped-hydro-plans-revised/",
-      "date": "2025-10-13T05:37:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
