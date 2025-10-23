@@ -1,6 +1,41 @@
 {
-  "ts": 1761210065718,
+  "ts": 1761213676047,
   "items": [
+    {
+      "title": "Ireland reveals plans for electricity interconnector with Spain",
+      "url": "https://www.pv-magazine.com/2025/10/23/ireland-reveals-plans-for-electricity-interconnector-with-spain/",
+      "date": "2025-10-23T09:59:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bangladesh tenders 72.5 MW of rooftop solar under national program",
+      "url": "https://www.pv-magazine.com/2025/10/23/bangladesh-tenders-72-5-mw-rooftop-solar-under-national-program/",
+      "date": "2025-10-23T09:30:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Philippines ‘entering an era where energy storage is indispensable’, says solar pioneer",
+      "url": "https://www.energy-storage.news/philippines-entering-an-era-where-energy-storage-is-indispensable-says-solar-pioneer/",
+      "date": "2025-10-23T09:22:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ascent Solar testing CIGS modules for power beaming, marine applications",
+      "url": "https://www.pv-magazine.com/2025/10/23/ascent-solar-testing-cigs-modules-for-power-beaming-marine-applications/",
+      "date": "2025-10-23T09:05:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Frankfurt airport now hosting 17.4 MW vertical PV plant",
+      "url": "https://www.pv-magazine.com/2025/10/23/frankfurt-airport-now-hosting-17-4-mw-vertical-pv-plant/",
+      "date": "2025-10-23T09:00:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "RatedPower enhances solar plant design platform with 3D simulation capabilities",
       "url": "https://www.pv-magazine.com/2025/10/23/ratedpower-enhances-solar-plant-design-platform-with-3d-simulation-capabilities/",
@@ -233,38 +268,10 @@
       "bucket": "A"
     },
     {
-      "title": "Nearly half of solar capacity will be co-located with storage by 2060, says DNV",
-      "url": "https://www.pv-magazine.com/2025/10/21/nearly-half-of-solar-capacity-will-be-co-located-with-storage-by-2060-says-dnv/",
-      "date": "2025-10-21T10:31:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "DR Congo provides grants for minigrids, solar home systems",
-      "url": "https://www.pv-magazine.com/2025/10/21/dr-congo-provides-grants-for-minigrids-solar-home-systems/",
-      "date": "2025-10-21T10:27:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Wärtsilä opts for in-house control over battery storage data analytics",
       "url": "https://www.energy-storage.news/wartsila-opts-for-in-house-control-over-battery-storage-data-analytics/",
       "date": "2025-10-21T10:02:49.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia becomes world&#8217;s third-largest utility battery market",
-      "url": "https://www.pv-magazine.com/2025/10/21/australia-becomes-worlds-third-largest-utility-battery-market/",
-      "date": "2025-10-21T09:10:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "TotalEnergies turns closed US landfill into 7 MW solar plant",
-      "url": "https://www.pv-magazine.com/2025/10/21/totalenergies-turns-closed-us-landfill-into-7-mw-solar-plant/",
-      "date": "2025-10-21T08:00:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Queensland&#8217;s Energy Roadmap: 4.3GW of short-duration energy storage by 2030, pumped hydro plans revised",
       "url": "https://www.energy-storage.news/queenslands-energy-roadmap-4-3gw-of-short-duration-energy-storage-by-2030-pumped-hydro-plans-revised/",
       "date": "2025-10-13T05:37:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New South Wales electricity prices hit AU$20,300/MWh cap as battery storage captures volatility",
-      "url": "https://www.energy-storage.news/new-south-wales-electricity-prices-hit-au20300-mwh-cap-as-battery-storage-captures-volatility/",
-      "date": "2025-10-13T05:33:21.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
