@@ -1,6 +1,34 @@
 {
-  "ts": 1761217265896,
+  "ts": 1761220877507,
   "items": [
+    {
+      "title": "Raffeisen pension fund joins EBRD, EU on large-scale Croatia BESS and VPP investment",
+      "url": "https://www.energy-storage.news/raffeisen-pension-fund-joins-ebrd-eu-on-large-scale-croatia-bess-and-vpp-investment/",
+      "date": "2025-10-23T11:46:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "China expands highway solar as provinces race to decarbonize transport",
+      "url": "https://www.pv-magazine.com/2025/10/23/china-expands-highway-solar-as-provinces-race-to-decarbonize-transport/",
+      "date": "2025-10-23T11:40:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Calibrant to deliver BESS for Pacific Northwest data centre in ‘first-of-its-kind’ project",
+      "url": "https://www.energy-storage.news/calibrant-to-deliver-bess-for-pacific-northwest-data-centre-in-first-of-its-kind-project/",
+      "date": "2025-10-23T11:39:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "California BESS legislation update: Fire safety bill becomes law, permitting restrictions do not",
+      "url": "https://www.energy-storage.news/california-bess-legislation-update-fire-safety-bill-becomes-law-permitting-restrictions-do-not/",
+      "date": "2025-10-23T11:38:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Elecnova releases 1 MW/2 MWh ESS for grid-scale use",
       "url": "https://www.pv-magazine.com/2025/10/23/elecnova-releases-1-mw-2-mwh-ess-for-grid-scale-use/",
@@ -254,13 +282,6 @@
       "bucket": "A"
     },
     {
-      "title": "Mercedes unveils car with 20% efficient ultra-thin solar coating",
-      "url": "https://www.pv-magazine.com/2025/10/21/mercedes-unveils-car-with-20-efficient-ultra-thin-solar-coating/",
-      "date": "2025-10-21T12:15:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Energy Storage Awards 2025: Shortlists revealed for celebration of industry’s best and brightest",
       "url": "https://www.energy-storage.news/energy-storage-awards-2025-shortlists-revealed-for-celebration-of-industrys-best-and-brightest/",
       "date": "2025-10-21T11:18:06.000Z",
@@ -502,27 +523,6 @@
       "title": "Base Power raises US$1 billion for residential energy storage systems",
       "url": "https://www.energy-storage.news/base-power-raises-us1-billion-for-residential-energy-storage-systems/",
       "date": "2025-10-13T12:17:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hithium &#8216;actively preparing resubmission&#8217; for Hong Kong IPO",
-      "url": "https://www.energy-storage.news/hithium-actively-preparing-resubmission-for-hong-kong-ipo/",
-      "date": "2025-10-13T12:15:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Global grid-scale BESS deployments up 36% in first nine months of 2025",
-      "url": "https://www.energy-storage.news/global-grid-scale-bess-deployments-up-36-first-nine-months-of-2025/",
-      "date": "2025-10-13T11:26:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Akaysha Energy&#8217;s Waratah Super Battery discharges its first full output to Australia’s NEM",
-      "url": "https://www.energy-storage.news/akaysha-energys-waratah-super-battery-discharges-its-first-full-output-to-australias-nem/",
-      "date": "2025-10-13T05:43:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
