@@ -1,6 +1,13 @@
 {
-  "ts": 1761220877507,
+  "ts": 1761225838922,
   "items": [
+    {
+      "title": "US clean energy loses $24 billion, 21,000 jobs through September",
+      "url": "https://www.pv-magazine.com/2025/10/23/us-clean-energy-loses-24-billion-21000-jobs-through-september/",
+      "date": "2025-10-23T12:15:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Raffeisen pension fund joins EBRD, EU on large-scale Croatia BESS and VPP investment",
       "url": "https://www.energy-storage.news/raffeisen-pension-fund-joins-ebrd-eu-on-large-scale-croatia-bess-and-vpp-investment/",
@@ -272,13 +279,6 @@
       "url": "https://www.energy-storage.news/global-energy-storage-deployments-on-track-for-record-year-in-2025-bnef-says/",
       "date": "2025-10-21T13:16:48.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European developers signed 19 PPAs for 630 MW in September",
-      "url": "https://www.pv-magazine.com/2025/10/21/european-developers-signed-19-ppas-for-630-mw-in-september/",
-      "date": "2025-10-21T12:45:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
