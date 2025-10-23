@@ -1,6 +1,20 @@
 {
-  "ts": 1761231673380,
+  "ts": 1761235287321,
   "items": [
+    {
+      "title": "Solar sector corporate funding falls 22% year-over-year",
+      "url": "https://www.pv-magazine.com/2025/10/23/solar-sector-corporate-funding-falls-22-year-over-year/",
+      "date": "2025-10-23T15:26:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian nonprofit launches incubator for mid-scale solar, battery projects",
+      "url": "https://www.pv-magazine.com/2025/10/23/australian-nonprofit-launches-incubator-for-mid-scale-solar-battery-projects/",
+      "date": "2025-10-23T15:15:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Asian solar companies meet France’s carbon rules for reduced residential VAT",
       "url": "https://www.pv-magazine.com/2025/10/23/asian-solar-companies-meet-frances-carbon-rules-for-reduced-residential-vat/",
@@ -240,13 +254,6 @@
       "bucket": "A"
     },
     {
-      "title": "What WTO can still do to regulate global cleantech trade",
-      "url": "https://www.pv-magazine.com/2025/10/22/what-wto-can-still-do-to-regulate-global-cleantech-trade/",
-      "date": "2025-10-22T06:42:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "South Australia launches first capacity tender for 700MW of long-duration energy storage",
       "url": "https://www.energy-storage.news/south-australia-launches-first-capacity-tender-for-700mw-of-long-duration-energy-storage/",
       "date": "2025-10-22T04:22:46.000Z",
@@ -258,13 +265,6 @@
       "url": "https://www.energy-storage.news/ameresco-alliant-energy-begin-operating-record-breaking-bess-projects-in-arizona-wisconsin/",
       "date": "2025-10-21T15:08:31.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Rondo Energy’s 100 MWh heat battery powered by 20 MW of onsite solar",
-      "url": "https://www.pv-magazine.com/2025/10/21/rondo-energys-100-mwh-heat-battery-powered-by-20-mw-of-onsite-solar/",
-      "date": "2025-10-21T14:30:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
