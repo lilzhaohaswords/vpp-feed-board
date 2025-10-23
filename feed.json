@@ -1,6 +1,20 @@
 {
-  "ts": 1761199273392,
+  "ts": 1761202875847,
   "items": [
+    {
+      "title": "Machine learning-based fault detection technique for bifacial PV",
+      "url": "https://www.pv-magazine.com/2025/10/23/machine-learning-based-fault-detection-technique-for-bifacial-pv/",
+      "date": "2025-10-23T07:00:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Key takeaways from SNEC ES+ 2025 in Shanghai",
+      "url": "https://www.pv-magazine.com/2025/10/23/key-takeaways-from-snec-es-2025-in-shanghai/",
+      "date": "2025-10-23T06:30:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "ARENA funds world-first &#8216;inverterless&#8217; battery storage tech from Australian startup Relectrify",
       "url": "https://www.energy-storage.news/arena-funds-world-first-inverterless-battery-storage-tech-from-australian-startup-relectrify/",
@@ -250,20 +264,6 @@
       "title": "Optimizing solar-plus-storage operation for markets with imbalance penalties",
       "url": "https://www.pv-magazine.com/2025/10/21/optimizing-solar-plus-storage-operation-for-markets-with-imbalance-penalties/",
       "date": "2025-10-21T07:26:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Romania drafts cybersecurity rules for PV, cogeneration up to 1 MW",
-      "url": "https://www.pv-magazine.com/2025/10/21/romania-drafts-cybersecurity-rules-for-pv-cogeneration-up-to-1-mw/",
-      "date": "2025-10-21T07:15:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ADB, World Bank commit $12.5 billion to ASEAN Power Grid plan",
-      "url": "https://www.pv-magazine.com/2025/10/21/adb-world-bank-commit-12-5-billion-to-asean-power-grid-plan/",
-      "date": "2025-10-21T06:45:32.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
