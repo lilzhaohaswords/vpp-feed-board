@@ -1,6 +1,20 @@
 {
-  "ts": 1761292887184,
+  "ts": 1761296464094,
   "items": [
+    {
+      "title": "China module prices climb 1.14%, industry awaits polysilicon consolidation plan",
+      "url": "https://www.pv-magazine.com/2025/10/24/china-module-prices-climb-1-14-as-industry-awaits-polysilicon-consolidation-plan/",
+      "date": "2025-10-24T08:30:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Opes Solar Mobility starts VIPV module production",
+      "url": "https://www.pv-magazine.com/2025/10/24/opes-solar-mobility-starts-vipv-module-production/",
+      "date": "2025-10-24T08:15:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Textile integrated organic solar PV canopy provides shade, area lighting",
       "url": "https://www.pv-magazine.com/2025/10/24/textile-integrated-organic-solar-pv-canopy-provides-shade-area-lighting/",
@@ -229,20 +243,6 @@
       "title": "Future-proof or fail: how battery storage projects can thrive in Germany",
       "url": "https://www.pv-magazine.com/2025/10/22/future-proof-or-fail-how-battery-storage-projects-can-thrive-in-germany/",
       "date": "2025-10-22T13:34:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Taiwan to revise environmental impact rules amid floating solar scrutiny",
-      "url": "https://www.pv-magazine.com/2025/10/22/taiwan-to-revise-solar-eia-rules-amid-floating-pv-scrutiny/",
-      "date": "2025-10-22T13:15:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Powerchina completes 200 MW solar project for Enel in Colombia",
-      "url": "https://www.pv-magazine.com/2025/10/22/powerchina-completes-200-mw-solar-project-for-enel-in-colombia/",
-      "date": "2025-10-22T12:00:05.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
