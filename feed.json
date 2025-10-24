@@ -1,6 +1,20 @@
 {
-  "ts": 1761278468057,
+  "ts": 1761282068237,
   "items": [
+    {
+      "title": "RedEarth unveils V2G EV charger",
+      "url": "https://www.pv-magazine.com/2025/10/24/redearth-unveils-v2g-ev-charger/",
+      "date": "2025-10-24T04:16:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Samsung C&#038;T proposes 200MW grid-scale battery storage system in Queensland, Australia",
+      "url": "https://www.energy-storage.news/samsung-ct-proposes-200mw-grid-scale-battery-storage-system-in-queensland-australia/",
+      "date": "2025-10-24T04:01:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Solar sector corporate funding falls 22% year-over-year",
       "url": "https://www.pv-magazine.com/2025/10/23/solar-sector-corporate-funding-falls-22-year-over-year/",
@@ -243,13 +257,6 @@
       "title": "Alsym Energy launches sodium-ion battery line",
       "url": "https://www.pv-magazine.com/2025/10/22/alsym-energy-launches-sodium-ion-battery-line/",
       "date": "2025-10-22T07:34:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Developers secure US solar tax credit by ordering transformers",
-      "url": "https://www.pv-magazine.com/2025/10/22/developers-secure-us-solar-tax-credit-by-ordering-transformers/",
-      "date": "2025-10-22T07:15:34.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "&#8216;NEM-specific battery optimisers&#8217; capture more revenue during the market volatility around AU$20,300/MWh NSW price spike",
       "url": "https://www.energy-storage.news/nem-specific-battery-optimisers-capture-more-revenue-during-au20300-mwh-nsw-price-spike/",
       "date": "2025-10-14T00:23:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Base Power raises US$1 billion for residential energy storage systems",
-      "url": "https://www.energy-storage.news/base-power-raises-us1-billion-for-residential-energy-storage-systems/",
-      "date": "2025-10-13T12:17:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
