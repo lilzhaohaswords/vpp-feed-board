@@ -1,6 +1,27 @@
 {
-  "ts": 1761300068568,
+  "ts": 1761303661214,
   "items": [
+    {
+      "title": "US battery materials and BESS firm Redwood raises US$350 million Series E",
+      "url": "https://www.energy-storage.news/us-battery-materials-and-bess-firm-redwood-raises-us350-million-series-e/",
+      "date": "2025-10-24T10:56:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "California utility renegotiates purchase agreement with RWE for 476MWh BESS after regulator rejects initial proposal",
+      "url": "https://www.energy-storage.news/california-utility-renegotiates-purchase-agreement-with-rwe-for-476mwh-bess-after-regulator-rejects-initial-proposal/",
+      "date": "2025-10-24T10:48:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "East and Southeast Asia&#8217;s solar pattern flips as La Niña develops",
+      "url": "https://www.pv-magazine.com/2025/10/24/east-and-southeast-asias-solar-pattern-flips-as-la-nina-develops/",
+      "date": "2025-10-24T10:15:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Price falls have enabled ‘zero-capex’ co-located BESS business model in Spain, company says",
       "url": "https://www.energy-storage.news/price-falls-have-enabled-zero-capex-co-located-bess-business-model-in-spain-company-says/",
@@ -244,13 +265,6 @@
       "url": "https://www.energy-storage.news/us-battery-storage-financing-has-become-more-challenging/",
       "date": "2025-10-22T14:08:45.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy storage could cut Brazil’s electricity system costs 16% in 2029",
-      "url": "https://www.pv-magazine.com/2025/10/22/energy-storage-could-cut-brazils-electricity-system-costs-16-in-2029/",
-      "date": "2025-10-22T14:00:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Eolian secures US$463 million for 1.7GWh Texas BESS complex",
       "url": "https://www.energy-storage.news/eolian-secures-us463-million-for-1-7gwh-texas-bess-complex/",
       "date": "2025-10-14T13:13:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany BESS platform Terra One: &#8216;The delta between merchant and tolling is big&#8217;",
-      "url": "https://www.energy-storage.news/germany-bess-platform-terra-one-the-delta-between-merchant-and-tolling-is-big/",
-      "date": "2025-10-14T11:21:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Kyoto Group’s 56MWh thermal energy storage system replaces natural gas at corn processing plant in Hungary",
-      "url": "https://www.energy-storage.news/kyoto-groups-56mwh-thermal-energy-storage-system-replaces-natural-gas-at-corn-processing-plant-in-hungary/",
-      "date": "2025-10-14T10:16:09.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
