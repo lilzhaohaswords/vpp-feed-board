@@ -1,6 +1,27 @@
 {
-  "ts": 1761285672480,
+  "ts": 1761289279578,
   "items": [
+    {
+      "title": "PV-driven desalination system for brackish water",
+      "url": "https://www.pv-magazine.com/2025/10/24/pv-driven-desalination-system-for-brackish-water/",
+      "date": "2025-10-24T07:00:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Colombia funds solar program for low-income homes with $2.1 billion",
+      "url": "https://www.pv-magazine.com/2025/10/24/colombia-funds-solar-program-for-low-income-homes/",
+      "date": "2025-10-24T06:45:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Demystifying the BESS metrics that matter most, from SoC and SoH to cell imbalance and RTE",
+      "url": "https://www.energy-storage.news/video-demystifying-the-bess-metrics-that-matter-most-from-soc-and-soh-to-cell-imbalance-and-rte/",
+      "date": "2025-10-24T06:29:11.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "EVE showcases 836 kWh split-unit storage, eyes overseas expansion",
       "url": "https://www.pv-magazine.com/2025/10/24/eve-showcases-836-kwh-split-unit-storage-eyes-overseas-expansion/",
@@ -243,20 +264,6 @@
       "title": "Philippines raises FIT levy for renewable payments",
       "url": "https://www.pv-magazine.com/2025/10/22/philippines-raises-fit-levy-for-renewable-payments/",
       "date": "2025-10-22T09:15:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian-made solar microgrid system enters US market",
-      "url": "https://www.pv-magazine.com/2025/10/22/australian-made-solar-microgrid-system-enters-us-market/",
-      "date": "2025-10-22T08:45:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Engie India eyes 7 GW of hybrid and storage-backed renewables by 2030",
-      "url": "https://www.pv-magazine.com/2025/10/22/engie-india-eyes-7-gw-of-hybrid-and-storage-backed-renewables-by-2030/",
-      "date": "2025-10-22T08:00:11.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Epic Energy brings 200MWh Mannum battery storage system online in South Australia",
       "url": "https://www.energy-storage.news/epic-energy-brings-200mwh-mannum-battery-storage-system-online-in-south-australia/",
       "date": "2025-10-14T00:26:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;NEM-specific battery optimisers&#8217; capture more revenue during the market volatility around AU$20,300/MWh NSW price spike",
-      "url": "https://www.energy-storage.news/nem-specific-battery-optimisers-capture-more-revenue-during-au20300-mwh-nsw-price-spike/",
-      "date": "2025-10-14T00:23:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
