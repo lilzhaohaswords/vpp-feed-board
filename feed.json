@@ -1,6 +1,27 @@
 {
-  "ts": 1761296464094,
+  "ts": 1761300068568,
   "items": [
+    {
+      "title": "Price falls have enabled ‘zero-capex’ co-located BESS business model in Spain, company says",
+      "url": "https://www.energy-storage.news/price-falls-have-enabled-zero-capex-co-located-bess-business-model-in-spain-company-says/",
+      "date": "2025-10-24T09:54:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Solar modules could be produced in Europe at €0.15/W&#8217;",
+      "url": "https://www.pv-magazine.com/2025/10/24/solar-modules-could-be-produced-in-europe-at-e0-15-w/",
+      "date": "2025-10-24T09:35:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "South Korean government investment in US BESS developer ‘reflects shared commitment to reliable, affordable power’",
+      "url": "https://www.energy-storage.news/south-korean-government-investment-in-us-bess-developer-reflects-shared-commitment-to-reliable-affordable-power/",
+      "date": "2025-10-24T09:06:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "China module prices climb 1.14%, industry awaits polysilicon consolidation plan",
       "url": "https://www.pv-magazine.com/2025/10/24/china-module-prices-climb-1-14-as-industry-awaits-polysilicon-consolidation-plan/",
@@ -237,13 +258,6 @@
       "url": "https://www.energy-storage.news/recurrent-energy-secures-us825-million-financing-for-arizona-bess-and-solar-projects/",
       "date": "2025-10-22T13:39:18.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Future-proof or fail: how battery storage projects can thrive in Germany",
-      "url": "https://www.pv-magazine.com/2025/10/22/future-proof-or-fail-how-battery-storage-projects-can-thrive-in-germany/",
-      "date": "2025-10-22T13:34:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Kyoto Group’s 56MWh thermal energy storage system replaces natural gas at corn processing plant in Hungary",
       "url": "https://www.energy-storage.news/kyoto-groups-56mwh-thermal-energy-storage-system-replaces-natural-gas-at-corn-processing-plant-in-hungary/",
       "date": "2025-10-14T10:16:09.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chile: Grenergy breaks ground on newest solar-plus-storage hybrid in 1.1GW/3.8GWh portfolio",
-      "url": "https://www.energy-storage.news/chile-grenergy-breaks-ground-on-newest-solar-plus-storage-hybrid-in-1-1gw-3-8gwh-portfolio/",
-      "date": "2025-10-14T09:37:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Epic Energy brings 200MWh Mannum battery storage system online in South Australia",
-      "url": "https://www.energy-storage.news/epic-energy-brings-200mwh-mannum-battery-storage-system-online-in-south-australia/",
-      "date": "2025-10-14T00:26:24.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
