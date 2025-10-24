@@ -1,6 +1,20 @@
 {
-  "ts": 1761307272128,
+  "ts": 1761312156188,
   "items": [
+    {
+      "title": "Building an equitable energy transition: Insights from IRENA’s 2025 Gender Report",
+      "url": "https://www.pv-magazine.com/2025/10/24/building-an-equitable-energy-transition-insights-from-irenas-2025-gender-report/",
+      "date": "2025-10-24T13:00:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Wood Mackenzie records solar LCOE of $37/MWh in MENA region",
+      "url": "https://www.pv-magazine.com/2025/10/24/wood-mackenzie-records-solar-lcoe-of-37-mwh-in-mena-region/",
+      "date": "2025-10-24T12:30:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "South Korea to introduce rules for agrivoltaics",
       "url": "https://www.pv-magazine.com/2025/10/24/south-korea-to-introduce-rules-for-agrivoltaics/",
@@ -236,20 +250,6 @@
       "title": "RatedPower enhances solar plant design platform with 3D simulation capabilities",
       "url": "https://www.pv-magazine.com/2025/10/23/ratedpower-enhances-solar-plant-design-platform-with-3d-simulation-capabilities/",
       "date": "2025-10-23T08:30:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Machine learning-based fault detection technique for bifacial PV",
-      "url": "https://www.pv-magazine.com/2025/10/23/machine-learning-based-fault-detection-technique-for-bifacial-pv/",
-      "date": "2025-10-23T07:00:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Key takeaways from SNEC ES+ 2025 in Shanghai",
-      "url": "https://www.pv-magazine.com/2025/10/23/key-takeaways-from-snec-es-2025-in-shanghai/",
-      "date": "2025-10-23T06:30:16.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
