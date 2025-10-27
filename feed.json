@@ -1,6 +1,20 @@
 {
-  "ts": 1761538713395,
+  "ts": 1761541258647,
   "items": [
+    {
+      "title": "&#8216;Significantly more complex than expected&#8217;: Redearth&#8217;s Australian vehicle-to-grid launch",
+      "url": "https://www.energy-storage.news/significantly-more-complex-than-expected-redearths-australian-vehicle-to-grid-launch/",
+      "date": "2025-10-27T04:54:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia&#8217;s Cheaper Home Batteries Program reaches 2GWh of storage capacity",
+      "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-reaches-2gwh-of-storage-capacity/",
+      "date": "2025-10-27T04:41:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Woodside nears completion of Beaumont ammonia project",
       "url": "https://www.pv-magazine.com/2025/10/24/the-hydrogen-stream-woodside-progresses-with-its-ammonia-and-hydrogen-projects-in-texas-and-western-australia/",
@@ -509,20 +523,6 @@
       "title": "Chile to hit 2030 energy storage target early, Argentina entices investors: Energy Storage Summit Latin America Day 1",
       "url": "https://www.energy-storage.news/chile-to-hit-2030-energy-storage-target-early-argentina-entices-investors-energy-storage-summit-latin-america-day-1/",
       "date": "2025-10-15T09:21:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CleanCo Queensland&#8217;s 500MWh Tesla Megapack BESS at former coal site enters commissioning in Australia",
-      "url": "https://www.energy-storage.news/cleanco-queenslands-500mwh-tesla-megapack-bess-at-former-coal-site-enters-commissioning-in-australia/",
-      "date": "2025-10-15T03:14:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "PJM area faces urgent energy storage need, US Energy Storage Coalition reports",
-      "url": "https://www.energy-storage.news/pjm-area-faces-urgent-energy-storage-need-us-energy-storage-coalition-reports/",
-      "date": "2025-10-14T13:15:31.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
