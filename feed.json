@@ -1,6 +1,13 @@
 {
-  "ts": 1761555677604,
+  "ts": 1761559263455,
   "items": [
+    {
+      "title": "New Zealand introduces building consent exemption for rooftop solar",
+      "url": "https://www.pv-magazine.com/2025/10/27/new-zealand-introduces-building-consent-exemption-for-rooftop-solar/",
+      "date": "2025-10-27T09:15:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Saft wins 356MWh battery storage project contract in Taiwan with Foxlink Group company",
       "url": "https://www.energy-storage.news/saft-wins-356mwh-battery-storage-project-contract-in-taiwan-with-foxlink-group-company/",
@@ -236,13 +243,6 @@
       "title": "Australian nonprofit launches incubator for mid-scale solar, battery projects",
       "url": "https://www.pv-magazine.com/2025/10/23/australian-nonprofit-launches-incubator-for-mid-scale-solar-battery-projects/",
       "date": "2025-10-23T15:15:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Asian solar companies meet France’s carbon rules for reduced residential VAT",
-      "url": "https://www.pv-magazine.com/2025/10/23/asian-solar-companies-meet-frances-carbon-rules-for-reduced-residential-vat/",
-      "date": "2025-10-23T14:45:38.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
