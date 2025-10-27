@@ -1,6 +1,27 @@
 {
-  "ts": 1761559263455,
+  "ts": 1761562862874,
   "items": [
+    {
+      "title": "Voltec Solar unveils hail-resistant PV module",
+      "url": "https://www.pv-magazine.com/2025/10/27/voltec-solar-unveils-hail-resistant-pv-module/",
+      "date": "2025-10-27T10:30:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UAE: Masdar begins work on &#8216;world-largest&#8217; solar-plus-storage project with 19GWh BESS",
+      "url": "https://www.energy-storage.news/uae-masdar-world-largest-solar-plus-storage-19gwh-bess/",
+      "date": "2025-10-27T10:29:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Tennet to grant grid access to 6 GW of Dutch battery projects",
+      "url": "https://www.pv-magazine.com/2025/10/27/dutch-tennet-to-grant-grid-access-to-6-gw-of-battery-projects/",
+      "date": "2025-10-27T10:00:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "New Zealand introduces building consent exemption for rooftop solar",
       "url": "https://www.pv-magazine.com/2025/10/27/new-zealand-introduces-building-consent-exemption-for-rooftop-solar/",
@@ -230,20 +251,6 @@
       "url": "https://www.energy-storage.news/samsung-ct-proposes-200mw-grid-scale-battery-storage-system-in-queensland-australia/",
       "date": "2025-10-24T04:01:48.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar sector corporate funding falls 22% year-over-year",
-      "url": "https://www.pv-magazine.com/2025/10/23/solar-sector-corporate-funding-falls-22-year-over-year/",
-      "date": "2025-10-23T15:26:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian nonprofit launches incubator for mid-scale solar, battery projects",
-      "url": "https://www.pv-magazine.com/2025/10/23/australian-nonprofit-launches-incubator-for-mid-scale-solar-battery-projects/",
-      "date": "2025-10-23T15:15:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "BESS projects totalling over 1.5GWh progress in Bulgaria, Romania, Finland and Greece",
       "url": "https://www.energy-storage.news/bess-projects-totalling-over-1-5gwh-progress-in-bulgaria-romania-finland-and-greece/",
       "date": "2025-10-15T10:08:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SINEXCEL&#8217;s Silicon Carbide Edge: A Decade of US Market Experience Meets Next-Generation Power Electronics",
-      "url": "https://www.energy-storage.news/sinexcel-silicon-carbide-edge-a-decade-of-us-market-experience-meets-next-generation-power-electronics/",
-      "date": "2025-10-15T09:33:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
