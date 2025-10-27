@@ -1,6 +1,13 @@
 {
-  "ts": 1761562862874,
+  "ts": 1761566470627,
   "items": [
+    {
+      "title": "Europe moves to 15-minute electricity spot market, driving up battery revenue",
+      "url": "https://www.pv-magazine.com/2025/10/27/europe-moves-to-15-minute-electricity-spot-market-driving-up-battery-revenue/",
+      "date": "2025-10-27T11:38:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Voltec Solar unveils hail-resistant PV module",
       "url": "https://www.pv-magazine.com/2025/10/27/voltec-solar-unveils-hail-resistant-pv-module/",
@@ -236,13 +243,6 @@
       "title": "EVE showcases 836 kWh split-unit storage, eyes overseas expansion",
       "url": "https://www.pv-magazine.com/2025/10/24/eve-showcases-836-kwh-split-unit-storage-eyes-overseas-expansion/",
       "date": "2025-10-24T05:24:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "RedEarth unveils V2G EV charger",
-      "url": "https://www.pv-magazine.com/2025/10/24/redearth-unveils-v2g-ev-charger/",
-      "date": "2025-10-24T04:16:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
