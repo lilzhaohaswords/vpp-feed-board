@@ -1,6 +1,20 @@
 {
-  "ts": 1761552074296,
+  "ts": 1761555677604,
   "items": [
+    {
+      "title": "Saft wins 356MWh battery storage project contract in Taiwan with Foxlink Group company",
+      "url": "https://www.energy-storage.news/saft-wins-356mwh-battery-storage-project-contract-in-taiwan-with-foxlink-group-company/",
+      "date": "2025-10-27T08:54:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Premier Energies buys majority stake in Transcon to enter transformer market",
+      "url": "https://www.pv-magazine.com/2025/10/27/premier-energies-buys-majority-stake-in-transcon-to-enter-transformer-market/",
+      "date": "2025-10-27T08:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "AI platform aims to transform solar site assessment",
       "url": "https://www.pv-magazine.com/2025/10/27/ai-platform-aims-to-transform-solar-site-assessment/",
@@ -229,13 +243,6 @@
       "title": "Asian solar companies meet France’s carbon rules for reduced residential VAT",
       "url": "https://www.pv-magazine.com/2025/10/23/asian-solar-companies-meet-frances-carbon-rules-for-reduced-residential-vat/",
       "date": "2025-10-23T14:45:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US clean energy loses $24 billion, 21,000 jobs through September",
-      "url": "https://www.pv-magazine.com/2025/10/23/us-clean-energy-loses-24-billion-21000-jobs-through-september/",
-      "date": "2025-10-23T12:15:40.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "SINEXCEL&#8217;s Silicon Carbide Edge: A Decade of US Market Experience Meets Next-Generation Power Electronics",
       "url": "https://www.energy-storage.news/sinexcel-silicon-carbide-edge-a-decade-of-us-market-experience-meets-next-generation-power-electronics/",
       "date": "2025-10-15T09:33:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chile to hit 2030 energy storage target early, Argentina entices investors: Energy Storage Summit Latin America Day 1",
-      "url": "https://www.energy-storage.news/chile-to-hit-2030-energy-storage-target-early-argentina-entices-investors-energy-storage-summit-latin-america-day-1/",
-      "date": "2025-10-15T09:21:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
