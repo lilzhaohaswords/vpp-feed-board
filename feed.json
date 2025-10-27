@@ -1,6 +1,13 @@
 {
-  "ts": 1761566470627,
+  "ts": 1761571426341,
   "items": [
+    {
+      "title": "Australia’s SolarCloud opens rooftop solar access to renters, flats",
+      "url": "https://www.pv-magazine.com/2025/10/27/australias-solarcloud-opens-rooftop-solar-access-to-renters-flats/",
+      "date": "2025-10-27T13:00:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Europe moves to 15-minute electricity spot market, driving up battery revenue",
       "url": "https://www.pv-magazine.com/2025/10/27/europe-moves-to-15-minute-electricity-spot-market-driving-up-battery-revenue/",
@@ -237,13 +244,6 @@
       "url": "https://www.energy-storage.news/video-demystifying-the-bess-metrics-that-matter-most-from-soc-and-soh-to-cell-imbalance-and-rte/",
       "date": "2025-10-24T06:29:11.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EVE showcases 836 kWh split-unit storage, eyes overseas expansion",
-      "url": "https://www.pv-magazine.com/2025/10/24/eve-showcases-836-kwh-split-unit-storage-eyes-overseas-expansion/",
-      "date": "2025-10-24T05:24:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
