@@ -1,6 +1,13 @@
 {
-  "ts": 1761627664241,
+  "ts": 1761631259005,
   "items": [
+    {
+      "title": "Toyota developing two-seater electric vehicle with solar roof",
+      "url": "https://www.pv-magazine.com/2025/10/28/uk-team-developing-tinyvipv/",
+      "date": "2025-10-28T06:00:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia: Energy storage comprises 26.1GW of AEMO&#8217;s record 56.6GW NEM project pipeline",
       "url": "https://www.energy-storage.news/australia-energy-storage-comprises-26-1gw-of-aemos-record-56-6gw-nem-project-pipeline/",
@@ -100,6 +107,13 @@
       "bucket": "A"
     },
     {
+      "title": "Key takeaways from Perovskite Connect 2025",
+      "url": "https://www.pv-magazine.com/2025/10/27/key-takeaways-from-perovskite-connect-2025/",
+      "date": "2025-10-27T08:30:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
       "title": "Premier Energies buys majority stake in Transcon to enter transformer market",
       "url": "https://www.pv-magazine.com/2025/10/27/premier-energies-buys-majority-stake-in-transcon-to-enter-transformer-market/",
       "date": "2025-10-27T08:30:00.000Z",
@@ -110,6 +124,13 @@
       "title": "AI platform aims to transform solar site assessment",
       "url": "https://www.pv-magazine.com/2025/10/27/ai-platform-aims-to-transform-solar-site-assessment/",
       "date": "2025-10-27T07:45:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hybrid PPA model improves PV-BESS bankability, say researchers",
+      "url": "https://www.pv-magazine.com/2025/10/27/hybrid-ppa-model-improves-pv-bess-bankability-say-researchers/",
+      "date": "2025-10-27T07:45:35.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -226,31 +247,10 @@
       "bucket": "A"
     },
     {
-      "title": "&#8216;Solar modules could be produced in Europe at €0.15/W&#8217;",
-      "url": "https://www.pv-magazine.com/2025/10/24/solar-modules-could-be-produced-in-europe-at-e0-15-w/",
-      "date": "2025-10-24T09:35:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "South Korean government investment in US BESS developer ‘reflects shared commitment to reliable, affordable power’",
       "url": "https://www.energy-storage.news/south-korean-government-investment-in-us-bess-developer-reflects-shared-commitment-to-reliable-affordable-power/",
       "date": "2025-10-24T09:06:23.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China module prices climb 1.14%, industry awaits polysilicon consolidation plan",
-      "url": "https://www.pv-magazine.com/2025/10/24/china-module-prices-climb-1-14-as-industry-awaits-polysilicon-consolidation-plan/",
-      "date": "2025-10-24T08:30:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Opes Solar Mobility starts VIPV module production",
-      "url": "https://www.pv-magazine.com/2025/10/24/opes-solar-mobility-starts-vipv-module-production/",
-      "date": "2025-10-24T08:15:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
