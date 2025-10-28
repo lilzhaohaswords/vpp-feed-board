@@ -1,6 +1,20 @@
 {
-  "ts": 1761624070066,
+  "ts": 1761627664241,
   "items": [
+    {
+      "title": "Australia: Energy storage comprises 26.1GW of AEMO&#8217;s record 56.6GW NEM project pipeline",
+      "url": "https://www.energy-storage.news/australia-energy-storage-comprises-26-1gw-of-aemos-record-56-6gw-nem-project-pipeline/",
+      "date": "2025-10-28T04:40:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Wärtsilä to deliver ‘Australia&#8217;s largest DC-coupled hybrid battery system’ for the NEM",
+      "url": "https://www.energy-storage.news/wartsila-to-deliver-australias-largest-dc-coupled-hybrid-battery-system-for-the-nem/",
+      "date": "2025-10-28T04:38:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Spain provisionally awards €839 million to 11 GWh of energy storage projects",
       "url": "https://www.pv-magazine.com/2025/10/27/spain-provisionally-awards-e839-million-to-11-gwh-of-energy-storage-projects/",
@@ -509,20 +523,6 @@
       "title": "Long-term risk, KPIs and the value of developers and optimisers in BESS asset management",
       "url": "https://www.energy-storage.news/long-term-risk-kpis-and-the-value-of-developers-and-optimisers-in-bess-asset-management/",
       "date": "2025-10-15T13:27:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US energy storage industry sees data centre load growth as bridge to low-carbon energy transition",
-      "url": "https://www.energy-storage.news/us-energy-storage-industry-sees-data-centre-load-growth-as-bridge-to-low-carbon-energy-transition/",
-      "date": "2025-10-15T11:59:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BESS projects totalling over 1.5GWh progress in Bulgaria, Romania, Finland and Greece",
-      "url": "https://www.energy-storage.news/bess-projects-totalling-over-1-5gwh-progress-in-bulgaria-romania-finland-and-greece/",
-      "date": "2025-10-15T10:08:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
