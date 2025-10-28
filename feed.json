@@ -1,6 +1,20 @@
 {
-  "ts": 1761642078859,
+  "ts": 1761645662656,
   "items": [
+    {
+      "title": "Singapore, China to supply solar-plus-storage power from Indonesia",
+      "url": "https://www.pv-magazine.com/2025/10/28/singapore-china-to-supply-solar-plus-storage-power-from-indonesia/",
+      "date": "2025-10-28T09:56:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s clean energy pipeline grows 24% to 56.6 GW",
+      "url": "https://www.pv-magazine.com/2025/10/28/australias-clean-energy-pipeline-grows-24-to-56-6-gw/",
+      "date": "2025-10-28T09:15:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Singapore: 670MW ‘hydrogen-ready’ CCGT with integrated battery storage, inertia trial at Southeast Asia’s biggest BESS",
       "url": "https://www.energy-storage.news/singapore-670mw-hydrogen-ready-ccgt-with-integrated-battery-storage-inertia-trial-at-southeast-asias-biggest-bess/",
@@ -219,13 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "South Korea to introduce rules for agrivoltaics",
-      "url": "https://www.pv-magazine.com/2025/10/24/south-korea-to-introduce-rules-for-agrivoltaics/",
-      "date": "2025-10-24T11:40:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US battery materials and BESS firm Redwood raises US$350 million Series E",
       "url": "https://www.energy-storage.news/us-battery-materials-and-bess-firm-redwood-raises-us350-million-series-e/",
       "date": "2025-10-24T10:56:00.000Z",
@@ -237,13 +244,6 @@
       "url": "https://www.energy-storage.news/california-utility-renegotiates-purchase-agreement-with-rwe-for-476mwh-bess-after-regulator-rejects-initial-proposal/",
       "date": "2025-10-24T10:48:02.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "East and Southeast Asia&#8217;s solar pattern flips as La Niña develops",
-      "url": "https://www.pv-magazine.com/2025/10/24/east-and-southeast-asias-solar-pattern-flips-as-la-nina-develops/",
-      "date": "2025-10-24T10:15:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
