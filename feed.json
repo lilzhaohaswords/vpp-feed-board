@@ -1,6 +1,13 @@
 {
-  "ts": 1761634857891,
+  "ts": 1761638471614,
   "items": [
+    {
+      "title": "Singapore: 670MW ‘hydrogen-ready’ CCGT with integrated battery storage, inertia trial at Southeast Asia’s biggest BESS",
+      "url": "https://www.energy-storage.news/singapore-670mw-hydrogen-ready-ccgt-with-integrated-battery-storage-inertia-trial-at-southeast-asias-biggest-bess/",
+      "date": "2025-10-28T07:47:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Toyota developing two-seater electric vehicle with solar roof",
       "url": "https://www.pv-magazine.com/2025/10/28/uk-team-developing-tinyvipv/",
@@ -516,13 +523,6 @@
       "title": "US ROUNDUP: ESS Inc LDES pilot, investments in Energy Vault, NineDot",
       "url": "https://www.energy-storage.news/us-roundup-ess-inc-ldes-pilot-investments-in-energy-vault-ninedot/",
       "date": "2025-10-15T14:04:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Long-term risk, KPIs and the value of developers and optimisers in BESS asset management",
-      "url": "https://www.energy-storage.news/long-term-risk-kpis-and-the-value-of-developers-and-optimisers-in-bess-asset-management/",
-      "date": "2025-10-15T13:27:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
