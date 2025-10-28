@@ -1,6 +1,34 @@
 {
-  "ts": 1761652873462,
+  "ts": 1761657763980,
   "items": [
+    {
+      "title": "Driving change: Volvo Penta’s battery systems for BESS applications in construction",
+      "url": "https://www.energy-storage.news/driving-change-volvo-pentas-battery-systems-for-bess-applications-in-construction/",
+      "date": "2025-10-28T13:00:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ampt tech to power solar-plus-storage system for Australian hydrogen plant",
+      "url": "https://www.pv-magazine.com/2025/10/28/ampt-to-provide-dc-optimizing-solar-plus-storage-for-australian-green-hydrogen-project/",
+      "date": "2025-10-28T13:00:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Terna is the big winner&#8217;: Taking stock of Italy&#8217;s MACSE auction",
+      "url": "https://www.energy-storage.news/terna-is-the-big-winner-taking-stock-of-italys-macse-auction/",
+      "date": "2025-10-28T12:50:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Saudi Arabia awards 3 GW of solar in sixth renewables tender round",
+      "url": "https://www.pv-magazine.com/2025/10/28/saudi-arabia-awards-3-gw-of-solar-in-sixth-renewables-tender-round/",
+      "date": "2025-10-28T12:30:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "OMC Power, Honda partner on repurposed EV battery storage in India",
       "url": "https://www.pv-magazine.com/2025/10/28/omc-power-honda-partner-on-repurposed-ev-battery-storage-in-india/",
@@ -194,20 +222,6 @@
       "title": "PV power generation forecast technique for solar plants with missing data",
       "url": "https://www.pv-magazine.com/2025/10/27/pv-power-generation-forecast-technique-for-solar-plants-with-missing-data/",
       "date": "2025-10-27T06:34:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Nissan presents mini electric vehicle with expandable solar roof",
-      "url": "https://www.pv-magazine.com/2025/10/27/nissan-presents-mini-electric-vehicle-with-expandable-solar-roof/",
-      "date": "2025-10-27T06:22:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "3D solar tower increases capacity factor 50%, triples solar surface area",
-      "url": "https://www.pv-magazine.com/2025/10/27/3d-solar-tower-increases-capacity-factor-50-triples-solar-surface-area/",
-      "date": "2025-10-27T06:00:36.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Octopus Australia acquires 400MWh Coleambally battery project in New South Wales",
       "url": "https://www.energy-storage.news/octopus-australia-acquires-400mwh-coleambally-battery-project-in-new-south-wales/",
       "date": "2025-10-16T03:09:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Spanish utility Iberdrola acquires 1GWh Tungkillo battery storage project in South Australia",
-      "url": "https://www.energy-storage.news/spanish-utility-iberdrola-acquires-1gwh-tungkillo-battery-storage-project-in-south-australia/",
-      "date": "2025-10-16T02:55:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US ROUNDUP: ESS Inc LDES pilot, investments in Energy Vault, NineDot",
-      "url": "https://www.energy-storage.news/us-roundup-ess-inc-ldes-pilot-investments-in-energy-vault-ninedot/",
-      "date": "2025-10-15T14:04:28.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
