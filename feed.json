@@ -1,6 +1,20 @@
 {
-  "ts": 1761657763980,
+  "ts": 1761660071684,
   "items": [
+    {
+      "title": "Algeria proposes reduced customs duty rate on solar panel components",
+      "url": "https://www.pv-magazine.com/2025/10/28/algeria-proposes-reduced-customs-duty-rate-on-solar-panel-components/",
+      "date": "2025-10-28T13:30:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Zinc battery storage startup Eos to invest US$353 million in manufacturing and HQ move to Pennsylvania",
+      "url": "https://www.energy-storage.news/zinc-battery-storage-startup-eos-to-invest-us353-million-in-manufacturing-and-hq-move-to-pennsylvania/",
+      "date": "2025-10-28T13:23:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Driving change: Volvo Penta’s battery systems for BESS applications in construction",
       "url": "https://www.energy-storage.news/driving-change-volvo-pentas-battery-systems-for-bess-applications-in-construction/",
@@ -215,13 +229,6 @@
       "title": "Hybrid PPA model improves PV-BESS bankability, say researchers",
       "url": "https://www.pv-magazine.com/2025/10/27/hybrid-ppa-model-improves-pv-bess-bankability-say-researchers/",
       "date": "2025-10-27T07:45:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "PV power generation forecast technique for solar plants with missing data",
-      "url": "https://www.pv-magazine.com/2025/10/27/pv-power-generation-forecast-technique-for-solar-plants-with-missing-data/",
-      "date": "2025-10-27T06:34:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "State government, project partners inaugurate Germany’s first utility-scale grid-forming BESS",
       "url": "https://www.energy-storage.news/state-government-project-partners-inaugurate-germanys-first-utility-scale-grid-forming-bess/",
       "date": "2025-10-16T11:28:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Octopus Australia acquires 400MWh Coleambally battery project in New South Wales",
-      "url": "https://www.energy-storage.news/octopus-australia-acquires-400mwh-coleambally-battery-project-in-new-south-wales/",
-      "date": "2025-10-16T03:09:36.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
