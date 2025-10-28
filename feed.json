@@ -1,6 +1,13 @@
 {
-  "ts": 1761667273995,
+  "ts": 1761671296931,
   "items": [
+    {
+      "title": "US Army tests Swift Solar perovskite tech in deployable microgrid",
+      "url": "https://www.pv-magazine.com/2025/10/28/us-army-tests-swift-solar-perovskite-tech-in-deployable-microgrid/",
+      "date": "2025-10-28T16:15:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Enphase announces complete off-grid solar-storage system",
       "url": "https://www.pv-magazine.com/2025/10/28/enphase-announces-complete-off-grid-solar-storage-system/",
@@ -222,13 +229,6 @@
       "title": "Tennet to grant grid access to 6 GW of Dutch battery projects",
       "url": "https://www.pv-magazine.com/2025/10/27/dutch-tennet-to-grant-grid-access-to-6-gw-of-battery-projects/",
       "date": "2025-10-27T10:00:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New Zealand introduces building consent exemption for rooftop solar",
-      "url": "https://www.pv-magazine.com/2025/10/27/new-zealand-introduces-building-consent-exemption-for-rooftop-solar/",
-      "date": "2025-10-27T09:15:15.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
