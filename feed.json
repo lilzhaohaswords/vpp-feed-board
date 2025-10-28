@@ -1,6 +1,27 @@
 {
-  "ts": 1761660071684,
+  "ts": 1761663671840,
   "items": [
+    {
+      "title": "Eswatini runs solar-plus-battery minigrid tender",
+      "url": "https://www.pv-magazine.com/2025/10/28/eswatini-runs-solar-plus-battery-minigrid-tender/",
+      "date": "2025-10-28T14:30:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tesla reports record energy storage deployments and profit ahead of vote on Musk’s monster pay proposal",
+      "url": "https://www.energy-storage.news/tesla-reports-record-energy-storage-deployments-and-profit-ahead-of-vote-on-musks-monster-pay-proposal/",
+      "date": "2025-10-28T14:17:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Envision launches modular BESS platform based on 750+ Ah cell",
+      "url": "https://www.pv-magazine.com/2025/10/28/envision-launches-modular-bess-platform-based-on-750-ah-cell/",
+      "date": "2025-10-28T14:00:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Algeria proposes reduced customs duty rate on solar panel components",
       "url": "https://www.pv-magazine.com/2025/10/28/algeria-proposes-reduced-customs-duty-rate-on-solar-panel-components/",
@@ -215,20 +236,6 @@
       "title": "Premier Energies buys majority stake in Transcon to enter transformer market",
       "url": "https://www.pv-magazine.com/2025/10/27/premier-energies-buys-majority-stake-in-transcon-to-enter-transformer-market/",
       "date": "2025-10-27T08:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "AI platform aims to transform solar site assessment",
-      "url": "https://www.pv-magazine.com/2025/10/27/ai-platform-aims-to-transform-solar-site-assessment/",
-      "date": "2025-10-27T07:45:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hybrid PPA model improves PV-BESS bankability, say researchers",
-      "url": "https://www.pv-magazine.com/2025/10/27/hybrid-ppa-model-improves-pv-bess-bankability-say-researchers/",
-      "date": "2025-10-27T07:45:35.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Chile to reach 2050 energy storage target within next two years, says energy minister",
       "url": "https://www.energy-storage.news/chile-to-reach-2050-energy-storage-target-within-next-two-years-says-energy-minister/",
       "date": "2025-10-16T11:31:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "State government, project partners inaugurate Germany’s first utility-scale grid-forming BESS",
-      "url": "https://www.energy-storage.news/state-government-project-partners-inaugurate-germanys-first-utility-scale-grid-forming-bess/",
-      "date": "2025-10-16T11:28:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
