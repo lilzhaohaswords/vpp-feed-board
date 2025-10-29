@@ -1,6 +1,27 @@
 {
-  "ts": 1761721246340,
+  "ts": 1761724863313,
   "items": [
+    {
+      "title": "India coal power may peak by 2030 under clean energy targets",
+      "url": "https://www.pv-magazine.com/2025/10/29/india-coal-power-may-peak-by-2030-under-clean-energy-targets/",
+      "date": "2025-10-29T07:30:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SMA system integrator subsidiary Altenso enters Australian market with two BESS projects",
+      "url": "https://www.energy-storage.news/sma-system-integrator-subsidiary-altenso-enters-australian-market-with-two-bess-projects/",
+      "date": "2025-10-29T07:26:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Japanese manufacturer launches dual-fuel commercial rooftop heat pump",
+      "url": "https://www.pv-magazine.com/2025/10/29/japanese-manufacturer-launches-dual-fuel-commercial-rooftop-heat-pump/",
+      "date": "2025-10-29T07:15:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "New model aims to cut risk in early-stage renewable projects",
       "url": "https://www.pv-magazine.com/2025/10/29/new-model-aims-to-cut-risk-in-early-stage-renewable-projects/",
@@ -222,20 +243,6 @@
       "title": "Baxi unveils high-temperature air source heat pumps",
       "url": "https://www.pv-magazine.com/2025/10/27/baxi-unveils-high-temperature-air-source-heat-pumps-in-uk/",
       "date": "2025-10-27T16:00:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Nigeria, Longi sign deal to build solar panel factory",
-      "url": "https://www.pv-magazine.com/2025/10/27/nigeria-longi-sign-deal-for-solar-panel-factory/",
-      "date": "2025-10-27T15:15:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Jordan opens solar tender for public hospitals",
-      "url": "https://www.pv-magazine.com/2025/10/27/jordan-opens-solar-systems-tender-for-public-hospitals/",
-      "date": "2025-10-27T14:30:53.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "SB Energy receives CEC grant to purchase Fluence batteries for portion of 1.6GWh Riverside County BESS",
       "url": "https://www.energy-storage.news/sb-energy-receives-cec-grant-to-purchase-fluence-batteries-for-portion-of-1-6gwh-riverside-county-bess/",
       "date": "2025-10-16T14:01:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fluence supplies US-made BESS solution to 640MWh project in Arizona",
-      "url": "https://www.energy-storage.news/fluence-supplies-us-made-bess-solution-to-640mwh-project-in-arizona/",
-      "date": "2025-10-16T13:41:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
