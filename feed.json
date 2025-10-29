@@ -1,6 +1,20 @@
 {
-  "ts": 1761735677926,
+  "ts": 1761739296290,
   "items": [
+    {
+      "title": "Chinese scientists build mini perovskite-silicon tandem solar module with 26.41% efficiency",
+      "url": "https://www.pv-magazine.com/2025/10/29/chinese-scientists-build-mini-perovskite-silicon-tandem-solar-module-with-26-41-efficiency/",
+      "date": "2025-10-29T11:20:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Greenvolt, European Energy, Olana and Energix progress Denmark, Poland and Baltic BESS projects",
+      "url": "https://www.energy-storage.news/greenvolt-european-energy-olana-and-energix-progress-denmark-poland-and-baltic-bess-projects/",
+      "date": "2025-10-29T11:16:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Brazil eyes April 2026 for first battery storage auction",
       "url": "https://www.pv-magazine.com/2025/10/29/brazil-eyes-april-2026-for-first-battery-storage-auction/",
@@ -215,13 +229,6 @@
       "title": "Brazil seeks Chinese investment ahead of first large-scale battery auction",
       "url": "https://www.pv-magazine.com/2025/10/28/brazil-seeks-chinese-investment-ahead-of-first-large-scale-battery-auction/",
       "date": "2025-10-28T10:15:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tesla Energy output rises 84% to 43.5 GWh with record deployments",
-      "url": "https://www.pv-magazine.com/2025/10/28/tesla-energy-output-rises-84-to-43-5-gwh-with-record-deployments/",
-      "date": "2025-10-28T10:00:56.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Ark Energy bags state approval for 3.1GWh Richmond Valley solar-plus-storage site in Australia",
       "url": "https://www.energy-storage.news/ark-energy-bags-state-approval-for-3-1gwh-richmond-valley-solar-plus-storage-site-in-australia/",
       "date": "2025-10-17T05:56:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SB Energy receives CEC grant to purchase Fluence batteries for portion of 1.6GWh Riverside County BESS",
-      "url": "https://www.energy-storage.news/sb-energy-receives-cec-grant-to-purchase-fluence-batteries-for-portion-of-1-6gwh-riverside-county-bess/",
-      "date": "2025-10-16T14:01:59.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
