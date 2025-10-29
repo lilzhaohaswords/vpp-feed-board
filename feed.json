@@ -1,6 +1,20 @@
 {
-  "ts": 1761739296290,
+  "ts": 1761744309544,
   "items": [
+    {
+      "title": "Peru’s Kallpa Generación starts operating 204 MW solar plant in Peru",
+      "url": "https://www.pv-magazine.com/2025/10/29/perus-kallpa-generacion-starts-operating-204-mw-solar-plant-in-peru/",
+      "date": "2025-10-29T13:20:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Argentina’s first BESS tender to inform future auctions, says CAMMESA",
+      "url": "https://www.energy-storage.news/argentinas-first-bess-tender-to-inform-future-auctions-says-cammesa/",
+      "date": "2025-10-29T12:37:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Chinese scientists build mini perovskite-silicon tandem solar module with 26.41% efficiency",
       "url": "https://www.pv-magazine.com/2025/10/29/chinese-scientists-build-mini-perovskite-silicon-tandem-solar-module-with-26-41-efficiency/",
@@ -222,13 +236,6 @@
       "title": "Inverter protection system triggers permanent short circuit in under 1 millisecond",
       "url": "https://www.pv-magazine.com/2025/10/28/inverter-protection-system-triggers-permanent-short-circuit-in-under-1-millisecond/",
       "date": "2025-10-28T11:00:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil seeks Chinese investment ahead of first large-scale battery auction",
-      "url": "https://www.pv-magazine.com/2025/10/28/brazil-seeks-chinese-investment-ahead-of-first-large-scale-battery-auction/",
-      "date": "2025-10-28T10:15:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Powerlink Queensland seeks federal approval for AGL&#8217;s 2GWh Tuckeroo battery transmission connection",
       "url": "https://www.energy-storage.news/powerlink-queensland-seeks-federal-approval-for-agls-2gwh-tuckeroo-battery-transmission-connection/",
       "date": "2025-10-17T05:57:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ark Energy bags state approval for 3.1GWh Richmond Valley solar-plus-storage site in Australia",
-      "url": "https://www.energy-storage.news/ark-energy-bags-state-approval-for-3-1gwh-richmond-valley-solar-plus-storage-site-in-australia/",
-      "date": "2025-10-17T05:56:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
