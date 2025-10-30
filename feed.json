@@ -1,6 +1,13 @@
 {
-  "ts": 1761800462206,
+  "ts": 1761804082041,
   "items": [
+    {
+      "title": "Australia: Victoria&#8217;s home battery programme delivers 20,000 installations as federal scheme takes over",
+      "url": "https://www.energy-storage.news/australia-victorias-home-battery-programme-delivers-20000-installations-as-federal-scheme-takes-over/",
+      "date": "2025-10-30T05:17:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Global solar module, inverter market to reach $115.8 billion by 2030",
       "url": "https://www.pv-magazine.com/2025/10/29/global-solar-module-inverter-market-to-reach-115-8-billion-by-2030/",
@@ -516,13 +523,6 @@
       "title": "Lightshift Energy secures US$75 million for East Coast project pipeline",
       "url": "https://www.energy-storage.news/lightshift-energy-secures-us75-million-for-east-coast-project-pipeline/",
       "date": "2025-10-17T11:18:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Naturgy launches construction on first portion of ten-site, 160MW BESS portfolio in Spain",
-      "url": "https://www.energy-storage.news/naturgy-launches-construction-on-first-portion-of-ten-site-160mw-bess-portfolio-in-spain/",
-      "date": "2025-10-17T10:37:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
