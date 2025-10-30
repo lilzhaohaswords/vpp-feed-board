@@ -1,6 +1,27 @@
 {
-  "ts": 1761818455299,
+  "ts": 1761822062411,
   "items": [
+    {
+      "title": "Energy storage demand offsets EV slowdown, driving LG Energy Solution profit increase",
+      "url": "https://www.energy-storage.news/energy-storage-demand-offsets-ev-slowdown-driving-lg-energy-solution-profit-increase/",
+      "date": "2025-10-30T11:00:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Cambridge scientists discover photovoltaic properties in organic radical semiconductor",
+      "url": "https://www.pv-magazine.com/2025/10/30/cambridge-scientists-discover-photovoltaic-properties-in-organic-radical-semiconductor/",
+      "date": "2025-10-30T10:36:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Armenia hits 1 GW solar milestone",
+      "url": "https://www.pv-magazine.com/2025/10/30/armenia-hits-1-gw-solar-milestone/",
+      "date": "2025-10-30T10:16:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Unigrid expands sodium-ion battery output via Asian foundries",
       "url": "https://www.pv-magazine.com/2025/10/30/unigrid-expands-sodium-ion-output-via-asian-foundries/",
@@ -201,20 +222,6 @@
       "title": "Pahal Solar to build 2 GW solar cell and frame plant in India",
       "url": "https://www.pv-magazine.com/2025/10/29/pahal-solar-to-build-2-gw-solar-cell-and-frame-plant-in-india/",
       "date": "2025-10-29T06:50:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Off-grid solar kits power more than 10,000 clinics across sub-Saharan Africa",
-      "url": "https://www.pv-magazine.com/2025/10/29/off-grid-solar-kits-power-more-than-10000-clinics-across-sub-saharan-africa/",
-      "date": "2025-10-29T06:45:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japanese utility invests in perovskite solar PV startup",
-      "url": "https://www.pv-magazine.com/2025/10/29/japans-j-power-active-surfaces/",
-      "date": "2025-10-29T06:31:50.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "First &#8216;Made in Europe&#8217; BESS factory opens in Bulgaria, Lyten closes Northvolt Poland acquisition",
       "url": "https://www.energy-storage.news/first-made-in-europe-bess-factory-opens-in-bulgaria-lyten-closes-northvolt-poland-acquisition/",
       "date": "2025-10-20T10:41:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Lightshift Energy secures US$75 million for East Coast project pipeline",
-      "url": "https://www.energy-storage.news/lightshift-energy-secures-us75-million-for-east-coast-project-pipeline/",
-      "date": "2025-10-17T11:18:33.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
