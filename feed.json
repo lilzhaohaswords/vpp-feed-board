@@ -1,6 +1,34 @@
 {
-  "ts": 1761830592240,
+  "ts": 1761833339668,
   "items": [
+    {
+      "title": "Spanish grid operator authorizes renewables for dynamic voltage control",
+      "url": "https://www.pv-magazine.com/2025/10/30/spanish-grid-operator-authorizes-renewables-to-provide-dynamic-voltage-control/",
+      "date": "2025-10-30T14:00:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Genera PR begins construction on 52MW BESS in Puerto Rico",
+      "url": "https://www.energy-storage.news/genera-pr-begins-construction-on-52mw-bess-in-puerto-rico/",
+      "date": "2025-10-30T13:30:18.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "BYD and Skysense partner to deploy 300MWh of energy storage in Latin America",
+      "url": "https://www.energy-storage.news/byd-and-skysense-partner-to-deploy-300mwh-of-energy-storage-in-latin-america/",
+      "date": "2025-10-30T13:28:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Meralco increases stake in Philippine’s largest solar developer",
+      "url": "https://www.pv-magazine.com/2025/10/30/meralco-increases-stake-in-philippines-largest-solar-developer/",
+      "date": "2025-10-30T13:25:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "South Korea introduces standards for photovoltaic-thermal modules",
       "url": "https://www.pv-magazine.com/2025/10/30/south-korea-introduces-standards-for-photovoltaic-thermal-modules/",
@@ -215,20 +243,6 @@
       "title": "Panasonic unveils new air-to-water heat pump for residential use",
       "url": "https://www.pv-magazine.com/2025/10/29/panasonic-launches-new-air-to-water-heat-pump-for-residential-use/",
       "date": "2025-10-29T08:05:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese suppliers solidify control of Europe’s home battery market",
-      "url": "https://www.pv-magazine.com/2025/10/29/chinese-suppliers-solidify-control-of-europes-home-battery-market/",
-      "date": "2025-10-29T08:00:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India coal power may peak by 2030 under clean energy targets",
-      "url": "https://www.pv-magazine.com/2025/10/29/india-coal-power-may-peak-by-2030-under-clean-energy-targets/",
-      "date": "2025-10-29T07:30:11.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "VIDEO: Taking on the UK&#8217;s LT2029 tender and the future of grid stability services, with Envision",
       "url": "https://www.energy-storage.news/video-taking-on-the-uks-lt2029-tender-and-the-future-of-grid-stability-services-with-envision/",
       "date": "2025-10-21T05:54:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Eku Energy lodges 1,600MWh Monduran BESS for environmental assessment in Australia",
-      "url": "https://www.energy-storage.news/eku-energy-lodges-1600mwh-monduran-bess-for-environmental-assessment-in-australia/",
-      "date": "2025-10-21T04:13:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Data centre loads and domestic content policy define US battery storage market&#8217;s future, law firm says",
-      "url": "https://www.energy-storage.news/data-centre-loads-and-domestic-content-policy-define-us-battery-storage-markets-future-law-firm-says/",
-      "date": "2025-10-20T13:26:45.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
