@@ -1,6 +1,20 @@
 {
-  "ts": 1761811275818,
+  "ts": 1761814874049,
   "items": [
+    {
+      "title": "India’s Alpex Solar to build 2.2 GW G12R TOPCon cell facility",
+      "url": "https://www.pv-magazine.com/2025/10/30/indias-alpex-solar-to-build-2-2-gw-g12r-topcon-cell-facility/",
+      "date": "2025-10-30T08:30:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Longi reveals back-contact PV test results from offshore environments",
+      "url": "https://www.pv-magazine.com/2025/10/30/longi-reveals-back-contact-pv-test-results-from-offshore-environments/",
+      "date": "2025-10-30T08:12:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US completes full solar supply chain as SEIA warns of policy risks",
       "url": "https://www.pv-magazine.com/2025/10/30/us-completes-full-solar-supply-chain-as-seia-warns-of-policy-risks/",
@@ -215,20 +229,6 @@
       "title": "Enphase announces complete off-grid solar-storage system",
       "url": "https://www.pv-magazine.com/2025/10/28/enphase-announces-complete-off-grid-solar-storage-system/",
       "date": "2025-10-28T15:30:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "SolarPower Europe unveils agrosolar policy map",
-      "url": "https://www.pv-magazine.com/2025/10/28/solarpower-europe-unveils-agrosolar-policy-map/",
-      "date": "2025-10-28T15:00:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Eswatini runs solar-plus-battery minigrid tender",
-      "url": "https://www.pv-magazine.com/2025/10/28/eswatini-runs-solar-plus-battery-minigrid-tender/",
-      "date": "2025-10-28T14:30:34.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
