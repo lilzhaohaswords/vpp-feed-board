@@ -1,6 +1,20 @@
 {
-  "ts": 1761881818788,
+  "ts": 1761883921133,
   "items": [
+    {
+      "title": "Eku Energy, LP Renewables propose 1,600MWh Belah BESS in Queensland, Australia",
+      "url": "https://www.energy-storage.news/eku-energy-lp-renewables-propose-1600mwh-belah-bess-in-queensland-australia/",
+      "date": "2025-10-31T03:44:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia&#8217;s EPBC Act overhaul promises streamlined approvals as industry voices mixed support",
+      "url": "https://www.energy-storage.news/australias-epbc-act-overhaul-promises-streamlined-approvals-as-industry-voices-mixed-support/",
+      "date": "2025-10-31T03:41:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Mexico sets regional benchmark with new battery storage rules",
       "url": "https://www.pv-magazine.com/2025/10/30/mexico-sets-regional-benchmark-with-new-battery-storage-rules/",
@@ -509,20 +523,6 @@
       "title": "Germany and Netherlands BESS action from cross-border operators Eneco, Giga and Return",
       "url": "https://www.energy-storage.news/germany-and-netherlands-bess-action-from-cross-border-operators-eneco-giga-and-return/",
       "date": "2025-10-21T11:08:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Wärtsilä opts for in-house control over battery storage data analytics",
-      "url": "https://www.energy-storage.news/wartsila-opts-for-in-house-control-over-battery-storage-data-analytics/",
-      "date": "2025-10-21T10:02:49.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Taking on the UK&#8217;s LT2029 tender and the future of grid stability services, with Envision",
-      "url": "https://www.energy-storage.news/video-taking-on-the-uks-lt2029-tender-and-the-future-of-grid-stability-services-with-envision/",
-      "date": "2025-10-21T05:54:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
