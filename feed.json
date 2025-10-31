@@ -1,6 +1,13 @@
 {
-  "ts": 1761919261095,
+  "ts": 1761922875825,
   "items": [
+    {
+      "title": "Flatiron Energy upsizes credit facility to US$250 million for BESS portfolio",
+      "url": "https://www.energy-storage.news/flatiron-energy-upsizes-credit-facility-to-us250-million-for-bess-portfolio/",
+      "date": "2025-10-31T14:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Wattlab deploys solar on multipurpose cargo vessel",
       "url": "https://www.pv-magazine.com/2025/10/31/wattlab-deploys-solar-on-multipurpose-cargo-vessel/",
@@ -516,13 +523,6 @@
       "title": "Ameresco, Alliant Energy, begin operating record-breaking BESS projects in Arizona, Wisconsin",
       "url": "https://www.energy-storage.news/ameresco-alliant-energy-begin-operating-record-breaking-bess-projects-in-arizona-wisconsin/",
       "date": "2025-10-21T15:08:31.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Boralex progresses 500MWh Ontario BESS, prepares another 1.6GWh project for upcoming IESO LT2 RFP",
-      "url": "https://www.energy-storage.news/boralex-progresses-500mwh-ontario-bess-prepares-another-1-6gwh-project-for-upcoming-ieso-lt2-rfp/",
-      "date": "2025-10-21T13:21:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
