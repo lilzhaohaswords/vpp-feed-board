@@ -1,6 +1,13 @@
 {
-  "ts": 1761922875825,
+  "ts": 1761926464515,
   "items": [
+    {
+      "title": "France’s Exide unveils 5 MWh battery with 95% roundtrip efficiency",
+      "url": "https://www.pv-magazine.com/2025/10/31/frances-exide-unveils-5-mwh-battery-with-95-roundtrip-efficiency/",
+      "date": "2025-10-31T15:30:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Flatiron Energy upsizes credit facility to US$250 million for BESS portfolio",
       "url": "https://www.energy-storage.news/flatiron-energy-upsizes-credit-facility-to-us250-million-for-bess-portfolio/",
@@ -243,13 +250,6 @@
       "title": "Armenia hits 1 GW solar milestone",
       "url": "https://www.pv-magazine.com/2025/10/30/armenia-hits-1-gw-solar-milestone/",
       "date": "2025-10-30T10:16:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Unigrid expands sodium-ion battery output via Asian foundries",
-      "url": "https://www.pv-magazine.com/2025/10/30/unigrid-expands-sodium-ion-output-via-asian-foundries/",
-      "date": "2025-10-30T09:15:39.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
