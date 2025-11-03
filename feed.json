@@ -1,6 +1,20 @@
 {
-  "ts": 1762141377607,
+  "ts": 1762143441138,
   "items": [
+    {
+      "title": "Battery energy storage deployment in Australia’s NEM surges 150% year-on-year, says AEMO",
+      "url": "https://www.energy-storage.news/battery-energy-storage-deployment-in-australias-nem-surges-150-year-on-year-says-aemo/",
+      "date": "2025-11-03T04:11:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘Silver buckshot, not a silver bullet’: the rally cry for Australia’s energy storage strategy",
+      "url": "https://www.energy-storage.news/silver-buckshot-not-a-silver-bullet-the-rally-cry-for-australias-energy-storage-strategy/",
+      "date": "2025-11-03T04:07:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Germany audit warns of missed H2 goals",
       "url": "https://www.pv-magazine.com/2025/10/31/the-hydrogen-stream-germanys-federal-audit-office-calls-for-a-reality-check/",
@@ -509,20 +523,6 @@
       "title": "US thermal energy storage startup Rondo deploys 100MWh industrial ‘Heat Battery’",
       "url": "https://www.energy-storage.news/us-thermal-energy-storage-startup-rondo-deploys-100mwh-industrial-heat-battery/",
       "date": "2025-10-22T10:03:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "South Australia launches first capacity tender for 700MW of long-duration energy storage",
-      "url": "https://www.energy-storage.news/south-australia-launches-first-capacity-tender-for-700mw-of-long-duration-energy-storage/",
-      "date": "2025-10-22T04:22:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ameresco, Alliant Energy, begin operating record-breaking BESS projects in Arizona, Wisconsin",
-      "url": "https://www.energy-storage.news/ameresco-alliant-energy-begin-operating-record-breaking-bess-projects-in-arizona-wisconsin/",
-      "date": "2025-10-21T15:08:31.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
