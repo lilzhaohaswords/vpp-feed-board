@@ -1,6 +1,20 @@
 {
-  "ts": 1762153270997,
+  "ts": 1762156874448,
   "items": [
+    {
+      "title": "US rooftop solar’s climate gains shrink as grids grow cleaner",
+      "url": "https://www.pv-magazine.com/2025/11/03/us-rooftop-solars-climate-gains-shrink-as-grids-grow-cleaner/",
+      "date": "2025-11-03T07:45:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "TSEC unveils typhoon resistant glass-glass solar modules",
+      "url": "https://www.pv-magazine.com/2025/11/03/tsec-unveils-typhoon-resistant-glass-glass-solar-modules/",
+      "date": "2025-11-03T07:36:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Victoria approves 2,200MWh of battery storage through streamlined pathway in Australia",
       "url": "https://www.energy-storage.news/victoria-approves-2200mwh-of-battery-storage-through-streamlined-pathway-in-australia/",
@@ -240,13 +254,6 @@
       "bucket": "A"
     },
     {
-      "title": "Algorithm optimizes renewable power procurement in Germany",
-      "url": "https://www.pv-magazine.com/2025/10/30/algorithm-optimizes-renewable-power-procurement-in-germany/",
-      "date": "2025-10-30T13:00:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Sungrow&#8217;s Q3 revenue, net profit and shipments soar",
       "url": "https://www.energy-storage.news/sungrows-q3-revenue-net-profit-and-shipments-soar/",
       "date": "2025-10-30T12:08:28.000Z",
@@ -258,13 +265,6 @@
       "url": "https://www.energy-storage.news/rwe-starts-building-germanys-largest-bess/",
       "date": "2025-10-30T12:05:01.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Netherlands plans CfDs to replace large-scale solar subsidy in 2027",
-      "url": "https://www.pv-magazine.com/2025/10/30/netherlands-plans-cfds-to-replace-large-scale-solar-subsidy-in-2027/",
-      "date": "2025-10-30T12:00:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
