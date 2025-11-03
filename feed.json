@@ -1,6 +1,13 @@
 {
-  "ts": 1762160455046,
+  "ts": 1762164070516,
   "items": [
+    {
+      "title": "Crystalline silicon vs. thin film at high latitudes",
+      "url": "https://www.pv-magazine.com/2025/11/03/crystalline-silicon-vs-thin-film-at-high-latitudes/",
+      "date": "2025-11-03T09:46:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Italy seizes solar investment portal over €80 million scam",
       "url": "https://www.pv-magazine.com/2025/11/03/italy-seizes-solar-investment-portal-over-e80-million-scam/",
@@ -229,13 +236,6 @@
       "title": "Chile commissions PV-driven hydrogen plant",
       "url": "https://www.pv-magazine.com/2025/10/30/chile-commissions-pv-driven-hydrogen-plant/",
       "date": "2025-10-30T15:00:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spanish grid operator authorizes renewables for dynamic voltage control",
-      "url": "https://www.pv-magazine.com/2025/10/30/spanish-grid-operator-authorizes-renewables-to-provide-dynamic-voltage-control/",
-      "date": "2025-10-30T14:00:16.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
