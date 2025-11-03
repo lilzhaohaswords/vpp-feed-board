@@ -1,6 +1,20 @@
 {
-  "ts": 1762167644903,
+  "ts": 1762171298867,
   "items": [
+    {
+      "title": "India’s Jakson Solar opens in-house lab for PV reliability testing",
+      "url": "https://www.pv-magazine.com/2025/11/03/indias-jakson-solar-opens-in-house-lab-for-pv-reliability-testing/",
+      "date": "2025-11-03T12:00:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Canada’s Cache Power advances 30 GWh compressed air storage project",
+      "url": "https://www.pv-magazine.com/2025/11/03/canadas-cache-power-advances-30-gwh-compressed-air-storage-project/",
+      "date": "2025-11-03T12:00:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "GoodWe debuts PV-driven heat pump water heaters",
       "url": "https://www.pv-magazine.com/2025/11/03/goodwe-debuts-pv-driven-heat-pump-water-heaters/",
@@ -201,20 +215,6 @@
       "title": "Cutting solar permit delays could add 20 million US rooftop systems",
       "url": "https://www.pv-magazine.com/2025/10/31/cutting-solar-permit-delays-could-add-20-million-us-rooftop-systems/",
       "date": "2025-10-31T08:08:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Storm systems suppress Northern Europe’s October solar output",
-      "url": "https://www.pv-magazine.com/2025/10/31/storm-systems-suppress-northern-europes-october-solar-output/",
-      "date": "2025-10-31T07:41:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar wafer prices stable, with emerging downward pressure despite policy interventions",
-      "url": "https://www.pv-magazine.com/2025/10/31/solar-wafer-prices-stable-with-emerging-downward-pressure-despite-policy-interventions/",
-      "date": "2025-10-31T07:26:38.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
