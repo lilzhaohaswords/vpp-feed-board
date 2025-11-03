@@ -1,6 +1,20 @@
 {
-  "ts": 1762176173734,
+  "ts": 1762178464121,
   "items": [
+    {
+      "title": "French startup launches cleaning robots for solar PV shade structures",
+      "url": "https://www.pv-magazine.com/2025/11/03/french-startup-launches-cleaning-robots-for-solar-pv-shade-structures/",
+      "date": "2025-11-03T13:37:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France introduces grid tariff reforms for energy storage",
+      "url": "https://www.energy-storage.news/france-introduces-grid-tariff-reforms-for-energy-storage/",
+      "date": "2025-11-03T13:30:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sonnen launches trade-in program for old solar battery storage systems regardless of condition or manufacturer",
       "url": "https://www.pv-magazine.com/2025/11/03/sonnen-launches-trade-in-program-for-old-solar-battery-storage-systems-regardless-of-condition-or-manufacturer/",
@@ -208,13 +222,6 @@
       "title": "Nextracker unveils Earth Truss system for uneven Australian terrain",
       "url": "https://www.pv-magazine.com/2025/10/31/nextracker-unveils-earth-truss-system-for-uneven-australian-terrain/",
       "date": "2025-10-31T09:30:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India-developed inverter targets large-scale solar expansion",
-      "url": "https://www.pv-magazine.com/2025/10/31/india-developed-inverter-targets-large-scale-solar-expansion/",
-      "date": "2025-10-31T08:45:50.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "EU Roundup: Big BESS project news in Greece, Germany, Romania and Portugal",
       "url": "https://www.energy-storage.news/eu-roundup-big-bess-project-news-in-greece-germany-romania-and-portugal/",
       "date": "2025-10-22T10:29:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Developers don&#8217;t want geopolitical risks&#8217;: Fluence talks up US domestic content strategy",
-      "url": "https://www.energy-storage.news/developers-dont-want-geopolitical-risks-fluence-talks-up-us-domestic-content-strategy/",
-      "date": "2025-10-22T10:28:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
