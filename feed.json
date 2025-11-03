@@ -1,6 +1,13 @@
 {
-  "ts": 1762143441138,
+  "ts": 1762146061659,
   "items": [
+    {
+      "title": "Victoria approves 2,200MWh of battery storage through streamlined pathway in Australia",
+      "url": "https://www.energy-storage.news/victoria-approves-2200mwh-of-battery-storage-through-streamlined-pathway-in-australia/",
+      "date": "2025-11-03T04:35:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Battery energy storage deployment in Australia’s NEM surges 150% year-on-year, says AEMO",
       "url": "https://www.energy-storage.news/battery-energy-storage-deployment-in-australias-nem-surges-150-year-on-year-says-aemo/",
@@ -516,13 +523,6 @@
       "title": "&#8216;Developers don&#8217;t want geopolitical risks&#8217;: Fluence talks up US domestic content strategy",
       "url": "https://www.energy-storage.news/developers-dont-want-geopolitical-risks-fluence-talks-up-us-domestic-content-strategy/",
       "date": "2025-10-22T10:28:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US thermal energy storage startup Rondo deploys 100MWh industrial ‘Heat Battery’",
-      "url": "https://www.energy-storage.news/us-thermal-energy-storage-startup-rondo-deploys-100mwh-industrial-heat-battery/",
-      "date": "2025-10-22T10:03:42.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
