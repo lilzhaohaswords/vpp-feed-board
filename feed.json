@@ -1,6 +1,20 @@
 {
-  "ts": 1762185665488,
+  "ts": 1762189268395,
   "items": [
+    {
+      "title": "Illinois: Advocates, industry welcome clean energy legislation that includes 3GW energy storage target",
+      "url": "https://www.energy-storage.news/illinois-advocates-industry-welcome-clean-energy-legislation-that-includes-3gw-energy-storage-target/",
+      "date": "2025-11-03T16:33:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Morocco distributed solar potential pegged at 28.6 GW",
+      "url": "https://www.pv-magazine.com/2025/11/03/morocco-distributed-solar-potential-pegged-at-28-6-gw/",
+      "date": "2025-11-03T16:00:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Ghana, Switzerland partner on $200 million rooftop solar rollout",
       "url": "https://www.pv-magazine.com/2025/11/03/ghana-switzerland-partner-on-200-million-rooftop-solar-rollout/",
@@ -201,13 +215,6 @@
       "title": "Photovoltaic-thermoelectric generators can boost power beaming efficiency",
       "url": "https://www.pv-magazine.com/2025/10/31/photovoltaic-thermoelectric-generators-can-boost-power-beaming-efficiency/",
       "date": "2025-10-31T12:50:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ireland earmarks €27 million for energy communities",
-      "url": "https://www.pv-magazine.com/2025/10/31/ireland-earmarks-e27-million-for-energy-communities/",
-      "date": "2025-10-31T12:39:22.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Recurrent Energy secures US$825 million financing for Arizona BESS and solar projects",
       "url": "https://www.energy-storage.news/recurrent-energy-secures-us825-million-financing-for-arizona-bess-and-solar-projects/",
       "date": "2025-10-22T13:39:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU Roundup: Big BESS project news in Greece, Germany, Romania and Portugal",
-      "url": "https://www.energy-storage.news/eu-roundup-big-bess-project-news-in-greece-germany-romania-and-portugal/",
-      "date": "2025-10-22T10:29:19.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
