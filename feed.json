@@ -1,6 +1,13 @@
 {
-  "ts": 1762262766464,
+  "ts": 1762264868156,
   "items": [
+    {
+      "title": "AlphaESS launches all-in-one storage systems for C&#038;I applications",
+      "url": "https://www.pv-magazine.com/2025/11/04/alphaess-launches-all-in-one-storage-systems-for-ci-applications/",
+      "date": "2025-11-04T13:53:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "GSE Intégration debuts reversible, concrete-free solar mounting in France",
       "url": "https://www.pv-magazine.com/2025/11/04/frances-gse-integration-unveils-reversible-concrete-free-pv-mounting-system/",
@@ -215,13 +222,6 @@
       "title": "France revises off-peak hours to match solar generation patterns",
       "url": "https://www.pv-magazine.com/2025/11/03/france-revises-off-peak-hours-to-match-solar-generation-patterns/",
       "date": "2025-11-03T10:04:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Crystalline silicon vs. thin film at high latitudes",
-      "url": "https://www.pv-magazine.com/2025/11/03/crystalline-silicon-vs-thin-film-at-high-latitudes/",
-      "date": "2025-11-03T09:46:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
