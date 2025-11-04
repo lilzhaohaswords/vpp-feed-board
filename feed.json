@@ -1,6 +1,27 @@
 {
-  "ts": 1762250463373,
+  "ts": 1762254062742,
   "items": [
+    {
+      "title": "Samsung SDI ramps ESS battery manufacturing in US to 30GWh, Tesla deal talks reported",
+      "url": "https://www.energy-storage.news/samsung-sdi-ramps-ess-battery-manufacturing-in-us-to-30gwh-tesla-deal-talks-reported/",
+      "date": "2025-11-04T10:33:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Battery projects dominate Belgium’s 2025 capacity market awards",
+      "url": "https://www.pv-magazine.com/2025/11/04/battery-projects-dominate-belgiums-2025-capacity-market-awards/",
+      "date": "2025-11-04T10:00:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "LONGi achieves A Level in MSCI ESG ratings",
+      "url": "https://www.pv-magazine.com/2025/11/04/longi-achieves-a-level-in-msci-esg-ratings/",
+      "date": "2025-11-04T10:00:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia plans nationwide three-hour free solar power offer from July 2026",
       "url": "https://www.pv-magazine.com/2025/11/04/australia-plans-nationwide-three-hour-free-solar-power-offer-from-july-2026/",
@@ -184,13 +205,6 @@
       "bucket": "A"
     },
     {
-      "title": "TSEC unveils typhoon resistant glass-glass solar modules",
-      "url": "https://www.pv-magazine.com/2025/11/03/tsec-unveils-typhoon-resistant-glass-glass-solar-modules/",
-      "date": "2025-11-03T07:36:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Victoria approves 2,200MWh of battery storage through streamlined pathway in Australia",
       "url": "https://www.energy-storage.news/victoria-approves-2200mwh-of-battery-storage-through-streamlined-pathway-in-australia/",
       "date": "2025-11-03T04:35:08.000Z",
@@ -209,13 +223,6 @@
       "url": "https://www.energy-storage.news/silver-buckshot-not-a-silver-bullet-the-rally-cry-for-australias-energy-storage-strategy/",
       "date": "2025-11-03T04:07:03.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Germany audit warns of missed H2 goals",
-      "url": "https://www.pv-magazine.com/2025/10/31/the-hydrogen-stream-germanys-federal-audit-office-calls-for-a-reality-check/",
-      "date": "2025-10-31T16:50:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "ARENA funds world-first &#8216;inverterless&#8217; battery storage tech from Australian startup Relectrify",
       "url": "https://www.energy-storage.news/arena-funds-world-first-inverterless-battery-storage-tech-from-australian-startup-relectrify/",
       "date": "2025-10-23T04:21:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US battery storage financing &#8216;has become more challenging&#8217;",
-      "url": "https://www.energy-storage.news/us-battery-storage-financing-has-become-more-challenging/",
-      "date": "2025-10-22T14:08:45.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
