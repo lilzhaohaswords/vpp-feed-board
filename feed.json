@@ -1,6 +1,41 @@
 {
-  "ts": 1762254062742,
+  "ts": 1762257671226,
   "items": [
+    {
+      "title": "Baltic Storage Platform secures finance for Estonia BESS, Lithuanian scheme oversubscribed",
+      "url": "https://www.energy-storage.news/baltic-storage-platform-secures-finance-for-estonia-bess-lithuanian-scheme-oversubscribed/",
+      "date": "2025-11-04T11:59:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "European PPAs held back by diverging price expectations, says Pexapark",
+      "url": "https://www.pv-magazine.com/2025/11/04/european-ppas-held-back-by-diverging-price-expectations-says-pexapark/",
+      "date": "2025-11-04T11:57:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Cold beer, hot bricks: Heineken signs deals for 100MWh thermal energy storage system",
+      "url": "https://www.energy-storage.news/cold-beer-hot-bricks-heineken-signs-deals-for-100mwh-thermal-energy-storage-system/",
+      "date": "2025-11-04T11:50:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘Collaboration, not isolation’: India’s path to becoming a global energy storage supply hub",
+      "url": "https://www.energy-storage.news/collaboration-not-isolation-indias-path-to-becoming-a-global-energy-storage-supply-hub/",
+      "date": "2025-11-04T11:48:18.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Toyo strikes solar cell supply deal with Voltec Solar",
+      "url": "https://www.pv-magazine.com/2025/11/04/toyo-strikes-solar-cell-supply-deal-with-voltec-solar/",
+      "date": "2025-11-04T11:33:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Samsung SDI ramps ESS battery manufacturing in US to 30GWh, Tesla deal talks reported",
       "url": "https://www.energy-storage.news/samsung-sdi-ramps-ess-battery-manufacturing-in-us-to-30gwh-tesla-deal-talks-reported/",
@@ -187,20 +222,6 @@
       "title": "Italy seizes solar investment portal over €80 million scam",
       "url": "https://www.pv-magazine.com/2025/11/03/italy-seizes-solar-investment-portal-over-e80-million-scam/",
       "date": "2025-11-03T08:40:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia cotton project pairs solar, battery, and green hydrogen",
-      "url": "https://www.pv-magazine.com/2025/11/03/australia-cotton-project-pairs-solar-battery-and-green-hydrogen/",
-      "date": "2025-11-03T08:30:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US rooftop solar’s climate gains shrink as grids grow cleaner",
-      "url": "https://www.pv-magazine.com/2025/11/03/us-rooftop-solars-climate-gains-shrink-as-grids-grow-cleaner/",
-      "date": "2025-11-03T07:45:12.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "California BESS legislation update: Fire safety bill becomes law, permitting restrictions do not",
       "url": "https://www.energy-storage.news/california-bess-legislation-update-fire-safety-bill-becomes-law-permitting-restrictions-do-not/",
       "date": "2025-10-23T11:38:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CATL&#8217;s Q3 ESS battery shipments reach 36GWh, market share &#8216;impacted by capacity constraints&#8217;",
-      "url": "https://www.energy-storage.news/catls-q3-ess-battery-shipments-36gwh-market-share-capacity-constraints/",
-      "date": "2025-10-23T10:33:50.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Philippines ‘entering an era where energy storage is indispensable’, says solar pioneer",
-      "url": "https://www.energy-storage.news/philippines-entering-an-era-where-energy-storage-is-indispensable-says-solar-pioneer/",
-      "date": "2025-10-23T09:22:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ARENA funds world-first &#8216;inverterless&#8217; battery storage tech from Australian startup Relectrify",
-      "url": "https://www.energy-storage.news/arena-funds-world-first-inverterless-battery-storage-tech-from-australian-startup-relectrify/",
-      "date": "2025-10-23T04:21:20.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
