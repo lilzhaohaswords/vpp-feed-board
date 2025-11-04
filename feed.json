@@ -1,6 +1,13 @@
 {
-  "ts": 1762247449655,
+  "ts": 1762250463373,
   "items": [
+    {
+      "title": "Australia plans nationwide three-hour free solar power offer from July 2026",
+      "url": "https://www.pv-magazine.com/2025/11/04/australia-plans-nationwide-three-hour-free-solar-power-offer-from-july-2026/",
+      "date": "2025-11-04T09:15:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Ricoh developing perovskite solar technology for space, buildings",
       "url": "https://www.pv-magazine.com/2025/11/04/ricoh-developing-perovskite-solar-technology-for-space-buildings/",
@@ -208,13 +215,6 @@
       "title": "The Hydrogen Stream: Germany audit warns of missed H2 goals",
       "url": "https://www.pv-magazine.com/2025/10/31/the-hydrogen-stream-germanys-federal-audit-office-calls-for-a-reality-check/",
       "date": "2025-10-31T16:50:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: DK Electronic starts copper paste production",
-      "url": "https://www.pv-magazine.com/2025/10/31/chinese-pv-industry-brief-dk-electronic-materials-starts-copper-paste-production/",
-      "date": "2025-10-31T16:45:02.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
