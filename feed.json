@@ -1,6 +1,13 @@
 {
-  "ts": 1762272085294,
+  "ts": 1762275660767,
   "items": [
+    {
+      "title": "Musk proposes PV-powered AI satellite network to fight global warming",
+      "url": "https://www.pv-magazine.com/2025/11/04/musk-proposes-solar-powered-ai-satellite-network-to-fight-global-warming/",
+      "date": "2025-11-04T16:30:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Belgian grid operator reports sharp decline in solar inverter failures",
       "url": "https://www.pv-magazine.com/2025/11/04/belgian-grid-operator-reports-sharp-decline-in-solar-inverter-failures/",
@@ -222,13 +229,6 @@
       "title": "India’s Jakson Solar opens in-house lab for PV reliability testing",
       "url": "https://www.pv-magazine.com/2025/11/03/indias-jakson-solar-opens-in-house-lab-for-pv-reliability-testing/",
       "date": "2025-11-03T12:00:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Canada’s Cache Power advances 30 GWh compressed air storage project",
-      "url": "https://www.pv-magazine.com/2025/11/03/canadas-cache-power-advances-30-gwh-compressed-air-storage-project/",
-      "date": "2025-11-03T12:00:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
