@@ -1,6 +1,13 @@
 {
-  "ts": 1762257671226,
+  "ts": 1762262766464,
   "items": [
+    {
+      "title": "GSE Intégration debuts reversible, concrete-free solar mounting in France",
+      "url": "https://www.pv-magazine.com/2025/11/04/frances-gse-integration-unveils-reversible-concrete-free-pv-mounting-system/",
+      "date": "2025-11-04T12:00:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Baltic Storage Platform secures finance for Estonia BESS, Lithuanian scheme oversubscribed",
       "url": "https://www.energy-storage.news/baltic-storage-platform-secures-finance-for-estonia-bess-lithuanian-scheme-oversubscribed/",
@@ -215,13 +222,6 @@
       "title": "Crystalline silicon vs. thin film at high latitudes",
       "url": "https://www.pv-magazine.com/2025/11/03/crystalline-silicon-vs-thin-film-at-high-latitudes/",
       "date": "2025-11-03T09:46:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy seizes solar investment portal over €80 million scam",
-      "url": "https://www.pv-magazine.com/2025/11/03/italy-seizes-solar-investment-portal-over-e80-million-scam/",
-      "date": "2025-11-03T08:40:31.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
