@@ -1,6 +1,13 @@
 {
-  "ts": 1762340470938,
+  "ts": 1762344091598,
   "items": [
+    {
+      "title": "Dubai expands storage in seventh phase of world’s largest solar park",
+      "url": "https://www.pv-magazine.com/2025/11/05/dubai-expands-storage-in-seventh-phase-of-worlds-largest-solar-park/",
+      "date": "2025-11-05T12:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Argentina’s EPSE to begin module output at 400 MW solar factory",
       "url": "https://www.pv-magazine.com/2025/11/05/argentinas-epse-to-begin-module-output-at-400-mw-solar-factory/",
@@ -244,13 +251,6 @@
       "url": "https://www.energy-storage.news/illinois-advocates-industry-welcome-clean-energy-legislation-that-includes-3gw-energy-storage-target/",
       "date": "2025-11-03T16:33:34.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Morocco distributed solar potential pegged at 28.6 GW",
-      "url": "https://www.pv-magazine.com/2025/11/03/morocco-distributed-solar-potential-pegged-at-28-6-gw/",
-      "date": "2025-11-03T16:00:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
