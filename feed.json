@@ -1,6 +1,13 @@
 {
-  "ts": 1762322468181,
+  "ts": 1762326049349,
   "items": [
+    {
+      "title": "Osaka Gas and Sonnedix prepare Japan’s ‘largest renewable battery storage facility’",
+      "url": "https://www.energy-storage.news/osaka-gas-and-sonnedix-prepare-japans-largest-renewable-battery-storage-facility/",
+      "date": "2025-11-05T06:56:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "AGL seeks federal approval for 2,000MWh battery storage system in Queensland, Australia",
       "url": "https://www.energy-storage.news/agl-seeks-federal-approval-for-2000mwh-battery-storage-system-in-queensland-australia/",
@@ -516,13 +523,6 @@
       "title": "South Korean government investment in US BESS developer ‘reflects shared commitment to reliable, affordable power’",
       "url": "https://www.energy-storage.news/south-korean-government-investment-in-us-bess-developer-reflects-shared-commitment-to-reliable-affordable-power/",
       "date": "2025-10-24T09:06:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Demystifying the BESS metrics that matter most, from SoC and SoH to cell imbalance and RTE",
-      "url": "https://www.energy-storage.news/video-demystifying-the-bess-metrics-that-matter-most-from-soc-and-soh-to-cell-imbalance-and-rte/",
-      "date": "2025-10-24T06:29:11.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
