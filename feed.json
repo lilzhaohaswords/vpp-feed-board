@@ -1,6 +1,55 @@
 {
-  "ts": 1762344091598,
+  "ts": 1762349051544,
   "items": [
+    {
+      "title": "Hydrogen production to lower curtailment at Dutch solar park",
+      "url": "https://www.pv-magazine.com/2025/11/05/hydrogen-production-to-lower-curtailment-at-dutch-solar-park/",
+      "date": "2025-11-05T13:20:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spain approves new decree to accelerate storage and grid modernization",
+      "url": "https://www.pv-magazine.com/2025/11/05/spain-approves-new-decree-to-accelerate-storage-and-grid-modernization/",
+      "date": "2025-11-05T13:00:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Aggressive pricing and emerging C&#038;I models reshape India’s energy storage outlook",
+      "url": "https://www.energy-storage.news/aggressive-pricing-and-emerging-ci-models-reshape-indias-energy-storage-outlook/",
+      "date": "2025-11-05T12:54:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Researchers develop antimony-doped n-type silicon ingots to enhance solar module mechanical strength",
+      "url": "https://www.pv-magazine.com/2025/11/05/researchers-develop-antimony-doped-n-type-silicon-ingots-to-enhance-the-mechanical-strength-of-solar-modules/",
+      "date": "2025-11-05T12:32:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Xcel Energy plans 600MW &#8216;US Midwest&#8217;s largest BESS project&#8217; in Minnesota",
+      "url": "https://www.energy-storage.news/xcel-energy-plans-600mw-us-midwests-largest-bess-project-in-minnesota/",
+      "date": "2025-11-05T12:23:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Canadian LG Energy Solution and Stellantis joint venture to produce LFP cells for BESS",
+      "url": "https://www.energy-storage.news/canadian-lg-energy-solution-and-stellantis-joint-venture-to-produce-lfp-cells-for-bess/",
+      "date": "2025-11-05T12:19:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New simulation tool to measure angular losses in PV systems",
+      "url": "https://www.pv-magazine.com/2025/11/05/new-simulation-tool-to-measure-angular-losses-in-pv-systems/",
+      "date": "2025-11-05T12:12:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Dubai expands storage in seventh phase of world’s largest solar park",
       "url": "https://www.pv-magazine.com/2025/11/05/dubai-expands-storage-in-seventh-phase-of-worlds-largest-solar-park/",
@@ -208,34 +257,6 @@
       "title": "India solar module capacity seen reaching 220 GW by fiscal 2028",
       "url": "https://www.pv-magazine.com/2025/11/04/india-solar-module-capacity-seen-reaching-220-gw-by-fiscal-2028/",
       "date": "2025-11-04T08:30:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japanese utility uses Sharp PV-linked home batteries for grid balancing",
-      "url": "https://www.pv-magazine.com/2025/11/04/japanese-utility-uses-sharp-pv-linked-home-batteries-for-grid-balancing/",
-      "date": "2025-11-04T08:13:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "First Solar plans fifth US factory with 3.7 GW capacity addition",
-      "url": "https://www.pv-magazine.com/2025/11/04/first-solar-plans-fifth-us-factory-with-3-7-gw-capacity-addition/",
-      "date": "2025-11-04T07:45:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Four-year testing finds heat pumps run efficiently even in older homes",
-      "url": "https://www.pv-magazine.com/2025/11/04/four-year-testings-finds-heat-pumps-run-efficiently-even-in-older-homes/",
-      "date": "2025-11-04T07:19:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Florida utility on pace to reach 93 GW solar, 50 GW storage by 2045",
-      "url": "https://www.pv-magazine.com/2025/11/04/florida-utility-on-pace-to-reach-93-gw-solar-50-gw-storage-by-2045/",
-      "date": "2025-11-04T06:21:07.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "US battery materials and BESS firm Redwood raises US$350 million Series E",
       "url": "https://www.energy-storage.news/us-battery-materials-and-bess-firm-redwood-raises-us350-million-series-e/",
       "date": "2025-10-24T10:56:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "California utility renegotiates purchase agreement with RWE for 476MWh BESS after regulator rejects initial proposal",
-      "url": "https://www.energy-storage.news/california-utility-renegotiates-purchase-agreement-with-rwe-for-476mwh-bess-after-regulator-rejects-initial-proposal/",
-      "date": "2025-10-24T10:48:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Price falls have enabled ‘zero-capex’ co-located BESS business model in Spain, company says",
-      "url": "https://www.energy-storage.news/price-falls-have-enabled-zero-capex-co-located-bess-business-model-in-spain-company-says/",
-      "date": "2025-10-24T09:54:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korean government investment in US BESS developer ‘reflects shared commitment to reliable, affordable power’",
-      "url": "https://www.energy-storage.news/south-korean-government-investment-in-us-bess-developer-reflects-shared-commitment-to-reliable-affordable-power/",
-      "date": "2025-10-24T09:06:23.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
