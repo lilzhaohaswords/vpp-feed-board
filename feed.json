@@ -1,6 +1,27 @@
 {
-  "ts": 1762318860634,
+  "ts": 1762322468181,
   "items": [
+    {
+      "title": "AGL seeks federal approval for 2,000MWh battery storage system in Queensland, Australia",
+      "url": "https://www.energy-storage.news/agl-seeks-federal-approval-for-2000mwh-battery-storage-system-in-queensland-australia/",
+      "date": "2025-11-05T05:18:50.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘You need to be co-located with battery storage&#8217;: Wärtsilä sees DC-coupling as essential for Australia&#8217;s solar future",
+      "url": "https://www.energy-storage.news/you-need-to-be-co-located-with-battery-storage-wartsila-sees-dc-coupling-as-essential-for-australias-solar-future/",
+      "date": "2025-11-05T05:13:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s home battery rebate processes ‘8,000 applications weekly’ as storage capacity surges",
+      "url": "https://www.energy-storage.news/australias-home-battery-rebate-processes-8000-applications-weekly-as-storage-capacity-surges/",
+      "date": "2025-11-05T05:06:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Musk proposes PV-powered AI satellite network to fight global warming",
       "url": "https://www.pv-magazine.com/2025/11/04/musk-proposes-solar-powered-ai-satellite-network-to-fight-global-warming/",
@@ -502,27 +523,6 @@
       "title": "VIDEO: Demystifying the BESS metrics that matter most, from SoC and SoH to cell imbalance and RTE",
       "url": "https://www.energy-storage.news/video-demystifying-the-bess-metrics-that-matter-most-from-soc-and-soh-to-cell-imbalance-and-rte/",
       "date": "2025-10-24T06:29:11.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Samsung C&#038;T proposes 200MW grid-scale battery storage system in Queensland, Australia",
-      "url": "https://www.energy-storage.news/samsung-ct-proposes-200mw-grid-scale-battery-storage-system-in-queensland-australia/",
-      "date": "2025-10-24T04:01:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Raffeisen pension fund joins EBRD, EU on large-scale Croatia BESS and VPP investment",
-      "url": "https://www.energy-storage.news/raffeisen-pension-fund-joins-ebrd-eu-on-large-scale-croatia-bess-and-vpp-investment/",
-      "date": "2025-10-23T11:46:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Calibrant to deliver BESS for Pacific Northwest data centre in ‘first-of-its-kind’ project",
-      "url": "https://www.energy-storage.news/calibrant-to-deliver-bess-for-pacific-northwest-data-centre-in-first-of-its-kind-project/",
-      "date": "2025-10-23T11:39:35.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
