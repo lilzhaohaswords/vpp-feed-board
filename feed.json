@@ -1,6 +1,13 @@
 {
-  "ts": 1762329671448,
+  "ts": 1762333824562,
   "items": [
+    {
+      "title": "India’s Avaada unveils hybrid solar battery inverter",
+      "url": "https://www.pv-magazine.com/2025/11/05/indias-avaada-unveils-hybrid-solar-battery-inverter-at-rei-2025/",
+      "date": "2025-11-05T08:35:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Field trial shows third-party control of residential heat pumps can provide grid flexibility",
       "url": "https://www.pv-magazine.com/2025/11/05/field-trial-shows-third-party-control-of-residential-heat-pumps-can-provide-grid-flexibility/",
@@ -243,13 +250,6 @@
       "title": "China’s new auction system drives steep solar price declines",
       "url": "https://www.pv-magazine.com/2025/11/03/chinas-new-auction-system-drives-steep-solar-price-declines/",
       "date": "2025-11-03T14:00:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "French startup launches cleaning robots for solar PV shade structures",
-      "url": "https://www.pv-magazine.com/2025/11/03/french-startup-launches-cleaning-robots-for-solar-pv-shade-structures/",
-      "date": "2025-11-03T13:37:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
