@@ -1,6 +1,13 @@
 {
-  "ts": 1762336864290,
+  "ts": 1762340470938,
   "items": [
+    {
+      "title": "Argentina’s EPSE to begin module output at 400 MW solar factory",
+      "url": "https://www.pv-magazine.com/2025/11/05/argentinas-epse-to-begin-module-output-at-400-mw-solar-factory/",
+      "date": "2025-11-05T10:00:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar cell inspection tool evolution set to slash manufacturing costs by billions",
       "url": "https://www.pv-magazine.com/2025/11/05/solar-cell-inspection-tool-evolution-set-to-slash-manufacturing-costs-by-billions/",
@@ -243,13 +250,6 @@
       "title": "Morocco distributed solar potential pegged at 28.6 GW",
       "url": "https://www.pv-magazine.com/2025/11/03/morocco-distributed-solar-potential-pegged-at-28-6-gw/",
       "date": "2025-11-03T16:00:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ghana, Switzerland partner on $200 million rooftop solar rollout",
-      "url": "https://www.pv-magazine.com/2025/11/03/ghana-switzerland-partner-on-200-million-rooftop-solar-rollout/",
-      "date": "2025-11-03T15:00:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
