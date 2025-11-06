@@ -1,6 +1,13 @@
 {
-  "ts": 1762412465633,
+  "ts": 1762416060345,
   "items": [
+    {
+      "title": "Bosch starts up 2.5 MW hydrogen electrolyzer in Germany",
+      "url": "https://www.pv-magazine.com/2025/11/06/bosch-starts-up-2-5-mw-hydrogen-electrolyzer-in-germany/",
+      "date": "2025-11-06T07:56:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Eco Stor breaks ground on Germany’s largest battery storage project",
       "url": "https://www.pv-magazine.com/2025/11/05/eco-stor-breaks-ground-on-germanys-largest-battery-storage-project/",
@@ -244,13 +251,6 @@
       "url": "https://www.energy-storage.news/collaboration-not-isolation-indias-path-to-becoming-a-global-energy-storage-supply-hub/",
       "date": "2025-11-04T11:48:18.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Toyo strikes solar cell supply deal with Voltec Solar",
-      "url": "https://www.pv-magazine.com/2025/11/04/toyo-strikes-solar-cell-supply-deal-with-voltec-solar/",
-      "date": "2025-11-04T11:33:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
