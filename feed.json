@@ -1,6 +1,20 @@
 {
-  "ts": 1762416060345,
+  "ts": 1762419672291,
   "items": [
+    {
+      "title": "Early integration of EBOS key to maximizing value for PV projects",
+      "url": "https://www.pv-magazine.com/2025/11/06/early-integration-of-ebos-key-to-maximizing-value-for-pv-projects/",
+      "date": "2025-11-06T09:00:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SolarEdge stock jumps 25% on Q3 earnings",
+      "url": "https://www.pv-magazine.com/2025/11/06/solaredge-stock-jumps-25-on-q3-earnings/",
+      "date": "2025-11-06T08:45:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Bosch starts up 2.5 MW hydrogen electrolyzer in Germany",
       "url": "https://www.pv-magazine.com/2025/11/06/bosch-starts-up-2-5-mw-hydrogen-electrolyzer-in-germany/",
@@ -219,24 +233,10 @@
       "bucket": "A"
     },
     {
-      "title": "GSE Intégration debuts reversible, concrete-free solar mounting in France",
-      "url": "https://www.pv-magazine.com/2025/11/04/frances-gse-integration-unveils-reversible-concrete-free-pv-mounting-system/",
-      "date": "2025-11-04T12:00:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Baltic Storage Platform secures finance for Estonia BESS, Lithuanian scheme oversubscribed",
       "url": "https://www.energy-storage.news/baltic-storage-platform-secures-finance-for-estonia-bess-lithuanian-scheme-oversubscribed/",
       "date": "2025-11-04T11:59:46.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European PPAs held back by diverging price expectations, says Pexapark",
-      "url": "https://www.pv-magazine.com/2025/11/04/european-ppas-held-back-by-diverging-price-expectations-says-pexapark/",
-      "date": "2025-11-04T11:57:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
