@@ -1,6 +1,48 @@
 {
-  "ts": 1762435434015,
+  "ts": 1762437672680,
   "items": [
+    {
+      "title": "Loom Solar unveils 730 Wp modules, 1.2 GW factory plan in India",
+      "url": "https://www.pv-magazine.com/2025/11/06/loom-solar-unveils-730-wp-modules-1-2-gw-factory-plan-in-india/",
+      "date": "2025-11-06T14:00:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "GridStor’s 440MWh Texas BESS begins operations",
+      "url": "https://www.energy-storage.news/gridstors-440mwh-texas-bess-begins-operations/",
+      "date": "2025-11-06T13:57:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "BrightNight and Cordelio reach financial close for 1,200MWh Arizona BESS",
+      "url": "https://www.energy-storage.news/brightnight-and-cordelio-reach-financial-close-for-1200mwh-arizona-bess/",
+      "date": "2025-11-06T13:56:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Watch: Industry leaders on how distributed solar solves the U.S. power crisis",
+      "url": "https://www.pv-magazine.com/2025/11/06/watch-industry-leaders-on-how-distributed-solar-solves-the-u-s-power-crisis/",
+      "date": "2025-11-06T13:56:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Key takeaways from RE-Source 2025: Complexity grows in PPA market",
+      "url": "https://www.pv-magazine.com/2025/11/06/key-takeaways-from-re-source-2025-complexity-grows-in-ppa-market/",
+      "date": "2025-11-06T13:52:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Work underway on &#8216;river&#8217; heat pump complex in Massachusetts",
+      "url": "https://www.pv-magazine.com/2025/11/06/work-underway-on-river-heat-pump-complex-in-massachusetts/",
+      "date": "2025-11-06T13:42:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "IFC plans investment in 97 Nigerian minigrids",
       "url": "https://www.pv-magazine.com/2025/11/06/ifc-plans-investment-in-97-nigerian-minigrids/",
@@ -208,34 +250,6 @@
       "title": "New simulation tool to measure angular losses in PV systems",
       "url": "https://www.pv-magazine.com/2025/11/05/new-simulation-tool-to-measure-angular-losses-in-pv-systems/",
       "date": "2025-11-05T12:12:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Dubai expands storage in seventh phase of world’s largest solar park",
-      "url": "https://www.pv-magazine.com/2025/11/05/dubai-expands-storage-in-seventh-phase-of-worlds-largest-solar-park/",
-      "date": "2025-11-05T12:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Argentina’s EPSE to begin module output at 400 MW solar factory",
-      "url": "https://www.pv-magazine.com/2025/11/05/argentinas-epse-to-begin-module-output-at-400-mw-solar-factory/",
-      "date": "2025-11-05T10:00:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar cell inspection tool evolution set to slash manufacturing costs by billions",
-      "url": "https://www.pv-magazine.com/2025/11/05/solar-cell-inspection-tool-evolution-set-to-slash-manufacturing-costs-by-billions/",
-      "date": "2025-11-05T09:15:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s Avaada unveils hybrid solar battery inverter",
-      "url": "https://www.pv-magazine.com/2025/11/05/indias-avaada-unveils-hybrid-solar-battery-inverter-at-rei-2025/",
-      "date": "2025-11-05T08:35:06.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Singapore: 670MW ‘hydrogen-ready’ CCGT with integrated battery storage, inertia trial at Southeast Asia’s biggest BESS",
       "url": "https://www.energy-storage.news/singapore-670mw-hydrogen-ready-ccgt-with-integrated-battery-storage-inertia-trial-at-southeast-asias-biggest-bess/",
       "date": "2025-10-28T07:47:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: Energy storage comprises 26.1GW of AEMO&#8217;s record 56.6GW NEM project pipeline",
-      "url": "https://www.energy-storage.news/australia-energy-storage-comprises-26-1gw-of-aemos-record-56-6gw-nem-project-pipeline/",
-      "date": "2025-10-28T04:40:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Wärtsilä to deliver ‘Australia&#8217;s largest DC-coupled hybrid battery system’ for the NEM",
-      "url": "https://www.energy-storage.news/wartsila-to-deliver-australias-largest-dc-coupled-hybrid-battery-system-for-the-nem/",
-      "date": "2025-10-28T04:38:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
