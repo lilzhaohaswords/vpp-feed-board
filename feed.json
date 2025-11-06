@@ -1,8 +1,15 @@
 {
-  "ts": 1762437672680,
+  "ts": 1762441367237,
   "items": [
     {
-      "title": "Loom Solar unveils 730 Wp modules, 1.2 GW factory plan in India",
+      "title": "UK solar company shut down after defrauding elderly consumers",
+      "url": "https://www.pv-magazine.com/2025/11/06/uk-solar-company-shut-down-after-defrauding-elderly-consumers/",
+      "date": "2025-11-06T14:54:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Loom Solar unveils 730 W modules, 1.2 GW factory plan in India",
       "url": "https://www.pv-magazine.com/2025/11/06/loom-solar-unveils-730-wp-modules-1-2-gw-factory-plan-in-india/",
       "date": "2025-11-06T14:00:34.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -244,13 +251,6 @@
       "url": "https://www.energy-storage.news/canadian-lg-energy-solution-and-stellantis-joint-venture-to-produce-lfp-cells-for-bess/",
       "date": "2025-11-05T12:19:30.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New simulation tool to measure angular losses in PV systems",
-      "url": "https://www.pv-magazine.com/2025/11/05/new-simulation-tool-to-measure-angular-losses-in-pv-systems/",
-      "date": "2025-11-05T12:12:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
