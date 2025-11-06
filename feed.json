@@ -1,6 +1,41 @@
 {
-  "ts": 1762430476787,
+  "ts": 1762435434015,
   "items": [
+    {
+      "title": "IFC plans investment in 97 Nigerian minigrids",
+      "url": "https://www.pv-magazine.com/2025/11/06/ifc-plans-investment-in-97-nigerian-minigrids/",
+      "date": "2025-11-06T13:00:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spain allocates €840 million funds for storage projects, passes grid resilience decree",
+      "url": "https://www.energy-storage.news/spain-allocates-e840-million-funds-for-storage-projects-passes-grid-resilience-decree/",
+      "date": "2025-11-06T12:53:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Spanish start-up Bihar Batteries to commercialize sodium-ion batteries in 2026",
+      "url": "https://www.pv-magazine.com/2025/11/06/spanish-start-up-bihar-batteries-to-commercialize-sodium-ion-batteries-in-2026/",
+      "date": "2025-11-06T12:37:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "TotalEnergies&#8217; possible German BESS divestment &#8216;mainly about recycling capital&#8217;",
+      "url": "https://www.energy-storage.news/totalenergies-possible-german-germany-platform-divestment-mainly-recycling-capital/",
+      "date": "2025-11-06T12:35:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s Solar Sharer scheme could weaken case for batteries, says Rystad",
+      "url": "https://www.pv-magazine.com/2025/11/06/australias-solar-sharer-scheme-could-weaken-case-for-utility-batteries-says-rystad/",
+      "date": "2025-11-06T12:05:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "HyperStrong Charts New Blueprint for Global BESS Success: The Integration Edge",
       "url": "https://www.energy-storage.news/hyperstrong-charts-new-blueprint-for-global-bess-success-the-integration-edge/",
@@ -201,27 +236,6 @@
       "title": "India’s Avaada unveils hybrid solar battery inverter",
       "url": "https://www.pv-magazine.com/2025/11/05/indias-avaada-unveils-hybrid-solar-battery-inverter-at-rei-2025/",
       "date": "2025-11-05T08:35:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Field trial shows third-party control of residential heat pumps can provide grid flexibility",
-      "url": "https://www.pv-magazine.com/2025/11/05/field-trial-shows-third-party-control-of-residential-heat-pumps-can-provide-grid-flexibility/",
-      "date": "2025-11-05T07:57:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US solar tariffs linked to preventable deaths, claim researchers",
-      "url": "https://www.pv-magazine.com/2025/11/05/us-solar-tariffs-linked-to-preventable-deaths-claim-researchers/",
-      "date": "2025-11-05T07:45:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "France concludes C&#038;I rooftop PV tender with average price of €0.09648/kWh",
-      "url": "https://www.pv-magazine.com/2025/11/05/france-concludes-ci-rooftop-pv-tender-with-average-price-of-e0-09648-kwh/",
-      "date": "2025-11-05T07:26:43.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Wärtsilä to deliver ‘Australia&#8217;s largest DC-coupled hybrid battery system’ for the NEM",
       "url": "https://www.energy-storage.news/wartsila-to-deliver-australias-largest-dc-coupled-hybrid-battery-system-for-the-nem/",
       "date": "2025-10-28T04:38:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UAE: Masdar begins work on &#8216;world-largest&#8217; solar-plus-storage project with 19GWh BESS",
-      "url": "https://www.energy-storage.news/uae-masdar-world-largest-solar-plus-storage-19gwh-bess/",
-      "date": "2025-10-27T10:29:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Saft wins 356MWh battery storage project contract in Taiwan with Foxlink Group company",
-      "url": "https://www.energy-storage.news/saft-wins-356mwh-battery-storage-project-contract-in-taiwan-with-foxlink-group-company/",
-      "date": "2025-10-27T08:54:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
