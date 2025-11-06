@@ -1,6 +1,34 @@
 {
-  "ts": 1762419672291,
+  "ts": 1762423269689,
   "items": [
+    {
+      "title": "US study outlines gains and risks in agrivoltaic solar development",
+      "url": "https://www.pv-magazine.com/2025/11/06/us-study-outlines-gains-and-risks-in-agrivoltaic-solar-development/",
+      "date": "2025-11-06T09:30:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Gotion High-Tech, Clou Electronics, Eve Battery and Kstar show strong performance in Q3",
+      "url": "https://www.energy-storage.news/gotion-high-tech-clou-electronics-eve-battery-and-kstar-show-strong-performance-in-q3/",
+      "date": "2025-11-06T09:21:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Akaysha Energy bags AU$460 million for 1,244MWh BESS in Victoria, Australia",
+      "url": "https://www.energy-storage.news/akaysha-energy-bags-au460-million-for-1244mwh-bess-in-victoria-australia/",
+      "date": "2025-11-06T09:15:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Origin Energy secures AEMO Connection Agreements for 650MWh grid-forming BESS in Australia",
+      "url": "https://www.energy-storage.news/origin-energy-secures-aemo-connection-agreements-for-650mwh-grid-forming-bess-in-australia/",
+      "date": "2025-11-06T09:12:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Early integration of EBOS key to maximizing value for PV projects",
       "url": "https://www.pv-magazine.com/2025/11/06/early-integration-of-ebos-key-to-maximizing-value-for-pv-projects/",
@@ -223,13 +251,6 @@
       "url": "https://www.energy-storage.news/drax-buys-260mw-of-in-development-uk-bess-projects/",
       "date": "2025-11-04T14:37:07.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ZincFive unveils BC 2 AI battery system for both AI and traditional IT loads",
-      "url": "https://www.pv-magazine.com/2025/11/04/zincfive-unveils-bc-2-ai-battery-system-for-both-ai-and-traditional-it-loads/",
-      "date": "2025-11-04T14:33:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "&#8216;Significantly more complex than expected&#8217;: Redearth&#8217;s Australian vehicle-to-grid launch",
       "url": "https://www.energy-storage.news/significantly-more-complex-than-expected-redearths-australian-vehicle-to-grid-launch/",
       "date": "2025-10-27T04:54:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s Cheaper Home Batteries Program reaches 2GWh of storage capacity",
-      "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-reaches-2gwh-of-storage-capacity/",
-      "date": "2025-10-27T04:41:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy Vault, Jupiter Power, advance projects in ERCOT BESS market",
-      "url": "https://www.energy-storage.news/energy-vault-jupiter-power-advance-projects-in-ercot-bess-market/",
-      "date": "2025-10-24T15:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US battery materials and BESS firm Redwood raises US$350 million Series E",
-      "url": "https://www.energy-storage.news/us-battery-materials-and-bess-firm-redwood-raises-us350-million-series-e/",
-      "date": "2025-10-24T10:56:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
