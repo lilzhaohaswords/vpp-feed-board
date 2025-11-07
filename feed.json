@@ -1,6 +1,69 @@
 {
-  "ts": 1762502484786,
+  "ts": 1762506069408,
   "items": [
+    {
+      "title": "Protecting the grid from extreme weather",
+      "url": "https://www.pv-magazine.com/2025/11/07/protecting-the-grid-from-extreme-weather/",
+      "date": "2025-11-07T09:00:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK&#8217;s approved BESS pipeline grows to 162GWh, nearly 22GWh under construction",
+      "url": "https://www.energy-storage.news/uks-approved-bess-pipeline-grows-to-162gwh-nearly-22gwh-under-construction/",
+      "date": "2025-11-07T08:56:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Swiss researchers develop snow model to optimize PV system design in alpine regions",
+      "url": "https://www.pv-magazine.com/2025/11/07/swiss-researchers-develop-snow-model-to-optimize-pv-syse-in-alpine-regions/",
+      "date": "2025-11-07T08:47:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Stop the 20% BESS revenue leak with warranty-grade data",
+      "url": "https://www.energy-storage.news/video-stop-the-20-bess-revenue-leak-with-warranty-grade-data/",
+      "date": "2025-11-07T08:38:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "From scale to strength: How India’s solar industry is forced to become a global premium player",
+      "url": "https://www.pv-magazine.com/2025/11/07/from-scale-to-strength-how-indias-solar-industry-is-forced-to-become-a-global-premium-player/",
+      "date": "2025-11-07T08:37:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Eco Stor launches construction on &#8216;milestone&#8217; 700MWh Germany BESS project",
+      "url": "https://www.energy-storage.news/eco-stor-launches-construction-on-milestone-700mwh-germany-bess-project/",
+      "date": "2025-11-07T08:35:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "ICRA warns of PV module overcapacity driving consolidation in India",
+      "url": "https://www.pv-magazine.com/2025/11/07/icra-warns-of-solar-module-overcapacity-driving-consolidation-in-india/",
+      "date": "2025-11-07T08:30:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "High pressure boosts eastern solar as storms hit North America&#8217;s northwest",
+      "url": "https://www.pv-magazine.com/2025/11/07/high-pressure-boosts-eastern-solar-as-storms-hit-north-americas-northwest/",
+      "date": "2025-11-07T08:22:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Trina Storage signs 5GWh battery storage supply agreement with Pacific Green Energy",
+      "url": "https://www.energy-storage.news/trina-storage-signs-5gwh-battery-storage-supply-agreement-with-pacific-green-energy/",
+      "date": "2025-11-07T08:19:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Chinese solar cell prices ease as looming Indian antidumping duties prompt contract renegotiations",
       "url": "https://www.pv-magazine.com/2025/11/07/chinese-solar-cell-prices-ease-as-looming-indian-antidumping-duties-prompt-contract-renegotiations/",
@@ -194,41 +257,6 @@
       "title": "SolarEdge stock jumps 25% on Q3 earnings",
       "url": "https://www.pv-magazine.com/2025/11/06/solaredge-stock-jumps-25-on-q3-earnings/",
       "date": "2025-11-06T08:45:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bosch starts up 2.5 MW hydrogen electrolyzer in Germany",
-      "url": "https://www.pv-magazine.com/2025/11/06/bosch-starts-up-2-5-mw-hydrogen-electrolyzer-in-germany/",
-      "date": "2025-11-06T07:56:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Eco Stor breaks ground on Germany’s largest battery storage project",
-      "url": "https://www.pv-magazine.com/2025/11/05/eco-stor-breaks-ground-on-germanys-largest-battery-storage-project/",
-      "date": "2025-11-05T16:15:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK solar capacity hits 20 GW",
-      "url": "https://www.pv-magazine.com/2025/11/05/uk-solar-capacity-hits-20-gw/",
-      "date": "2025-11-05T15:55:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Key takeaways from Energy Taiwan &#038; Net Zero Taiwan 2025",
-      "url": "https://www.pv-magazine.com/2025/11/05/key-takeaways-from-energy-taiwan-net-zero-taiwan-2025/",
-      "date": "2025-11-05T15:33:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan’s NGK discontinues manufacturing of sodium-sulfur batteries",
-      "url": "https://www.pv-magazine.com/2025/11/05/japans-ngk-discontinues-manufacturing-of-sodium-sulfur-batteries/",
-      "date": "2025-11-05T14:28:28.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -495,34 +523,6 @@
       "title": "Tesla reports record energy storage deployments and profit ahead of vote on Musk’s monster pay proposal",
       "url": "https://www.energy-storage.news/tesla-reports-record-energy-storage-deployments-and-profit-ahead-of-vote-on-musks-monster-pay-proposal/",
       "date": "2025-10-28T14:17:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Zinc battery storage startup Eos to invest US$353 million in manufacturing and HQ move to Pennsylvania",
-      "url": "https://www.energy-storage.news/zinc-battery-storage-startup-eos-to-invest-us353-million-in-manufacturing-and-hq-move-to-pennsylvania/",
-      "date": "2025-10-28T13:23:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Driving change: Volvo Penta’s battery systems for BESS applications in construction",
-      "url": "https://www.energy-storage.news/driving-change-volvo-pentas-battery-systems-for-bess-applications-in-construction/",
-      "date": "2025-10-28T13:00:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Terna is the big winner&#8217;: Taking stock of Italy&#8217;s MACSE auction",
-      "url": "https://www.energy-storage.news/terna-is-the-big-winner-taking-stock-of-italys-macse-auction/",
-      "date": "2025-10-28T12:50:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Singapore: 670MW ‘hydrogen-ready’ CCGT with integrated battery storage, inertia trial at Southeast Asia’s biggest BESS",
-      "url": "https://www.energy-storage.news/singapore-670mw-hydrogen-ready-ccgt-with-integrated-battery-storage-inertia-trial-at-southeast-asias-biggest-bess/",
-      "date": "2025-10-28T07:47:34.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
