@@ -1,6 +1,13 @@
 {
-  "ts": 1762521634993,
+  "ts": 1762524061891,
   "items": [
+    {
+      "title": "AI powered solar forecasting helps UK grid operator reduce balancing costs",
+      "url": "https://www.pv-magazine.com/2025/11/07/ai-powered-solar-forecasting-helps-uk-grid-operator-reduce-balancing-costs/",
+      "date": "2025-11-07T13:38:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "LG Chem, Sinopec to jointly develop sodium-ion battery materials",
       "url": "https://www.pv-magazine.com/2025/11/07/lg-chem-sinopec-to-jointly-develop-sodium-ion-battery-materials/",
@@ -216,13 +223,6 @@
       "url": "https://www.energy-storage.news/spain-allocates-e840-million-funds-for-storage-projects-passes-grid-resilience-decree/",
       "date": "2025-11-06T12:53:28.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Spanish start-up Bihar Batteries to commercialize sodium-ion batteries in 2026",
-      "url": "https://www.pv-magazine.com/2025/11/06/spanish-start-up-bihar-batteries-to-commercialize-sodium-ion-batteries-in-2026/",
-      "date": "2025-11-06T12:37:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
