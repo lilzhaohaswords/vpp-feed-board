@@ -1,6 +1,41 @@
 {
-  "ts": 1762765255061,
+  "ts": 1762768872588,
   "items": [
+    {
+      "title": "Anker SOLIX announces VPP-ready home energy solution",
+      "url": "https://www.pv-magazine.com/2025/11/10/anker-solix-announces-vpp-ready-home-energy-solution/",
+      "date": "2025-11-10T10:00:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "HD Renewable Energy secures 20-year offtake for 330MWh Templers BESS in South Australia",
+      "url": "https://www.energy-storage.news/hd-renewable-energy-secures-20-year-offtake-for-330mwh-templers-bess-in-south-australia/",
+      "date": "2025-11-10T09:41:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "AGL divests 19.9% Tilt Renewables stake to fund battery storage expansion",
+      "url": "https://www.energy-storage.news/agl-divests-19-9-tilt-renewables-stake-to-fund-battery-storage-expansion/",
+      "date": "2025-11-10T09:37:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "India’s Kosol Energie unveils 730 W solar panel, enters storage sector",
+      "url": "https://www.pv-magazine.com/2025/11/10/indias-kosol-energie-unveils-730-w-solar-panel-enters-storage-sector/",
+      "date": "2025-11-10T09:15:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fothermo launches immersion heater for excess PV power",
+      "url": "https://www.pv-magazine.com/2025/11/10/fothermo-launches-immersion-heater-for-excess-pv-power/",
+      "date": "2025-11-10T09:11:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US solar, storage projects face risk from political obstruction",
       "url": "https://www.pv-magazine.com/2025/11/10/us-solar-storage-projects-face-risk-from-political-obstruction/",
@@ -194,27 +229,6 @@
       "title": "Aermec debuts modular heat pump for residential, commercial buildings",
       "url": "https://www.pv-magazine.com/2025/11/07/aermec-debuts-modular-heat-pump-for-residential-commercial-buildings/",
       "date": "2025-11-07T07:35:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ukraine amends loan scheme for home, hybrid solar installations",
-      "url": "https://www.pv-magazine.com/2025/11/06/ukraine-amends-loan-scheme-for-home-hybrid-solar-installations/",
-      "date": "2025-11-06T16:53:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK solar company shut down after defrauding elderly consumers",
-      "url": "https://www.pv-magazine.com/2025/11/06/uk-solar-company-shut-down-after-defrauding-elderly-consumers/",
-      "date": "2025-11-06T14:54:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Loom Solar unveils 730 W modules, 1.2 GW factory plan in India",
-      "url": "https://www.pv-magazine.com/2025/11/06/loom-solar-unveils-730-wp-modules-1-2-gw-factory-plan-in-india/",
-      "date": "2025-11-06T14:00:34.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Greenvolt, European Energy, Olana and Energix progress Denmark, Poland and Baltic BESS projects",
       "url": "https://www.energy-storage.news/greenvolt-european-energy-olana-and-energix-progress-denmark-poland-and-baltic-bess-projects/",
       "date": "2025-10-29T11:16:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SMA system integrator subsidiary Altenso enters Australian market with two BESS projects",
-      "url": "https://www.energy-storage.news/sma-system-integrator-subsidiary-altenso-enters-australian-market-with-two-bess-projects/",
-      "date": "2025-10-29T07:26:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Daiwa Energy &#038; Infrastructure builds 160MWh revenue-stacking BESS in Hokkaido, Japan",
-      "url": "https://www.energy-storage.news/daiwa-energy-infrastructure-builds-160mwh-revenue-stacking-bess-in-hokkaido-japan/",
-      "date": "2025-10-29T05:53:18.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
