@@ -1,6 +1,20 @@
 {
-  "ts": 1762772457817,
+  "ts": 1762776063678,
   "items": [
+    {
+      "title": "US ROUNDUP: Fullmark California portfolio, Habitat-Ørsted Texas optimisation, flow battery player Quino secures funding",
+      "url": "https://www.energy-storage.news/us-roundup-fullmark-california-portfolio-habitat-orsted-texas-optimisation-flow-battery-player-quino-secures-funding/",
+      "date": "2025-11-10T11:51:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Fraunhofer ISE spin-off launches heat pump information platform",
+      "url": "https://www.pv-magazine.com/2025/11/10/fraunhofer-ise-spin-off-launches-heat-pump-information-platform/",
+      "date": "2025-11-10T11:17:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "EFT Energy Solutions unveils modular battery for European C&#038;I market",
       "url": "https://www.pv-magazine.com/2025/11/10/eft-energy-solutions-introduces-modular-battery-system-for-european-ci-market/",
@@ -30,14 +44,14 @@
       "bucket": "A"
     },
     {
-      "title": "India’s Kosol Energie unveils 730 W solar panel, enters storage sector",
+      "title": "India’s Kosol Energie presents 730 W solar panel, enters storage sector",
       "url": "https://www.pv-magazine.com/2025/11/10/indias-kosol-energie-unveils-730-w-solar-panel-enters-storage-sector/",
       "date": "2025-11-10T09:15:18.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "Fothermo launches immersion heater for excess PV power",
+      "title": "Fothermo debuts immersion heater for excess PV power",
       "url": "https://www.pv-magazine.com/2025/11/10/fothermo-launches-immersion-heater-for-excess-pv-power/",
       "date": "2025-11-10T09:11:40.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -222,13 +236,6 @@
       "title": "Chinese solar cell prices ease as looming Indian antidumping duties prompt contract renegotiations",
       "url": "https://www.pv-magazine.com/2025/11/07/chinese-solar-cell-prices-ease-as-looming-indian-antidumping-duties-prompt-contract-renegotiations/",
       "date": "2025-11-07T07:56:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Off-grid solar tracker charges workplace EVs in California",
-      "url": "https://www.pv-magazine.com/2025/11/07/off-grid-solar-tracker-charges-workplace-evs-in-california/",
-      "date": "2025-11-07T07:45:46.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Argentina’s first BESS tender to inform future auctions, says CAMMESA",
       "url": "https://www.energy-storage.news/argentinas-first-bess-tender-to-inform-future-auctions-says-cammesa/",
       "date": "2025-10-29T12:37:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Greenvolt, European Energy, Olana and Energix progress Denmark, Poland and Baltic BESS projects",
-      "url": "https://www.energy-storage.news/greenvolt-european-energy-olana-and-energix-progress-denmark-poland-and-baltic-bess-projects/",
-      "date": "2025-10-29T11:16:20.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
