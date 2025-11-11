@@ -1,6 +1,13 @@
 {
-  "ts": 1762876857706,
+  "ts": 1762880458238,
   "items": [
+    {
+      "title": "Egypt&#8217;s government, TSO sign agreements for Hassan Allam, Infinity Power&#8217;s solar-plus-storage",
+      "url": "https://www.energy-storage.news/egypts-government-tso-sign-agreements-for-hassan-allam-infinity-powers-solar-plus-storage/",
+      "date": "2025-11-11T16:18:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Aira unveils battery storage system and inverter range",
       "url": "https://www.pv-magazine.com/2025/11/11/aira-unveils-battery-storage-system-and-inverter-range/",
@@ -516,13 +523,6 @@
       "title": "RWE starts building Germany&#8217;s largest BESS",
       "url": "https://www.energy-storage.news/rwe-starts-building-germanys-largest-bess/",
       "date": "2025-10-30T12:05:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy storage demand offsets EV slowdown, driving LG Energy Solution profit increase",
-      "url": "https://www.energy-storage.news/energy-storage-demand-offsets-ev-slowdown-driving-lg-energy-solution-profit-increase/",
-      "date": "2025-10-30T11:00:04.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
