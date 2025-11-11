@@ -1,6 +1,13 @@
 {
-  "ts": 1762869656833,
+  "ts": 1762873263518,
   "items": [
+    {
+      "title": "Enlight secures US$1.44 billion for Arizona hybrid PV plant with 1,900MWh BESS",
+      "url": "https://www.energy-storage.news/enlight-secures-us1-44-billion-for-arizona-hybrid-pv-plant-with-1900mwh-bess/",
+      "date": "2025-11-11T14:25:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "NGK pulls plug on world’s second-most-deployed grid storage battery technology after BASF exit",
       "url": "https://www.energy-storage.news/ngk-basf-exit-second-most-deployed-grid-storage-battery-technology/",
@@ -516,13 +523,6 @@
       "title": "Energy storage demand offsets EV slowdown, driving LG Energy Solution profit increase",
       "url": "https://www.energy-storage.news/energy-storage-demand-offsets-ev-slowdown-driving-lg-energy-solution-profit-increase/",
       "date": "2025-10-30T11:00:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: Victoria&#8217;s home battery programme delivers 20,000 installations as federal scheme takes over",
-      "url": "https://www.energy-storage.news/australia-victorias-home-battery-programme-delivers-20000-installations-as-federal-scheme-takes-over/",
-      "date": "2025-10-30T05:17:30.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
