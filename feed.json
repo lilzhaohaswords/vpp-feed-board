@@ -1,6 +1,13 @@
 {
-  "ts": 1762867407665,
+  "ts": 1762869656833,
   "items": [
+    {
+      "title": "NGK pulls plug on world’s second-most-deployed grid storage battery technology after BASF exit",
+      "url": "https://www.energy-storage.news/ngk-basf-exit-second-most-deployed-grid-storage-battery-technology/",
+      "date": "2025-11-11T13:25:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Brazil opens consultation for 2026 battery storage capacity auction",
       "url": "https://www.pv-magazine.com/2025/11/11/brazil-opens-consultation-for-2026-battery-storage-capacity-auction/",
@@ -516,13 +523,6 @@
       "title": "Australia: Victoria&#8217;s home battery programme delivers 20,000 installations as federal scheme takes over",
       "url": "https://www.energy-storage.news/australia-victorias-home-battery-programme-delivers-20000-installations-as-federal-scheme-takes-over/",
       "date": "2025-10-30T05:17:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hecate cancels 650MW Staten Island, New York BESS project",
-      "url": "https://www.energy-storage.news/hecate-cancels-650mw-long-island-new-york-bess-project/",
-      "date": "2025-10-29T13:45:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
