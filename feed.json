@@ -1,6 +1,20 @@
 {
-  "ts": 1762851663988,
+  "ts": 1762855261343,
   "items": [
+    {
+      "title": "VIDEO: The relevance of project customisation for Latin America&#8217;s successful adoption of BESS technologies",
+      "url": "https://www.energy-storage.news/video-the-relevance-of-project-customisation-for-latin-americas-successful-adoption-of-bess-technologies/",
+      "date": "2025-11-11T09:40:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia funds SunDrive to scale copper solar cells",
+      "url": "https://www.pv-magazine.com/2025/11/11/australia-funds-sundrive-with-aud-25-3m-to-scale-copper-solar-cells/",
+      "date": "2025-11-11T09:15:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Increasing PVT-assisted heat pump efficiency with liquid overfeed design",
       "url": "https://www.pv-magazine.com/2025/11/11/increasing-pvt-assisted-heat-pump-efficiency-with-liquid-overfeed-design/",
@@ -208,13 +222,6 @@
       "title": "Italy limits solar tax break to EU-made HJT and tandem modules",
       "url": "https://www.pv-magazine.com/2025/11/07/italy-limits-solar-tax-break-to-eu-made-hjt-and-tandem-modules/",
       "date": "2025-11-07T12:36:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "All low-cost PV monitoring systems at a glance",
-      "url": "https://www.pv-magazine.com/2025/11/07/all-low-cost-pv-monitoring-systems-at-a-glance/",
-      "date": "2025-11-07T12:06:08.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Hecate cancels 650MW Staten Island, New York BESS project",
       "url": "https://www.energy-storage.news/hecate-cancels-650mw-long-island-new-york-bess-project/",
       "date": "2025-10-29T13:45:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Propwr secures contract for natural gas BESS hybrid with Midwest US data centre",
-      "url": "https://www.energy-storage.news/propwr-secures-contract-for-natural-gas-bess-hybrid-with-midwest-us-data-centre/",
-      "date": "2025-10-29T13:32:52.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
