@@ -1,9 +1,16 @@
 {
-  "ts": 1762938660994,
+  "ts": 1762941662876,
   "items": [
     {
-      "title": "Three battery projects totalling 820MW enter Australia’s federal environmental assessment",
-      "url": "https://www.energy-storage.news/three-battery-projects-totalling-820mw-enter-australias-federal-environmental-assessment/",
+      "title": "California legislation sets new safety standards for battery storage",
+      "url": "https://www.pv-magazine.com/2025/11/12/california-legislation-sets-new-safety-standards-for-battery-storage/",
+      "date": "2025-11-12T09:15:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Three battery projects totalling 720MW enter Australia’s federal environmental assessment",
+      "url": "https://www.energy-storage.news/three-battery-projects-totalling-720mw-enter-australias-federal-environmental-assessment/",
       "date": "2025-11-12T09:09:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
@@ -215,13 +222,6 @@
       "title": "World&#8217;s first solar park featuring hydrogen-producing PV modules takes shape in Belgium",
       "url": "https://www.pv-magazine.com/2025/11/10/worlds-first-solar-park-featuring-hydrogen-producing-pv-modules-takes-shape-in-belgium/",
       "date": "2025-11-10T13:45:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Catastrophic failure’ at Waratah Super Battery in Australia",
-      "url": "https://www.pv-magazine.com/2025/11/10/catastrophic-failure-at-waratah-super-battery-in-australia/",
-      "date": "2025-11-10T13:18:11.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
