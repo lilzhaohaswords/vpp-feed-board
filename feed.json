@@ -1,6 +1,27 @@
 {
-  "ts": 1762953928575,
+  "ts": 1762956057939,
   "items": [
+    {
+      "title": "IEA warns global solar growth may plateau at 540 GW annually to 2035",
+      "url": "https://www.pv-magazine.com/2025/11/12/iea-warns-global-solar-growth-may-plateau-at-540-gw-annually-to-2035/",
+      "date": "2025-11-12T13:41:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sensorless approach for PV panel temperature monitoring",
+      "url": "https://www.pv-magazine.com/2025/11/12/sensorless-approach-for-pv-panel-temperature-monitoring/",
+      "date": "2025-11-12T13:34:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India: Adani makes ‘strategic entry’ into battery storage with 3.5GWh project",
+      "url": "https://www.energy-storage.news/india-adani-makes-strategic-entry-into-battery-storage-with-3-5gwh-project/",
+      "date": "2025-11-12T13:27:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Europe to require grid-forming capability for new storage above 1 MW",
       "url": "https://www.pv-magazine.com/2025/11/12/europe-to-require-grid-forming-capability-for-new-storage-above-1-mw/",
@@ -20,13 +41,6 @@
       "url": "https://www.energy-storage.news/energy-vault-credits-expanded-markets-and-new-strategies-with-q3-2025-growth/",
       "date": "2025-11-12T12:52:31.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy awards 2 GW in first agrivoltaic tender backed by EU funds",
-      "url": "https://www.pv-magazine.com/2025/11/12/italy-awards-2-5-gw-in-first-agrivoltaic-tender-backed-by-eu-funds/",
-      "date": "2025-11-12T12:45:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -243,13 +257,6 @@
       "title": "Adani Group to build India’s largest battery storage project",
       "url": "https://www.pv-magazine.com/2025/11/11/adani-group-to-build-indias-largest-battery-storage-project/",
       "date": "2025-11-11T08:30:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US solar developer Pine Gate Renewables files for bankruptcy",
-      "url": "https://www.pv-magazine.com/2025/11/11/us-solar-developer-pine-gate-renewables-files-for-bankruptcy/",
-      "date": "2025-11-11T07:42:49.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Envision launches modular &#8216;Gen 8&#8217; BESS equipped with 750Ah-plus cells",
       "url": "https://www.energy-storage.news/envision-launches-modular-gen-8-bess-equipped-with-750ah-plus-cells/",
       "date": "2025-10-31T10:35:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EBRD provides US$142 million for Uzbekistan&#8217;s first gigawatt-scale solar PV and energy storage portfolio",
-      "url": "https://www.energy-storage.news/ebrd-provides-us142-million-for-uzbekistans-first-gigawatt-scale-solar-pv-and-energy-storage-portfolio/",
-      "date": "2025-10-31T04:57:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
