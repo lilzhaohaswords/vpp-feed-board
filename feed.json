@@ -1,6 +1,34 @@
 {
-  "ts": 1762934467131,
+  "ts": 1762938660994,
   "items": [
+    {
+      "title": "Three battery projects totalling 820MW enter Australia’s federal environmental assessment",
+      "url": "https://www.energy-storage.news/three-battery-projects-totalling-820mw-enter-australias-federal-environmental-assessment/",
+      "date": "2025-11-12T09:09:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "QIC, EDP partner for 1,600MWh solar-plus-storage project in Queensland, Australia",
+      "url": "https://www.energy-storage.news/qic-edp-partner-for-1600mwh-solar-plus-storage-project-in-queensland-australia/",
+      "date": "2025-11-12T09:04:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s S-Rack installs 83 kW solar carport for Parramatta Council EVs",
+      "url": "https://www.pv-magazine.com/2025/11/12/australias-s-rack-installs-83-kw-solar-carport-for-parramatta-council-evs/",
+      "date": "2025-11-12T08:30:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US startup launches DC-powered solar water heater",
+      "url": "https://www.pv-magazine.com/2025/11/12/us-startup-launches-dc-powered-solar-water-heater/",
+      "date": "2025-11-12T08:05:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India’s Sunsure signs 19.36 MW wind–solar supply deal with DFPCL",
       "url": "https://www.pv-magazine.com/2025/11/12/indias-sunsure-signs-19-36-mw-wind-solar-supply-deal-with-dfpcl/",
@@ -194,20 +222,6 @@
       "title": "‘Catastrophic failure’ at Waratah Super Battery in Australia",
       "url": "https://www.pv-magazine.com/2025/11/10/catastrophic-failure-at-waratah-super-battery-in-australia/",
       "date": "2025-11-10T13:18:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "NTU achieves high stability in 25.1%-efficient inverted perovskite solar cell",
-      "url": "https://www.pv-magazine.com/2025/11/10/ntu-achieves-high-stability-in-25-1-efficient-inverted-perovskite-solar-cell/",
-      "date": "2025-11-10T12:36:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Philippines increases allocation under fourth energy auction",
-      "url": "https://www.pv-magazine.com/2025/11/10/philippines-increases-allocation-under-fourth-energy-auction/",
-      "date": "2025-11-10T12:00:43.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "BYD and Skysense partner to deploy 300MWh of energy storage in Latin America",
       "url": "https://www.energy-storage.news/byd-and-skysense-partner-to-deploy-300mwh-of-energy-storage-in-latin-america/",
       "date": "2025-10-30T13:28:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow&#8217;s Q3 revenue, net profit and shipments soar",
-      "url": "https://www.energy-storage.news/sungrows-q3-revenue-net-profit-and-shipments-soar/",
-      "date": "2025-10-30T12:08:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "RWE starts building Germany&#8217;s largest BESS",
-      "url": "https://www.energy-storage.news/rwe-starts-building-germanys-largest-bess/",
-      "date": "2025-10-30T12:05:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
