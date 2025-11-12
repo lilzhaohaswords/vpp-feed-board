@@ -1,6 +1,20 @@
 {
-  "ts": 1762945253302,
+  "ts": 1762948859609,
   "items": [
+    {
+      "title": "Optimizing PV system tilt angle, MPPT using fuzzy logic controller",
+      "url": "https://www.pv-magazine.com/2025/11/12/optimizing-pv-system-tilt-angle-mppt-using-fuzzy-logic-controller/",
+      "date": "2025-11-12T11:54:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "U.S. scientists build graphene-based solar cells than can charge supercapacitors",
+      "url": "https://www.pv-magazine.com/2025/11/12/us-scientists-build-graphene-based-solar-cells-than-can-charge-supercapacitors/",
+      "date": "2025-11-12T11:39:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "How important is cell-to-ESS vertical integration?",
       "url": "https://www.energy-storage.news/how-important-is-cell-to-ess-vertical-integration/",
@@ -215,20 +229,6 @@
       "title": "Bangladesh opens testing lab to certify solar module quality",
       "url": "https://www.pv-magazine.com/2025/11/10/bangladesh-opens-testing-lab-to-certify-solar-module-quality/",
       "date": "2025-11-10T14:30:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Detecting PV module defects at a single glance",
-      "url": "https://www.pv-magazine.com/2025/11/10/detecting-pv-module-defects-at-a-single-glance/",
-      "date": "2025-11-10T13:49:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "World&#8217;s first solar park featuring hydrogen-producing PV modules takes shape in Belgium",
-      "url": "https://www.pv-magazine.com/2025/11/10/worlds-first-solar-park-featuring-hydrogen-producing-pv-modules-takes-shape-in-belgium/",
-      "date": "2025-11-10T13:45:56.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
