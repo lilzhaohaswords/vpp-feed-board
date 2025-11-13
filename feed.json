@@ -1,6 +1,41 @@
 {
-  "ts": 1763020861113,
+  "ts": 1763024457782,
   "items": [
+    {
+      "title": "Enecom launches reinforced solar panels for boating, off-grid use",
+      "url": "https://www.pv-magazine.com/2025/11/13/enecom-launches-reinforced-solar-panels-for-boating-off-grid-use/",
+      "date": "2025-11-13T08:58:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Octopus Australia reaches financial close on 486MWh DC-coupled solar-plus-storage site",
+      "url": "https://www.energy-storage.news/octopus-australia-reaches-financial-close-on-486mwh-dc-coupled-solar-plus-storage-site/",
+      "date": "2025-11-13T08:56:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ampyr Australia acquires 2,160MWh grid-forming BESS project in South Australia",
+      "url": "https://www.energy-storage.news/ampyr-australia-acquires-2160mwh-grid-forming-bess-project-in-south-australia/",
+      "date": "2025-11-13T08:55:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Vertical bifacial agrivoltaics feasible at high latitudes with 8-meter row spacing",
+      "url": "https://www.pv-magazine.com/2025/11/13/vertical-bifacial-agrivoltaics-feasible-at-high-latitudes-with-8-meter-row-spacing/",
+      "date": "2025-11-13T08:51:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "RenewSys launches TOPCon solar cells at REI 2025",
+      "url": "https://www.pv-magazine.com/2025/11/13/renewsys-launches-topcon-solar-cells-at-rei-2025/",
+      "date": "2025-11-13T08:30:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "SunPower to acquire Ambia Solar to reinforce US residential market",
       "url": "https://www.pv-magazine.com/2025/11/13/sunpower-to-acquire-ambia-solar-to-reinforce-us-residential-market/",
@@ -58,7 +93,7 @@
       "bucket": "A"
     },
     {
-      "title": "Europe to require grid-forming capability for new storage above 1 MW",
+      "title": "Europe to require grid-forming capability for new storage, renewables above 1 MW",
       "url": "https://www.pv-magazine.com/2025/11/12/europe-to-require-grid-forming-capability-for-new-storage-above-1-mw/",
       "date": "2025-11-12T13:05:03.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -222,27 +257,6 @@
       "title": "The future arrived early: Why our energy cost forecasts need to catch up",
       "url": "https://www.pv-magazine.com/2025/11/11/the-future-arrived-early-why-our-energy-cost-forecasts-need-to-catch-up/",
       "date": "2025-11-11T11:41:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Idemitsu developing CIGS solar modules for satellites",
-      "url": "https://www.pv-magazine.com/2025/11/11/idemitsu-developing-cigs-solar-modules-for-satellites/",
-      "date": "2025-11-11T11:38:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "GoodWe releases new residential all-in-one storage solution",
-      "url": "https://www.pv-magazine.com/2025/11/11/goodwe-releases-new-residential-all-in-one-storage-solution/",
-      "date": "2025-11-11T11:26:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Indonesia expected to reach 23.2 GW of solar by 2035",
-      "url": "https://www.pv-magazine.com/2025/11/11/indonesia-expected-to-reach-23-2-gw-of-solar-by-2035/",
-      "date": "2025-11-11T10:23:58.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Flatiron Energy upsizes credit facility to US$250 million for BESS portfolio",
       "url": "https://www.energy-storage.news/flatiron-energy-upsizes-credit-facility-to-us250-million-for-bess-portfolio/",
       "date": "2025-10-31T14:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Wisconsin utilities opt for solar-plus-storage project acquisitions over ‘debt-like PPAs’",
-      "url": "https://www.energy-storage.news/wisconsin-utilities-seek-regulatory-approval-775-million-hybrid-bess-acquisition-ranger-power/",
-      "date": "2025-10-31T12:32:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Envision launches modular &#8216;Gen 8&#8217; BESS equipped with 750Ah-plus cells",
-      "url": "https://www.energy-storage.news/envision-launches-modular-gen-8-bess-equipped-with-750ah-plus-cells/",
-      "date": "2025-10-31T10:35:04.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
