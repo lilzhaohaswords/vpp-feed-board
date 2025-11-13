@@ -1,6 +1,27 @@
 {
-  "ts": 1763028068411,
+  "ts": 1763031663433,
   "items": [
+    {
+      "title": "Thailand develops solar plan for community power supply",
+      "url": "https://www.pv-magazine.com/2025/11/13/thailand-develops-solar-plan-for-community-power-supply/",
+      "date": "2025-11-13T10:15:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Peak Energy to supply up to 4.75 GWh of sodium-ion batteries to Jupiter Power",
+      "url": "https://www.pv-magazine.com/2025/11/13/peak-energy-to-supply-up-to-4-75-gwh-of-sodium-ion-batteries-to-jupiter-power/",
+      "date": "2025-11-13T10:14:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Inverted perovskite solar cell based on self-assembled monolayer achieves 26.92% efficiency",
+      "url": "https://www.pv-magazine.com/2025/11/13/inverted-perovskite-solar-cell-based-on-self-assembled-monolayer-achieves-26-92-efficiency/",
+      "date": "2025-11-13T10:09:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Record year for UK rooftop solar installations",
       "url": "https://www.pv-magazine.com/2025/11/13/record-year-for-uk-rooftop-solar-installations/",
@@ -236,27 +257,6 @@
       "title": "Brazil opens consultation for 2026 battery storage capacity auction",
       "url": "https://www.pv-magazine.com/2025/11/11/brazil-opens-consultation-for-2026-battery-storage-capacity-auction/",
       "date": "2025-11-11T13:15:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Waaree unveils 645 W back contact solar module with 23.88% efficiency",
-      "url": "https://www.pv-magazine.com/2025/11/11/waaree-unveils-645-w-back-contact-solar-module-with-23-88-efficiency/",
-      "date": "2025-11-11T12:21:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ghana starts working on nation’s largest solar project",
-      "url": "https://www.pv-magazine.com/2025/11/11/ghana-starts-working-on-nations-largest-solar-project/",
-      "date": "2025-11-11T12:05:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solinteg unveils hybrid inverter series for C&#038;I applications",
-      "url": "https://www.pv-magazine.com/2025/11/11/solinteg-unveils-hybrid-inverter-series-for-ci-applications/",
-      "date": "2025-11-11T11:48:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
