@@ -1,6 +1,34 @@
 {
-  "ts": 1763040319262,
+  "ts": 1763042468043,
   "items": [
+    {
+      "title": "US EPA appoints ABTC to recycle up to 100,000 Li-ion battery modules from Moss Landing BESS",
+      "url": "https://www.energy-storage.news/us-epa-appoints-abtc-to-recycle-up-to-100000-li-ion-battery-modules-from-moss-landing-bess/",
+      "date": "2025-11-13T13:56:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "What an ICE raid on Hyundai and LG ES’ EV cell factory in Georgia could mean for BESS manufacturing",
+      "url": "https://www.energy-storage.news/what-an-ice-raid-on-hyundai-and-lg-es-ev-cell-factory-in-georgia-could-mean-for-bess-manufacturing/",
+      "date": "2025-11-13T13:52:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Open-access, modular monitoring platform for multi-year outdoor PV testing",
+      "url": "https://www.pv-magazine.com/2025/11/13/open-access-modular-monitoring-platform-for-multi-year-outdoor-pv-testing/",
+      "date": "2025-11-13T13:50:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Acciona Energia retrofits 1GWh battery storage project to solar PV plant in Chile",
+      "url": "https://www.energy-storage.news/acciona-energia-retrofits-1gwh-battery-storage-project-to-solar-pv-plant-in-chile/",
+      "date": "2025-11-13T13:37:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Colombia sets up state solar panel maker with Swedish state support",
       "url": "https://www.pv-magazine.com/2025/11/13/colombia-sets-up-state-solar-panel-maker-with-swedish-state-support/",
@@ -243,13 +271,6 @@
       "title": "Australia’s S-Rack installs 83 kW solar carport for Parramatta Council EVs",
       "url": "https://www.pv-magazine.com/2025/11/12/australias-s-rack-installs-83-kw-solar-carport-for-parramatta-council-evs/",
       "date": "2025-11-12T08:30:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US startup launches DC-powered solar water heater",
-      "url": "https://www.pv-magazine.com/2025/11/12/us-startup-launches-dc-powered-solar-water-heater/",
-      "date": "2025-11-12T08:05:11.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "Illinois: Advocates, industry welcome clean energy legislation that includes 3GW energy storage target",
       "url": "https://www.energy-storage.news/illinois-advocates-industry-welcome-clean-energy-legislation-that-includes-3gw-energy-storage-target/",
       "date": "2025-11-03T16:33:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "France introduces grid tariff reforms for energy storage",
-      "url": "https://www.energy-storage.news/france-introduces-grid-tariff-reforms-for-energy-storage/",
-      "date": "2025-11-03T13:30:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Victoria approves 2,200MWh of battery storage through streamlined pathway in Australia",
-      "url": "https://www.energy-storage.news/victoria-approves-2200mwh-of-battery-storage-through-streamlined-pathway-in-australia/",
-      "date": "2025-11-03T04:35:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery energy storage deployment in Australia’s NEM surges 150% year-on-year, says AEMO",
-      "url": "https://www.energy-storage.news/battery-energy-storage-deployment-in-australias-nem-surges-150-year-on-year-says-aemo/",
-      "date": "2025-11-03T04:11:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
