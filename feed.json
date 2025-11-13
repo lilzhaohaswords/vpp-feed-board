@@ -1,6 +1,13 @@
 {
-  "ts": 1763042468043,
+  "ts": 1763049665297,
   "items": [
+    {
+      "title": "Poland raises permit-free energy storage limit to 30 kWh",
+      "url": "https://www.pv-magazine.com/2025/11/13/poland-raises-permit-free-energy-storage-limit-to-30-kwh/",
+      "date": "2025-11-13T15:00:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US EPA appoints ABTC to recycle up to 100,000 Li-ion battery modules from Moss Landing BESS",
       "url": "https://www.energy-storage.news/us-epa-appoints-abtc-to-recycle-up-to-100000-li-ion-battery-modules-from-moss-landing-bess/",
@@ -265,13 +272,6 @@
       "url": "https://www.energy-storage.news/qic-edp-partner-for-1600mwh-solar-plus-storage-project-in-queensland-australia/",
       "date": "2025-11-12T09:04:34.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s S-Rack installs 83 kW solar carport for Parramatta Council EVs",
-      "url": "https://www.pv-magazine.com/2025/11/12/australias-s-rack-installs-83-kw-solar-carport-for-parramatta-council-evs/",
-      "date": "2025-11-12T08:30:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
