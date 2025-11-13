@@ -1,6 +1,34 @@
 {
-  "ts": 1763035278568,
+  "ts": 1763040319262,
   "items": [
+    {
+      "title": "Colombia sets up state solar panel maker with Swedish state support",
+      "url": "https://www.pv-magazine.com/2025/11/13/colombia-sets-up-state-solar-panel-maker-with-swedish-state-support/",
+      "date": "2025-11-13T13:10:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "HyperStrong and CATL enter 200GWh strategic cooperation",
+      "url": "https://www.energy-storage.news/hyperstrong-and-catl-enter-200gwh-strategic-cooperation/",
+      "date": "2025-11-13T13:09:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany: Statkraft, Kyon and Juniz commission, procure and finance projects totalling 213MWh of BESS",
+      "url": "https://www.energy-storage.news/germany-statkraft-kyon-and-juniz-commission-procure-and-finance-projects-totalling-213mwh-of-bess/",
+      "date": "2025-11-13T13:04:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "South Korea mandates solar systems at public parking lots from late November",
+      "url": "https://www.pv-magazine.com/2025/11/13/south-korea-mandates-solar-systems-at-public-parking-lots-from-late-november/",
+      "date": "2025-11-13T12:05:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Antaisolar launches single-axis tracker",
       "url": "https://www.pv-magazine.com/2025/11/13/antaisolar-launches-single-axis-tracker/",
@@ -226,24 +254,10 @@
       "bucket": "A"
     },
     {
-      "title": "India’s Sunsure signs 19.36 MW wind–solar supply deal with DFPCL",
-      "url": "https://www.pv-magazine.com/2025/11/12/indias-sunsure-signs-19-36-mw-wind-solar-supply-deal-with-dfpcl/",
-      "date": "2025-11-12T07:45:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Egypt&#8217;s government, TSO sign agreements for Hassan Allam, Infinity Power&#8217;s solar-plus-storage",
       "url": "https://www.energy-storage.news/egypts-government-tso-sign-agreements-for-hassan-allam-infinity-powers-solar-plus-storage/",
       "date": "2025-11-11T16:18:54.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Aira unveils battery storage system and inverter range",
-      "url": "https://www.pv-magazine.com/2025/11/11/aira-unveils-battery-storage-system-and-inverter-range/",
-      "date": "2025-11-11T15:09:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Battery energy storage deployment in Australia’s NEM surges 150% year-on-year, says AEMO",
       "url": "https://www.energy-storage.news/battery-energy-storage-deployment-in-australias-nem-surges-150-year-on-year-says-aemo/",
       "date": "2025-11-03T04:11:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Silver buckshot, not a silver bullet’: the rally cry for Australia’s energy storage strategy",
-      "url": "https://www.energy-storage.news/silver-buckshot-not-a-silver-bullet-the-rally-cry-for-australias-energy-storage-strategy/",
-      "date": "2025-11-03T04:07:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Flatiron Energy upsizes credit facility to US$250 million for BESS portfolio",
-      "url": "https://www.energy-storage.news/flatiron-energy-upsizes-credit-facility-to-us250-million-for-bess-portfolio/",
-      "date": "2025-10-31T14:00:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
