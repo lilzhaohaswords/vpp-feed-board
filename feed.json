@@ -1,6 +1,13 @@
 {
-  "ts": 1763049665297,
+  "ts": 1763053784351,
   "items": [
+    {
+      "title": "Switzerland forecasts 1.5 GW annual solar growth through 2027",
+      "url": "https://www.pv-magazine.com/2025/11/13/switzerland-forecasts-1-5-gw-annual-solar-growth-through-2027/",
+      "date": "2025-11-13T16:31:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Poland raises permit-free energy storage limit to 30 kWh",
       "url": "https://www.pv-magazine.com/2025/11/13/poland-raises-permit-free-energy-storage-limit-to-30-kwh/",
@@ -251,13 +258,6 @@
       "url": "https://www.energy-storage.news/how-important-is-cell-to-ess-vertical-integration/",
       "date": "2025-11-12T10:06:24.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "California legislation sets new safety standards for battery storage",
-      "url": "https://www.pv-magazine.com/2025/11/12/california-legislation-sets-new-safety-standards-for-battery-storage/",
-      "date": "2025-11-12T09:15:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
