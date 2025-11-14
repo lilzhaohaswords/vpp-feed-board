@@ -1,6 +1,27 @@
 {
-  "ts": 1763136075360,
+  "ts": 1763139656167,
   "items": [
+    {
+      "title": "The Hydrogen Stream: European Commission launches first H2 tender",
+      "url": "https://www.pv-magazine.com/2025/11/14/the-hydrogen-stream-european-commission-launches-first-tender-under-new-mechanism/",
+      "date": "2025-11-14T16:50:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: DKEM files patent lawsuit against silver paste rival",
+      "url": "https://www.pv-magazine.com/2025/11/14/chinese-pv-industry-brief-silver-paste-manufacturer-dkem-files-patent-lawsuit-against-competitor/",
+      "date": "2025-11-14T16:45:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy added 4.8 GW of solar from January to October, says grid operator",
+      "url": "https://www.pv-magazine.com/2025/11/14/italy-deploys-4-6-gw-of-solar-in-january-october-period/",
+      "date": "2025-11-14T16:40:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Statera secures debt finance for 1.36GWh UK BESS",
       "url": "https://www.energy-storage.news/statera-secures-debt-finance-for-1-36gwh-uk-bess/",
@@ -222,27 +243,6 @@
       "title": "South Korea mandates solar systems at public parking lots from late November",
       "url": "https://www.pv-magazine.com/2025/11/13/south-korea-mandates-solar-systems-at-public-parking-lots-from-late-november/",
       "date": "2025-11-13T12:05:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Antaisolar launches single-axis tracker",
-      "url": "https://www.pv-magazine.com/2025/11/13/antaisolar-launches-single-axis-tracker/",
-      "date": "2025-11-13T11:25:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Thailand develops solar plan for community power supply",
-      "url": "https://www.pv-magazine.com/2025/11/13/thailand-develops-solar-plan-for-community-power-supply/",
-      "date": "2025-11-13T10:15:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Peak Energy to supply up to 4.75 GWh of sodium-ion batteries to Jupiter Power",
-      "url": "https://www.pv-magazine.com/2025/11/13/peak-energy-to-supply-up-to-4-75-gwh-of-sodium-ion-batteries-to-jupiter-power/",
-      "date": "2025-11-13T10:14:26.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
