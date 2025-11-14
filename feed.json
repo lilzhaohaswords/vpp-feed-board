@@ -1,6 +1,13 @@
 {
-  "ts": 1763128852671,
+  "ts": 1763132456232,
   "items": [
+    {
+      "title": "Statera secures debt finance for 1.36GWh UK BESS",
+      "url": "https://www.energy-storage.news/statera-secures-debt-finance-for-1-36gwh-uk-bess/",
+      "date": "2025-11-14T14:43:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "&#8216;Inclusive leadership requires a very specific set of competencies&#8217;",
       "url": "https://www.pv-magazine.com/2025/11/14/inclusive-leadership-requires-a-very-specific-set-of-competencies/",
@@ -516,13 +523,6 @@
       "title": "Baltic Storage Platform secures finance for Estonia BESS, Lithuanian scheme oversubscribed",
       "url": "https://www.energy-storage.news/baltic-storage-platform-secures-finance-for-estonia-bess-lithuanian-scheme-oversubscribed/",
       "date": "2025-11-04T11:59:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Cold beer, hot bricks: Heineken signs deals for 100MWh thermal energy storage system",
-      "url": "https://www.energy-storage.news/cold-beer-hot-bricks-heineken-signs-deals-for-100mwh-thermal-energy-storage-system/",
-      "date": "2025-11-04T11:50:30.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
