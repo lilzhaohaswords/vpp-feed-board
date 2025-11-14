@@ -1,6 +1,13 @@
 {
-  "ts": 1763103666868,
+  "ts": 1763107271157,
   "items": [
+    {
+      "title": "US developers hold 33 GW of safe-harbored renewables, says LevelTen",
+      "url": "https://www.pv-magazine.com/2025/11/14/us-developers-bank-33-gw-of-safe-harbored-solar-wind-under-levelten-forecast/",
+      "date": "2025-11-14T07:45:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "OPIS Global Polysilicon Marker inches higher as US Section 232 uncertainty lingers",
       "url": "https://www.pv-magazine.com/2025/11/14/opis-global-polysilicon-marker-inches-higher-as-us-section-232-uncertainty-lingers/",
@@ -244,13 +251,6 @@
       "url": "https://www.energy-storage.news/finland-ipps-order-bess-from-merus-and-sungrow-as-market-shifts-to-2-hour-systems/",
       "date": "2025-11-12T12:32:49.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US-based mPower Technology opens automated solar module line for space",
-      "url": "https://www.pv-magazine.com/2025/11/12/automated-solar-module-production-line-for-space-applications-begins-operating/",
-      "date": "2025-11-12T12:05:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
