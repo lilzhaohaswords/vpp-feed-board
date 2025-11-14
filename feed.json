@@ -1,6 +1,20 @@
 {
-  "ts": 1763118073603,
+  "ts": 1763121642116,
   "items": [
+    {
+      "title": "South Korea switches on 47.2 MW floating PV project",
+      "url": "https://www.pv-magazine.com/2025/11/14/south-korea-switches-on-47-2-mw-floating-pv-project/",
+      "date": "2025-11-14T11:09:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China leads 29% October global BESS deployments increase",
+      "url": "https://www.energy-storage.news/china-leads-29-october-global-bess-deployments-increase/",
+      "date": "2025-11-14T11:08:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Forecasts point to strong solar conditions across the U.S., China and Europe through spring",
       "url": "https://www.pv-magazine.com/2025/11/14/forecasts-point-to-strong-solar-conditions-across-the-u-s-china-and-europe-through-spring/",
@@ -215,13 +229,6 @@
       "title": "RenewSys launches TOPCon solar cells at REI 2025",
       "url": "https://www.pv-magazine.com/2025/11/13/renewsys-launches-topcon-solar-cells-at-rei-2025/",
       "date": "2025-11-13T08:30:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "SunPower to acquire Ambia Solar to reinforce US residential market",
-      "url": "https://www.pv-magazine.com/2025/11/13/sunpower-to-acquire-ambia-solar-to-reinforce-us-residential-market/",
-      "date": "2025-11-13T07:45:57.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Building trust through action: How social license will shape the future of energy storage",
       "url": "https://www.energy-storage.news/building-trust-through-action-how-social-license-will-shape-the-future-of-energy-storage/",
       "date": "2025-11-04T04:29:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Illinois: Advocates, industry welcome clean energy legislation that includes 3GW energy storage target",
-      "url": "https://www.energy-storage.news/illinois-advocates-industry-welcome-clean-energy-legislation-that-includes-3gw-energy-storage-target/",
-      "date": "2025-11-03T16:33:34.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
