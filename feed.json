@@ -1,6 +1,48 @@
 {
-  "ts": 1763121642116,
+  "ts": 1763126532097,
   "items": [
+    {
+      "title": "US orders recall of 10,500 Tesla Powerwall 2 battery systems",
+      "url": "https://www.pv-magazine.com/2025/11/14/us-orders-recall-of-10500-tesla-powerwall-2-battery-systems/",
+      "date": "2025-11-14T13:05:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US sodium-ion startup Peak Energy deploying 720MWh BESS for Jupiter Power, with 4GWh under reservation",
+      "url": "https://www.energy-storage.news/us-sodium-ion-startup-peak-energy-deploying-720mwh-bess-for-jupiter-power-with-4gwh-under-reservation/",
+      "date": "2025-11-14T13:02:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Arizona county P&#038;Z commission denies land use amendment for Nadara&#8217;s 200MW hybrid BESS project",
+      "url": "https://www.energy-storage.news/arizona-county-pz-commission-denies-land-use-amendment-for-nadaras-200mw-hybrid-bess-project/",
+      "date": "2025-11-14T12:26:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Greece: PPC awards Trina Storage with 200MWh Western Macedonia BESS project contract",
+      "url": "https://www.energy-storage.news/greece-ppc-awards-trina-storage-with-200mwh-western-macedonia-bess-project-contract/",
+      "date": "2025-11-14T12:17:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "S-5! launches new clamp for solar carports",
+      "url": "https://www.pv-magazine.com/2025/11/14/s-5-launches-new-clamp-for-solar-carports/",
+      "date": "2025-11-14T12:14:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spain allocates €2 billion to expand clean energy and industry programs",
+      "url": "https://www.pv-magazine.com/2025/11/14/spain-allocates-e2-billion-to-expand-clean-energy-and-industry-programs/",
+      "date": "2025-11-14T12:00:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "South Korea switches on 47.2 MW floating PV project",
       "url": "https://www.pv-magazine.com/2025/11/14/south-korea-switches-on-47-2-mw-floating-pv-project/",
@@ -198,13 +240,6 @@
       "bucket": "A"
     },
     {
-      "title": "Enecom launches reinforced solar panels for boating, off-grid use",
-      "url": "https://www.pv-magazine.com/2025/11/13/enecom-launches-reinforced-solar-panels-for-boating-off-grid-use/",
-      "date": "2025-11-13T08:58:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Octopus Australia reaches financial close on 486MWh DC-coupled solar-plus-storage site",
       "url": "https://www.energy-storage.news/octopus-australia-reaches-financial-close-on-486mwh-dc-coupled-solar-plus-storage-site/",
       "date": "2025-11-13T08:56:16.000Z",
@@ -216,20 +251,6 @@
       "url": "https://www.energy-storage.news/ampyr-australia-acquires-2160mwh-grid-forming-bess-project-in-south-australia/",
       "date": "2025-11-13T08:55:00.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Vertical bifacial agrivoltaics feasible at high latitudes with 8-meter row spacing",
-      "url": "https://www.pv-magazine.com/2025/11/13/vertical-bifacial-agrivoltaics-feasible-at-high-latitudes-with-8-meter-row-spacing/",
-      "date": "2025-11-13T08:51:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "RenewSys launches TOPCon solar cells at REI 2025",
-      "url": "https://www.pv-magazine.com/2025/11/13/renewsys-launches-topcon-solar-cells-at-rei-2025/",
-      "date": "2025-11-13T08:30:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "Cold beer, hot bricks: Heineken signs deals for 100MWh thermal energy storage system",
       "url": "https://www.energy-storage.news/cold-beer-hot-bricks-heineken-signs-deals-for-100mwh-thermal-energy-storage-system/",
       "date": "2025-11-04T11:50:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Collaboration, not isolation’: India’s path to becoming a global energy storage supply hub",
-      "url": "https://www.energy-storage.news/collaboration-not-isolation-indias-path-to-becoming-a-global-energy-storage-supply-hub/",
-      "date": "2025-11-04T11:48:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Samsung SDI ramps ESS battery manufacturing in US to 30GWh, Tesla deal talks reported",
-      "url": "https://www.energy-storage.news/samsung-sdi-ramps-ess-battery-manufacturing-in-us-to-30gwh-tesla-deal-talks-reported/",
-      "date": "2025-11-04T10:33:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Building trust through action: How social license will shape the future of energy storage",
-      "url": "https://www.energy-storage.news/building-trust-through-action-how-social-license-will-shape-the-future-of-energy-storage/",
-      "date": "2025-11-04T04:29:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
