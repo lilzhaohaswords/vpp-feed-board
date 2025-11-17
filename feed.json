@@ -1,6 +1,13 @@
 {
-  "ts": 1763359268887,
+  "ts": 1763362865212,
   "items": [
+    {
+      "title": "Reducing PV module temperature with twisted tape",
+      "url": "https://www.pv-magazine.com/2025/11/17/reducing-pv-module-temperature-with-twisted-tape/",
+      "date": "2025-11-17T06:07:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "In Puerto Rico, residential solar and storage growth outpaces utility-scale developments",
       "url": "https://www.pv-magazine.com/2025/11/17/in-puerto-rico-residential-solar-and-storage-growth-outpaces-utility-scale-developments/",
@@ -216,13 +223,6 @@
       "url": "https://www.energy-storage.news/what-an-ice-raid-on-hyundai-and-lg-es-ev-cell-factory-in-georgia-could-mean-for-bess-manufacturing/",
       "date": "2025-11-13T13:52:38.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Open-access, modular monitoring platform for multi-year outdoor PV testing",
-      "url": "https://www.pv-magazine.com/2025/11/13/open-access-modular-monitoring-platform-for-multi-year-outdoor-pv-testing/",
-      "date": "2025-11-13T13:50:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
