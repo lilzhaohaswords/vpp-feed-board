@@ -1,6 +1,13 @@
 {
-  "ts": 1763362865212,
+  "ts": 1763366472099,
   "items": [
+    {
+      "title": "Australia grid delays pose risk to renewable energy targets",
+      "url": "https://www.pv-magazine.com/2025/11/17/australia-grid-delays-pose-risk-to-renewable-energy-targets/",
+      "date": "2025-11-17T07:45:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Reducing PV module temperature with twisted tape",
       "url": "https://www.pv-magazine.com/2025/11/17/reducing-pv-module-temperature-with-twisted-tape/",
@@ -201,13 +208,6 @@
       "title": "Switzerland forecasts 1.5 GW annual solar growth through 2027",
       "url": "https://www.pv-magazine.com/2025/11/13/switzerland-forecasts-1-5-gw-annual-solar-growth-through-2027/",
       "date": "2025-11-13T16:31:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Poland raises permit-free energy storage limit to 30 kWh",
-      "url": "https://www.pv-magazine.com/2025/11/13/poland-raises-permit-free-energy-storage-limit-to-30-kwh/",
-      "date": "2025-11-13T15:00:49.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
