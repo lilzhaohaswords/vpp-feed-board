@@ -1,6 +1,20 @@
 {
-  "ts": 1763377251231,
+  "ts": 1763381769772,
   "items": [
+    {
+      "title": "Russian drone strike hits solar plant in Ukraine’s Odesa region",
+      "url": "https://www.pv-magazine.com/2025/11/17/russian-drone-strike-hits-solar-plant-in-ukraines-odesa-region/",
+      "date": "2025-11-17T12:08:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Inside CAN networks &#8211; Solving core communication challenges in co-located renewables and BESS",
+      "url": "https://www.energy-storage.news/video-inside-can-networks-solving-core-communication-challenges-in-co-located-renewables-and-bess/",
+      "date": "2025-11-17T11:18:09.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "German solar plant cleared to provide secondary control reserve",
       "url": "https://www.pv-magazine.com/2025/11/17/german-solar-plant-cleared-to-provide-secondary-control-reserve/",
@@ -201,13 +215,6 @@
       "title": "US developers hold 33 GW of safe-harbored renewables, says LevelTen",
       "url": "https://www.pv-magazine.com/2025/11/14/us-developers-bank-33-gw-of-safe-harbored-solar-wind-under-levelten-forecast/",
       "date": "2025-11-14T07:45:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "OPIS Global Polysilicon Marker inches higher as US Section 232 uncertainty lingers",
-      "url": "https://www.pv-magazine.com/2025/11/14/opis-global-polysilicon-marker-inches-higher-as-us-section-232-uncertainty-lingers/",
-      "date": "2025-11-14T07:00:24.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Drax buys 260MW of in-development UK BESS projects",
       "url": "https://www.energy-storage.news/drax-buys-260mw-of-in-development-uk-bess-projects/",
       "date": "2025-11-04T14:37:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Baltic Storage Platform secures finance for Estonia BESS, Lithuanian scheme oversubscribed",
-      "url": "https://www.energy-storage.news/baltic-storage-platform-secures-finance-for-estonia-bess-lithuanian-scheme-oversubscribed/",
-      "date": "2025-11-04T11:59:46.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
