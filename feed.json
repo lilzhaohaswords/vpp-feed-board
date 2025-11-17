@@ -1,6 +1,20 @@
 {
-  "ts": 1763388062361,
+  "ts": 1763391688577,
   "items": [
+    {
+      "title": "Rondo Energy deploys Southeast Asia’s ‘first industrial Heat Battery’",
+      "url": "https://www.energy-storage.news/rondo-energy-deploys-southeast-asias-first-industrial-heat-battery/",
+      "date": "2025-11-17T14:49:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Jakson Group starts 6 GW ingot-to-module manufacturing project in India",
+      "url": "https://www.pv-magazine.com/2025/11/17/jakson-group-starts-6-gw-ingot-to-module-manufacturing-project-in-india/",
+      "date": "2025-11-17T14:30:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Alfa Solar and Astronergy plan solar cell, wafer venture in Turkey",
       "url": "https://www.pv-magazine.com/2025/11/17/alfa-solar-and-astronergy-plan-solar-cell-wafer-venture-in-turkey/",
@@ -222,13 +236,6 @@
       "title": "MIT researchers develop polymer film that could prevent solar panel corrosion",
       "url": "https://www.pv-magazine.com/2025/11/14/mit-researchers-develop-polymer-film-that-could-prevent-solar-panel-corrosion/",
       "date": "2025-11-14T08:23:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fraunhofer ISE builds first perovskite-silicon tandem solar cell with copper metallization",
-      "url": "https://www.pv-magazine.com/2025/11/14/fraunhofer-ise-builds-first-perovskite-silicon-tandem-solar-cell-with-copper-metallization/",
-      "date": "2025-11-14T08:09:19.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "AGL seeks federal approval for 2,000MWh battery storage system in Queensland, Australia",
       "url": "https://www.energy-storage.news/agl-seeks-federal-approval-for-2000mwh-battery-storage-system-in-queensland-australia/",
       "date": "2025-11-05T05:18:50.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘You need to be co-located with battery storage&#8217;: Wärtsilä sees DC-coupling as essential for Australia&#8217;s solar future",
-      "url": "https://www.energy-storage.news/you-need-to-be-co-located-with-battery-storage-wartsila-sees-dc-coupling-as-essential-for-australias-solar-future/",
-      "date": "2025-11-05T05:13:04.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
