@@ -1,6 +1,20 @@
 {
-  "ts": 1763381769772,
+  "ts": 1763385846223,
   "items": [
+    {
+      "title": "‘Canada’s largest BESS’ at 1,858MWh begins construction, E-Storage is tech provider &#038; EPC",
+      "url": "https://www.energy-storage.news/canadas-largest-bess-at-1858mwh-begins-construction-e-storage-is-tech-provider-epc/",
+      "date": "2025-11-17T13:01:09.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia to launch Capacity Investment Scheme Tender 8 seeking 16GWh energy storage in the NEM",
+      "url": "https://www.energy-storage.news/australia-to-launch-capacity-investment-scheme-tender-8-seeking-16gwh-energy-storage-in-the-nem/",
+      "date": "2025-11-17T12:47:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Russian drone strike hits solar plant in Ukraine’s Odesa region",
       "url": "https://www.pv-magazine.com/2025/11/17/russian-drone-strike-hits-solar-plant-in-ukraines-odesa-region/",
@@ -509,20 +523,6 @@
       "title": "‘You need to be co-located with battery storage&#8217;: Wärtsilä sees DC-coupling as essential for Australia&#8217;s solar future",
       "url": "https://www.energy-storage.news/you-need-to-be-co-located-with-battery-storage-wartsila-sees-dc-coupling-as-essential-for-australias-solar-future/",
       "date": "2025-11-05T05:13:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s home battery rebate processes ‘8,000 applications weekly’ as storage capacity surges",
-      "url": "https://www.energy-storage.news/australias-home-battery-rebate-processes-8000-applications-weekly-as-storage-capacity-surges/",
-      "date": "2025-11-05T05:06:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Drax buys 260MW of in-development UK BESS projects",
-      "url": "https://www.energy-storage.news/drax-buys-260mw-of-in-development-uk-bess-projects/",
-      "date": "2025-11-04T14:37:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
