@@ -1,11 +1,39 @@
 {
-  "ts": 1763463656683,
+  "ts": 1763468163122,
   "items": [
     {
-      "title": "&#8216;MACSE will require near-flawless operational discipline&#8217;, says Enel Green Power",
-      "url": "https://www.energy-storage.news/macse-will-require-near-flawless-operational-discipline-says-enel-green-power/",
-      "date": "2025-11-18T10:59:00.000Z",
+      "title": "Romania advances municipal storage buildout, 500 MWh battery project",
+      "url": "https://www.pv-magazine.com/2025/11/18/romania-advances-municipal-storage-buildout-500-mwh-battery-project/",
+      "date": "2025-11-18T12:09:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How US battery startup Alsym Energy’s sodium-ion systems aim to go where LFP cannot",
+      "url": "https://www.energy-storage.news/how-us-battery-startup-alsym-energys-sodium-ion-systems-aim-to-go-where-lfp-cannot/",
+      "date": "2025-11-18T11:39:29.000Z",
       "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "TCL Zhonghuan unveils 25.17%-efficient TOPCon solar modules series with multi-slice design",
+      "url": "https://www.pv-magazine.com/2025/11/18/tcl-zhonghuan-unveils-25-15-efficient-topcon-solar-modules-series-with-multi-slice-design/",
+      "date": "2025-11-18T11:33:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ireland ‘enters new era’ with battery storage units participating in wholesale market for first time",
+      "url": "https://www.energy-storage.news/ireland-enters-new-era-with-battery-storage-units-participating-in-wholesale-market-for-first-time/",
+      "date": "2025-11-18T11:15:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "IRENA says $554 billion invested in solar technologies in 2024",
+      "url": "https://www.pv-magazine.com/2025/11/18/irena-says-554-billion-invested-in-solar-technologies-in-2024/",
+      "date": "2025-11-18T11:07:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -191,31 +219,10 @@
       "bucket": "A"
     },
     {
-      "title": "Italy added 4.8 GW of solar from January to October, says grid operator",
-      "url": "https://www.pv-magazine.com/2025/11/14/italy-deploys-4-6-gw-of-solar-in-january-october-period/",
-      "date": "2025-11-14T16:40:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Statera secures debt finance for 1.36GWh UK BESS",
       "url": "https://www.energy-storage.news/statera-secures-debt-finance-for-1-36gwh-uk-bess/",
       "date": "2025-11-14T14:43:58.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Inclusive leadership requires a very specific set of competencies&#8217;",
-      "url": "https://www.pv-magazine.com/2025/11/14/inclusive-leadership-requires-a-very-specific-set-of-competencies/",
-      "date": "2025-11-14T13:52:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Netherlands forecast to reach 79.9 GW of solar by 2035",
-      "url": "https://www.pv-magazine.com/2025/11/14/netherlands-forecast-to-reach-79-9-gw-of-solar-by-2035/",
-      "date": "2025-11-14T13:23:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Canadian LG Energy Solution and Stellantis joint venture to produce LFP cells for BESS",
       "url": "https://www.energy-storage.news/canadian-lg-energy-solution-and-stellantis-joint-venture-to-produce-lfp-cells-for-bess/",
       "date": "2025-11-05T12:19:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Osaka Gas and Sonnedix prepare Japan’s ‘largest renewable battery storage facility’",
-      "url": "https://www.energy-storage.news/osaka-gas-and-sonnedix-prepare-japans-largest-renewable-battery-storage-facility/",
-      "date": "2025-11-05T06:56:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
