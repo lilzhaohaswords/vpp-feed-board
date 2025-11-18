@@ -1,6 +1,27 @@
 {
-  "ts": 1763460056896,
+  "ts": 1763463656683,
   "items": [
+    {
+      "title": "&#8216;MACSE will require near-flawless operational discipline&#8217;, says Enel Green Power",
+      "url": "https://www.energy-storage.news/macse-will-require-near-flawless-operational-discipline-says-enel-green-power/",
+      "date": "2025-11-18T10:59:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Hydro approves largest pumped hydro project in more than 20 years in Norway",
+      "url": "https://www.pv-magazine.com/2025/11/18/hydro-approves-largest-pumped-hydro-project-in-more-than-20-years-in-norway/",
+      "date": "2025-11-18T10:12:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sweden’s Midsummer and Saab plan CIGS solar module plant in Colombia",
+      "url": "https://www.pv-magazine.com/2025/11/18/swedens-midsummer-and-saab-plan-cigs-solar-module-plant-in-colombia/",
+      "date": "2025-11-18T10:00:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Taiwan tightens rules for ground-mounted, floating solar",
       "url": "https://www.pv-magazine.com/2025/11/18/taiwan-tightens-rules-for-ground-mounted-floating-solar/",
@@ -198,13 +219,6 @@
       "bucket": "A"
     },
     {
-      "title": "US orders recall of 10,500 Tesla Powerwall 2 battery systems",
-      "url": "https://www.pv-magazine.com/2025/11/14/us-orders-recall-of-10500-tesla-powerwall-2-battery-systems/",
-      "date": "2025-11-14T13:05:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US sodium-ion startup Peak Energy deploying 720MWh BESS for Jupiter Power, with 4GWh under reservation",
       "url": "https://www.energy-storage.news/us-sodium-ion-startup-peak-energy-deploying-720mwh-bess-for-jupiter-power-with-4gwh-under-reservation/",
       "date": "2025-11-14T13:02:51.000Z",
@@ -223,13 +237,6 @@
       "url": "https://www.energy-storage.news/greece-ppc-awards-trina-storage-with-200mwh-western-macedonia-bess-project-contract/",
       "date": "2025-11-14T12:17:48.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "S-5! launches new clamp for solar carports",
-      "url": "https://www.pv-magazine.com/2025/11/14/s-5-launches-new-clamp-for-solar-carports/",
-      "date": "2025-11-14T12:14:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Osaka Gas and Sonnedix prepare Japan’s ‘largest renewable battery storage facility’",
       "url": "https://www.energy-storage.news/osaka-gas-and-sonnedix-prepare-japans-largest-renewable-battery-storage-facility/",
       "date": "2025-11-05T06:56:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AGL seeks federal approval for 2,000MWh battery storage system in Queensland, Australia",
-      "url": "https://www.energy-storage.news/agl-seeks-federal-approval-for-2000mwh-battery-storage-system-in-queensland-australia/",
-      "date": "2025-11-05T05:18:50.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
