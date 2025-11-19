@@ -1,6 +1,41 @@
 {
-  "ts": 1763550054072,
+  "ts": 1763554563381,
   "items": [
+    {
+      "title": "PV-powered transportation system for 15-minute cities",
+      "url": "https://www.pv-magazine.com/2025/11/19/pv-powered-transportation-system-for-15-minute-cities/",
+      "date": "2025-11-19T12:12:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SECI, Andhra Pradesh government agree on 1,200MWh BESS and 50MW solar hybrid projects",
+      "url": "https://www.energy-storage.news/seci-andhra-pradesh-government-agree-on-1200mwh-bess-and-50mw-solar-hybrid-projects/",
+      "date": "2025-11-19T12:00:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Paraguay set to host autonomous solar-powered data center",
+      "url": "https://www.pv-magazine.com/2025/11/19/paraguay-set-to-host-autonomous-solar-powered-data-center/",
+      "date": "2025-11-19T12:00:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Inside Europe’s C&#038;I energy shift: Why the market now rewards innovation, trust and ESG alignment",
+      "url": "https://www.pv-magazine.com/2025/11/19/inside-europes-ci-energy-shift-why-the-market-now-rewards-innovation-trust-and-esg-alignment/",
+      "date": "2025-11-19T11:30:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "LEAG enlists HyperStrong for 1.6GWh Germany BESS",
+      "url": "https://www.energy-storage.news/leag-enlists-hyperstrong-for-1-6gwh-germany-bess/",
+      "date": "2025-11-19T11:01:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Atlas Renewable Energy energizes 201 MW solar park in Colombia",
       "url": "https://www.pv-magazine.com/2025/11/19/atlas-renewable-energy-energizes-201-mw-solar-park-in-colombia/",
@@ -194,27 +229,6 @@
       "title": "Taiwan tightens rules for ground-mounted, floating solar",
       "url": "https://www.pv-magazine.com/2025/11/18/taiwan-tightens-rules-for-ground-mounted-floating-solar/",
       "date": "2025-11-18T10:00:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany’s January-October solar additions reach 13 GW",
-      "url": "https://www.pv-magazine.com/2025/11/18/germanys-january-october-solar-additions-reach-13-gw/",
-      "date": "2025-11-18T09:15:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sodium-ion battery storage for ultra-low temperatures",
-      "url": "https://www.pv-magazine.com/2025/11/18/sodium-ion-battery-storage-for-ultra-low-temperatures/",
-      "date": "2025-11-18T07:40:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "JA Solar builds inverted perovskite solar cell with 26.7% efficiency",
-      "url": "https://www.pv-magazine.com/2025/11/18/ja-solar-builds-inverted-perovskite-solar-cell-with-26-7-efficiency/",
-      "date": "2025-11-18T07:31:54.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "HyperStrong Charts New Blueprint for Global BESS Success: The Integration Edge",
       "url": "https://www.energy-storage.news/hyperstrong-charts-new-blueprint-for-global-bess-success-the-integration-edge/",
       "date": "2025-11-06T12:00:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Gotion High-Tech, Clou Electronics, Eve Battery and Kstar show strong performance in Q3",
-      "url": "https://www.energy-storage.news/gotion-high-tech-clou-electronics-eve-battery-and-kstar-show-strong-performance-in-q3/",
-      "date": "2025-11-06T09:21:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Akaysha Energy bags AU$460 million for 1,244MWh BESS in Victoria, Australia",
-      "url": "https://www.energy-storage.news/akaysha-energy-bags-au460-million-for-1244mwh-bess-in-victoria-australia/",
-      "date": "2025-11-06T09:15:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
