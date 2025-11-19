@@ -1,6 +1,13 @@
 {
-  "ts": 1763539260018,
+  "ts": 1763542868422,
   "items": [
+    {
+      "title": "India&#8217;s solar additions rise as nine-month installations reach 26.6 GW",
+      "url": "https://www.pv-magazine.com/2025/11/19/indias-solar-additions-rise-as-nine-month-installations-reach-26-6-gw/",
+      "date": "2025-11-19T08:30:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US utility-scale solar delays ease as market stabilizes",
       "url": "https://www.pv-magazine.com/2025/11/19/us-utility-scale-solar-delays-ease-as-market-stabilizes/",
@@ -208,13 +215,6 @@
       "title": "US Republicans press Trump to block Chinese inverter imports",
       "url": "https://www.pv-magazine.com/2025/11/18/us-republicans-press-trump-administration-to-block-chinese-inverter-imports/",
       "date": "2025-11-18T07:20:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany eases rules to accelerate battery heat and hydrogen storage",
-      "url": "https://www.pv-magazine.com/2025/11/17/germany-eases-rules-to-accelerate-battery-heat-and-hydrogen-storage/",
-      "date": "2025-11-17T16:30:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
