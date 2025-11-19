@@ -1,6 +1,20 @@
 {
-  "ts": 1763560859377,
+  "ts": 1763564500020,
   "items": [
+    {
+      "title": "OX2 acquires co-located wind and BESS developments in Western Australia",
+      "url": "https://www.energy-storage.news/ox2-acquires-co-located-wind-and-bess-developments-in-western-australia/",
+      "date": "2025-11-19T14:17:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Mauritius warns unauthorized solar systems may be disconnected",
+      "url": "https://www.pv-magazine.com/2025/11/19/mauritius-warns-unauthorized-solar-systems-may-be-disconnected/",
+      "date": "2025-11-19T14:00:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "EU finalizes €1 billion industrial heat decarbonization pilot auction",
       "url": "https://www.pv-magazine.com/2025/11/19/eu-finalizes-e1-billion-industrial-heat-decarbonization-pilot-auction/",
@@ -223,13 +237,6 @@
       "url": "https://www.energy-storage.news/ireland-enters-new-era-with-battery-storage-units-participating-in-wholesale-market-for-first-time/",
       "date": "2025-11-18T11:15:43.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "IRENA says $554 billion invested in solar technologies in 2024",
-      "url": "https://www.pv-magazine.com/2025/11/18/irena-says-554-billion-invested-in-solar-technologies-in-2024/",
-      "date": "2025-11-18T11:07:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "TotalEnergies&#8217; possible German BESS divestment &#8216;mainly about recycling capital&#8217;",
       "url": "https://www.energy-storage.news/totalenergies-possible-german-germany-platform-divestment-mainly-recycling-capital/",
       "date": "2025-11-06T12:35:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "HyperStrong Charts New Blueprint for Global BESS Success: The Integration Edge",
-      "url": "https://www.energy-storage.news/hyperstrong-charts-new-blueprint-for-global-bess-success-the-integration-edge/",
-      "date": "2025-11-06T12:00:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
