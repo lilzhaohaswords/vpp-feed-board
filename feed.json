@@ -1,6 +1,20 @@
 {
-  "ts": 1763636458883,
+  "ts": 1763640059180,
   "items": [
+    {
+      "title": "One year on: EU Batteries Regulation and CE marking impacting energy storage systems",
+      "url": "https://www.energy-storage.news/one-year-on-eu-batteries-regulation-and-ce-marking-impacting-energy-storage-systems/",
+      "date": "2025-11-20T11:41:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "AI now links technical and commercial realities of BESS asset management",
+      "url": "https://www.energy-storage.news/ai-now-links-technical-and-commercial-realities-of-bess-asset-management/",
+      "date": "2025-11-20T11:09:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Pacific Green&#8217;s 2.5GWh Portland Energy Park BESS clears final federal environmental hurdle in Australia",
       "url": "https://www.energy-storage.news/pacific-greens-2-5gwh-portland-energy-park-bess-clears-final-federal-environmental-hurdle-in-australia/",
@@ -509,20 +523,6 @@
       "title": "UK&#8217;s approved BESS pipeline grows to 162GWh, nearly 22GWh under construction",
       "url": "https://www.energy-storage.news/uks-approved-bess-pipeline-grows-to-162gwh-nearly-22gwh-under-construction/",
       "date": "2025-11-07T08:56:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Stop the 20% BESS revenue leak with warranty-grade data",
-      "url": "https://www.energy-storage.news/video-stop-the-20-bess-revenue-leak-with-warranty-grade-data/",
-      "date": "2025-11-07T08:38:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Eco Stor launches construction on &#8216;milestone&#8217; 700MWh Germany BESS project",
-      "url": "https://www.energy-storage.news/eco-stor-launches-construction-on-milestone-700mwh-germany-bess-project/",
-      "date": "2025-11-07T08:35:04.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
