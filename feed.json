@@ -1,6 +1,27 @@
 {
-  "ts": 1763632838369,
+  "ts": 1763636458883,
   "items": [
+    {
+      "title": "Pacific Green&#8217;s 2.5GWh Portland Energy Park BESS clears final federal environmental hurdle in Australia",
+      "url": "https://www.energy-storage.news/pacific-greens-2-5gwh-portland-energy-park-bess-clears-final-federal-environmental-hurdle-in-australia/",
+      "date": "2025-11-20T10:13:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "How to balance power losses, cost effectiveness in PV-BESS-driven EV charging stations",
+      "url": "https://www.pv-magazine.com/2025/11/20/how-to-balance-power-losses-cost-effectiveness-in-pv-bess-driven-ev-charging-stations/",
+      "date": "2025-11-20T10:08:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Huawei unveils next-generation solutions for C&#038;I energy and e-mobility",
+      "url": "https://www.pv-magazine.com/2025/11/20/huawei-unveils-next-generation-solutions-for-ci-energy-and-e-mobility/",
+      "date": "2025-11-20T10:00:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Viridian Solar offers new solutions to integrate PV systems with roof windows",
       "url": "https://www.pv-magazine.com/2025/11/20/viridian-solar-offers-new-solutions-to-integrate-pv-systems-with-roof-windows/",
@@ -208,20 +229,6 @@
       "title": "Universities are turning solar furniture into campus infrastructure",
       "url": "https://www.pv-magazine.com/2025/11/19/universities-are-turning-solar-furniture-into-campus-infrastructure/",
       "date": "2025-11-19T05:32:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "PVV Infra to set up 1 GW n-type TOPCon solar cell manufacturing facility in India",
-      "url": "https://www.pv-magazine.com/2025/11/19/pvv-infra-to-set-up-1-gw-n-type-topcon-solar-cell-manufacturing-facility-in-india/",
-      "date": "2025-11-19T05:29:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Phono launches 475 W back-contact solar panel",
-      "url": "https://www.pv-magazine.com/2025/11/19/phono-launches-475-w-back-contact-solar-panel/",
-      "date": "2025-11-19T05:20:13.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Eco Stor launches construction on &#8216;milestone&#8217; 700MWh Germany BESS project",
       "url": "https://www.energy-storage.news/eco-stor-launches-construction-on-milestone-700mwh-germany-bess-project/",
       "date": "2025-11-07T08:35:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Trina Storage signs 5GWh battery storage supply agreement with Pacific Green Energy",
-      "url": "https://www.energy-storage.news/trina-storage-signs-5gwh-battery-storage-supply-agreement-with-pacific-green-energy/",
-      "date": "2025-11-07T08:19:48.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
