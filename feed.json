@@ -1,6 +1,13 @@
 {
-  "ts": 1763737261574,
+  "ts": 1763740866978,
   "items": [
+    {
+      "title": "Is AI&#8217;s power problem becoming the US energy storage market’s golden opportunity?",
+      "url": "https://www.energy-storage.news/is-ais-power-problem-becoming-the-us-energy-storage-markets-golden-opportunity/",
+      "date": "2025-11-21T15:51:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Index launches blue hydrogen, ammonia demonstration plant in Japan",
       "url": "https://www.pv-magazine.com/2025/11/21/the-hydrogen-stream-index-launches-blue-hydrogen-ammonia-demonstration-plant-in-japan/",
@@ -516,13 +523,6 @@
       "title": "‘Catastrophic failure&#8217; of transformer at Waratah Super Battery, Australia&#8217;s &#8216;giant shock-absorber&#8217; for the grid",
       "url": "https://www.energy-storage.news/catastrophic-failure-of-transformer-at-waratah-super-battery-australias-giant-shock-absorber-for-the-grid/",
       "date": "2025-11-11T08:48:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US ROUNDUP: Fullmark California portfolio, Habitat-Ørsted Texas optimisation, flow battery player Quino secures funding",
-      "url": "https://www.energy-storage.news/us-roundup-fullmark-california-portfolio-habitat-orsted-texas-optimisation-flow-battery-player-quino-secures-funding/",
-      "date": "2025-11-10T11:51:33.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
