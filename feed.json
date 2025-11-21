@@ -1,6 +1,34 @@
 {
-  "ts": 1763719255435,
+  "ts": 1763722852007,
   "items": [
+    {
+      "title": "Chinese PV Industry Brief: Cybrid Technologies ships first optical conversion films for perovskite tandem solar modules",
+      "url": "https://www.pv-magazine.com/2025/11/21/chinese-pv-industry-brief-cybrid-technologies-ships-first-optical-conversion-films-for-perovskite-tandem-solar-modules/",
+      "date": "2025-11-21T10:58:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India’s strong monsoon cuts solar generation by 15% in September to October",
+      "url": "https://www.pv-magazine.com/2025/11/21/indias-strong-monsoon-cuts-solar-generation-by-15-in-september-to-october/",
+      "date": "2025-11-21T10:47:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Skyven Technologies commissions steam-generating, industrial heat pump",
+      "url": "https://www.pv-magazine.com/2025/11/21/skyven-technologies-commissions-steam-generating-industrial-heat-pump/",
+      "date": "2025-11-21T10:29:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Surviving energy storage nightmares &#8211; true tales and expert advice",
+      "url": "https://www.energy-storage.news/video-surviving-energy-storage-nightmares-true-tales-and-expert-advice/",
+      "date": "2025-11-21T10:28:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "China’s TOPCon solar cell prices extend four-week slide as rebate concerns ease",
       "url": "https://www.pv-magazine.com/2025/11/21/chinas-topcon-solar-cell-prices-extend-four-week-slide-as-rebate-concerns-ease/",
@@ -223,27 +251,6 @@
       "url": "https://www.energy-storage.news/ox2-acquires-co-located-wind-and-bess-developments-in-western-australia/",
       "date": "2025-11-19T14:17:35.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Mauritius warns unauthorized solar systems may be disconnected",
-      "url": "https://www.pv-magazine.com/2025/11/19/mauritius-warns-unauthorized-solar-systems-may-be-disconnected/",
-      "date": "2025-11-19T14:00:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EU finalizes €1 billion industrial heat decarbonization pilot auction",
-      "url": "https://www.pv-magazine.com/2025/11/19/eu-finalizes-e1-billion-industrial-heat-decarbonization-pilot-auction/",
-      "date": "2025-11-19T13:21:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Panasonic launches new air-cooled heat pumps",
-      "url": "https://www.pv-magazine.com/2025/11/19/panasonic-launches-new-air-cooled-heat-pumps/",
-      "date": "2025-11-19T13:18:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "AGL divests 19.9% Tilt Renewables stake to fund battery storage expansion",
       "url": "https://www.energy-storage.news/agl-divests-19-9-tilt-renewables-stake-to-fund-battery-storage-expansion/",
       "date": "2025-11-10T09:37:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Plus Power secures US$160 million for New England BESS projects",
-      "url": "https://www.energy-storage.news/plus-power-secures-us160-million-for-new-england-bess-projects/",
-      "date": "2025-11-07T14:10:09.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
