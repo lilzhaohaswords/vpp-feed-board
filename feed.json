@@ -1,6 +1,27 @@
 {
-  "ts": 1763726455381,
+  "ts": 1763731252791,
   "items": [
+    {
+      "title": "AleaSoft notes downturn in European electricity prices",
+      "url": "https://www.pv-magazine.com/2025/11/21/aleasoft-notes-downturn-in-european-electricity-prices/",
+      "date": "2025-11-21T13:10:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Rewriting the leadership narrative: Women redefining power in the energy transition",
+      "url": "https://www.pv-magazine.com/2025/11/21/rewriting-the-leadership-narrative-women-redefining-power-in-the-energy-transition/",
+      "date": "2025-11-21T13:03:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Santa Cruz County publishes draft BESS zoning ordinance, officials delay environmental review by another three months",
+      "url": "https://www.energy-storage.news/santa-cruz-county-publishes-draft-bess-zoning-ordinance-officials-delay-environmental-review-by-another-three-months/",
+      "date": "2025-11-21T12:33:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Chinese PV Industry Brief: Cybrid Technologies ships first optical conversion films for perovskite tandem solar modules",
       "url": "https://www.pv-magazine.com/2025/11/21/chinese-pv-industry-brief-cybrid-technologies-ships-first-optical-conversion-films-for-perovskite-tandem-solar-modules/",
@@ -26,6 +47,13 @@
       "title": "VIDEO: Surviving energy storage nightmares &#8211; true tales and expert advice",
       "url": "https://www.energy-storage.news/video-surviving-energy-storage-nightmares-true-tales-and-expert-advice/",
       "date": "2025-11-21T10:28:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "European BESS M&#038;A and financings totalling over 1GW",
+      "url": "https://www.energy-storage.news/european-bess-m-a-and-financings-totalling-over-1gw/",
+      "date": "2025-11-21T10:21:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     },
@@ -72,7 +100,7 @@
       "bucket": "A"
     },
     {
-      "title": "Oscal releases 2 kW battery for home, off-grid use",
+      "title": "Oscal releases 2 kWh battery for home, off-grid, on-grid use",
       "url": "https://www.pv-magazine.com/2025/11/21/oscal-releases-2-kw-battery-for-home-off-grid-use/",
       "date": "2025-11-21T08:08:45.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -230,20 +258,6 @@
       "url": "https://www.energy-storage.news/europes-fastest-growing-clean-energy-technology-100gw-of-energy-storage-installs/",
       "date": "2025-11-19T16:18:51.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Waratah Super Battery transformer failure raises insurance questions",
-      "url": "https://www.pv-magazine.com/2025/11/19/australias-waratah-super-battery-transformer-failure-raises-insurance-questions/",
-      "date": "2025-11-19T15:56:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Europe’s energy storage capacity on track to pass 100 GW",
-      "url": "https://www.pv-magazine.com/2025/11/19/europes-energy-storage-capacity-on-track-to-pass-100-gw/",
-      "date": "2025-11-19T15:48:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "US ROUNDUP: Fullmark California portfolio, Habitat-Ørsted Texas optimisation, flow battery player Quino secures funding",
       "url": "https://www.energy-storage.news/us-roundup-fullmark-california-portfolio-habitat-orsted-texas-optimisation-flow-battery-player-quino-secures-funding/",
       "date": "2025-11-10T11:51:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "HD Renewable Energy secures 20-year offtake for 330MWh Templers BESS in South Australia",
-      "url": "https://www.energy-storage.news/hd-renewable-energy-secures-20-year-offtake-for-330mwh-templers-bess-in-south-australia/",
-      "date": "2025-11-10T09:41:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AGL divests 19.9% Tilt Renewables stake to fund battery storage expansion",
-      "url": "https://www.energy-storage.news/agl-divests-19-9-tilt-renewables-stake-to-fund-battery-storage-expansion/",
-      "date": "2025-11-10T09:37:57.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
