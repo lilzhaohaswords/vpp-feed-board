@@ -1,6 +1,13 @@
 {
-  "ts": 1763708995772,
+  "ts": 1763712058373,
   "items": [
+    {
+      "title": "Engie completes 800 MWh battery in Belgium, considers expansion",
+      "url": "https://www.pv-magazine.com/2025/11/21/engie-completes-800-mwh-battery-in-belgium-and-considers-expansion/",
+      "date": "2025-11-21T07:54:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Key takeaways from Spain&#8217;s Genera tradeshow",
       "url": "https://www.pv-magazine.com/2025/11/20/key-takeways-from-spains-genera-tradeshow/",
@@ -250,13 +257,6 @@
       "title": "India&#8217;s solar additions rise as nine-month installations reach 26.6 GW",
       "url": "https://www.pv-magazine.com/2025/11/19/indias-solar-additions-rise-as-nine-month-installations-reach-26-6-gw/",
       "date": "2025-11-19T08:30:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US utility-scale solar delays ease as market stabilizes",
-      "url": "https://www.pv-magazine.com/2025/11/19/us-utility-scale-solar-delays-ease-as-market-stabilizes/",
-      "date": "2025-11-19T07:45:04.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
