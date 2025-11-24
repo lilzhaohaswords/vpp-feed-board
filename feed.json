@@ -1,6 +1,27 @@
 {
-  "ts": 1763990711007,
+  "ts": 1763992884048,
   "items": [
+    {
+      "title": "Italy&#8217;s MACSE and the evolution of BESS asset management in Europe",
+      "url": "https://www.energy-storage.news/italy-macse-future-bess-asset-management-europe-enel-greenvolt-ion-bw-ess/",
+      "date": "2025-11-24T13:54:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Massive 20 GWh sodium-ion battery manufacturing plant announced in China",
+      "url": "https://www.pv-magazine.com/2025/11/24/massive-20-gwh-sodium-ion-battery-manufacturing-plant-announced-in-china/",
+      "date": "2025-11-24T13:43:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Kuwait broadens bidding pool for 500 MW PV tender",
+      "url": "https://www.pv-magazine.com/2025/11/24/kuwait-shortlists-more-bidders-for-500-mw-solar-tender/",
+      "date": "2025-11-24T13:35:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Who won at the Energy Storage Awards 2025?",
       "url": "https://www.energy-storage.news/who-won-at-the-energy-storage-awards-2025/",
@@ -198,20 +219,6 @@
       "bucket": "A"
     },
     {
-      "title": "Sinovoltaics releases new PV inverter manufacturer financial stability ranking",
-      "url": "https://www.pv-magazine.com/2025/11/21/sinovoltaics-releases-new-pv-inverter-manufacturer-financial-stability-ranking/",
-      "date": "2025-11-21T08:32:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US startup Unigrid adopts contract manufacturing model for batteries",
-      "url": "https://www.pv-magazine.com/2025/11/21/us-startup-unigrid-adopts-contract-manufacturing-model-for-battery-productio/",
-      "date": "2025-11-21T08:30:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US ROUNDUP: Maxwell Technologies changes hands again, Fullmark completes ITC transfer, OATI partners with Colville Tribes",
       "url": "https://www.energy-storage.news/us-roundup-maxwell-technologies-changes-hands-again-fullmark-completes-itc-transfer-oati-partners-with-colville-tribes/",
       "date": "2025-11-20T14:37:08.000Z",
@@ -334,13 +341,6 @@
       "title": "Ireland ‘enters new era’ with battery storage units participating in wholesale market for first time",
       "url": "https://www.energy-storage.news/ireland-enters-new-era-with-battery-storage-units-participating-in-wholesale-market-for-first-time/",
       "date": "2025-11-18T11:15:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy&#8217;s MACSE and the evolution of BESS asset management in Europe",
-      "url": "https://www.energy-storage.news/italy-macse-future-bess-asset-management-europe-enel-greenvolt-ion-bw-ess/",
-      "date": "2025-11-18T10:59:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     },
