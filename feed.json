@@ -1,6 +1,20 @@
 {
-  "ts": 1763978465391,
+  "ts": 1763982059109,
   "items": [
+    {
+      "title": "European heat pump subsidies tightening, says EHPA",
+      "url": "https://www.pv-magazine.com/2025/11/24/european-heat-pump-subsidies-tightening-says-ehpa/",
+      "date": "2025-11-24T10:20:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "LONGi releases fourth Climate Action White Paper and first TNFD Report at COP30 in Brazil",
+      "url": "https://www.pv-magazine.com/2025/11/24/longi-releases-fourth-climate-action-white-paper-and-first-tnfd-report-at-cop30-in-brazil/",
+      "date": "2025-11-24T10:00:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "French steel manufacturer unveils reusable mounting structure for large-scale solar",
       "url": "https://www.pv-magazine.com/2025/11/24/france-unveils-reusable-steel-mounting-structure-for-large-scale-solar/",
@@ -205,13 +219,6 @@
       "bucket": "A"
     },
     {
-      "title": "Turkey attracts 77 applications in 650 MW solar tender",
-      "url": "https://www.pv-magazine.com/2025/11/20/turkey-attracts-77-applications-in-650-mw-solar-tender/",
-      "date": "2025-11-20T12:15:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "One year on: EU Batteries Regulation and CE marking impacting energy storage systems",
       "url": "https://www.energy-storage.news/one-year-on-eu-batteries-regulation-and-ce-marking-impacting-energy-storage-systems/",
       "date": "2025-11-20T11:41:44.000Z",
@@ -230,13 +237,6 @@
       "url": "https://www.energy-storage.news/pacific-greens-2-5gwh-portland-energy-park-bess-clears-final-federal-environmental-hurdle-in-australia/",
       "date": "2025-11-20T10:13:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How to balance power losses, cost effectiveness in PV-BESS-driven EV charging stations",
-      "url": "https://www.pv-magazine.com/2025/11/20/how-to-balance-power-losses-cost-effectiveness-in-pv-bess-driven-ev-charging-stations/",
-      "date": "2025-11-20T10:08:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
