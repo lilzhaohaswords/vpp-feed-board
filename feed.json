@@ -1,6 +1,13 @@
 {
-  "ts": 1763996471882,
+  "ts": 1764000065391,
   "items": [
+    {
+      "title": "Australia’s Waratah Super Battery enters planned shutdown amid transformer replacement efforts",
+      "url": "https://www.energy-storage.news/australias-waratah-super-battery-enters-planned-shutdown-amid-transformer-replacement-efforts/",
+      "date": "2025-11-24T15:42:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Italy&#8217;s MACSE and the evolution of BESS asset management in Europe",
       "url": "https://www.energy-storage.news/italy-macse-future-bess-asset-management-europe-enel-greenvolt-ion-bw-ess/",
@@ -516,13 +523,6 @@
       "title": "Enlight secures US$1.44 billion for Arizona hybrid PV plant with 1,900MWh BESS",
       "url": "https://www.energy-storage.news/enlight-secures-us1-44-billion-for-arizona-hybrid-pv-plant-with-1900mwh-bess/",
       "date": "2025-11-11T14:25:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NGK pulls plug on world’s second-most-deployed grid storage battery technology after BASF exit",
-      "url": "https://www.energy-storage.news/ngk-basf-exit-second-most-deployed-grid-storage-battery-technology/",
-      "date": "2025-11-11T13:25:14.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
