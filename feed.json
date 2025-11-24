@@ -1,8 +1,29 @@
 {
-  "ts": 1763971253182,
+  "ts": 1763975546608,
   "items": [
     {
-      "title": "Solar sidewalks in Canada cut urban emissions 98%, claim scientists",
+      "title": "Wind-PV-powered heat pump for low-energy residential buildings",
+      "url": "https://www.pv-magazine.com/2025/11/24/wind-pv-powered-heat-pump-for-low-energy-residential-buildings/",
+      "date": "2025-11-24T08:43:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India awards 1 GW of round-the-clock renewables at INR 4.35/kWh",
+      "url": "https://www.pv-magazine.com/2025/11/24/india-awards-1-gw-of-round-the-clock-renewables-at-inr-4-35-kwh/",
+      "date": "2025-11-24T08:30:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The impact of electron irradiation on PERC, TOPCon solar cell performance",
+      "url": "https://www.pv-magazine.com/2025/11/24/the-impact-of-electron-irradiation-on-perc-topcon-solar-cell-performance/",
+      "date": "2025-11-24T08:12:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar sidewalks cut urban emissions 98%, claim scientists",
       "url": "https://www.pv-magazine.com/2025/11/24/solar-sidewalks-in-canada-cut-urban-emissions-98-claim-scientists/",
       "date": "2025-11-24T07:45:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -219,31 +240,10 @@
       "bucket": "A"
     },
     {
-      "title": "Viridian Solar offers new solutions to integrate PV systems with roof windows",
-      "url": "https://www.pv-magazine.com/2025/11/20/viridian-solar-offers-new-solutions-to-integrate-pv-systems-with-roof-windows/",
-      "date": "2025-11-20T09:59:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "United States recall targets 25,000 EcoFlow Delta Max 2000 units",
-      "url": "https://www.pv-magazine.com/2025/11/20/united-states-recall-targets-25000-ecoflow-delta-max-2000-units/",
-      "date": "2025-11-20T09:15:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Grid security trumps battery storage economics as AEMO directs Torrens Island operations in South Australia",
       "url": "https://www.energy-storage.news/grid-security-trumps-battery-storage-economics-as-aemo-directs-torrens-island-operations-in-south-australia/",
       "date": "2025-11-20T09:06:27.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia installs 5.2 GW of solar in 2024",
-      "url": "https://www.pv-magazine.com/2025/11/20/australia-installs-5-2-gw-of-solar-in-2024/",
-      "date": "2025-11-20T08:30:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
