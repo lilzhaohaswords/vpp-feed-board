@@ -1,6 +1,20 @@
 {
-  "ts": 1764082877471,
+  "ts": 1764086464366,
   "items": [
+    {
+      "title": "Vistra cancels 600MW BESS proposed 150 miles from Moss Landing facility in California",
+      "url": "https://www.energy-storage.news/vistra-cancels-600mw-bess-proposed-150-miles-from-moss-landing-facility-in-california/",
+      "date": "2025-11-25T15:35:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "China dominates global polysilicon capacity, says Bernreuter Research",
+      "url": "https://www.pv-magazine.com/2025/11/25/china-dominates-global-polysilicon-capacity-says-bernreuter-research/",
+      "date": "2025-11-25T15:27:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Naturgy, BlueNewables build 1 MW offshore solar plant in Spain",
       "url": "https://www.pv-magazine.com/2025/11/25/naturgy-bluenewables-build-1-mw-offshore-solar-plant-in-spain/",
@@ -222,13 +236,6 @@
       "title": "European heat pump subsidies tightening, says EHPA",
       "url": "https://www.pv-magazine.com/2025/11/24/european-heat-pump-subsidies-tightening-says-ehpa/",
       "date": "2025-11-24T10:20:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "LONGi releases fourth Climate Action White Paper and first TNFD Report at COP30 in Brazil",
-      "url": "https://www.pv-magazine.com/2025/11/24/longi-releases-fourth-climate-action-white-paper-and-first-tnfd-report-at-cop30-in-brazil/",
-      "date": "2025-11-24T10:00:28.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Energy Vault credits expanded markets and new strategies with Q3 2025 growth",
       "url": "https://www.energy-storage.news/energy-vault-credits-expanded-markets-and-new-strategies-with-q3-2025-growth/",
       "date": "2025-11-12T12:52:31.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Finland: IPPs order BESS from Merus and Sungrow as market shifts to 2-hour systems",
-      "url": "https://www.energy-storage.news/finland-ipps-order-bess-from-merus-and-sungrow-as-market-shifts-to-2-hour-systems/",
-      "date": "2025-11-12T12:32:49.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
