@@ -1,6 +1,13 @@
 {
-  "ts": 1764086464366,
+  "ts": 1764090603307,
   "items": [
+    {
+      "title": "Hungary opens $151 million grant scheme for business energy storage",
+      "url": "https://www.pv-magazine.com/2025/11/25/hungary-opens-151-million-grant-scheme-for-business-energy-storage/",
+      "date": "2025-11-25T16:50:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Vistra cancels 600MW BESS proposed 150 miles from Moss Landing facility in California",
       "url": "https://www.energy-storage.news/vistra-cancels-600mw-bess-proposed-150-miles-from-moss-landing-facility-in-california/",
@@ -229,13 +236,6 @@
       "title": "Morocco signs deal for 30,000 MT polysilicon production plant",
       "url": "https://www.pv-magazine.com/2025/11/24/morocco-signs-deal-for-30000-mt-polysilicon-production-plant/",
       "date": "2025-11-24T11:49:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "European heat pump subsidies tightening, says EHPA",
-      "url": "https://www.pv-magazine.com/2025/11/24/european-heat-pump-subsidies-tightening-says-ehpa/",
-      "date": "2025-11-24T10:20:42.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
