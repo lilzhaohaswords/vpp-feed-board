@@ -1,6 +1,20 @@
 {
-  "ts": 1764068459306,
+  "ts": 1764073041784,
   "items": [
+    {
+      "title": "Technique Solaire buys Ibderdrola&#8217;s French renewables unit",
+      "url": "https://www.pv-magazine.com/2025/11/25/technique-solaire-buys-ibderdrolas-french-renewables-unit/",
+      "date": "2025-11-25T12:05:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany BESS &#8216;firsts&#8217;: Integrated software, multi-party optimisation, privileged permitting",
+      "url": "https://www.energy-storage.news/germany-bess-firsts-integrated-software-multi-party-optimisation-privileged-permitting/",
+      "date": "2025-11-25T11:33:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Hydro Tasmania seeking 1,500 GWh new solar, wind",
       "url": "https://www.pv-magazine.com/2025/11/25/hydro-tasmania-seeking-1500-gwh-new-solar-wind/",
@@ -187,13 +201,6 @@
       "title": "The impact of electron irradiation on PERC, TOPCon solar cell performance",
       "url": "https://www.pv-magazine.com/2025/11/24/the-impact-of-electron-irradiation-on-perc-topcon-solar-cell-performance/",
       "date": "2025-11-24T08:12:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar sidewalks cut urban emissions 98%, claim scientists",
-      "url": "https://www.pv-magazine.com/2025/11/24/solar-sidewalks-in-canada-cut-urban-emissions-98-claim-scientists/",
-      "date": "2025-11-24T07:45:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Egypt&#8217;s government, TSO sign agreements for Hassan Allam, Infinity Power&#8217;s solar-plus-storage",
       "url": "https://www.energy-storage.news/egypts-government-tso-sign-agreements-for-hassan-allam-infinity-powers-solar-plus-storage/",
       "date": "2025-11-11T16:18:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Enlight secures US$1.44 billion for Arizona hybrid PV plant with 1,900MWh BESS",
-      "url": "https://www.energy-storage.news/enlight-secures-us1-44-billion-for-arizona-hybrid-pv-plant-with-1900mwh-bess/",
-      "date": "2025-11-11T14:25:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
