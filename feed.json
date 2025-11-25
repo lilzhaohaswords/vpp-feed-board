@@ -1,8 +1,29 @@
 {
-  "ts": 1764073041784,
+  "ts": 1764077143931,
   "items": [
     {
-      "title": "Technique Solaire buys Ibderdrola&#8217;s French renewables unit",
+      "title": "Trina Storage charts strategic course in complex US energy storage market landscape",
+      "url": "https://www.energy-storage.news/trina-storage-charts-strategic-course-in-complex-us-energy-storage-market-landscape/",
+      "date": "2025-11-25T12:59:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Energy storage ‘significantly underutilised’ in EU despite recent growth and policy support",
+      "url": "https://www.energy-storage.news/energy-storage-significantly-underutilised-in-eu-despite-recent-growth-and-policy-support/",
+      "date": "2025-11-25T12:34:39.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "PV topics dominated the International Solar Energy Society’s Solar World Congress 2025 in Brazil",
+      "url": "https://www.pv-magazine.com/2025/11/25/pv-topics-dominated-the-international-solar-energy-societys-solar-world-congress-2025-in-brazil/",
+      "date": "2025-11-25T12:30:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Technique Solaire buys Iberdrola&#8217;s French renewables unit",
       "url": "https://www.pv-magazine.com/2025/11/25/technique-solaire-buys-ibderdrolas-french-renewables-unit/",
       "date": "2025-11-25T12:05:54.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -194,13 +215,6 @@
       "title": "India awards 1 GW of round-the-clock renewables at INR 4.35/kWh",
       "url": "https://www.pv-magazine.com/2025/11/24/india-awards-1-gw-of-round-the-clock-renewables-at-inr-4-35-kwh/",
       "date": "2025-11-24T08:30:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The impact of electron irradiation on PERC, TOPCon solar cell performance",
-      "url": "https://www.pv-magazine.com/2025/11/24/the-impact-of-electron-irradiation-on-perc-topcon-solar-cell-performance/",
-      "date": "2025-11-24T08:12:30.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Three battery projects totalling 720MW enter Australia’s federal environmental assessment",
       "url": "https://www.energy-storage.news/three-battery-projects-totalling-720mw-enter-australias-federal-environmental-assessment/",
       "date": "2025-11-12T09:09:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "QIC, EDP partner for 1,600MWh solar-plus-storage project in Queensland, Australia",
-      "url": "https://www.energy-storage.news/qic-edp-partner-for-1600mwh-solar-plus-storage-project-in-queensland-australia/",
-      "date": "2025-11-12T09:04:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Egypt&#8217;s government, TSO sign agreements for Hassan Allam, Infinity Power&#8217;s solar-plus-storage",
-      "url": "https://www.energy-storage.news/egypts-government-tso-sign-agreements-for-hassan-allam-infinity-powers-solar-plus-storage/",
-      "date": "2025-11-11T16:18:54.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
