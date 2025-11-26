@@ -1,6 +1,20 @@
 {
-  "ts": 1764117660020,
+  "ts": 1764124022047,
   "items": [
+    {
+      "title": "Australia: Potentia gains consent for 1GWh solar hybrid as Fluence delivers to 600MWh battery storage site",
+      "url": "https://www.energy-storage.news/australia-potentia-gains-consent-for-1gwh-solar-hybrid-as-fluence-delivers-to-600mwh-battery-storage-site/",
+      "date": "2025-11-26T01:03:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Safety and sustainability: Dual pillars shaping Australia&#8217;s energy storage sector",
+      "url": "https://www.energy-storage.news/safety-and-sustainability-dual-pillars-shaping-australias-energy-storage-sector/",
+      "date": "2025-11-26T00:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Acacia Energy to resell OptiGrid&#8217;s AI-powered battery platform for C&#038;I customers in Australia",
       "url": "https://www.energy-storage.news/acacia-energy-to-resell-optigrids-ai-powered-battery-platform-for-ci-customers-in-australia/",
@@ -509,20 +523,6 @@
       "title": "Ampyr Australia acquires 2,160MWh grid-forming BESS project in South Australia",
       "url": "https://www.energy-storage.news/ampyr-australia-acquires-2160mwh-grid-forming-bess-project-in-south-australia/",
       "date": "2025-11-13T08:55:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India: Adani makes ‘strategic entry’ into battery storage with 3.5GWh project",
-      "url": "https://www.energy-storage.news/india-adani-makes-strategic-entry-into-battery-storage-with-3-5gwh-project/",
-      "date": "2025-11-12T13:27:55.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "71% of Americans surveyed support energy storage, but &#8216;vocal minority&#8217; kill or delay projects",
-      "url": "https://www.energy-storage.news/71-of-americans-surveyed-support-energy-storage-but-vocal-minority-kill-or-delay-projects/",
-      "date": "2025-11-12T12:57:25.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
