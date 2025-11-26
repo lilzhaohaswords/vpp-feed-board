@@ -1,6 +1,34 @@
 {
-  "ts": 1764154871030,
+  "ts": 1764159426450,
   "items": [
+    {
+      "title": "Longi achieves 33.35% efficiency for flexible perovskite-silicon tandem solar cell",
+      "url": "https://www.pv-magazine.com/2025/11/26/longi-achieves-33-35-efficiency-for-flexible-perovskite-silicon-tandem-solar-cell/",
+      "date": "2025-11-26T12:09:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fluence &#8216;expects to meet FEOC compliance by regulatory deadlines,&#8217; offers 2026 guidance",
+      "url": "https://www.energy-storage.news/fluence-expects-to-meet-feoc-compliance-by-regulatory-deadlines-offers-2026-guidance/",
+      "date": "2025-11-26T11:59:39.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "250MWh &#8216;Sand Battery&#8217; to start construction in Finland, for both heating and ancillary services",
+      "url": "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/",
+      "date": "2025-11-26T11:55:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "South Korea sets 2030 goal for perovskite-silicon tandem solar panels",
+      "url": "https://www.pv-magazine.com/2025/11/26/south-korea-aims-to-commercialize-perovskite-silicon-tandem-solar-panels-by-2030/",
+      "date": "2025-11-26T11:45:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "&#8216;Rapid growth but disorderly competiton&#8217;: Longi enters energy storage industry with PotisEdge deal",
       "url": "https://www.energy-storage.news/rapid-growth-but-disorderly-competiton-longi-enters-energy-storage-industry-with-potisedge-deal/",
@@ -229,20 +257,6 @@
       "title": "Italy issues new rules for PV project siting, solar fiscal breaks",
       "url": "https://www.pv-magazine.com/2025/11/24/italy-issues-new-rules-for-pv-project-siting-solar-fiscal-breaks/",
       "date": "2025-11-24T16:53:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil distributed solar market set for lower annual additions in 2025",
-      "url": "https://www.pv-magazine.com/2025/11/24/brazil-distributed-solar-market-set-for-lower-annual-additions-in-2025/",
-      "date": "2025-11-24T16:45:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan’s PV module shipments hit 1.28 GW as residential demand accelerates",
-      "url": "https://www.pv-magazine.com/2025/11/24/japans-module-shipments-rise-to-1280-mw-as-residential-demand-accelerates/",
-      "date": "2025-11-24T16:40:28.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "HyperStrong and CATL enter 200GWh strategic cooperation",
       "url": "https://www.energy-storage.news/hyperstrong-and-catl-enter-200gwh-strategic-cooperation/",
       "date": "2025-11-13T13:09:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany: Statkraft, Kyon and Juniz commission, procure and finance projects totalling 213MWh of BESS",
-      "url": "https://www.energy-storage.news/germany-statkraft-kyon-and-juniz-commission-procure-and-finance-projects-totalling-213mwh-of-bess/",
-      "date": "2025-11-13T13:04:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Octopus Australia reaches financial close on 486MWh DC-coupled solar-plus-storage site",
-      "url": "https://www.energy-storage.news/octopus-australia-reaches-financial-close-on-486mwh-dc-coupled-solar-plus-storage-site/",
-      "date": "2025-11-13T08:56:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
