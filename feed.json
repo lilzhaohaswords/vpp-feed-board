@@ -1,6 +1,13 @@
 {
-  "ts": 1764165654752,
+  "ts": 1764169258245,
   "items": [
+    {
+      "title": "European solar manufacturing ‘considerably behind’ NZIA targets, says EU observatory",
+      "url": "https://www.pv-magazine.com/2025/11/26/european-solar-manufacturing-considerably-behind-nzia-targets-says-eu-observatory/",
+      "date": "2025-11-26T14:25:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Plenitude tests perovskite-silicon tandem solar modules in utility-scale installation pilot",
       "url": "https://www.pv-magazine.com/2025/11/26/plenitude-tests-perovskite-silicon-tandem-solar-modules-in-utility-scale-installation-pilot/",
@@ -257,13 +264,6 @@
       "title": "When solar meets next-gen nuclear",
       "url": "https://www.pv-magazine.com/2025/11/25/when-solar-meets-next-gen-nuclear/",
       "date": "2025-11-25T07:52:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US energy offices folded into new structure at Department of Energy",
-      "url": "https://www.pv-magazine.com/2025/11/25/us-energy-offices-folded-into-new-structure-at-department-of-energy/",
-      "date": "2025-11-25T07:45:29.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
