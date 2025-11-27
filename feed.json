@@ -1,6 +1,13 @@
 {
-  "ts": 1764237658688,
+  "ts": 1764241255492,
   "items": [
+    {
+      "title": "China advances 4.2 GWh compressed air storage project",
+      "url": "https://www.pv-magazine.com/2025/11/27/china-advances-4-2-gwh-compressed-air-storage-project/",
+      "date": "2025-11-27T10:00:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Philippines commissions 6.5 MW solar project for social housing",
       "url": "https://www.pv-magazine.com/2025/11/27/philippines-commissions-6-5-mw-solar-project-for-social-housing/",
@@ -236,13 +243,6 @@
       "title": "Naturgy, BlueNewables build 1 MW offshore solar plant in Spain",
       "url": "https://www.pv-magazine.com/2025/11/25/naturgy-bluenewables-build-1-mw-offshore-solar-plant-in-spain/",
       "date": "2025-11-25T14:30:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Community-based energy trading system for home solar-plus-storage",
-      "url": "https://www.pv-magazine.com/2025/11/25/community-based-energy-trading-system-for-home-solar-plus-storage/",
-      "date": "2025-11-25T14:09:23.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
