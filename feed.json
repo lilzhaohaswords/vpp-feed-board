@@ -1,6 +1,20 @@
 {
-  "ts": 1764252059946,
+  "ts": 1764255657059,
   "items": [
+    {
+      "title": "Nostromo’s thermal ESS participates in CAISO energy market",
+      "url": "https://www.energy-storage.news/nostromos-thermal-ess-participates-in-caiso-energy-market/",
+      "date": "2025-11-27T14:47:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Eos completes financing transactions totalling over US$1 billion, focuses on US manufacturing",
+      "url": "https://www.energy-storage.news/eos-completes-financing-transactions-totalling-over-us1-billion-focuses-on-us-manufacturing/",
+      "date": "2025-11-27T14:37:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sungrow unveils new modular C&#038;I battery with long-duration storage capability",
       "url": "https://www.pv-magazine.com/2025/11/27/sungrow-unveils-new-modular-ci-battery-with-long-duration-storage-capability/",
@@ -509,20 +523,6 @@
       "title": "Statera secures debt finance for 1.36GWh UK BESS",
       "url": "https://www.energy-storage.news/statera-secures-debt-finance-for-1-36gwh-uk-bess/",
       "date": "2025-11-14T14:43:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US sodium-ion startup Peak Energy deploying 720MWh BESS for Jupiter Power, with 4GWh under reservation",
-      "url": "https://www.energy-storage.news/us-sodium-ion-startup-peak-energy-deploying-720mwh-bess-for-jupiter-power-with-4gwh-under-reservation/",
-      "date": "2025-11-14T13:02:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Arizona county P&#038;Z commission denies land use amendment for Nadara&#8217;s 200MW hybrid BESS project",
-      "url": "https://www.energy-storage.news/arizona-county-pz-commission-denies-land-use-amendment-for-nadaras-200mw-hybrid-bess-project/",
-      "date": "2025-11-14T12:26:20.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
