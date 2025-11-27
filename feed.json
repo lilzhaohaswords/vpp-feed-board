@@ -1,6 +1,34 @@
 {
-  "ts": 1764244868901,
+  "ts": 1764249833376,
   "items": [
+    {
+      "title": "EDF joint venture kicks off large-scale BESS and solar-plus-storage projects in Chile",
+      "url": "https://www.energy-storage.news/edf-joint-venture-kicks-off-large-scale-bess-solar-plus-storage-projects-chile/",
+      "date": "2025-11-27T13:15:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "UK adds 1.9 GW of solar in 12 months",
+      "url": "https://www.pv-magazine.com/2025/11/27/uk-adds-1-9-gw-of-solar-in-12-months/",
+      "date": "2025-11-27T13:00:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UBS upgrades China BESS installation forecast, industry to ride policy tailwinds",
+      "url": "https://www.energy-storage.news/ubs-upgrades-china-bess-installation-forecast-industry-to-ride-policy-tailwinds/",
+      "date": "2025-11-27T13:00:05.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "IRENA seeks consultant for solar feasibility study in Ukraine",
+      "url": "https://www.pv-magazine.com/2025/11/27/irena-seeks-consultant-for-solar-feasibility-study-in-ukraine/",
+      "date": "2025-11-27T12:00:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Italian battery storage market pipeline soars, developers flock from around Europe",
       "url": "https://www.energy-storage.news/italian-battery-storage-market-pipeline-soars-developers-flock-from-around-europe/",
@@ -237,20 +265,6 @@
       "url": "https://www.energy-storage.news/vistra-cancels-600mw-bess-proposed-150-miles-from-moss-landing-facility-in-california/",
       "date": "2025-11-25T15:35:32.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China dominates global polysilicon capacity, says Bernreuter Research",
-      "url": "https://www.pv-magazine.com/2025/11/25/china-dominates-global-polysilicon-capacity-says-bernreuter-research/",
-      "date": "2025-11-25T15:27:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Naturgy, BlueNewables build 1 MW offshore solar plant in Spain",
-      "url": "https://www.pv-magazine.com/2025/11/25/naturgy-bluenewables-build-1-mw-offshore-solar-plant-in-spain/",
-      "date": "2025-11-25T14:30:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Arizona county P&#038;Z commission denies land use amendment for Nadara&#8217;s 200MW hybrid BESS project",
       "url": "https://www.energy-storage.news/arizona-county-pz-commission-denies-land-use-amendment-for-nadaras-200mw-hybrid-bess-project/",
       "date": "2025-11-14T12:26:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Greece: PPC awards Trina Storage with 200MWh Western Macedonia BESS project contract",
-      "url": "https://www.energy-storage.news/greece-ppc-awards-trina-storage-with-200mwh-western-macedonia-bess-project-contract/",
-      "date": "2025-11-14T12:17:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China leads 29% October global BESS deployments increase",
-      "url": "https://www.energy-storage.news/china-leads-29-october-global-bess-deployments-increase/",
-      "date": "2025-11-14T11:08:59.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
