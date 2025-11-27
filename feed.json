@@ -1,6 +1,13 @@
 {
-  "ts": 1764241255492,
+  "ts": 1764244868901,
   "items": [
+    {
+      "title": "Italian battery storage market pipeline soars, developers flock from around Europe",
+      "url": "https://www.energy-storage.news/italian-battery-storage-market-pipeline-soars-developers-flock-from-around-europe/",
+      "date": "2025-11-27T11:51:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "China advances 4.2 GWh compressed air storage project",
       "url": "https://www.pv-magazine.com/2025/11/27/china-advances-4-2-gwh-compressed-air-storage-project/",
@@ -516,13 +523,6 @@
       "title": "China leads 29% October global BESS deployments increase",
       "url": "https://www.energy-storage.news/china-leads-29-october-global-bess-deployments-increase/",
       "date": "2025-11-14T11:08:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US EPA appoints ABTC to recycle up to 100,000 Li-ion battery modules from Moss Landing BESS",
-      "url": "https://www.energy-storage.news/us-epa-appoints-abtc-to-recycle-up-to-100000-li-ion-battery-modules-from-moss-landing-bess/",
-      "date": "2025-11-13T13:56:23.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
