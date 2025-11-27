@@ -1,6 +1,13 @@
 {
-  "ts": 1764198048443,
+  "ts": 1764204014251,
   "items": [
+    {
+      "title": "Western Australia seeks local vanadium for 500MWh Kalgoorlie battery storage project",
+      "url": "https://www.energy-storage.news/western-australia-seeks-local-vanadium-for-500mwh-kalgoorlie-battery-storage-project/",
+      "date": "2025-11-27T00:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Mexico advances new wave of large-scale solar and storage projects",
       "url": "https://www.pv-magazine.com/2025/11/26/new-large-scale-pv-projects-proliferate-in-mexico/",
@@ -516,13 +523,6 @@
       "title": "US EPA appoints ABTC to recycle up to 100,000 Li-ion battery modules from Moss Landing BESS",
       "url": "https://www.energy-storage.news/us-epa-appoints-abtc-to-recycle-up-to-100000-li-ion-battery-modules-from-moss-landing-bess/",
       "date": "2025-11-13T13:56:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "What an ICE raid on Hyundai and LG ES’ EV cell factory in Georgia could mean for BESS manufacturing",
-      "url": "https://www.energy-storage.news/what-an-ice-raid-on-hyundai-and-lg-es-ev-cell-factory-in-georgia-could-mean-for-bess-manufacturing/",
-      "date": "2025-11-13T13:52:38.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
