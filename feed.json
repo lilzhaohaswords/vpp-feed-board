@@ -1,6 +1,34 @@
 {
-  "ts": 1764331274764,
+  "ts": 1764336166940,
   "items": [
+    {
+      "title": "French startup deploys modular ground-mounted solar systems",
+      "url": "https://www.pv-magazine.com/2025/11/28/french-startup-deploys-modular-ground-mounted-solar-systems/",
+      "date": "2025-11-28T13:06:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Rescue bid for German solar glass maker GMB fails",
+      "url": "https://www.pv-magazine.com/2025/11/28/rescue-bid-for-german-solar-glass-maker-gmb-fails/",
+      "date": "2025-11-28T13:03:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Battery storage fire safety: Sungrow, Wärtsilä, Chint Power products put through LSFT",
+      "url": "https://www.energy-storage.news/battery-storage-fire-safety-sungrow-wartsila-chint-power-products-put-through-lsft/",
+      "date": "2025-11-28T12:37:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia opens Capacity Investment Scheme Tender 8, seeking 16GWh of energy storage across NEM",
+      "url": "https://www.energy-storage.news/australia-opens-capacity-investment-scheme-tender-8-seeking-16gwh-of-energy-storage-across-nem/",
+      "date": "2025-11-28T12:36:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Spain’s Sumcab launches new cables for PV installations",
       "url": "https://www.pv-magazine.com/2025/11/28/spains-sumcab-launches-new-cables-for-pv-installations/",
@@ -201,20 +229,6 @@
       "title": "Denmark’s TITAN Containers adds solar to ArcticStore cold units",
       "url": "https://www.pv-magazine.com/2025/11/27/denmarks-titan-containers-adds-solar-to-arcticstore-cold-units/",
       "date": "2025-11-27T07:44:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spanish researchers developing rear-side concentrated PV modules for agrivoltaics",
-      "url": "https://www.pv-magazine.com/2025/11/27/spanish-researchers-developing-rear-side-concentrated-pv-modules-for-agrivoltaics/",
-      "date": "2025-11-27T07:13:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Palestine Investment Fund provides update on solar deployment in Jerusalem",
-      "url": "https://www.pv-magazine.com/2025/11/27/palestine-investment-fund-provides-update-on-solar-deployment-in-jerusalem/",
-      "date": "2025-11-27T07:10:38.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "‘Canada’s largest BESS’ at 1,858MWh begins construction, E-Storage is tech provider &#038; EPC",
       "url": "https://www.energy-storage.news/canadas-largest-bess-at-1858mwh-begins-construction-e-storage-is-tech-provider-epc/",
       "date": "2025-11-17T13:01:09.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia to launch Capacity Investment Scheme Tender 8 seeking 16GWh energy storage in the NEM",
-      "url": "https://www.energy-storage.news/australia-to-launch-capacity-investment-scheme-tender-8-seeking-16gwh-energy-storage-in-the-nem/",
-      "date": "2025-11-17T12:47:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Inside CAN networks &#8211; Solving core communication challenges in co-located renewables and BESS",
-      "url": "https://www.energy-storage.news/video-inside-can-networks-solving-core-communication-challenges-in-co-located-renewables-and-bess/",
-      "date": "2025-11-17T11:18:09.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
