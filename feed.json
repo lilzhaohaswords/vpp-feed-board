@@ -1,6 +1,13 @@
 {
-  "ts": 1764630049716,
+  "ts": 1764636109508,
   "items": [
+    {
+      "title": "Fortescue deploys 250MWh BYD battery system in Western Australia",
+      "url": "https://www.energy-storage.news/fortescue-deploys-250mwh-byd-battery-system-in-western-australia/",
+      "date": "2025-12-01T23:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Astronergy and JA Solar end global patent disputes with cross-licensing deal",
       "url": "https://www.pv-magazine.com/2025/12/01/astronergy-and-ja-solar-end-global-patent-disputes-with-cross-licensing-deal/",
@@ -516,13 +523,6 @@
       "title": "Sunrun: 70% battery storage attachment rates minimised US solar leaser&#8217;s losses in Q3 2025",
       "url": "https://www.energy-storage.news/sunrun-70-battery-storage-attachment-rates-minimised-us-solar-leasers-losses-in-q3-2025/",
       "date": "2025-11-18T14:53:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia breaks 40-year pumped hydro drought as 2GWh Kidston project enters the NEM",
-      "url": "https://www.energy-storage.news/australia-breaks-40-year-pumped-hydro-drought-as-2gwh-kidston-project-enters-the-nem/",
-      "date": "2025-11-18T14:37:31.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
