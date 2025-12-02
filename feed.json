@@ -1,6 +1,41 @@
 {
-  "ts": 1764662476284,
+  "ts": 1764666856424,
   "items": [
+    {
+      "title": "Huawei unveils FusionSolar 9.0 platform with AI, grid-forming tech",
+      "url": "https://www.pv-magazine.com/2025/12/02/huawei-unveils-fusionsolar-9-0-platform-with-ai-grid-forming-tech/",
+      "date": "2025-12-02T09:09:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "World Bank supports multi-gigawatt cross-border renewable energy project in Malaysia",
+      "url": "https://www.energy-storage.news/world-bank-supports-multi-gigawatt-cross-border-renewable-energy-project-in-malaysia/",
+      "date": "2025-12-02T09:04:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Sunman to build 500 MW solar panel manufacturing plant in Australia",
+      "url": "https://www.pv-magazine.com/2025/12/02/sunman-to-build-500-mw-solar-panel-manufacturing-plant-in-australia/",
+      "date": "2025-12-02T08:43:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Optimal solar-plus-storage sizing for heavy industry operation",
+      "url": "https://www.pv-magazine.com/2025/12/02/optimal-solar-plus-storage-sizing-for-heavy-industry-operation/",
+      "date": "2025-12-02T08:36:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Antimony vs. phosphorous doping in solar wafer manufacturing",
+      "url": "https://www.pv-magazine.com/2025/12/02/antimony-vs-phosphorous-doping-in-solar-wafer-manufacturing/",
+      "date": "2025-12-02T08:30:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Building the perfect perovskite, one layer at a time",
       "url": "https://www.pv-magazine.com/2025/12/02/building-the-perfect-perovskite-one-layer-at-a-time/",
@@ -180,34 +215,6 @@
       "title": "South Korean solar inverter industry raises cybersecurity concerns",
       "url": "https://www.pv-magazine.com/2025/11/28/south-korean-solar-inverter-group-to-focus-on-domestic-tech-cybersecurity/",
       "date": "2025-11-28T16:35:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: EWE begins work on 320 MW hydrogen plant in Germany",
-      "url": "https://www.pv-magazine.com/2025/11/28/the-hydrogen-stream-ewe-starts-construction-of-320-mw-hydrogen-production-plant-in-north-west-germany/",
-      "date": "2025-11-28T16:30:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: January-October solar additions reach 252.87 GW",
-      "url": "https://www.pv-magazine.com/2025/11/28/chinese-pv-industry-brief-january-october-solar-additions-reach-252-87-gw/",
-      "date": "2025-11-28T15:12:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Trina Storage launches AC-coupled battery for utility-scale applications",
-      "url": "https://www.pv-magazine.com/2025/11/28/trina-storage-launches-ac-coupled-modular-battery-for-utility-scale-applications/",
-      "date": "2025-11-28T14:32:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;I’ve seen women promoted while pregnant, and others leading teams while working part-time&#8217;",
-      "url": "https://www.pv-magazine.com/2025/11/28/ive-seen-women-promoted-while-pregnant-and-others-leading-teams-while-working-part-time/",
-      "date": "2025-11-28T13:57:19.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Italy’s MACSE and CM revenues to become more competitive over time, optimiser says",
       "url": "https://www.energy-storage.news/italys-macse-and-cm-revenues-to-become-more-competitive-over-time-optimiser-says/",
       "date": "2025-11-18T16:04:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sunrun: 70% battery storage attachment rates minimised US solar leaser&#8217;s losses in Q3 2025",
-      "url": "https://www.energy-storage.news/sunrun-70-battery-storage-attachment-rates-minimised-us-solar-leasers-losses-in-q3-2025/",
-      "date": "2025-11-18T14:53:19.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
