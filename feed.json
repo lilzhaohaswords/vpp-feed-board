@@ -1,6 +1,27 @@
 {
-  "ts": 1764669665077,
+  "ts": 1764673234128,
   "items": [
+    {
+      "title": "HDRE, Brawn Capital put ‘100% merchant’ BESS into operation in northern Japan",
+      "url": "https://www.energy-storage.news/hdre-brawn-capital-put-100-merchant-bess-into-operation-in-northern-japan/",
+      "date": "2025-12-02T10:53:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Omani polysilicon factory secures $220 million",
+      "url": "https://www.pv-magazine.com/2025/12/02/omani-bank-inks-220-million-for-oman-polysilicon-project/",
+      "date": "2025-12-02T10:37:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Pramac EMS features special modes for C&#038;I battery storage sites",
+      "url": "https://www.pv-magazine.com/2025/12/02/pramac-ems-features-special-modes-for-ci-battery-storage-sites/",
+      "date": "2025-12-02T10:00:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "JA Solar reveals TÜV Nord-certified results from desert solar module trials",
       "url": "https://www.pv-magazine.com/2025/12/02/ja-solar-reveals-tuv-nord-certified-results-from-desert-solar-module-trials/",
@@ -194,20 +215,6 @@
       "title": "All-perovskite tandem solar cell with dipolar passivation achieves 30.1% efficiency",
       "url": "https://www.pv-magazine.com/2025/12/01/all-perovskite-tandem-solar-cell-with-dipolar-passivation-achieves-30-1-efficiency/",
       "date": "2025-12-01T08:00:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Synchronous condensers to play key role in Australian system security",
-      "url": "https://www.pv-magazine.com/2025/12/01/synchronous-condensers-to-play-key-role-in-australian-system-security/",
-      "date": "2025-12-01T07:45:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Historic icons, modern energy: Why heritage buildings need solar roofing",
-      "url": "https://www.pv-magazine.com/2025/12/01/historic-icons-modern-energy-why-heritage-buildings-need-solar-roofing/",
-      "date": "2025-12-01T07:30:19.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "US non-lithium energy storage startups ESS Inc, Eos foresee policy and load growth tailwinds ahead",
       "url": "https://www.energy-storage.news/us-non-lithium-energy-storage-startups-ess-inc-eos-foresee-policy-and-load-growth-tailwinds-ahead/",
       "date": "2025-11-18T16:07:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy’s MACSE and CM revenues to become more competitive over time, optimiser says",
-      "url": "https://www.energy-storage.news/italys-macse-and-cm-revenues-to-become-more-competitive-over-time-optimiser-says/",
-      "date": "2025-11-18T16:04:27.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
