@@ -1,6 +1,20 @@
 {
-  "ts": 1764673234128,
+  "ts": 1764676865170,
   "items": [
+    {
+      "title": "US battery manufacturing &#8216;could cover domestic BESS demand within a few years&#8217;",
+      "url": "https://www.energy-storage.news/us-battery-manufacturing-could-cover-domestic-bess-demand-within-a-few-years/",
+      "date": "2025-12-02T12:00:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Puerto Rico advances on its delayed accelerated BESS deployment programme",
+      "url": "https://www.energy-storage.news/puerto-rico-advances-on-its-delayed-accelerated-bess-deployment-programme/",
+      "date": "2025-12-02T11:50:26.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "HDRE, Brawn Capital put ‘100% merchant’ BESS into operation in northern Japan",
       "url": "https://www.energy-storage.news/hdre-brawn-capital-put-100-merchant-bess-into-operation-in-northern-japan/",
@@ -509,20 +523,6 @@
       "title": "SECI, Andhra Pradesh government agree on 1,200MWh BESS and 50MW solar hybrid projects",
       "url": "https://www.energy-storage.news/seci-andhra-pradesh-government-agree-on-1200mwh-bess-and-50mw-solar-hybrid-projects/",
       "date": "2025-11-19T12:00:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "LEAG enlists HyperStrong for 1.6GWh Germany BESS",
-      "url": "https://www.energy-storage.news/leag-enlists-hyperstrong-for-1-6gwh-germany-bess/",
-      "date": "2025-11-19T11:01:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US non-lithium energy storage startups ESS Inc, Eos foresee policy and load growth tailwinds ahead",
-      "url": "https://www.energy-storage.news/us-non-lithium-energy-storage-startups-ess-inc-eos-foresee-policy-and-load-growth-tailwinds-ahead/",
-      "date": "2025-11-18T16:07:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
