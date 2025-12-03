@@ -1,6 +1,13 @@
 {
-  "ts": 1764716454290,
+  "ts": 1764722469643,
   "items": [
+    {
+      "title": "FRV and AGL advance 2,200MWh of grid-forming battery energy storage in Australia",
+      "url": "https://www.energy-storage.news/frv-and-agl-advance-2200mwh-of-grid-forming-battery-energy-storage-in-australia/",
+      "date": "2025-12-03T00:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Aypa Power to build, own, and operate 1,200MWh South Carolina BESS",
       "url": "https://www.energy-storage.news/aypa-power-to-build-own-and-operate-1200mwh-south-carolina-bess/",
@@ -516,13 +523,6 @@
       "title": "‘Europe’s fastest-growing clean energy technology’: 100GW of energy storage installs",
       "url": "https://www.energy-storage.news/europes-fastest-growing-clean-energy-technology-100gw-of-energy-storage-installs/",
       "date": "2025-11-19T16:18:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "OX2 acquires co-located wind and BESS developments in Western Australia",
-      "url": "https://www.energy-storage.news/ox2-acquires-co-located-wind-and-bess-developments-in-western-australia/",
-      "date": "2025-11-19T14:17:35.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
