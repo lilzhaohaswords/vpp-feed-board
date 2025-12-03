@@ -1,6 +1,13 @@
 {
-  "ts": 1764756064161,
+  "ts": 1764759666066,
   "items": [
+    {
+      "title": "India installs 6.1 GW of open-access solar in first nine months of 2025",
+      "url": "https://www.pv-magazine.com/2025/12/03/india-installs-6-1-gw-of-open-access-solar-in-first-nine-months-of-2025/",
+      "date": "2025-12-03T10:00:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australian rooftop solar install rates reach 2025 high",
       "url": "https://www.pv-magazine.com/2025/12/03/australian-rooftop-solar-install-rates-reach-2025-high/",
@@ -208,13 +215,6 @@
       "title": "U.S. extends solar manufacturing tariff exclusions",
       "url": "https://www.pv-magazine.com/2025/12/02/u-s-extends-solar-manufacturing-tariff-exclusions/",
       "date": "2025-12-02T06:28:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "California lawmakers urge CPUC to enforce utility interconnection timelines",
-      "url": "https://www.pv-magazine.com/2025/12/02/california-lawmakers-urge-cpuc-to-enforce-utility-interconnection-timelines/",
-      "date": "2025-12-02T06:24:24.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
