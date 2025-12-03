@@ -1,6 +1,34 @@
 {
-  "ts": 1764763257832,
+  "ts": 1764768466756,
   "items": [
+    {
+      "title": "Price gap between conventional, renewable hydrogen widens in Europe",
+      "url": "https://www.pv-magazine.com/2025/12/03/price-gap-between-conventional-renewable-hydrogen-widens-in-europe/",
+      "date": "2025-12-03T13:11:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ontario municipality denies support for 3.2GWh BESS project ahead of looming IESO RFP deadline",
+      "url": "https://www.energy-storage.news/ontario-municipality-denies-support-for-3-2gwh-bess-project-ahead-of-looming-ieso-rfp-deadline/",
+      "date": "2025-12-03T12:56:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Cache Power plans ‘Canada’s first’ commercial-scale compressed air energy storage facility",
+      "url": "https://www.energy-storage.news/cache-power-plans-canadas-first-commercial-scale-compressed-air-energy-storage-facility/",
+      "date": "2025-12-03T12:38:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Irish energy industry calls for 500 MW of storage capacity by 2030",
+      "url": "https://www.pv-magazine.com/2025/12/03/irish-energy-industry-calls-for-500-mw-of-storage-capacity-by-2030/",
+      "date": "2025-12-03T12:00:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "State-owned Stanwell bags exclusivity for Quinbrook’s 6.24GWh hybrid energy storage facility in Australia",
       "url": "https://www.energy-storage.news/state-owned-stanwell-bags-exclusivity-for-quinbrooks-6-24gwh-hybrid-energy-storage-facility-in-australia/",
@@ -222,20 +250,6 @@
       "title": "ABB finalizes acquisition of Gamesa Electric",
       "url": "https://www.pv-magazine.com/2025/12/02/abb-finalizes-acquisition-of-gamesa-electric/",
       "date": "2025-12-02T07:25:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New ultra-reflective color steel promises big efficiency gains for bifacial rooftop PV",
-      "url": "https://www.pv-magazine.com/2025/12/02/new-ultra-reflective-color-steel-promises-big-efficiency-gains-for-bifacial-rooftop-pv/",
-      "date": "2025-12-02T07:10:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. extends solar manufacturing tariff exclusions",
-      "url": "https://www.pv-magazine.com/2025/12/02/u-s-extends-solar-manufacturing-tariff-exclusions/",
-      "date": "2025-12-02T06:28:14.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "AI now links technical and commercial realities of BESS asset management",
       "url": "https://www.energy-storage.news/ai-now-links-technical-and-commercial-realities-of-bess-asset-management/",
       "date": "2025-11-20T11:09:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Pacific Green&#8217;s 2.5GWh Portland Energy Park BESS clears final federal environmental hurdle in Australia",
-      "url": "https://www.energy-storage.news/pacific-greens-2-5gwh-portland-energy-park-bess-clears-final-federal-environmental-hurdle-in-australia/",
-      "date": "2025-11-20T10:13:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Grid security trumps battery storage economics as AEMO directs Torrens Island operations in South Australia",
-      "url": "https://www.energy-storage.news/grid-security-trumps-battery-storage-economics-as-aemo-directs-torrens-island-operations-in-south-australia/",
-      "date": "2025-11-20T09:06:27.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
