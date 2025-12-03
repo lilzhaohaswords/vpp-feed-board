@@ -1,8 +1,15 @@
 {
-  "ts": 1764753216400,
+  "ts": 1764756064161,
   "items": [
     {
-      "title": "Trump administration renames National Renewable Energy Laboratory",
+      "title": "Australian rooftop solar install rates reach 2025 high",
+      "url": "https://www.pv-magazine.com/2025/12/03/australian-rooftop-solar-install-rates-reach-2025-high/",
+      "date": "2025-12-03T09:15:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US government renames National Renewable Energy Laboratory",
       "url": "https://www.pv-magazine.com/2025/12/03/trump-administration-renames-national-renewable-energy-laboratory/",
       "date": "2025-12-03T08:51:18.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -216,13 +223,6 @@
       "url": "https://www.energy-storage.news/fortescue-deploys-250mwh-byd-battery-system-in-western-australia/",
       "date": "2025-12-01T23:00:00.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Astronergy and JA Solar end global patent disputes with cross-licensing deal",
-      "url": "https://www.pv-magazine.com/2025/12/01/astronergy-and-ja-solar-end-global-patent-disputes-with-cross-licensing-deal/",
-      "date": "2025-12-01T16:55:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
