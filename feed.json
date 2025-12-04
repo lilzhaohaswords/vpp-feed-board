@@ -1,6 +1,27 @@
 {
-  "ts": 1764849670134,
+  "ts": 1764854880696,
   "items": [
+    {
+      "title": "European Commission opens third hydrogen auction",
+      "url": "https://www.pv-magazine.com/2025/12/04/european-commission-opens-third-hydrogen-auction/",
+      "date": "2025-12-04T13:22:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany Roundup: 500MW BESS and data centre transaction, seven-year toll and 370MW pipeline secured",
+      "url": "https://www.energy-storage.news/germany-roundup-500mw-bess-and-data-centre-transaction-seven-year-toll-and-370mw-pipeline-secured/",
+      "date": "2025-12-04T12:06:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Great British Energy plans 15 GW clean energy investment",
+      "url": "https://www.pv-magazine.com/2025/12/04/great-british-energy-plans-15-gw-clean-energy-investment/",
+      "date": "2025-12-04T12:00:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Polish energy regulator warns against fake solar inspections",
       "url": "https://www.pv-magazine.com/2025/12/04/polish-energy-regulator-warns-against-fake-solar-inspections/",
@@ -215,20 +236,6 @@
       "title": "Italy’s first Fer X solar auction allocates 7.7 GW at average price of €0.05682/kWh",
       "url": "https://www.pv-magazine.com/2025/12/03/italys-first-fer-x-solar-auction-allocates-7-7-gw-at-average-price-of-e0-05682-kwh/",
       "date": "2025-12-03T07:30:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Panasonic glass-based perovskite solar panels tested in office windows",
-      "url": "https://www.pv-magazine.com/2025/12/03/panasonic-glass-based-perovskite-solar-panels-tested-in-office-windows/",
-      "date": "2025-12-03T07:00:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New generation of IPPs is emerging, says Pexapark",
-      "url": "https://www.pv-magazine.com/2025/12/03/next-generation-of-ipps-is-emerging-says-pexapark/",
-      "date": "2025-12-03T07:00:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "European BESS M&#038;A and financings totalling over 1GW",
       "url": "https://www.energy-storage.news/european-bess-m-a-and-financings-totalling-over-1gw/",
       "date": "2025-11-21T10:21:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US ROUNDUP: Maxwell Technologies changes hands again, Fullmark completes ITC transfer, OATI partners with Colville Tribes",
-      "url": "https://www.energy-storage.news/us-roundup-maxwell-technologies-changes-hands-again-fullmark-completes-itc-transfer-oati-partners-with-colville-tribes/",
-      "date": "2025-11-20T14:37:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
