@@ -1,6 +1,34 @@
 {
-  "ts": 1764860478742,
+  "ts": 1764864063208,
   "items": [
+    {
+      "title": "RWE commissions Texas solar-plus-storage project",
+      "url": "https://www.energy-storage.news/rwe-commissions-texas-solar-plus-storage-project/",
+      "date": "2025-12-04T15:31:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany records growth in solar self-consumption",
+      "url": "https://www.pv-magazine.com/2025/12/04/germany-records-growth-in-solar-self-consumption/",
+      "date": "2025-12-04T15:21:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ofgem approves GBP 10.3 billion investment in UK transmission grid",
+      "url": "https://www.pv-magazine.com/2025/12/04/ofgem-approves-gbp-10-3-billion-investment-in-uk-transmission-grid/",
+      "date": "2025-12-04T15:20:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Indiana utility to deliver 1.6GWh BESS for Amazon’s data center expansion, though fossil fuels form major part of package",
+      "url": "https://www.energy-storage.news/indiana-utility-to-deliver-1-6gwh-bess-for-amazons-data-center-expansion-though-fossil-fuels-form-major-part-of-package/",
+      "date": "2025-12-04T15:16:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "SMA launches new containerized medium-voltage substation for large-scale BESS and solar plants",
       "url": "https://www.pv-magazine.com/2025/12/04/sma-launches-new-containerized-medium-voltage-substation-for-large-scale-bess-and-solar-plants/",
@@ -229,20 +257,6 @@
       "title": "Australian rooftop solar install rates reach 2025 high",
       "url": "https://www.pv-magazine.com/2025/12/03/australian-rooftop-solar-install-rates-reach-2025-high/",
       "date": "2025-12-03T09:15:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US government renames National Renewable Energy Laboratory",
-      "url": "https://www.pv-magazine.com/2025/12/03/trump-administration-renames-national-renewable-energy-laboratory/",
-      "date": "2025-12-03T08:51:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How to use compressed air storage in flooded coal mines",
-      "url": "https://www.pv-magazine.com/2025/12/03/how-to-use-compressed-air-storage-in-flooded-coal-mines/",
-      "date": "2025-12-03T08:30:52.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Is AI&#8217;s power problem becoming the US energy storage market’s golden opportunity?",
       "url": "https://www.energy-storage.news/is-ais-power-problem-becoming-the-us-energy-storage-markets-golden-opportunity/",
       "date": "2025-11-21T15:51:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Santa Cruz County publishes draft BESS zoning ordinance, officials delay environmental review by another three months",
-      "url": "https://www.energy-storage.news/santa-cruz-county-publishes-draft-bess-zoning-ordinance-officials-delay-environmental-review-by-another-three-months/",
-      "date": "2025-11-21T12:33:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Surviving energy storage nightmares &#8211; true tales and expert advice",
-      "url": "https://www.energy-storage.news/video-surviving-energy-storage-nightmares-true-tales-and-expert-advice/",
-      "date": "2025-11-21T10:28:47.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
