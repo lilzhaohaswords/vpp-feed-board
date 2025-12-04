@@ -1,6 +1,27 @@
 {
-  "ts": 1764854880696,
+  "ts": 1764856853524,
   "items": [
+    {
+      "title": "German startup installs industrial heat pump producing 139 C steam",
+      "url": "https://www.pv-magazine.com/2025/12/04/german-startup-installs-industrial-heat-pump-producing-139c-steam/",
+      "date": "2025-12-04T13:57:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "PJM awards interconnection agreements to 23 BESS resources",
+      "url": "https://www.energy-storage.news/pjm-awards-interconnection-agreements-to-23-bess-resources/",
+      "date": "2025-12-04T13:31:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "French startup unveils solar canopy for motorhomes",
+      "url": "https://www.pv-magazine.com/2025/12/04/french-startup-unveils-solar-canopy-for-motorhomes/",
+      "date": "2025-12-04T13:29:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "European Commission opens third hydrogen auction",
       "url": "https://www.pv-magazine.com/2025/12/04/european-commission-opens-third-hydrogen-auction/",
@@ -222,20 +243,6 @@
       "title": "New research shows antimony chalcogenide solar cells are suitable for space use",
       "url": "https://www.pv-magazine.com/2025/12/03/antimony-chalcogenide-solar-cells-show-remarkable-proton-radiation-resistance-for-space-use/",
       "date": "2025-12-03T08:15:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US battery capacity rises 59% with 14 GW added in 12 months, says EIA",
-      "url": "https://www.pv-magazine.com/2025/12/03/us-battery-capacity-rises-59-with-14-gw-added-in-12-months-says-eia/",
-      "date": "2025-12-03T07:45:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy’s first Fer X solar auction allocates 7.7 GW at average price of €0.05682/kWh",
-      "url": "https://www.pv-magazine.com/2025/12/03/italys-first-fer-x-solar-auction-allocates-7-7-gw-at-average-price-of-e0-05682-kwh/",
-      "date": "2025-12-03T07:30:47.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "VIDEO: Surviving energy storage nightmares &#8211; true tales and expert advice",
       "url": "https://www.energy-storage.news/video-surviving-energy-storage-nightmares-true-tales-and-expert-advice/",
       "date": "2025-11-21T10:28:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European BESS M&#038;A and financings totalling over 1GW",
-      "url": "https://www.energy-storage.news/european-bess-m-a-and-financings-totalling-over-1gw/",
-      "date": "2025-11-21T10:21:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
