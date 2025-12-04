@@ -1,6 +1,13 @@
 {
-  "ts": 1764815347169,
+  "ts": 1764819902471,
   "items": [
+    {
+      "title": "Eight energy trends that will shape energy storage in 2026",
+      "url": "https://www.energy-storage.news/eight-energy-trends-that-will-shape-energy-storage-in-2026/",
+      "date": "2025-12-04T03:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Zenith locks in 25-year PPA for 300MWh hybrid storage project at Western Australia gold mine",
       "url": "https://www.energy-storage.news/zenith-locks-in-25-year-ppa-for-300mwh-hybrid-storage-project-at-western-australia-gold-mine/",
@@ -516,13 +523,6 @@
       "title": "US ROUNDUP: Maxwell Technologies changes hands again, Fullmark completes ITC transfer, OATI partners with Colville Tribes",
       "url": "https://www.energy-storage.news/us-roundup-maxwell-technologies-changes-hands-again-fullmark-completes-itc-transfer-oati-partners-with-colville-tribes/",
       "date": "2025-11-20T14:37:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BESS energy density race creates questions of site logistics and product standardisation",
-      "url": "https://www.energy-storage.news/bess-energy-density-race-creates-questions-of-site-logistics-and-product-standardisation/",
-      "date": "2025-11-20T14:35:03.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
