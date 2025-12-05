@@ -1,6 +1,20 @@
 {
-  "ts": 1764937004809,
+  "ts": 1764941061911,
   "items": [
+    {
+      "title": "The Hydrogen Stream: EU endorses 100 cross-border hydrogen projects",
+      "url": "https://www.pv-magazine.com/2025/12/05/the-hydrogen-stream-eu-endorses-100-cross-border-hydrogen-projects/",
+      "date": "2025-12-05T13:01:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Global ESS shipments hit 286 GWh as Tesla and Chinese heavyweights out front",
+      "url": "https://www.pv-magazine.com/2025/12/05/global-ess-shipments-hit-286-gwh-as-tesla-and-chinese-heavyweights-out-front/",
+      "date": "2025-12-05T12:49:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "M-Tec launches modular propane heat pump for residential, commercial use",
       "url": "https://www.pv-magazine.com/2025/12/05/m-tec-launches-modular-propane-heat-pump-for-residential-commercial-use/",
@@ -208,20 +222,6 @@
       "title": "Fraunhofer ISE achieves 30.6% efficiency for perovskite-silicon tandem based on industry-standard bottom TOPCon cell",
       "url": "https://www.pv-magazine.com/2025/12/04/fraunhofer-ise-achieves-30-6-efficiency-for-perovskite-silicon-tandem-based-on-industry-standard-bottom-topcon-cell/",
       "date": "2025-12-04T10:47:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan launches call for road-surface solar technologies",
-      "url": "https://www.pv-magazine.com/2025/12/04/japan-launches-call-for-road-surface-solar-technologies/",
-      "date": "2025-12-04T10:15:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Belgian grid operator enters final phase of digital meter rollout",
-      "url": "https://www.pv-magazine.com/2025/12/04/belgian-grid-operator-enters-final-phase-of-digital-meter-rollout/",
-      "date": "2025-12-04T09:03:08.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
