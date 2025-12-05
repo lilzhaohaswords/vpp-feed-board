@@ -1,6 +1,20 @@
 {
-  "ts": 1764932457059,
+  "ts": 1764937004809,
   "items": [
+    {
+      "title": "M-Tec launches modular propane heat pump for residential, commercial use",
+      "url": "https://www.pv-magazine.com/2025/12/05/m-tec-launches-modular-propane-heat-pump-for-residential-commercial-use/",
+      "date": "2025-12-05T11:43:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BrightNight and Cordelio close on 800MWh Washington state BESS",
+      "url": "https://www.energy-storage.news/brightnight-and-cordelio-close-on-800mwh-washington-state-bess/",
+      "date": "2025-12-05T11:24:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Large-scale agrivoltaics come to Norway",
       "url": "https://www.pv-magazine.com/2025/12/05/large-scale-agrivoltaics-come-to-norway/",
@@ -208,13 +222,6 @@
       "title": "Belgian grid operator enters final phase of digital meter rollout",
       "url": "https://www.pv-magazine.com/2025/12/04/belgian-grid-operator-enters-final-phase-of-digital-meter-rollout/",
       "date": "2025-12-04T09:03:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Vertical PV system at Japanese parking lot operating under PPA",
-      "url": "https://www.pv-magazine.com/2025/12/04/vertical-pv-system-at-japanese-parking-lot-operating-under-ppa/",
-      "date": "2025-12-04T08:42:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Australia’s Waratah Super Battery enters planned shutdown amid transformer replacement efforts",
       "url": "https://www.energy-storage.news/australias-waratah-super-battery-enters-planned-shutdown-amid-transformer-replacement-efforts/",
       "date": "2025-11-24T15:42:21.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy&#8217;s MACSE and the evolution of BESS asset management in Europe",
-      "url": "https://www.energy-storage.news/italy-macse-future-bess-asset-management-europe-enel-greenvolt-ion-bw-ess/",
-      "date": "2025-11-24T13:54:20.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
