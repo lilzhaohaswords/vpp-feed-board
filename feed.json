@@ -1,6 +1,13 @@
 {
-  "ts": 1764910865011,
+  "ts": 1764914472876,
   "items": [
+    {
+      "title": "Australia&#8217;s grid-forming battery storage pipeline extends to nearly a hundred projects, says AEMO",
+      "url": "https://www.energy-storage.news/australias-grid-forming-battery-storage-pipeline-extends-to-nearly-a-hundred-projects-says-aemo/",
+      "date": "2025-12-05T05:30:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Tunisia accelerates large-scale solar as new players enter market",
       "url": "https://www.pv-magazine.com/2025/12/04/tunisias-pv-deployment-moving-forward/",
@@ -516,13 +523,6 @@
       "title": "Who won at the Energy Storage Awards 2025?",
       "url": "https://www.energy-storage.news/who-won-at-the-energy-storage-awards-2025/",
       "date": "2025-11-24T13:15:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Is AI&#8217;s power problem becoming the US energy storage market’s golden opportunity?",
-      "url": "https://www.energy-storage.news/is-ais-power-problem-becoming-the-us-energy-storage-markets-golden-opportunity/",
-      "date": "2025-11-21T15:51:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
