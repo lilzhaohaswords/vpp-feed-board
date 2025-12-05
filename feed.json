@@ -1,6 +1,13 @@
 {
-  "ts": 1764950467919,
+  "ts": 1764954560646,
   "items": [
+    {
+      "title": "Japan’s 26th solar auction concludes with average final price of $0.046/kWh",
+      "url": "https://www.pv-magazine.com/2025/12/05/japans-26th-solar-auction-concludes-with-average-final-price-of-0-046-kwh/",
+      "date": "2025-12-05T16:28:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "World’s first high-power aluminum-ion battery system for energy storage",
       "url": "https://www.pv-magazine.com/2025/12/05/worlds-first-high-power-aluminum-ion-battery-system-for-energy-storage/",
@@ -202,13 +209,6 @@
       "url": "https://www.energy-storage.news/indiana-utility-to-deliver-1-6gwh-bess-for-amazons-data-center-expansion-though-fossil-fuels-form-major-part-of-package/",
       "date": "2025-12-04T15:16:06.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SMA launches new containerized medium-voltage substation for large-scale BESS and solar plants",
-      "url": "https://www.pv-magazine.com/2025/12/04/sma-launches-new-containerized-medium-voltage-substation-for-large-scale-bess-and-solar-plants/",
-      "date": "2025-12-04T14:16:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
