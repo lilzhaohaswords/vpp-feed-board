@@ -1,6 +1,13 @@
 {
-  "ts": 1765200410426,
+  "ts": 1765202459513,
   "items": [
+    {
+      "title": "Angola: Energy minister inaugurates first solar-plus-storage minigrid in national rollout",
+      "url": "https://www.energy-storage.news/angola-first-solar-plus-storage-minigrid-national-rollout/",
+      "date": "2025-12-08T13:59:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Germany&#8217;s Prolux Solutions recalls vanadium redox home battery systems",
       "url": "https://www.pv-magazine.com/2025/12/08/germanys-prolux-solutions-recalls-vanadium-redox-flow-home-battery-systems/",
@@ -516,13 +523,6 @@
       "title": "Energy storage ‘significantly underutilised’ in EU despite recent growth and policy support",
       "url": "https://www.energy-storage.news/energy-storage-significantly-underutilised-in-eu-despite-recent-growth-and-policy-support/",
       "date": "2025-11-25T12:34:39.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany BESS &#8216;firsts&#8217;: Integrated software, multi-party optimisation, privileged permitting",
-      "url": "https://www.energy-storage.news/germany-bess-firsts-integrated-software-multi-party-optimisation-privileged-permitting/",
-      "date": "2025-11-25T11:33:20.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
