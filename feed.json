@@ -1,6 +1,34 @@
 {
-  "ts": 1765181679735,
+  "ts": 1765185345000,
   "items": [
+    {
+      "title": "Scatec switches on 273 MW of solar in South Africa",
+      "url": "https://www.pv-magazine.com/2025/12/08/scatec-switches-on-273-mw-of-solar-in-south-africa/",
+      "date": "2025-12-08T08:55:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India installs 45,911 solar water pumps in Maharashtra",
+      "url": "https://www.pv-magazine.com/2025/12/08/india-installs-45911-solar-water-pumps-in-maharashtra/",
+      "date": "2025-12-08T08:30:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Vena Energy builds 408MWh BESS at third phase of South Australia renewable energy project",
+      "url": "https://www.energy-storage.news/vena-energy-builds-408mwh-bess-at-third-phase-of-south-australia-renewable-energy-project/",
+      "date": "2025-12-08T08:28:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Perovskite solar testing field commissioned in Japan",
+      "url": "https://www.pv-magazine.com/2025/12/08/perovskite-solar-testing-field-commissioned-in-japan/",
+      "date": "2025-12-08T08:17:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US adds 21.2 GW of solar through September 2025",
       "url": "https://www.pv-magazine.com/2025/12/08/us-adds-21-2-gw-of-solar-through-september-2025/",
@@ -170,31 +198,10 @@
       "bucket": "A"
     },
     {
-      "title": "GreenSketch AI 3.0 fast tracks solar and battery install design and business",
-      "url": "https://www.pv-magazine.com/2025/12/05/greensketch-ai-3-0-fast-tracks-solar-and-battery-install-design-and-business/",
-      "date": "2025-12-05T07:05:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hybrid solar-wind streetlight offers multiple functions",
-      "url": "https://www.pv-magazine.com/2025/12/05/hybrid-solar-wind-streetlight-offers-multiple-functions/",
-      "date": "2025-12-05T06:58:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Australia&#8217;s grid-forming battery storage pipeline extends to nearly a hundred projects, says AEMO",
       "url": "https://www.energy-storage.news/australias-grid-forming-battery-storage-pipeline-extends-to-nearly-a-hundred-projects-says-aemo/",
       "date": "2025-12-05T05:30:54.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Tunisia accelerates large-scale solar as new players enter market",
-      "url": "https://www.pv-magazine.com/2025/12/04/tunisias-pv-deployment-moving-forward/",
-      "date": "2025-12-04T16:50:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Germany BESS &#8216;firsts&#8217;: Integrated software, multi-party optimisation, privileged permitting",
       "url": "https://www.energy-storage.news/germany-bess-firsts-integrated-software-multi-party-optimisation-privileged-permitting/",
       "date": "2025-11-25T11:33:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s Waratah Super Battery enters planned shutdown amid transformer replacement efforts",
-      "url": "https://www.energy-storage.news/australias-waratah-super-battery-enters-planned-shutdown-amid-transformer-replacement-efforts/",
-      "date": "2025-11-24T15:42:21.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
