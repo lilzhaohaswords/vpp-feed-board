@@ -1,6 +1,13 @@
 {
-  "ts": 1765191660854,
+  "ts": 1765196202725,
   "items": [
+    {
+      "title": "Distributed PV employment globally outpaces utility-scale solar, says IEA",
+      "url": "https://www.pv-magazine.com/2025/12/08/distributed-solar-employment-vastly-outpaces-utility-scale-solar-globally-iea-reports/",
+      "date": "2025-12-08T12:00:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "pv magazine Awards 2025 winners revealed",
       "url": "https://www.pv-magazine.com/2025/12/08/pv-magazine-awards-2025-winners-revealed/",
@@ -188,13 +195,6 @@
       "url": "https://www.energy-storage.news/ads-tec-battery-buffered-ev-fast-chargers-put-into-ancillary-services-market-in-austria/",
       "date": "2025-12-05T09:16:16.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese researchers build 31.71%-efficient perovskite-silicon tandem solar cell based on new interfacial engineering",
-      "url": "https://www.pv-magazine.com/2025/12/05/chinese-researchers-build-31-71-efficient-perovskite-silicon-tandem-solar-cell-based-on-new-interfacial-engineering/",
-      "date": "2025-12-05T09:15:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
