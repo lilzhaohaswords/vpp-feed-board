@@ -1,6 +1,13 @@
 {
-  "ts": 1765185345000,
+  "ts": 1765188064025,
   "items": [
+    {
+      "title": "Fire forces 400 MW solar farm offline in Australia",
+      "url": "https://www.pv-magazine.com/2025/12/08/fire-forces-400-mw-solar-farm-offline-in-australia/",
+      "date": "2025-12-08T09:15:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Scatec switches on 273 MW of solar in South Africa",
       "url": "https://www.pv-magazine.com/2025/12/08/scatec-switches-on-273-mw-of-solar-in-south-africa/",
@@ -187,13 +194,6 @@
       "title": "Atmospheric river cuts irradiance across Western North America",
       "url": "https://www.pv-magazine.com/2025/12/05/atmospheric-river-cuts-irradiance-across-western-north-america/",
       "date": "2025-12-05T08:45:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "OPIS Global Polysilicon Marker holds firm as trade barriers continue driving fragmentation",
-      "url": "https://www.pv-magazine.com/2025/12/05/opis-global-polysilicon-marker-holds-firm-as-trade-barriers-continue-driving-fragmentation/",
-      "date": "2025-12-05T07:49:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
