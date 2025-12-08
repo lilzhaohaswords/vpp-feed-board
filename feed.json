@@ -1,6 +1,27 @@
 {
-  "ts": 1765202459513,
+  "ts": 1765206056015,
   "items": [
+    {
+      "title": "‘Back contact will reach cost parity with TOPCon before end of decade’",
+      "url": "https://www.pv-magazine.com/2025/12/08/back-contact-will-reach-cost-parity-with-topcon-before-end-of-decade/",
+      "date": "2025-12-08T14:42:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Desert Mountain Energy plans sodium nickel chloride battery factory in New Mexico",
+      "url": "https://www.energy-storage.news/desert-mountain-energy-plans-sodium-nickel-chloride-battery-factory-in-new-mexico/",
+      "date": "2025-12-08T14:28:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "IEA sets distributed solar, storage policy path for Ukraine",
+      "url": "https://www.pv-magazine.com/2025/12/08/iea-sets-distributed-solar-storage-policy-path-for-ukraine/",
+      "date": "2025-12-08T14:00:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Angola: Energy minister inaugurates first solar-plus-storage minigrid in national rollout",
       "url": "https://www.energy-storage.news/angola-first-solar-plus-storage-minigrid-national-rollout/",
@@ -180,20 +201,6 @@
       "title": "Panasonic testing PV-driven hydrogen platform in Germany",
       "url": "https://www.pv-magazine.com/2025/12/05/panasonic-testing-pv-driven-hydrogen-platform-in-germany/",
       "date": "2025-12-05T10:26:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Endurans Solar launches transparent backsheet for utility-scale bifacial modules",
-      "url": "https://www.pv-magazine.com/2025/12/05/endurans-solar-launches-transparent-backsheet-for-utility-scale-bifacial-modules/",
-      "date": "2025-12-05T10:04:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Offshore solar could achieve LCOE of less than $0.06/kWh in Thailand, Malaysia",
-      "url": "https://www.pv-magazine.com/2025/12/05/offshore-solar-could-achieve-lcoe-of-less-than-0-06-kwh-in-thailand-malaysia/",
-      "date": "2025-12-05T10:03:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Trina Storage charts strategic course in complex US energy storage market landscape",
       "url": "https://www.energy-storage.news/trina-storage-charts-strategic-course-in-complex-us-energy-storage-market-landscape/",
       "date": "2025-11-25T12:59:55.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy storage ‘significantly underutilised’ in EU despite recent growth and policy support",
-      "url": "https://www.energy-storage.news/energy-storage-significantly-underutilised-in-eu-despite-recent-growth-and-policy-support/",
-      "date": "2025-11-25T12:34:39.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
