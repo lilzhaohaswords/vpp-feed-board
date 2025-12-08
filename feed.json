@@ -1,6 +1,20 @@
 {
-  "ts": 1765178044181,
+  "ts": 1765181679735,
   "items": [
+    {
+      "title": "US adds 21.2 GW of solar through September 2025",
+      "url": "https://www.pv-magazine.com/2025/12/08/us-adds-21-2-gw-of-solar-through-september-2025/",
+      "date": "2025-12-08T07:45:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Agrivoltaics for biomethane",
+      "url": "https://www.pv-magazine.com/2025/12/08/agrivoltaics-for-biomethane/",
+      "date": "2025-12-08T07:43:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Japan’s 26th solar auction concludes with average final price of $0.046/kWh",
       "url": "https://www.pv-magazine.com/2025/12/05/japans-26th-solar-auction-concludes-with-average-final-price-of-0-046-kwh/",
@@ -188,20 +202,6 @@
       "url": "https://www.energy-storage.news/rwe-commissions-texas-solar-plus-storage-project/",
       "date": "2025-12-04T15:31:37.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany records growth in solar self-consumption",
-      "url": "https://www.pv-magazine.com/2025/12/04/germany-records-growth-in-solar-self-consumption/",
-      "date": "2025-12-04T15:21:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ofgem approves GBP 10.3 billion investment in UK transmission grid",
-      "url": "https://www.pv-magazine.com/2025/12/04/ofgem-approves-gbp-10-3-billion-investment-in-uk-transmission-grid/",
-      "date": "2025-12-04T15:20:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
