@@ -1,6 +1,13 @@
 {
-  "ts": 1765206056015,
+  "ts": 1765209668289,
   "items": [
+    {
+      "title": "China powers up nation&#8217;s largest standalone battery storage project",
+      "url": "https://www.pv-magazine.com/2025/12/08/china-powers-up-nations-largest-standalone-battery-storage-project/",
+      "date": "2025-12-08T15:00:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "‘Back contact will reach cost parity with TOPCon before end of decade’",
       "url": "https://www.pv-magazine.com/2025/12/08/back-contact-will-reach-cost-parity-with-topcon-before-end-of-decade/",
@@ -194,13 +201,6 @@
       "title": "Cooling PV modules with seawater",
       "url": "https://www.pv-magazine.com/2025/12/05/cooling-pv-modules-with-seawater/",
       "date": "2025-12-05T10:39:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Panasonic testing PV-driven hydrogen platform in Germany",
-      "url": "https://www.pv-magazine.com/2025/12/05/panasonic-testing-pv-driven-hydrogen-platform-in-germany/",
-      "date": "2025-12-05T10:26:08.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
