@@ -1,6 +1,13 @@
 {
-  "ts": 1765209668289,
+  "ts": 1765213830757,
   "items": [
+    {
+      "title": "Arizona county supervisors approve 400MWh BESS project near site of 2019 Surprise fire",
+      "url": "https://www.energy-storage.news/arizona-county-supervisors-approve-400mwh-bess-project-near-site-of-2019-surprise-fire/",
+      "date": "2025-12-08T16:39:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "China powers up nation&#8217;s largest standalone battery storage project",
       "url": "https://www.pv-magazine.com/2025/12/08/china-powers-up-nations-largest-standalone-battery-storage-project/",
@@ -516,13 +523,6 @@
       "title": "NeoVolta secures US$13 million for US energy storage manufacturing",
       "url": "https://www.energy-storage.news/neovolta-secures-us13-million-for-us-energy-storage-manufacturing/",
       "date": "2025-11-25T13:44:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Trina Storage charts strategic course in complex US energy storage market landscape",
-      "url": "https://www.energy-storage.news/trina-storage-charts-strategic-course-in-complex-us-energy-storage-market-landscape/",
-      "date": "2025-11-25T12:59:55.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
