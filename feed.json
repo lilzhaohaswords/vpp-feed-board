@@ -1,6 +1,20 @@
 {
-  "ts": 1765281655993,
+  "ts": 1765286876856,
   "items": [
+    {
+      "title": "Global lithium-ion battery pack prices fall to $108/kWh, says BNEF",
+      "url": "https://www.pv-magazine.com/2025/12/09/global-lithium-ion-battery-pack-prices-fall-to-108-kwh-says-bnef/",
+      "date": "2025-12-09T13:02:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France’s Solarpro launches steel deck mounting system for rooftop PV",
+      "url": "https://www.pv-magazine.com/2025/12/09/frances-solarpro-launches-steel-deck-mounting-system-for-rooftop-pv/",
+      "date": "2025-12-09T12:00:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "1.6GWh Melbourne Renewable Energy Hub battery storage system brought online in Australia",
       "url": "https://www.energy-storage.news/1-6gwh-melbourne-renewable-energy-hub-battery-storage-system-brought-online-in-australia/",
@@ -222,20 +236,6 @@
       "title": "World’s first high-power aluminum-ion battery system for energy storage",
       "url": "https://www.pv-magazine.com/2025/12/05/worlds-first-high-power-aluminum-ion-battery-system-for-energy-storage/",
       "date": "2025-12-05T15:35:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Denmark&#8217;s second largest PV plant goes online",
-      "url": "https://www.pv-magazine.com/2025/12/05/denmarks-second-largest-pv-plant-goes-online/",
-      "date": "2025-12-05T15:31:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil adopts legal framework for battery storage",
-      "url": "https://www.pv-magazine.com/2025/12/05/brazil-adopts-legal-framework-for-battery-storage/",
-      "date": "2025-12-05T14:53:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
