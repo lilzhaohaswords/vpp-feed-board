@@ -1,6 +1,48 @@
 {
-  "ts": 1765271571390,
+  "ts": 1765274504830,
   "items": [
+    {
+      "title": "European energy storage startups raise €2.14 billion in equity funding",
+      "url": "https://www.pv-magazine.com/2025/12/09/european-energy-storage-startups-raise-e2-14-billion-in-equity-funding/",
+      "date": "2025-12-09T10:00:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Zambia tenders 25 MW solar project",
+      "url": "https://www.pv-magazine.com/2025/12/09/zambia-tenders-25-mw-solar-project/",
+      "date": "2025-12-09T09:50:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Belize opens solar consultancy tender",
+      "url": "https://www.pv-magazine.com/2025/12/09/belize-opens-solar-consultancy-tender/",
+      "date": "2025-12-09T09:48:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK: ‘Painful but necessary’ reforms see 153GW of battery storage projects cut from grid connection queue",
+      "url": "https://www.energy-storage.news/uk-painful-but-necessary-reforms-see-153gw-of-battery-storage-projects-cut-from-grid-connection-queue/",
+      "date": "2025-12-09T09:41:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Long-duration energy storage is non-negotiable for Europe&#8217;s energy transformation",
+      "url": "https://www.energy-storage.news/long-duration-energy-storage-is-non-negotiable-for-europes-energy-transformation/",
+      "date": "2025-12-09T09:22:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "India&#8217;s Emmvee Energy signs 4.5 GWp TOPCon solar cell supply agreement",
+      "url": "https://www.pv-magazine.com/2025/12/09/indias-emmvee-energy-signs-4-5-gwp-topcon-solar-cell-supply-agreement/",
+      "date": "2025-12-09T09:15:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Perovskite-silicon tandem solar cell with steric complementary design achieves 32.3% efficiency",
       "url": "https://www.pv-magazine.com/2025/12/09/perovskite-silicon-tandem-solar-cell-with-steric-complementary-design-achieves-32-3-efficiency/",
@@ -187,34 +229,6 @@
       "title": "Brazil adopts legal framework for battery storage",
       "url": "https://www.pv-magazine.com/2025/12/05/brazil-adopts-legal-framework-for-battery-storage/",
       "date": "2025-12-05T14:53:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Keeping the smart grid cyber secure",
-      "url": "https://www.pv-magazine.com/2025/12/05/keeping-the-smart-grid-cyber-secure/",
-      "date": "2025-12-05T14:38:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Achieving real gender equality in the solar industry remains far from easy&#8217;",
-      "url": "https://www.pv-magazine.com/2025/12/05/achieving-real-gender-equality-in-the-solar-industry-remains-far-from-easy/",
-      "date": "2025-12-05T14:23:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solarwatt France files early-warning procedure",
-      "url": "https://www.pv-magazine.com/2025/12/05/solarwatt-france-files-early-warning-procedure/",
-      "date": "2025-12-05T14:07:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: Aiko, Skyworth PV plan 5 GW back-contact solar module factory in Guangxi",
-      "url": "https://www.pv-magazine.com/2025/12/05/chinese-pv-industry-brief-aiko-skyworth-pv-plan-5-gw-back-contact-solar-module-factory-in-guangxi/",
-      "date": "2025-12-05T13:37:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Safety and sustainability: Dual pillars shaping Australia&#8217;s energy storage sector",
       "url": "https://www.energy-storage.news/safety-and-sustainability-dual-pillars-shaping-australias-energy-storage-sector/",
       "date": "2025-11-26T00:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Acacia Energy to resell OptiGrid&#8217;s AI-powered battery platform for C&#038;I customers in Australia",
-      "url": "https://www.energy-storage.news/acacia-energy-to-resell-optigrids-ai-powered-battery-platform-for-ci-customers-in-australia/",
-      "date": "2025-11-25T23:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Vistra cancels 600MW BESS proposed 150 miles from Moss Landing facility in California",
-      "url": "https://www.energy-storage.news/vistra-cancels-600mw-bess-proposed-150-miles-from-moss-landing-facility-in-california/",
-      "date": "2025-11-25T15:35:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
