@@ -1,6 +1,13 @@
 {
-  "ts": 1765240931430,
+  "ts": 1765247329602,
   "items": [
+    {
+      "title": "Western Australia’s 500MWh vanadium flow battery initiative is a ‘pivotal moment’",
+      "url": "https://www.energy-storage.news/western-australias-500mwh-vanadium-flow-battery-initiative-is-a-pivotal-moment/",
+      "date": "2025-12-09T01:07:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Arizona county supervisors approve 400MWh BESS project near site of 2019 Surprise fire",
       "url": "https://www.energy-storage.news/arizona-county-supervisors-approve-400mwh-bess-project-near-site-of-2019-surprise-fire/",
@@ -516,13 +523,6 @@
       "title": "Colorado regulators call Xcel&#8217;s grid data &#8216;totally useless,&#8217; question if utility will comply",
       "url": "https://www.energy-storage.news/colorado-regulators-call-xcels-grid-data-totally-useless-question-if-utility-will-comply/",
       "date": "2025-11-25T13:49:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NeoVolta secures US$13 million for US energy storage manufacturing",
-      "url": "https://www.energy-storage.news/neovolta-secures-us13-million-for-us-energy-storage-manufacturing/",
-      "date": "2025-11-25T13:44:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
