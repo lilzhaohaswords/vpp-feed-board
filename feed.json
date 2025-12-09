@@ -1,6 +1,20 @@
 {
-  "ts": 1765264324551,
+  "ts": 1765267252182,
   "items": [
+    {
+      "title": "Vena Energy signs BESS agreement with CATL for Indonesia-Singapore ‘renewable energy corridor’",
+      "url": "https://www.energy-storage.news/vena-energy-signs-bess-agreement-with-catl-for-indonesia-singapore-renewable-energy-corridor/",
+      "date": "2025-12-09T07:57:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Robotics driving US solar recycling capacity expansion",
+      "url": "https://www.pv-magazine.com/2025/12/09/robotics-driving-us-solar-recycling-capacity-expansion/",
+      "date": "2025-12-09T07:45:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Western Australia’s 500MWh vanadium flow battery initiative is a ‘pivotal moment’",
       "url": "https://www.energy-storage.news/western-australias-500mwh-vanadium-flow-battery-initiative-is-a-pivotal-moment/",
@@ -208,13 +222,6 @@
       "title": "Large-scale agrivoltaics come to Norway",
       "url": "https://www.pv-magazine.com/2025/12/05/large-scale-agrivoltaics-come-to-norway/",
       "date": "2025-12-05T10:53:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cooling PV modules with seawater",
-      "url": "https://www.pv-magazine.com/2025/12/05/cooling-pv-modules-with-seawater/",
-      "date": "2025-12-05T10:39:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Vistra cancels 600MW BESS proposed 150 miles from Moss Landing facility in California",
       "url": "https://www.energy-storage.news/vistra-cancels-600mw-bess-proposed-150-miles-from-moss-landing-facility-in-california/",
       "date": "2025-11-25T15:35:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Colorado regulators call Xcel&#8217;s grid data &#8216;totally useless,&#8217; question if utility will comply",
-      "url": "https://www.energy-storage.news/colorado-regulators-call-xcels-grid-data-totally-useless-question-if-utility-will-comply/",
-      "date": "2025-11-25T13:49:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
