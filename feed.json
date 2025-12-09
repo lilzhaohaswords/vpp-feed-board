@@ -1,6 +1,20 @@
 {
-  "ts": 1765292467708,
+  "ts": 1765296062410,
   "items": [
+    {
+      "title": "EDF Power Solutions to take 20% stake in Scatec solar-storage project in Egypt",
+      "url": "https://www.pv-magazine.com/2025/12/09/edf-power-solutions-scatec-obelisk-equity-investors-norfund-hybrid-solar-storage-egypt/",
+      "date": "2025-12-09T15:57:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "ROUNDUP: Energy Vault enters Switzerland, ZincFive raises funds, Convergent closes on NYC financing",
+      "url": "https://www.energy-storage.news/roundup-energy-vault-enters-switzerland-zincfive-raises-funds-convergent-closes-on-nyc-financing/",
+      "date": "2025-12-09T15:15:09.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Solar Stewardship Initiative publishes guide for solar supply chain",
       "url": "https://www.pv-magazine.com/2025/12/09/solar-stewardship-initiative-publishes-guide-for-solar-supply-chain/",
@@ -229,13 +243,6 @@
       "title": "Agrivoltaics for biomethane",
       "url": "https://www.pv-magazine.com/2025/12/08/agrivoltaics-for-biomethane/",
       "date": "2025-12-08T07:43:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan’s 26th solar auction concludes with average final price of $0.046/kWh",
-      "url": "https://www.pv-magazine.com/2025/12/05/japans-26th-solar-auction-concludes-with-average-final-price-of-0-046-kwh/",
-      "date": "2025-12-05T16:28:23.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "&#8216;Rapid growth but disorderly competiton&#8217;: Longi enters energy storage industry with PotisEdge deal",
       "url": "https://www.energy-storage.news/rapid-growth-but-disorderly-competiton-longi-enters-energy-storage-industry-with-potisedge-deal/",
       "date": "2025-11-26T10:58:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: Potentia gains consent for 1GWh solar hybrid as Fluence delivers to 600MWh battery storage site",
-      "url": "https://www.energy-storage.news/australia-potentia-gains-consent-for-1gwh-solar-hybrid-as-fluence-delivers-to-600mwh-battery-storage-site/",
-      "date": "2025-11-26T01:03:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
