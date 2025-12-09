@@ -1,6 +1,13 @@
 {
-  "ts": 1765296062410,
+  "ts": 1765300237167,
   "items": [
+    {
+      "title": "Toshiba ESS tests hybrid wind-solar project with storage in Saudi Arabia",
+      "url": "https://www.pv-magazine.com/2025/12/09/toshiba-ess-tests-hybrid-wind-solar-project-with-storage-in-saudi-arabia/",
+      "date": "2025-12-09T16:07:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "EDF Power Solutions to take 20% stake in Scatec solar-storage project in Egypt",
       "url": "https://www.pv-magazine.com/2025/12/09/edf-power-solutions-scatec-obelisk-equity-investors-norfund-hybrid-solar-storage-egypt/",
@@ -240,13 +247,6 @@
       "bucket": "A"
     },
     {
-      "title": "Agrivoltaics for biomethane",
-      "url": "https://www.pv-magazine.com/2025/12/08/agrivoltaics-for-biomethane/",
-      "date": "2025-12-08T07:43:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "BrightNight and Cordelio close on 800MWh Washington state BESS",
       "url": "https://www.energy-storage.news/brightnight-and-cordelio-close-on-800mwh-washington-state-bess/",
       "date": "2025-12-05T11:24:00.000Z",
@@ -296,7 +296,7 @@
       "bucket": "A"
     },
     {
-      "title": "Eight energy trends that will shape energy storage in 2026",
+      "title": "Eight energy trends that will shape Australian energy storage in 2026",
       "url": "https://www.energy-storage.news/eight-energy-trends-that-will-shape-energy-storage-in-2026/",
       "date": "2025-12-04T03:00:00.000Z",
       "source": "Energy Storage News",
