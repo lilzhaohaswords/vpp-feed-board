@@ -1,6 +1,27 @@
 {
-  "ts": 1765368081075,
+  "ts": 1765373362517,
   "items": [
+    {
+      "title": "France&#8217;s S&#8217;tile offers custom PV modules for repowering, revamping",
+      "url": "https://www.pv-magazine.com/2025/12/10/frances-stile-offers-custom-pv-modules-for-repowering-revamping/",
+      "date": "2025-12-10T13:16:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "NextEra signs 2.5GW of renewable energy agreements with Meta for projects across US",
+      "url": "https://www.energy-storage.news/nextera-signs-2-5gw-of-renewable-energy-agreements-with-meta-for-projects-across-us/",
+      "date": "2025-12-10T13:15:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Indonesia&#8217; Pertamina to build 50 MW flexible PV production line in Indonesia",
+      "url": "https://www.pv-magazine.com/2025/12/10/indonesia-pertamina-to-build-50-mw-flexible-pv-production-line-in-indonesia/",
+      "date": "2025-12-10T13:00:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar budget of up to $180 million in next UK CfD auction",
       "url": "https://www.pv-magazine.com/2025/12/10/solar-budget-of-up-to-180m-in-next-uk-cfd-auction/",
@@ -222,20 +243,6 @@
       "title": "India&#8217;s Emmvee Energy signs 4.5 GWp TOPCon solar cell supply agreement",
       "url": "https://www.pv-magazine.com/2025/12/09/indias-emmvee-energy-signs-4-5-gwp-topcon-solar-cell-supply-agreement/",
       "date": "2025-12-09T09:15:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Perovskite-silicon tandem solar cell with steric complementary design achieves 32.3% efficiency",
-      "url": "https://www.pv-magazine.com/2025/12/09/perovskite-silicon-tandem-solar-cell-with-steric-complementary-design-achieves-32-3-efficiency/",
-      "date": "2025-12-09T09:00:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "TNO offers mass customization line for integrated PV applications",
-      "url": "https://www.pv-magazine.com/2025/12/09/tno-offers-mass-customization-line-for-integrated-pv-applications/",
-      "date": "2025-12-09T08:30:46.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Italian battery storage market pipeline soars, developers flock from around Europe",
       "url": "https://www.energy-storage.news/italian-battery-storage-market-pipeline-soars-developers-flock-from-around-europe/",
       "date": "2025-11-27T11:51:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Western Australia seeks local vanadium for 500MWh Kalgoorlie battery storage project",
-      "url": "https://www.energy-storage.news/western-australia-seeks-local-vanadium-for-500mwh-kalgoorlie-battery-storage-project/",
-      "date": "2025-11-27T00:00:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
