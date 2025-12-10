@@ -1,6 +1,41 @@
 {
-  "ts": 1765357981188,
+  "ts": 1765360840186,
   "items": [
+    {
+      "title": "Submissions rebound in UK BESS development market in November",
+      "url": "https://www.energy-storage.news/submissions-rebound-in-uk-bess-development-market-in-november/",
+      "date": "2025-12-10T09:58:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Engie hires former subsidiary NHOA Energy for 320MWh Belgium battery storage project",
+      "url": "https://www.energy-storage.news/engie-hires-former-subsidiary-nhoa-energy-for-320mwh-belgium-battery-storage-project/",
+      "date": "2025-12-10T09:53:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Cape Verde welcomes wind and batteries that bring African island nation to nearly one-third renewable energy share",
+      "url": "https://www.energy-storage.news/cape-verde-welcomes-wind-and-batteries-that-bring-african-island-nation-to-nearly-one-third-renewable-energy-share/",
+      "date": "2025-12-10T09:51:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Li-ion battery pack prices fell 8% since last year despite metals prices rising, BloombergNEF says",
+      "url": "https://www.energy-storage.news/li-ion-battery-pack-prices-fell-8-since-last-year-despite-metals-prices-rising-bloombergnef-says/",
+      "date": "2025-12-10T09:41:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Insolation Energy advances major solar manufacturing expansion in India",
+      "url": "https://www.pv-magazine.com/2025/12/10/insolation-energy-advances-major-solar-manufacturing-expansion-in-india/",
+      "date": "2025-12-10T09:15:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Africa&#8217;s largest off-grid solar-plus-storage project comes online in Angola",
       "url": "https://www.pv-magazine.com/2025/12/10/africas-largest-off-grid-solar-plus-storage-project-comes-online-in-angola/",
@@ -223,13 +258,6 @@
       "url": "https://www.energy-storage.news/desert-mountain-energy-plans-sodium-nickel-chloride-battery-factory-in-new-mexico/",
       "date": "2025-12-08T14:28:22.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "IEA sets distributed solar, storage policy path for Ukraine",
-      "url": "https://www.pv-magazine.com/2025/12/08/iea-sets-distributed-solar-storage-policy-path-for-ukraine/",
-      "date": "2025-12-08T14:00:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -495,34 +523,6 @@
       "title": "‘It&#8217;s effectively a full reset of the system’: Habitat Energy on ERCOT’s RTC+B market changes",
       "url": "https://www.energy-storage.news/its-effectively-a-full-reset-of-the-system-habitat-energy-on-ercots-rtcb-market-changes/",
       "date": "2025-11-26T16:38:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Liquid air energy storage startup Highview breaks ground at 300MWh UK project",
-      "url": "https://www.energy-storage.news/liquid-air-energy-storage-startup-highview-breaks-ground-at-300mwh-uk-project/",
-      "date": "2025-11-26T12:34:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fluence &#8216;expects to meet FEOC compliance by regulatory deadlines,&#8217; offers 2026 guidance",
-      "url": "https://www.energy-storage.news/fluence-expects-to-meet-feoc-compliance-by-regulatory-deadlines-offers-2026-guidance/",
-      "date": "2025-11-26T11:59:39.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "250MWh &#8216;Sand Battery&#8217; to start construction in Finland, for both heating and ancillary services",
-      "url": "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/",
-      "date": "2025-11-26T11:55:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Rapid growth but disorderly competiton&#8217;: Longi enters energy storage industry with PotisEdge deal",
-      "url": "https://www.energy-storage.news/rapid-growth-but-disorderly-competiton-longi-enters-energy-storage-industry-with-potisedge-deal/",
-      "date": "2025-11-26T10:58:52.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
