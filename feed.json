@@ -1,6 +1,13 @@
 {
-  "ts": 1765375884766,
+  "ts": 1765379505116,
   "items": [
+    {
+      "title": "DMEGC launches framed solar module weighing 7.5 kg/m2",
+      "url": "https://www.pv-magazine.com/2025/12/10/dmegc-launches-framed-solar-module-weighing-7-5-kg-m2/",
+      "date": "2025-12-10T15:05:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Poland shortlists 183 energy storage projects for EU funding",
       "url": "https://www.pv-magazine.com/2025/12/10/poland-shortlists-183-energy-storage-projects-for-eu-funding/",
@@ -222,13 +229,6 @@
       "title": "European energy storage startups raise €2.14 billion in equity funding",
       "url": "https://www.pv-magazine.com/2025/12/09/european-energy-storage-startups-raise-e2-14-billion-in-equity-funding/",
       "date": "2025-12-09T10:00:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Zambia tenders 25 MW solar project",
-      "url": "https://www.pv-magazine.com/2025/12/09/zambia-tenders-25-mw-solar-project/",
-      "date": "2025-12-09T09:50:17.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
