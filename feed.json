@@ -1,6 +1,34 @@
 {
-  "ts": 1765465266864,
+  "ts": 1765469619088,
   "items": [
+    {
+      "title": "Brazil to add 11.4 GW of solar in 2025 despite regulatory hurdles",
+      "url": "https://www.pv-magazine.com/2025/12/11/brazil-to-add-11-4-gw-of-solar-in-2025-despite-regulatory-hurdles/",
+      "date": "2025-12-11T16:00:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New all-aluminum solar carport from France",
+      "url": "https://www.pv-magazine.com/2025/12/11/new-all-aluminum-solar-carport-from-france/",
+      "date": "2025-12-11T15:30:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bangladesh reinstates 11 solar plants totaling 918 MW after tariff cuts",
+      "url": "https://www.pv-magazine.com/2025/12/11/bangladesh-reinstates-11-solar-plants-totaling-918-mw-after-tariff-cuts/",
+      "date": "2025-12-11T15:30:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How distributed energy resources could combat soaring electricity costs in the US",
+      "url": "https://www.energy-storage.news/how-distributed-energy-resources-could-combat-soaring-electricity-costs-in-the-us/",
+      "date": "2025-12-11T15:16:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Trina Solar to invest in Holosolis PV gigafactory in France",
       "url": "https://www.pv-magazine.com/2025/12/11/trina-solar-to-invest-in-holosolis-pv-gigafactory-in-france/",
@@ -194,27 +222,6 @@
       "title": "Ciel &#038; Terre unveils new floating solar solution",
       "url": "https://www.pv-magazine.com/2025/12/10/ciel-terre-unveils-new-floating-solar-solution/",
       "date": "2025-12-10T10:53:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sunwafe secures land for 20 GW silicon wafer plant in Spain",
-      "url": "https://www.pv-magazine.com/2025/12/10/sunwafe-secures-land-for-20-gw-silicon-wafer-plant-in-spain/",
-      "date": "2025-12-10T10:41:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How to reduce ionic losses in tin-based perovskite solar cells",
-      "url": "https://www.pv-magazine.com/2025/12/10/how-to-reduce-ionic-losses-in-tin-based-perovskite-solar-cells/",
-      "date": "2025-12-10T10:31:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. research finds PV can support bird, bat activities",
-      "url": "https://www.pv-magazine.com/2025/12/10/u-s-research-finds-pv-can-support-bird-bat-activities/",
-      "date": "2025-12-10T10:24:13.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Michigan Township enacts one-year BESS moratorium after greenfield developer sizes up area for utility-scale project",
       "url": "https://www.energy-storage.news/michigan-township-enacts-one-year-bess-moratorium-after-greenfield-developer-sizes-up-area-for-utility-scale-project/",
       "date": "2025-11-28T11:04:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Nostromo’s thermal ESS participates in CAISO energy market",
-      "url": "https://www.energy-storage.news/nostromos-thermal-ess-participates-in-caiso-energy-market/",
-      "date": "2025-11-27T14:47:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
