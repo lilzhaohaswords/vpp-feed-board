@@ -1,6 +1,13 @@
 {
-  "ts": 1765437251018,
+  "ts": 1765440051267,
   "items": [
+    {
+      "title": "California study finds electrification can ease electric rate pressures",
+      "url": "https://www.pv-magazine.com/2025/12/11/california-study-finds-electrification-can-ease-electric-rate-pressures/",
+      "date": "2025-12-11T07:45:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "ACWA Power, Scatec sign gigawatt-scale MENA solar-plus-storage project deals",
       "url": "https://www.energy-storage.news/acwa-power-scatec-sign-gigawatt-scale-mena-solar-plus-storage-project-deals/",
@@ -223,13 +230,6 @@
       "url": "https://www.energy-storage.news/roundup-energy-vault-enters-switzerland-zincfive-raises-funds-convergent-closes-on-nyc-financing/",
       "date": "2025-12-09T15:15:09.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar Stewardship Initiative publishes guide for solar supply chain",
-      "url": "https://www.pv-magazine.com/2025/12/09/solar-stewardship-initiative-publishes-guide-for-solar-supply-chain/",
-      "date": "2025-12-09T14:00:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
