@@ -1,6 +1,27 @@
 {
-  "ts": 1765450860722,
+  "ts": 1765454482377,
   "items": [
+    {
+      "title": "Great British Energy doubles fund, commits $1.3 billion for manufacturing",
+      "url": "https://www.pv-magazine.com/2025/12/11/great-british-energy-doubles-fund-commits-1-3-billion-for-manufacturing/",
+      "date": "2025-12-11T12:00:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Eternal Sun offers solar simulators for space PV testing",
+      "url": "https://www.pv-magazine.com/2025/12/11/eternal-sun-offers-solar-simulators-for-space-pv-testing/",
+      "date": "2025-12-11T11:57:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany firmly enters large-scale BESS era with EnBW, Vattenfall and Enertrag project news",
+      "url": "https://www.energy-storage.news/germany-firmly-enters-large-scale-bess-era-with-enbw-vattenfall-and-enertrag-project-news/",
+      "date": "2025-12-11T11:37:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Zimbabwe plans 600 MW floating PV project",
       "url": "https://www.pv-magazine.com/2025/12/11/zimbabwe-plans-600-mw-floating-pv-project/",
@@ -215,20 +236,6 @@
       "title": "Acciona Energia completes 380 MW solar project in Australia",
       "url": "https://www.pv-magazine.com/2025/12/10/acciona-energia-completes-380-mw-solar-project-in-australia/",
       "date": "2025-12-10T08:30:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The thermomechanical impact of plated copper contacts on heterojunction solar cells",
-      "url": "https://www.pv-magazine.com/2025/12/10/the-thermomechanical-impact-of-plated-copper-contacts-on-heterojunction-solar-cells/",
-      "date": "2025-12-10T08:23:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Industry addresses UV degradation, hail risk in European solar modules",
-      "url": "https://www.pv-magazine.com/2025/12/10/industry-addresses-uv-degradation-hail-risk-in-european-solar-modules/",
-      "date": "2025-12-10T08:21:52.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Eos completes financing transactions totalling over US$1 billion, focuses on US manufacturing",
       "url": "https://www.energy-storage.news/eos-completes-financing-transactions-totalling-over-us1-billion-focuses-on-us-manufacturing/",
       "date": "2025-11-27T14:37:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EDF joint venture kicks off large-scale BESS and solar-plus-storage projects in Chile",
-      "url": "https://www.energy-storage.news/edf-joint-venture-kicks-off-large-scale-bess-solar-plus-storage-projects-chile/",
-      "date": "2025-11-27T13:15:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
