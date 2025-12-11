@@ -1,6 +1,13 @@
 {
-  "ts": 1765429953248,
+  "ts": 1765433720878,
   "items": [
+    {
+      "title": "ACWA Power, Scatec sign gigawatt-scale MENA solar-plus-storage project deals",
+      "url": "https://www.energy-storage.news/acwa-power-scatec-sign-gigawatt-scale-mena-solar-plus-storage-project-deals/",
+      "date": "2025-12-11T05:57:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "European Commission publishes new grid rules and plans to accelerate interconnection projects",
       "url": "https://www.pv-magazine.com/2025/12/10/european-commission-publishes-new-grid-rules-and-plans-to-accelerate-interconnection-projects/",
@@ -516,13 +523,6 @@
       "title": "UBS upgrades China BESS installation forecast, industry to ride policy tailwinds",
       "url": "https://www.energy-storage.news/ubs-upgrades-china-bess-installation-forecast-industry-to-ride-policy-tailwinds/",
       "date": "2025-11-27T13:00:05.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italian battery storage market pipeline soars, developers flock from around Europe",
-      "url": "https://www.energy-storage.news/italian-battery-storage-market-pipeline-soars-developers-flock-from-around-europe/",
-      "date": "2025-11-27T11:51:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
