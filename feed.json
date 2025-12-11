@@ -1,6 +1,13 @@
 {
-  "ts": 1765444440143,
+  "ts": 1765447266616,
   "items": [
+    {
+      "title": "Battery storage assets in Europe could see 3% ROI uplift with 15-minute trading, Rystad says",
+      "url": "https://www.energy-storage.news/battery-storage-assets-in-europe-could-see-3-roi-uplift-with-15-minute-trading-rystad-says/",
+      "date": "2025-12-11T09:31:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Beijing group creates official entity to guide China’s polysilicon capacity",
       "url": "https://www.pv-magazine.com/2025/12/11/beijing-group-creates-official-body-to-guide-chinas-polysilicon-capacity/",
@@ -516,13 +523,6 @@
       "title": "EDF joint venture kicks off large-scale BESS and solar-plus-storage projects in Chile",
       "url": "https://www.energy-storage.news/edf-joint-venture-kicks-off-large-scale-bess-solar-plus-storage-projects-chile/",
       "date": "2025-11-27T13:15:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UBS upgrades China BESS installation forecast, industry to ride policy tailwinds",
-      "url": "https://www.energy-storage.news/ubs-upgrades-china-bess-installation-forecast-industry-to-ride-policy-tailwinds/",
-      "date": "2025-11-27T13:00:05.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
