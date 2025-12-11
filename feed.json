@@ -1,6 +1,20 @@
 {
-  "ts": 1765454482377,
+  "ts": 1765459834525,
   "items": [
+    {
+      "title": "US BESS deals: Samsung SDI&#8217;s first LFP contract, Trina&#8217;s 1GWh+ agreement with Lightshift",
+      "url": "https://www.energy-storage.news/us-bess-deals-samsung-sdis-first-lfp-contract-trinas-1gwh-agreement-with-lightshift/",
+      "date": "2025-12-11T12:20:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EU installs 65.1 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2025/12/11/eu-installs-65-1-gw-of-solar-in-2025/",
+      "date": "2025-12-11T12:15:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Great British Energy doubles fund, commits $1.3 billion for manufacturing",
       "url": "https://www.pv-magazine.com/2025/12/11/great-british-energy-doubles-fund-commits-1-3-billion-for-manufacturing/",
@@ -229,13 +243,6 @@
       "title": "Africa&#8217;s largest off-grid solar-plus-storage project comes online in Angola",
       "url": "https://www.pv-magazine.com/2025/12/10/africas-largest-off-grid-solar-plus-storage-project-comes-online-in-angola/",
       "date": "2025-12-10T08:38:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Acciona Energia completes 380 MW solar project in Australia",
-      "url": "https://www.pv-magazine.com/2025/12/10/acciona-energia-completes-380-mw-solar-project-in-australia/",
-      "date": "2025-12-10T08:30:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Nostromo’s thermal ESS participates in CAISO energy market",
       "url": "https://www.energy-storage.news/nostromos-thermal-ess-participates-in-caiso-energy-market/",
       "date": "2025-11-27T14:47:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Eos completes financing transactions totalling over US$1 billion, focuses on US manufacturing",
-      "url": "https://www.energy-storage.news/eos-completes-financing-transactions-totalling-over-us1-billion-focuses-on-us-manufacturing/",
-      "date": "2025-11-27T14:37:30.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
