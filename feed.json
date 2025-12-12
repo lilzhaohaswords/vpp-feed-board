@@ -1,6 +1,13 @@
 {
-  "ts": 1765548061774,
+  "ts": 1765551664640,
   "items": [
+    {
+      "title": "Ireland reaches 1 GW of installed rooftop PV capacity",
+      "url": "https://www.pv-magazine.com/2025/12/12/ireland-reaches-1-gw-of-installed-rooftop-pv-capacity/",
+      "date": "2025-12-12T14:47:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Batteries now cheap enough to make dispatchable solar economically feasible",
       "url": "https://www.pv-magazine.com/2025/12/12/batteries-now-cheap-enough-to-make-dispatchable-solar-economically-feasible/",
@@ -194,13 +201,6 @@
       "title": "Brazil to add 11.4 GW of solar in 2025 despite regulatory hurdles",
       "url": "https://www.pv-magazine.com/2025/12/11/brazil-to-add-11-4-gw-of-solar-in-2025-despite-regulatory-hurdles/",
       "date": "2025-12-11T16:00:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New all-aluminum solar carport from France",
-      "url": "https://www.pv-magazine.com/2025/12/11/new-all-aluminum-solar-carport-from-france/",
-      "date": "2025-12-11T15:30:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
