@@ -1,6 +1,13 @@
 {
-  "ts": 1765551664640,
+  "ts": 1765555271186,
   "items": [
+    {
+      "title": "Hungary launches $305 million subsidy for residential battery storage",
+      "url": "https://www.pv-magazine.com/2025/12/12/hungary-launches-huf-100-billion-subsidy-for-residential-battery-storage/",
+      "date": "2025-12-12T15:30:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Ireland reaches 1 GW of installed rooftop PV capacity",
       "url": "https://www.pv-magazine.com/2025/12/12/ireland-reaches-1-gw-of-installed-rooftop-pv-capacity/",
@@ -194,13 +201,6 @@
       "title": "Cambridge startup targets 15% module efficiency gain",
       "url": "https://www.pv-magazine.com/2025/12/11/cambridge-startup-targets-15-module-efficiency-gain/",
       "date": "2025-12-11T16:15:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil to add 11.4 GW of solar in 2025 despite regulatory hurdles",
-      "url": "https://www.pv-magazine.com/2025/12/11/brazil-to-add-11-4-gw-of-solar-in-2025-despite-regulatory-hurdles/",
-      "date": "2025-12-11T16:00:23.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
