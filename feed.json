@@ -1,6 +1,13 @@
 {
-  "ts": 1765541799289,
+  "ts": 1765546008481,
   "items": [
+    {
+      "title": "Batteries now cheap enough to make dispatchable solar economically feasible",
+      "url": "https://www.pv-magazine.com/2025/12/12/batteries-now-cheap-enough-to-make-dispatchable-solar-economically-feasible/",
+      "date": "2025-12-12T13:00:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Táctica Industrial unveils off-grid PV system for modular green hydrogen",
       "url": "https://www.pv-magazine.com/2025/12/12/tactica-industrial-unveils-off-grid-pv-system-for-modular-green-hydrogen/",
@@ -194,13 +201,6 @@
       "title": "New all-aluminum solar carport from France",
       "url": "https://www.pv-magazine.com/2025/12/11/new-all-aluminum-solar-carport-from-france/",
       "date": "2025-12-11T15:30:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bangladesh reinstates 11 solar plants totaling 918 MW after tariff cuts",
-      "url": "https://www.pv-magazine.com/2025/12/11/bangladesh-reinstates-11-solar-plants-totaling-918-mw-after-tariff-cuts/",
-      "date": "2025-12-11T15:30:20.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
