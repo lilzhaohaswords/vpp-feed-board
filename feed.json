@@ -1,6 +1,20 @@
 {
-  "ts": 1765537225034,
+  "ts": 1765541799289,
   "items": [
+    {
+      "title": "Táctica Industrial unveils off-grid PV system for modular green hydrogen",
+      "url": "https://www.pv-magazine.com/2025/12/12/tactica-industrial-unveils-off-grid-pv-system-for-modular-green-hydrogen/",
+      "date": "2025-12-12T12:00:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Poland shortlists energy storage projects for €1 billion in grants",
+      "url": "https://www.energy-storage.news/poland-shortlists-energy-storage-projects-for-e1-billion-in-grants/",
+      "date": "2025-12-12T11:18:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Inlyte proves out first full-scale iron–sodium battery system in factory test",
       "url": "https://www.pv-magazine.com/2025/12/12/inlyte-proves-out-first-full-scale-iron-sodium-battery-system-in-factory-test/",
@@ -195,13 +209,6 @@
       "url": "https://www.energy-storage.news/how-distributed-energy-resources-could-combat-soaring-electricity-costs-in-the-us/",
       "date": "2025-12-11T15:16:02.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Trina Solar to invest in Holosolis PV gigafactory in France",
-      "url": "https://www.pv-magazine.com/2025/12/11/trina-solar-to-invest-in-holosolis-pv-gigafactory-in-france/",
-      "date": "2025-12-11T14:48:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Multiple gigawatts of European BESS project M&#038;A, financing and route-to-market deals",
       "url": "https://www.energy-storage.news/multiple-gigawatts-of-european-bess-project-ma-financing-and-route-to-market-deals/",
       "date": "2025-12-01T12:05:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "600MWh Bulabul battery storage site in Australia attracts Danish partner in AU$300 million deal",
-      "url": "https://www.energy-storage.news/600mwh-bulabul-battery-storage-site-in-australia-attracts-danish-partner-in-au300-million-deal/",
-      "date": "2025-11-30T00:00:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
