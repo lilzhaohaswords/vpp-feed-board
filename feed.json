@@ -1,6 +1,13 @@
 {
-  "ts": 1765555271186,
+  "ts": 1765558819049,
   "items": [
+    {
+      "title": "The Hydrogen Stream: Europe forecasts €240 billion for hydrogen grids to 2040",
+      "url": "https://www.pv-magazine.com/2025/12/12/the-hydrogen-stream-european-commission-estimates-e240-billion-investments-in-hydrogen-grid-to-2040/",
+      "date": "2025-12-12T16:50:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hungary launches $305 million subsidy for residential battery storage",
       "url": "https://www.pv-magazine.com/2025/12/12/hungary-launches-huf-100-billion-subsidy-for-residential-battery-storage/",
@@ -194,13 +201,6 @@
       "title": "US space solar startup proves wireless power system works in motion",
       "url": "https://www.pv-magazine.com/2025/12/11/overview-energy-united-states-space-solar-power-beaming-satellite-system/",
       "date": "2025-12-11T16:30:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cambridge startup targets 15% module efficiency gain",
-      "url": "https://www.pv-magazine.com/2025/12/11/cambridge-startup-targets-15-module-efficiency-gain/",
-      "date": "2025-12-11T16:15:24.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
