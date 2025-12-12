@@ -1,8 +1,15 @@
 {
-  "ts": 1765519256118,
+  "ts": 1765523590486,
   "items": [
     {
-      "title": "TCL Sunpower launches residential battery",
+      "title": "Astronergy launches 750 W anti-dust TOPCon solar module",
+      "url": "https://www.pv-magazine.com/2025/12/12/astronergy-launches-750-w-anti-dust-topcon-solar-module/",
+      "date": "2025-12-12T07:08:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "TCL Sunpower unveils residential battery",
       "url": "https://www.pv-magazine.com/2025/12/12/tcl-sunpower-launches-residential-battery/",
       "date": "2025-12-12T05:51:52.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -208,13 +215,6 @@
       "title": "Snapsun introduces rooftop mounting system made of recycled plastic",
       "url": "https://www.pv-magazine.com/2025/12/10/snapsun-introduces-rooftop-mounting-system-made-of-recycled-plastic/",
       "date": "2025-12-10T15:35:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "DMEGC launches framed solar module weighing 7.5 kg/m2",
-      "url": "https://www.pv-magazine.com/2025/12/10/dmegc-launches-framed-solar-module-weighing-7-5-kg-m2/",
-      "date": "2025-12-10T15:05:32.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
