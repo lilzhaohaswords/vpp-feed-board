@@ -1,6 +1,27 @@
 {
-  "ts": 1765796460705,
+  "ts": 1765801092244,
   "items": [
+    {
+      "title": "Germany brings world’s first supercapacitor STATCOM online",
+      "url": "https://www.pv-magazine.com/2025/12/15/germany-brings-worlds-first-supercapacitor-statcom-online/",
+      "date": "2025-12-15T12:00:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Energy Storage Europe welcomes EU proposal to end ‘first-come-first-served’ grid connections",
+      "url": "https://www.energy-storage.news/energy-storage-europe-welcomes-eu-proposal-to-end-first-come-first-served-grid-connections/",
+      "date": "2025-12-15T11:31:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Single 100MW BESS outage could cause a US$1.2 million monthly loss, cybersecurity report finds",
+      "url": "https://www.energy-storage.news/single-100mw-bess-outage-could-cause-a-us1-2-million-monthly-loss-cybersecurity-report-finds/",
+      "date": "2025-12-15T11:08:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Maxeon expands legal action against Aiko and its distributors in Germany",
       "url": "https://www.pv-magazine.com/2025/12/15/maxeon-expands-legal-action-against-aiko-and-its-distributors-in-germany/",
@@ -194,13 +215,6 @@
       "title": "Türkiye publishes rules for floating solar",
       "url": "https://www.pv-magazine.com/2025/12/12/turkiye-publishes-rules-for-floating-solar/",
       "date": "2025-12-12T07:59:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s solar PLI scheme draws strong interest but faces implementation",
-      "url": "https://www.pv-magazine.com/2025/12/12/indias-solar-pli-scheme-draws-strong-interest-but-faces-implementation/",
-      "date": "2025-12-12T07:45:13.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Fortescue deploys 250MWh BYD battery system in Western Australia",
       "url": "https://www.energy-storage.news/fortescue-deploys-250mwh-byd-battery-system-in-western-australia/",
       "date": "2025-12-01T23:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Italy is a natural market for batteries&#8217;: Greenvolt Power on its MACSE-winning project",
-      "url": "https://www.energy-storage.news/italy-is-a-natural-market-for-batteries-greenvolt-power-on-its-macse-winning-project/",
-      "date": "2025-12-01T12:25:09.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Skeleton Tech begins manufacturing high-power solutions to AI boom in Europe",
-      "url": "https://www.energy-storage.news/skeleton-tech-begins-manufacturing-high-power-solutions-to-ai-boom-in-europe/",
-      "date": "2025-12-01T12:16:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
