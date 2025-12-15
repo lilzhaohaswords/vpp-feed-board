@@ -1,6 +1,20 @@
 {
-  "ts": 1765778459320,
+  "ts": 1765782866359,
   "items": [
+    {
+      "title": "Indian researchers develop stable liquid hydrogen transport system",
+      "url": "https://www.pv-magazine.com/2025/12/15/indian-researchers-develop-stable-liquid-hydrogen-transport-system/",
+      "date": "2025-12-15T06:52:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Korea Power Exchange to announce winners of 540MW/3,240MWh energy storage auction in February",
+      "url": "https://www.energy-storage.news/korea-power-exchange-to-announce-winners-of-540mw-3240mwh-energy-storage-auction-in-february/",
+      "date": "2025-12-15T06:06:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Europe forecasts €240 billion for hydrogen grids to 2040",
       "url": "https://www.pv-magazine.com/2025/12/12/the-hydrogen-stream-european-commission-estimates-e240-billion-investments-in-hydrogen-grid-to-2040/",
@@ -194,13 +208,6 @@
       "title": "How technology is changing modern solar O&#038;M",
       "url": "https://www.pv-magazine.com/2025/12/11/pv-week-europe-2025-operations-maintenance-solar-conference-session-recording/",
       "date": "2025-12-11T16:55:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US space solar startup proves wireless power system works in motion",
-      "url": "https://www.pv-magazine.com/2025/12/11/overview-energy-united-states-space-solar-power-beaming-satellite-system/",
-      "date": "2025-12-11T16:30:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Skeleton Tech begins manufacturing high-power solutions to AI boom in Europe",
       "url": "https://www.energy-storage.news/skeleton-tech-begins-manufacturing-high-power-solutions-to-ai-boom-in-europe/",
       "date": "2025-12-01T12:16:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Multiple gigawatts of European BESS project M&#038;A, financing and route-to-market deals",
-      "url": "https://www.energy-storage.news/multiple-gigawatts-of-european-bess-project-ma-financing-and-route-to-market-deals/",
-      "date": "2025-12-01T12:05:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
