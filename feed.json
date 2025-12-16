@@ -1,6 +1,13 @@
 {
-  "ts": 1765859049758,
+  "ts": 1765861955124,
   "items": [
+    {
+      "title": "Akaysha Energy enters 300MWh BESS into NEM trading in Queensland, Australia",
+      "url": "https://www.energy-storage.news/akaysha-energy-enters-300mwh-bess-into-nem-trading-in-queensland-australia/",
+      "date": "2025-12-16T05:01:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Chinese PV Industry Brief: PowerChina launches 31 GW solar procurement",
       "url": "https://www.pv-magazine.com/2025/12/15/chinese-pv-industry-brief-powerchina-launches-31-gw-solar-procurement/",
@@ -128,6 +135,13 @@
       "bucket": "A"
     },
     {
+      "title": "Belgium&#8217;s Virya Energy acquires BayWa r.e.&#8217;s Japan solar business",
+      "url": "https://www.pv-magazine.com/2025/12/15/virya-energy-bayware-japan-solar-acquisition-market-expansion-asia/",
+      "date": "2025-12-15T07:45:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
       "title": "French renewables tender awards all 507.7 MW to solar",
       "url": "https://www.pv-magazine.com/2025/12/15/french-renewables-tender-awards-all-507-7-mw-to-solar/",
       "date": "2025-12-15T07:45:00.000Z",
@@ -194,13 +208,6 @@
       "title": "Inlyte proves out first full-scale iron–sodium battery system in factory test",
       "url": "https://www.pv-magazine.com/2025/12/12/inlyte-proves-out-first-full-scale-iron-sodium-battery-system-in-factory-test/",
       "date": "2025-12-12T10:13:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Indian company rolls out sodium-ion storage systems for homes, businesses",
-      "url": "https://www.pv-magazine.com/2025/12/12/indian-company-rolls-out-sodium-ion-storage-systems-for-homes-businesses/",
-      "date": "2025-12-12T10:00:18.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "World Bank supports multi-gigawatt cross-border renewable energy project in Malaysia",
       "url": "https://www.energy-storage.news/world-bank-supports-multi-gigawatt-cross-border-renewable-energy-project-in-malaysia/",
       "date": "2025-12-02T09:04:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fortescue deploys 250MWh BYD battery system in Western Australia",
-      "url": "https://www.energy-storage.news/fortescue-deploys-250mwh-byd-battery-system-in-western-australia/",
-      "date": "2025-12-01T23:00:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
