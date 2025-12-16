@@ -1,6 +1,13 @@
 {
-  "ts": 1765897906234,
+  "ts": 1765900859707,
   "items": [
+    {
+      "title": "Longi backs Carbon&#8217;s shift to GW-scale solar production in France",
+      "url": "https://www.pv-magazine.com/2025/12/16/longi-backs-carbons-shift-to-gw-scale-solar-production-in-france/",
+      "date": "2025-12-16T15:14:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Ecoprogetti ramps up solar module production line in Oman",
       "url": "https://www.pv-magazine.com/2025/12/16/ecoprogetti-ramps-up-solar-module-production-line-in-oman/",
@@ -230,13 +237,6 @@
       "url": "https://www.energy-storage.news/single-100mw-bess-outage-could-cause-a-us1-2-million-monthly-loss-cybersecurity-report-finds/",
       "date": "2025-12-15T11:08:07.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Maxeon expands legal action against Aiko and its distributors in Germany",
-      "url": "https://www.pv-magazine.com/2025/12/15/maxeon-expands-legal-action-against-aiko-and-its-distributors-in-germany/",
-      "date": "2025-12-15T10:30:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
