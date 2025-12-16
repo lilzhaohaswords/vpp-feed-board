@@ -1,6 +1,27 @@
 {
-  "ts": 1765882862202,
+  "ts": 1765886473633,
   "items": [
+    {
+      "title": "EU security doctrine highlights high-risk dependency on Chinese solar inverters",
+      "url": "https://www.pv-magazine.com/2025/12/16/eu-security-doctrine-highlights-high-risk-dependency-on-chinese-solar-inverters/",
+      "date": "2025-12-16T11:45:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ford launches battery storage business, repurposing EV manufacturing capacity",
+      "url": "https://www.pv-magazine.com/2025/12/16/ford-launches-battery-storage-business-repurposing-ev-manufacturing-capacity/",
+      "date": "2025-12-16T11:32:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hithium launches 8-hour dedicated battery cell and BESS, sodium-lithium hybrid data centre solution",
+      "url": "https://www.energy-storage.news/hithium-launches-8-hour-dedicated-battery-cell-and-bess-sodium-lithium-hybrid-data-centre-solution/",
+      "date": "2025-12-16T11:29:39.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "SEG Solar starts building 3 GW solar ingot, wafer factory in Indonesia",
       "url": "https://www.pv-magazine.com/2025/12/16/seg-solar-starts-building-3-gw-solar-ingot-wafer-factory-in-indonesia/",
@@ -194,20 +215,6 @@
       "title": "India’s Waaree Energies lifts global solar module capacity to 22.3 GW",
       "url": "https://www.pv-magazine.com/2025/12/15/indias-waaree-energies-lifts-global-solar-module-capacity-to-22-3-gw/",
       "date": "2025-12-15T09:15:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Metlen flicks switch on 120 MW of solar in Australia",
-      "url": "https://www.pv-magazine.com/2025/12/15/metlen-flicks-switch-on-120-mw-of-solar-in-australia/",
-      "date": "2025-12-15T08:30:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China National Petroleum Corporation achieves 25.05% efficiency for inverted perovskite solar cell",
-      "url": "https://www.pv-magazine.com/2025/12/15/china-national-petroleum-corporation-achieves-25-05-efficiency-for-inverted-perovskite-solar-cell/",
-      "date": "2025-12-15T07:47:07.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "US battery manufacturing &#8216;could cover domestic BESS demand within a few years&#8217;",
       "url": "https://www.energy-storage.news/us-battery-manufacturing-could-cover-domestic-bess-demand-within-a-few-years/",
       "date": "2025-12-02T12:00:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Puerto Rico advances on its delayed accelerated BESS deployment programme",
-      "url": "https://www.energy-storage.news/puerto-rico-advances-on-its-delayed-accelerated-bess-deployment-programme/",
-      "date": "2025-12-02T11:50:26.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
