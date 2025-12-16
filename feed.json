@@ -1,5 +1,5 @@
 {
-  "ts": 1765861955124,
+  "ts": 1765865710352,
   "items": [
     {
       "title": "Akaysha Energy enters 300MWh BESS into NEM trading in Queensland, Australia",
@@ -135,13 +135,6 @@
       "bucket": "A"
     },
     {
-      "title": "Belgium&#8217;s Virya Energy acquires BayWa r.e.&#8217;s Japan solar business",
-      "url": "https://www.pv-magazine.com/2025/12/15/virya-energy-bayware-japan-solar-acquisition-market-expansion-asia/",
-      "date": "2025-12-15T07:45:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "French renewables tender awards all 507.7 MW to solar",
       "url": "https://www.pv-magazine.com/2025/12/15/french-renewables-tender-awards-all-507-7-mw-to-solar/",
       "date": "2025-12-15T07:45:00.000Z",
@@ -208,6 +201,13 @@
       "title": "Inlyte proves out first full-scale iron–sodium battery system in factory test",
       "url": "https://www.pv-magazine.com/2025/12/12/inlyte-proves-out-first-full-scale-iron-sodium-battery-system-in-factory-test/",
       "date": "2025-12-12T10:13:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Indian company rolls out sodium-ion storage systems for homes, businesses",
+      "url": "https://www.pv-magazine.com/2025/12/12/indian-company-rolls-out-sodium-ion-storage-systems-for-homes-businesses/",
+      "date": "2025-12-12T10:00:18.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
