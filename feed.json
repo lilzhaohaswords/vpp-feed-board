@@ -1,6 +1,34 @@
 {
-  "ts": 1765886473633,
+  "ts": 1765891821208,
   "items": [
+    {
+      "title": "US ROUNDUP: Shell immersion cooling partnership, PNNL begins utility-scale battery tests, ON.Energy in 5GW transformer deal",
+      "url": "https://www.energy-storage.news/us-roundup-shell-immersion-cooling-partnership-pnnl-begins-utility-scale-battery-tests-on-energy-in-5gw-transformer-deal/",
+      "date": "2025-12-16T13:12:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Georgia Power agrees electric bill deal with regulators to enable 9.9GW resource addition",
+      "url": "https://www.energy-storage.news/georgia-power-agrees-electric-bill-deal-with-regulators-to-enable-9-9gw-resource-addition/",
+      "date": "2025-12-16T13:03:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Turning data centres from a &#8216;potential liability to a grid asset&#8217;: Calibrant on its first-of-a-kind BESS with Aligned",
+      "url": "https://www.energy-storage.news/turning-data-centres-from-a-potential-liability-to-a-grid-asset-calibrant-on-its-first-of-a-kind-bess-with-aligned/",
+      "date": "2025-12-16T12:31:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "France pulls reduced VAT status from four DMEGC solar modules",
+      "url": "https://www.pv-magazine.com/2025/12/16/france-pulls-reduced-vat-status-from-four-dmegc-solar-modules/",
+      "date": "2025-12-16T12:16:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "EU security doctrine highlights high-risk dependency on Chinese solar inverters",
       "url": "https://www.pv-magazine.com/2025/12/16/eu-security-doctrine-highlights-high-risk-dependency-on-chinese-solar-inverters/",
@@ -208,13 +236,6 @@
       "title": "Hebei Juhang Energy Technology plans solar panel factory in Pakistan",
       "url": "https://www.pv-magazine.com/2025/12/15/hebei-juhang-energy-technology-plans-solar-panel-factory-in-pakistan/",
       "date": "2025-12-15T09:36:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s Waaree Energies lifts global solar module capacity to 22.3 GW",
-      "url": "https://www.pv-magazine.com/2025/12/15/indias-waaree-energies-lifts-global-solar-module-capacity-to-22-3-gw/",
-      "date": "2025-12-15T09:15:37.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "VIDEO: Powering certainty with Elementa 2 Pro, bankable energy storage from Trina",
       "url": "https://www.energy-storage.news/video-powering-certainty-with-elementa-2-pro-bankable-energy-storage-from-trina/",
       "date": "2025-12-03T10:26:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "FRV and AGL advance 2,200MWh of grid-forming battery energy storage in Australia",
-      "url": "https://www.energy-storage.news/frv-and-agl-advance-2200mwh-of-grid-forming-battery-energy-storage-in-australia/",
-      "date": "2025-12-03T00:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Aypa Power to build, own, and operate 1,200MWh South Carolina BESS",
-      "url": "https://www.energy-storage.news/aypa-power-to-build-own-and-operate-1200mwh-south-carolina-bess/",
-      "date": "2025-12-02T14:00:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US battery manufacturing &#8216;could cover domestic BESS demand within a few years&#8217;",
-      "url": "https://www.energy-storage.news/us-battery-manufacturing-could-cover-domestic-bess-demand-within-a-few-years/",
-      "date": "2025-12-02T12:00:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
