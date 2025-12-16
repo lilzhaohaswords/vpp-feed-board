@@ -1,6 +1,20 @@
 {
-  "ts": 1765879274468,
+  "ts": 1765882862202,
   "items": [
+    {
+      "title": "SEG Solar starts building 3 GW solar ingot, wafer factory in Indonesia",
+      "url": "https://www.pv-magazine.com/2025/12/16/seg-solar-starts-building-3-gw-solar-ingot-wafer-factory-in-indonesia/",
+      "date": "2025-12-16T10:25:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Battery storage system prices continue to fall sharply, BNEF and Ember reports find",
+      "url": "https://www.energy-storage.news/battery-storage-system-prices-continue-to-fall-sharply-bnef-and-ember-reports-find/",
+      "date": "2025-12-16T10:12:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "India’s SJVN nears completion of 1 GW utility-scale solar project",
       "url": "https://www.pv-magazine.com/2025/12/16/indias-sjvn-nears-completion-of-1-gw-utility-scale-solar-project/",
@@ -194,13 +208,6 @@
       "title": "China National Petroleum Corporation achieves 25.05% efficiency for inverted perovskite solar cell",
       "url": "https://www.pv-magazine.com/2025/12/15/china-national-petroleum-corporation-achieves-25-05-efficiency-for-inverted-perovskite-solar-cell/",
       "date": "2025-12-15T07:47:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "French renewables tender awards all 507.7 MW to solar",
-      "url": "https://www.pv-magazine.com/2025/12/15/french-renewables-tender-awards-all-507-7-mw-to-solar/",
-      "date": "2025-12-15T07:45:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Puerto Rico advances on its delayed accelerated BESS deployment programme",
       "url": "https://www.energy-storage.news/puerto-rico-advances-on-its-delayed-accelerated-bess-deployment-programme/",
       "date": "2025-12-02T11:50:26.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "HDRE, Brawn Capital put ‘100% merchant’ BESS into operation in northern Japan",
-      "url": "https://www.energy-storage.news/hdre-brawn-capital-put-100-merchant-bess-into-operation-in-northern-japan/",
-      "date": "2025-12-02T10:53:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
