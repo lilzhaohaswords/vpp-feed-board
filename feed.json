@@ -1,6 +1,41 @@
 {
-  "ts": 1765980053574,
+  "ts": 1765984245315,
   "items": [
+    {
+      "title": "ERCOT BESS revenue &#8216;roller coaster&#8217; is a feature, not a bug",
+      "url": "https://www.energy-storage.news/ercot-bess-revenue-roller-coaster-is-a-feature-not-a-bug/",
+      "date": "2025-12-17T14:51:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Albania reviewing solar project proposals totaling 135 MW",
+      "url": "https://www.pv-magazine.com/2025/12/17/albania-reviewing-solar-project-proposals-totaling-135-mw/",
+      "date": "2025-12-17T14:30:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Guayepo I&#038;II, the largest centralized solar park in Colombia",
+      "url": "https://www.pv-magazine.com/2025/12/17/guayepo-iii-the-largest-centralized-solar-park-in-colombia/",
+      "date": "2025-12-17T14:30:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US energy storage installations in 2025 have already surpassed last year&#8217;s total: Wood Mac",
+      "url": "https://www.energy-storage.news/us-energy-storage-installations-in-2025-have-already-surpassed-last-years-total-wood-mac/",
+      "date": "2025-12-17T14:05:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US energy storage installations surpass 2024 total by Q3 2025",
+      "url": "https://www.pv-magazine.com/2025/12/17/us-energy-storage-installations-surpass-2024-total-by-q3-2025/",
+      "date": "2025-12-17T14:00:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "How thermal energy storage (TES) makes steam from renewables economically viable",
       "url": "https://www.energy-storage.news/how-thermal-energy-storage-tes-makes-steam-from-renewables-economically-viable/",
@@ -212,31 +247,10 @@
       "bucket": "A"
     },
     {
-      "title": "SEG Solar starts building 3 GW solar ingot, wafer factory in Indonesia",
-      "url": "https://www.pv-magazine.com/2025/12/16/seg-solar-starts-building-3-gw-solar-ingot-wafer-factory-in-indonesia/",
-      "date": "2025-12-16T10:25:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Battery storage system prices continue to fall sharply, BNEF and Ember reports find",
       "url": "https://www.energy-storage.news/battery-storage-system-prices-continue-to-fall-sharply-bnef-and-ember-reports-find/",
       "date": "2025-12-16T10:12:06.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s SJVN nears completion of 1 GW utility-scale solar project",
-      "url": "https://www.pv-magazine.com/2025/12/16/indias-sjvn-nears-completion-of-1-gw-utility-scale-solar-project/",
-      "date": "2025-12-16T10:00:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The impact of laser-assisted firing on TOPCon solar cell performance",
-      "url": "https://www.pv-magazine.com/2025/12/16/the-impact-of-laser-assisted-firing-on-topcon-solar-cell-performance/",
-      "date": "2025-12-16T09:30:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Zenith locks in 25-year PPA for 300MWh hybrid storage project at Western Australia gold mine",
       "url": "https://www.energy-storage.news/zenith-locks-in-25-year-ppa-for-300mwh-hybrid-storage-project-at-western-australia-gold-mine/",
       "date": "2025-12-04T02:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ABB acquires Gamesa Electric power electronics division for undisclosed sum",
-      "url": "https://www.energy-storage.news/abb-acquires-gamesa-electric-power-electronics-division-for-undisclosed-sum/",
-      "date": "2025-12-03T13:51:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ontario municipality denies support for 3.2GWh BESS project ahead of looming IESO RFP deadline",
-      "url": "https://www.energy-storage.news/ontario-municipality-denies-support-for-3-2gwh-bess-project-ahead-of-looming-ieso-rfp-deadline/",
-      "date": "2025-12-03T12:56:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
