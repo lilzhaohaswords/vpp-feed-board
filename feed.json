@@ -1,6 +1,20 @@
 {
-  "ts": 1765962919188,
+  "ts": 1765965659071,
   "items": [
+    {
+      "title": "Ford’s ‘big strategic pivot’ into the ‘fiercely competitive’ battery storage market",
+      "url": "https://www.energy-storage.news/fords-big-strategic-pivot-into-the-fiercely-competitive-battery-storage-market/",
+      "date": "2025-12-17T09:59:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Renewables still Australia&#8217;s lowest-cost option, says CSIRO",
+      "url": "https://www.pv-magazine.com/2025/12/17/renewables-still-australias-lowest-cost-option-says-csiro/",
+      "date": "2025-12-17T09:15:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "The impact of transparent conductive electrodes on perovskite-silicon tandem solar cell performance",
       "url": "https://www.pv-magazine.com/2025/12/17/the-impact-of-transparent-conductive-electrodes-on-perovskite-silicon-tandem-solar-cell-performance/",
@@ -215,13 +229,6 @@
       "title": "Italy clears 710 MW of solar in Puglia, challenges regional PV rules",
       "url": "https://www.pv-magazine.com/2025/12/15/italy-streamlines-utility-scale-pv-amid-regional-governments-resistance/",
       "date": "2025-12-15T16:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hithium pushes into long-duration storage and AI data centres with 1,300Ah cell, 6.9 MW/55.2 MWh system, and lithium-sodium hybrid",
-      "url": "https://www.pv-magazine.com/2025/12/15/hithium-pushes-into-long-duration-storage-and-ai-data-centres-with-1300ah-cell-6-9-mw-55-2-mwh-system-and-lithium-sodium-hybrid/",
-      "date": "2025-12-15T15:40:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Are battery companies focusing on lithium-ion alternatives financially viable?",
       "url": "https://www.energy-storage.news/are-battery-companies-focusing-on-lithium-ion-alternatives-financially-viable/",
       "date": "2025-12-03T11:01:55.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Powering certainty with Elementa 2 Pro, bankable energy storage from Trina",
-      "url": "https://www.energy-storage.news/video-powering-certainty-with-elementa-2-pro-bankable-energy-storage-from-trina/",
-      "date": "2025-12-03T10:26:46.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
