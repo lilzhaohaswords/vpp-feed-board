@@ -1,6 +1,34 @@
 {
-  "ts": 1765969270831,
+  "ts": 1765972870046,
   "items": [
+    {
+      "title": "South Korea sets 3.5 million heat pump target in national decarbonization push",
+      "url": "https://www.pv-magazine.com/2025/12/17/south-korea-sets-3-5-million-heat-pump-target-in-national-decarbonization-push/",
+      "date": "2025-12-17T12:00:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "South Africa adds 890 MW of solar to seventh renewables bid window",
+      "url": "https://www.pv-magazine.com/2025/12/17/south-africa-adds-890-mw-of-solar-to-seventh-renewables-bid-window/",
+      "date": "2025-12-17T11:59:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "European BESS: 800MW of project awards, M&#038;A and financing announced across continent",
+      "url": "https://www.energy-storage.news/european-bess-800mw-of-project-awards-ma-and-financing-announced-across-continent/",
+      "date": "2025-12-17T11:57:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Akuo Energy, Voltalia kick off projects in French overseas territories New Caledonia, French Guiana",
+      "url": "https://www.energy-storage.news/akuo-energy-voltalia-kick-off-projects-in-french-overseas-territories-new-caledonia-french-guiana/",
+      "date": "2025-12-17T11:46:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Bhutan tenders 120 MW solar project",
       "url": "https://www.pv-magazine.com/2025/12/17/bhutan-tenders-120-mw-solar-project/",
@@ -208,20 +236,6 @@
       "title": "Eswatini starts 20 MW solar project",
       "url": "https://www.pv-magazine.com/2025/12/16/eswatini-starts-20-mw-solar-project/",
       "date": "2025-12-16T09:14:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Wood Mackenzie predicts 2-year decline in global solar inverter demand",
-      "url": "https://www.pv-magazine.com/2025/12/16/wood-mackenzie-predicts-2-year-decline-in-global-solar-inverter-demand/",
-      "date": "2025-12-16T09:13:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "GoodWe launches new hybrid inverters for C&#038;I solar",
-      "url": "https://www.pv-magazine.com/2025/12/16/goodwe-launches-new-hybrid-inverters-for-ci-solar/",
-      "date": "2025-12-16T09:08:58.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Cache Power plans ‘Canada’s first’ commercial-scale compressed air energy storage facility",
       "url": "https://www.energy-storage.news/cache-power-plans-canadas-first-commercial-scale-compressed-air-energy-storage-facility/",
       "date": "2025-12-03T12:38:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "State-owned Stanwell bags exclusivity for Quinbrook’s 6.24GWh hybrid energy storage facility in Australia",
-      "url": "https://www.energy-storage.news/state-owned-stanwell-bags-exclusivity-for-quinbrooks-6-24gwh-hybrid-energy-storage-facility-in-australia/",
-      "date": "2025-12-03T11:06:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Are battery companies focusing on lithium-ion alternatives financially viable?",
-      "url": "https://www.energy-storage.news/are-battery-companies-focusing-on-lithium-ion-alternatives-financially-viable/",
-      "date": "2025-12-03T11:01:55.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
