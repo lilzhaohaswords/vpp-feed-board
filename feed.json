@@ -1,6 +1,27 @@
 {
-  "ts": 1766067091862,
+  "ts": 1766070629681,
   "items": [
+    {
+      "title": "Europe’s first sodium-ion cell made with fully domestic components",
+      "url": "https://www.pv-magazine.com/2025/12/18/europes-first-sodium-ion-cell-made-with-fully-domestic-components/",
+      "date": "2025-12-18T14:30:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "European solar manufacturers urge Italy to revise heterojunction tax rule",
+      "url": "https://www.pv-magazine.com/2025/12/18/european-solar-manufacturers-urge-italy-to-revise-heterojunction-tax-rule/",
+      "date": "2025-12-18T14:30:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "California CCA throws support behind two thermal battery storage startup developers",
+      "url": "https://www.energy-storage.news/california-cca-throws-support-behind-two-thermal-battery-storage-startup-developers/",
+      "date": "2025-12-18T14:11:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Amea Power begins construction on 1 GW/600 MWh solar-plus-storage plant in Egypt",
       "url": "https://www.pv-magazine.com/2025/12/18/amea-power-egypt-aswan-governorate-hybrid-1-gw-solar-600-mwh-storage/",
@@ -237,20 +258,6 @@
       "url": "https://www.energy-storage.news/fords-big-strategic-pivot-into-the-fiercely-competitive-battery-storage-market/",
       "date": "2025-12-17T09:59:54.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Renewables still Australia&#8217;s lowest-cost option, says CSIRO",
-      "url": "https://www.pv-magazine.com/2025/12/17/renewables-still-australias-lowest-cost-option-says-csiro/",
-      "date": "2025-12-17T09:15:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The impact of transparent conductive electrodes on perovskite-silicon tandem solar cell performance",
-      "url": "https://www.pv-magazine.com/2025/12/17/the-impact-of-transparent-conductive-electrodes-on-perovskite-silicon-tandem-solar-cell-performance/",
-      "date": "2025-12-17T08:44:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Australia&#8217;s grid-forming battery storage pipeline extends to nearly a hundred projects, says AEMO",
       "url": "https://www.energy-storage.news/australias-grid-forming-battery-storage-pipeline-extends-to-nearly-a-hundred-projects-says-aemo/",
       "date": "2025-12-05T05:30:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "RWE commissions Texas solar-plus-storage project",
-      "url": "https://www.energy-storage.news/rwe-commissions-texas-solar-plus-storage-project/",
-      "date": "2025-12-04T15:31:37.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
