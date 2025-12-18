@@ -1,6 +1,27 @@
 {
-  "ts": 1766064500487,
+  "ts": 1766067091862,
   "items": [
+    {
+      "title": "Amea Power begins construction on 1 GW/600 MWh solar-plus-storage plant in Egypt",
+      "url": "https://www.pv-magazine.com/2025/12/18/amea-power-egypt-aswan-governorate-hybrid-1-gw-solar-600-mwh-storage/",
+      "date": "2025-12-18T14:07:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "GridStor executes tolling agreement for Texas BESS, CPS Energy launches 500MW BESS RFP",
+      "url": "https://www.energy-storage.news/gridstor-executes-tolling-agreement-for-texas-bess-cps-energy-launches-500mw-bess-rfp/",
+      "date": "2025-12-18T14:02:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US virtual power plant programmes advance with new partnerships and investment",
+      "url": "https://www.energy-storage.news/us-virtual-power-plant-programmes-advance-with-new-partnerships-and-investment/",
+      "date": "2025-12-18T13:58:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Saudi Arabia connects 7.8 GWh battery storage project to grid",
       "url": "https://www.pv-magazine.com/2025/12/18/saudi-arabia-connects-7-8-gwh-battery-storage-project-to-grid/",
@@ -229,13 +250,6 @@
       "title": "The impact of transparent conductive electrodes on perovskite-silicon tandem solar cell performance",
       "url": "https://www.pv-magazine.com/2025/12/17/the-impact-of-transparent-conductive-electrodes-on-perovskite-silicon-tandem-solar-cell-performance/",
       "date": "2025-12-17T08:44:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US residential solar faces structural shifts heading into 2026",
-      "url": "https://www.pv-magazine.com/2025/12/17/us-residential-solar-faces-structural-shifts-heading-into-2026/",
-      "date": "2025-12-17T08:30:16.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "RWE commissions Texas solar-plus-storage project",
       "url": "https://www.energy-storage.news/rwe-commissions-texas-solar-plus-storage-project/",
       "date": "2025-12-04T15:31:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Indiana utility to deliver 1.6GWh BESS for Amazon’s data center expansion, though fossil fuels form major part of package",
-      "url": "https://www.energy-storage.news/indiana-utility-to-deliver-1-6gwh-bess-for-amazons-data-center-expansion-though-fossil-fuels-form-major-part-of-package/",
-      "date": "2025-12-04T15:16:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "PJM awards interconnection agreements to 23 BESS resources",
-      "url": "https://www.energy-storage.news/pjm-awards-interconnection-agreements-to-23-bess-resources/",
-      "date": "2025-12-04T13:31:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
