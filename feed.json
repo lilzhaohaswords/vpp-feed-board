@@ -1,6 +1,13 @@
 {
-  "ts": 1766060224418,
+  "ts": 1766064500487,
   "items": [
+    {
+      "title": "Saudi Arabia connects 7.8 GWh battery storage project to grid",
+      "url": "https://www.pv-magazine.com/2025/12/18/saudi-arabia-connects-7-8-gwh-battery-storage-project-to-grid/",
+      "date": "2025-12-18T13:00:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India’s NTPC brings 359.58 MW of solar capacity into operation",
       "url": "https://www.pv-magazine.com/2025/12/18/indias-ntpc-brings-359-58-mw-of-solar-capacity-into-operation/",
@@ -229,13 +236,6 @@
       "title": "US residential solar faces structural shifts heading into 2026",
       "url": "https://www.pv-magazine.com/2025/12/17/us-residential-solar-faces-structural-shifts-heading-into-2026/",
       "date": "2025-12-17T08:30:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Indian state selects companies for 2.12 GW pumped storage projects",
-      "url": "https://www.pv-magazine.com/2025/12/17/indian-state-selects-companies-for-2-12-gw-pumped-storage-projects/",
-      "date": "2025-12-17T07:45:08.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
