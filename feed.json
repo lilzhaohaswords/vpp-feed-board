@@ -1,6 +1,34 @@
 {
-  "ts": 1766138462895,
+  "ts": 1766142044273,
   "items": [
+    {
+      "title": "Researchers find sodium-ion batteries using hard carbon anodes can intrinsically charge faster",
+      "url": "https://www.pv-magazine.com/2025/12/19/researchers-find-sodium-ion-batteries-using-hard-carbon-anodes-can-intrinsically-charge-faster/",
+      "date": "2025-12-19T10:30:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Egypt: AMEA Power secures IFC funds for ‘Africa’s largest single-site renewables and battery project’",
+      "url": "https://www.energy-storage.news/egypt-amea-power-secures-ifc-funds-for-africas-largest-single-site-renewables-and-battery-project/",
+      "date": "2025-12-19T10:24:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Engie to power Australian cricket matches with GreenPower",
+      "url": "https://www.pv-magazine.com/2025/12/19/engie-to-power-australian-cricket-matches-with-greenpower/",
+      "date": "2025-12-19T10:00:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar, wind and storage: stable prices, stable grid",
+      "url": "https://www.pv-magazine.com/2025/12/19/solar-wind-and-storage-stable-prices-stable-grid/",
+      "date": "2025-12-19T10:00:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "China’s first polysilicon consolidation steps unlikely to move prices in Q1",
       "url": "https://www.pv-magazine.com/2025/12/19/chinas-first-polysilicon-consolidation-steps-unlikely-to-move-prices-in-q1/",
@@ -194,27 +222,6 @@
       "title": "Pakistan unveils new net metering rules for rooftop PV",
       "url": "https://www.pv-magazine.com/2025/12/18/pakistan-unveils-new-net-metering-rules-for-rooftop-pv/",
       "date": "2025-12-18T09:55:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s Tata Power plans solar ingot and wafer plant",
-      "url": "https://www.pv-magazine.com/2025/12/18/indias-tata-power-plans-solar-ingot-and-wafer-plant/",
-      "date": "2025-12-18T09:15:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Geon launches new inverter battery for residential, commercial use",
-      "url": "https://www.pv-magazine.com/2025/12/18/geon-launches-new-inverter-battery-for-residential-commercial-use/",
-      "date": "2025-12-18T09:02:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New annual record for UK solar generation",
-      "url": "https://www.pv-magazine.com/2025/12/18/new-annual-record-for-uk-solar-generation/",
-      "date": "2025-12-18T08:30:38.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "BrightNight and Cordelio close on 800MWh Washington state BESS",
       "url": "https://www.energy-storage.news/brightnight-and-cordelio-close-on-800mwh-washington-state-bess/",
       "date": "2025-12-05T11:24:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ADS-TEC battery-buffered EV fast chargers put into ancillary services market in Austria",
-      "url": "https://www.energy-storage.news/ads-tec-battery-buffered-ev-fast-chargers-put-into-ancillary-services-market-in-austria/",
-      "date": "2025-12-05T09:16:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
