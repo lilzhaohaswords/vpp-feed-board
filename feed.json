@@ -1,8 +1,36 @@
 {
-  "ts": 1766132028844,
+  "ts": 1766135575405,
   "items": [
     {
-      "title": "Rooftop bifacial PV can produce over 9% more power in high-latitudes than monofacial systems",
+      "title": "Schott launches new space solar cover glass",
+      "url": "https://www.pv-magazine.com/2025/12/19/schott-launches-new-space-solar-cover-glass/",
+      "date": "2025-12-19T09:00:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India passes 132.8 GW of installed solar capacity",
+      "url": "https://www.pv-magazine.com/2025/12/19/india-passes-132-8-gw-of-installed-solar-capacity/",
+      "date": "2025-12-19T08:45:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Aiko achieves 24.8% efficiency in commercial solar module production",
+      "url": "https://www.pv-magazine.com/2025/12/19/aiko-achieves-24-8-efficiency-in-commercial-solar-module-production/",
+      "date": "2025-12-19T08:37:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ambrion launches new all-in-one storage solutions",
+      "url": "https://www.pv-magazine.com/2025/12/19/ambrion-launches-new-all-in-one-storage-solutions/",
+      "date": "2025-12-19T08:30:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Rooftop bifacial PV can produce over 9% more power than monofacial systems in high-latitudes",
       "url": "https://www.pv-magazine.com/2025/12/19/rooftop-bifacial-pv-can-produce-over-9-more-power-in-high-latitudes-than-monofacial-systems/",
       "date": "2025-12-19T08:00:45.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -198,38 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "French testing body flags durability risks in TOPCon solar modules",
-      "url": "https://www.pv-magazine.com/2025/12/17/french-certification-body-reveals-results-of-topcon-solar-module-tests/",
-      "date": "2025-12-17T16:35:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "‘The real cost of a battery storage goes far beyond $/kWh’",
-      "url": "https://www.pv-magazine.com/2025/12/17/the-real-cost-of-a-battery-storage-goes-far-beyond-kwh/",
-      "date": "2025-12-17T16:04:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "ERCOT BESS revenue &#8216;roller coaster&#8217; is a feature, not a bug",
       "url": "https://www.energy-storage.news/ercot-bess-revenue-roller-coaster-is-a-feature-not-a-bug/",
       "date": "2025-12-17T14:51:40.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Albania reviewing solar project proposals totaling 135 MW",
-      "url": "https://www.pv-magazine.com/2025/12/17/albania-reviewing-solar-project-proposals-totaling-135-mw/",
-      "date": "2025-12-17T14:30:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Guayepo I&#038;II, the largest centralized solar park in Colombia",
-      "url": "https://www.pv-magazine.com/2025/12/17/guayepo-iii-the-largest-centralized-solar-park-in-colombia/",
-      "date": "2025-12-17T14:30:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
