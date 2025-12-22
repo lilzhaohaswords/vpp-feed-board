@@ -1,6 +1,13 @@
 {
-  "ts": 1766401259191,
+  "ts": 1766404862954,
   "items": [
+    {
+      "title": "Mexico approves 2.4 GW of solar projects",
+      "url": "https://www.pv-magazine.com/2025/12/22/mexico-approves-2-4-gw-of-solar-projects/",
+      "date": "2025-12-22T11:30:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Can US trade policy deliver a domestic battery supply chain?",
       "url": "https://www.energy-storage.news/can-us-trade-policy-deliver-a-domestic-battery-supply-chain/",
@@ -201,13 +208,6 @@
       "title": "Rooftop bifacial PV can produce over 9% more power than monofacial systems in high-latitudes",
       "url": "https://www.pv-magazine.com/2025/12/19/rooftop-bifacial-pv-can-produce-over-9-more-power-in-high-latitudes-than-monofacial-systems/",
       "date": "2025-12-19T08:00:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US researchers use machine learning to detect hidden solar array defects",
-      "url": "https://www.pv-magazine.com/2025/12/19/us-researchers-use-machine-learning-to-detect-hidden-solar-array-defects/",
-      "date": "2025-12-19T07:58:23.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
