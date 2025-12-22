@@ -1,10 +1,31 @@
 {
-  "ts": 1766397656728,
+  "ts": 1766401259191,
   "items": [
+    {
+      "title": "Can US trade policy deliver a domestic battery supply chain?",
+      "url": "https://www.energy-storage.news/can-us-trade-policy-deliver-a-domestic-battery-supply-chain/",
+      "date": "2025-12-22T10:56:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "China files WTO complaint against Indian solar subsidies",
       "url": "https://www.pv-magazine.com/2025/12/22/china-files-wto-complaint-against-indian-solar-subsidies/",
-      "date": "2025-12-22T09:51:00.000Z",
+      "date": "2025-12-22T10:20:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Coal India starts accepting bids for 20 MW floating solar plant",
+      "url": "https://www.pv-magazine.com/2025/12/22/coal-india-starts-accepting-bids-for-20-mw-floating-solar-plant/",
+      "date": "2025-12-22T10:05:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Building resilience amid intensifying weather events",
+      "url": "https://www.pv-magazine.com/2025/12/22/building-resilience-amid-intensifying-weather-events/",
+      "date": "2025-12-22T10:00:14.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -187,20 +208,6 @@
       "title": "US researchers use machine learning to detect hidden solar array defects",
       "url": "https://www.pv-magazine.com/2025/12/19/us-researchers-use-machine-learning-to-detect-hidden-solar-array-defects/",
       "date": "2025-12-19T07:58:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China TOPCon cell prices dip despite looming cost pressures",
-      "url": "https://www.pv-magazine.com/2025/12/19/china-topcon-cell-prices-dip-despite-looming-cost-pressures/",
-      "date": "2025-12-19T07:31:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Clivet releases residential air-to-air heat pump",
-      "url": "https://www.pv-magazine.com/2025/12/19/clivet-releases-residential-air-to-air-heat-pump/",
-      "date": "2025-12-19T07:30:50.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Arizona county supervisors approve 400MWh BESS project near site of 2019 Surprise fire",
       "url": "https://www.energy-storage.news/arizona-county-supervisors-approve-400mwh-bess-project-near-site-of-2019-surprise-fire/",
       "date": "2025-12-08T16:39:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Desert Mountain Energy plans sodium nickel chloride battery factory in New Mexico",
-      "url": "https://www.energy-storage.news/desert-mountain-energy-plans-sodium-nickel-chloride-battery-factory-in-new-mexico/",
-      "date": "2025-12-08T14:28:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
