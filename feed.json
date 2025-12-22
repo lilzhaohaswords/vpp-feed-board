@@ -1,6 +1,34 @@
 {
-  "ts": 1766390447346,
+  "ts": 1766394946668,
   "items": [
+    {
+      "title": "Using horizontally connected salt caverns for compressed air storage",
+      "url": "https://www.pv-magazine.com/2025/12/22/using-horizontally-connected-salt-caverns-for-compressed-air-storage/",
+      "date": "2025-12-22T09:00:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian utility Flow Power closes financing on its first BESS project, in Victoria’s Latrobe Valley",
+      "url": "https://www.energy-storage.news/australian-utility-flow-power-closes-financing-on-its-first-bess-project-in-victorias-latrobe-valley/",
+      "date": "2025-12-22T08:47:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Hungary to host 450 MW solar plant using back-contact modules",
+      "url": "https://www.pv-magazine.com/2025/12/22/hungary-to-host-450-mw-solar-plant-using-longi-back-contact-modules/",
+      "date": "2025-12-22T08:30:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Imaging tech to analyze sub-cells in tandem and triple junction PV devices",
+      "url": "https://www.pv-magazine.com/2025/12/22/imaging-tech-to-analyze-sub-cells-in-tandem-and-triple-junction-pv-devices/",
+      "date": "2025-12-22T08:00:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Germany backs Moll Batterien sodium-ion battery plant with over €22 million",
       "url": "https://www.pv-magazine.com/2025/12/22/germany-backs-moll-batterien-sodium-ion-battery-plant-with-over-e22-million/",
@@ -181,27 +209,6 @@
       "url": "https://www.energy-storage.news/australian-government-supports-additional-40gwh-of-cheaper-home-batteries-by-2030/",
       "date": "2025-12-19T06:37:53.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Canon testing solar at Japanese data center",
-      "url": "https://www.pv-magazine.com/2025/12/19/canon-testing-solar-at-japanese-data-center/",
-      "date": "2025-12-19T06:00:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Rute SunTracker opening cattle grazing land to solar power",
-      "url": "https://www.pv-magazine.com/2025/12/19/rute-suntracker-opening-cattle-grazing-land-to-solar-power/",
-      "date": "2025-12-19T05:30:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Greek solar producers petition EU over repowering and storage rules",
-      "url": "https://www.pv-magazine.com/2025/12/18/greek-solar-producers-petition-eu-over-repowering-and-storage-rules/",
-      "date": "2025-12-18T15:30:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Desert Mountain Energy plans sodium nickel chloride battery factory in New Mexico",
       "url": "https://www.energy-storage.news/desert-mountain-energy-plans-sodium-nickel-chloride-battery-factory-in-new-mexico/",
       "date": "2025-12-08T14:28:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Angola: Energy minister inaugurates first solar-plus-storage minigrid in national rollout",
-      "url": "https://www.energy-storage.news/angola-first-solar-plus-storage-minigrid-national-rollout/",
-      "date": "2025-12-08T13:59:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
