@@ -1,6 +1,13 @@
 {
-  "ts": 1766492228156,
+  "ts": 1766496483611,
   "items": [
+    {
+      "title": "VIDEO: Discover how New York powers energy storage innovation",
+      "url": "https://www.energy-storage.news/video-discover-how-new-york-powers-energy-storage-innovation/",
+      "date": "2025-12-23T13:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Zambia opens solar-plus-storage tender",
       "url": "https://www.pv-magazine.com/2025/12/23/zambia-opens-solar-plus-storage-tender/",
@@ -516,13 +523,6 @@
       "title": "Long-duration energy storage is non-negotiable for Europe&#8217;s energy transformation",
       "url": "https://www.energy-storage.news/long-duration-energy-storage-is-non-negotiable-for-europes-energy-transformation/",
       "date": "2025-12-09T09:22:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Vena Energy signs BESS agreement with CATL for Indonesia-Singapore ‘renewable energy corridor’",
-      "url": "https://www.energy-storage.news/vena-energy-signs-bess-agreement-with-catl-for-indonesia-singapore-renewable-energy-corridor/",
-      "date": "2025-12-09T07:57:35.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
