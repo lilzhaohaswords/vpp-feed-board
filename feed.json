@@ -1,6 +1,41 @@
 {
-  "ts": 1766498453555,
+  "ts": 1766502058805,
   "items": [
+    {
+      "title": "Financing secured for North Macedonia&#8217;s largest PV project",
+      "url": "https://www.pv-magazine.com/2025/12/23/financing-secured-for-north-macedonias-largest-pv-project/",
+      "date": "2025-12-23T14:19:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Masdar moves forward with 200 MW floating PV project in Malaysia",
+      "url": "https://www.pv-magazine.com/2025/12/23/masdar-moves-forward-with-200-mw-floating-pv-project-in-malaysia/",
+      "date": "2025-12-23T14:19:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Argentina inaugurates its first solar highway",
+      "url": "https://www.pv-magazine.com/2025/12/23/argentina-inaugurates-its-first-solar-highway/",
+      "date": "2025-12-23T14:05:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New Orleans approves US$30 million virtual power plant programme to support grid resilience",
+      "url": "https://www.energy-storage.news/new-orleans-approves-us30-million-virtual-power-plant-programme-to-support-grid-resilience/",
+      "date": "2025-12-23T14:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "How to navigate volatility in ERCOT: Ascend Analytics",
+      "url": "https://www.energy-storage.news/how-to-navigate-volatility-in-ercot-ascend-analytics/",
+      "date": "2025-12-23T14:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "European Energy secures approval for 1.1 GW of solar in Australia",
       "url": "https://www.pv-magazine.com/2025/12/23/european-energy-secures-approval-for-1-1-gw-of-solar-in-australia/",
@@ -184,31 +219,10 @@
       "bucket": "A"
     },
     {
-      "title": "Eni, FuturaSun set up startup for perovskite-silicon tandem module production",
-      "url": "https://www.pv-magazine.com/2025/12/22/eni-futurasun-set-up-startup-for-perovskite-silicon-tandem-module-production/",
-      "date": "2025-12-22T09:15:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Using horizontally connected salt caverns for compressed air storage",
-      "url": "https://www.pv-magazine.com/2025/12/22/using-horizontally-connected-salt-caverns-for-compressed-air-storage/",
-      "date": "2025-12-22T09:00:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Australian utility Flow Power closes financing on its first BESS project, in Victoria’s Latrobe Valley",
       "url": "https://www.energy-storage.news/australian-utility-flow-power-closes-financing-on-its-first-bess-project-in-victorias-latrobe-valley/",
       "date": "2025-12-22T08:47:44.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hungary to host 450 MW solar plant using back-contact modules",
-      "url": "https://www.pv-magazine.com/2025/12/22/hungary-to-host-450-mw-solar-plant-using-longi-back-contact-modules/",
-      "date": "2025-12-22T08:30:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "1.6GWh Melbourne Renewable Energy Hub battery storage system brought online in Australia",
       "url": "https://www.energy-storage.news/1-6gwh-melbourne-renewable-energy-hub-battery-storage-system-brought-online-in-australia/",
       "date": "2025-12-09T10:37:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UK: ‘Painful but necessary’ reforms see 153GW of battery storage projects cut from grid connection queue",
-      "url": "https://www.energy-storage.news/uk-painful-but-necessary-reforms-see-153gw-of-battery-storage-projects-cut-from-grid-connection-queue/",
-      "date": "2025-12-09T09:41:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Long-duration energy storage is non-negotiable for Europe&#8217;s energy transformation",
-      "url": "https://www.energy-storage.news/long-duration-energy-storage-is-non-negotiable-for-europes-energy-transformation/",
-      "date": "2025-12-09T09:22:48.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
