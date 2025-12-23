@@ -1,6 +1,13 @@
 {
-  "ts": 1766505655410,
+  "ts": 1766509823854,
   "items": [
+    {
+      "title": "Financing secured for 134 MW solar project in North Macedonia",
+      "url": "https://www.pv-magazine.com/2025/12/23/financing-secured-for-134-mw-solar-project-in-north-macedonia/",
+      "date": "2025-12-23T16:40:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Masdar signs PPA for 200 MW floating solar project in Malaysia",
       "url": "https://www.pv-magazine.com/2025/12/23/masdar-moves-forward-with-200-mw-floating-pv-project-in-malaysia/",
@@ -208,13 +215,6 @@
       "title": "Building resilience amid intensifying weather events",
       "url": "https://www.pv-magazine.com/2025/12/22/building-resilience-amid-intensifying-weather-events/",
       "date": "2025-12-22T10:00:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Eni, FuturaSun set up startup for perovskite-silicon tandem module production",
-      "url": "https://www.pv-magazine.com/2025/12/22/eni-futurasun-set-up-startup-for-perovskite-silicon-tandem-module-production/",
-      "date": "2025-12-22T09:15:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
