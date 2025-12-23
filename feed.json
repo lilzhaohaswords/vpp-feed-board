@@ -1,6 +1,27 @@
 {
-  "ts": 1766474024816,
+  "ts": 1766477626731,
   "items": [
+    {
+      "title": "Policy storms ahead, fire safety and data centres: Energy-Storage.news 2025 Guest Blog picks, Part 1",
+      "url": "https://www.energy-storage.news/policy-storms-ahead-fire-safety-and-data-centres-energy-storage-news-2025-guest-blog-picks-part-1/",
+      "date": "2025-12-23T08:03:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Off-grid floating PV-desalination system for hydrogen production",
+      "url": "https://www.pv-magazine.com/2025/12/23/off-grid-floating-pv-desalination-system-for-hydrogen-production/",
+      "date": "2025-12-23T08:00:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BNEF flags potential global solar slowdown in 2026 as China cools",
+      "url": "https://www.pv-magazine.com/2025/12/23/bnef-flags-potential-global-solar-slowdown-in-2026-as-china-cools/",
+      "date": "2025-12-23T07:45:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: CMB.Tech secures China green ammonia offtake",
       "url": "https://www.pv-magazine.com/2025/12/22/the-hydrogen-stream-worlds-largest-green-h2-project-to-start-operation-in-china-in-january-2026/",
@@ -191,24 +212,10 @@
       "bucket": "A"
     },
     {
-      "title": "Researchers find sodium-ion batteries using hard carbon anodes can intrinsically charge faster",
-      "url": "https://www.pv-magazine.com/2025/12/19/researchers-find-sodium-ion-batteries-using-hard-carbon-anodes-can-intrinsically-charge-faster/",
-      "date": "2025-12-19T10:30:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Egypt: AMEA Power secures IFC funds for ‘Africa’s largest single-site renewables and battery project’",
       "url": "https://www.energy-storage.news/egypt-amea-power-secures-ifc-funds-for-africas-largest-single-site-renewables-and-battery-project/",
       "date": "2025-12-19T10:24:02.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Engie to power Australian cricket matches with GreenPower",
-      "url": "https://www.pv-magazine.com/2025/12/19/engie-to-power-australian-cricket-matches-with-greenpower/",
-      "date": "2025-12-19T10:00:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Western Australia’s 500MWh vanadium flow battery initiative is a ‘pivotal moment’",
       "url": "https://www.energy-storage.news/western-australias-500mwh-vanadium-flow-battery-initiative-is-a-pivotal-moment/",
       "date": "2025-12-09T01:07:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Arizona county supervisors approve 400MWh BESS project near site of 2019 Surprise fire",
-      "url": "https://www.energy-storage.news/arizona-county-supervisors-approve-400mwh-bess-project-near-site-of-2019-surprise-fire/",
-      "date": "2025-12-08T16:39:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
