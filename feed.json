@@ -1,6 +1,20 @@
 {
-  "ts": 1766481232520,
+  "ts": 1766484061478,
   "items": [
+    {
+      "title": "Operational risk, optimisation, data, tolls and more: Battery Asset Management Summit Europe key takeaways",
+      "url": "https://www.energy-storage.news/operational-risk-optimisation-data-tolls-and-more-battery-asset-management-summit-europe-key-takeaways/",
+      "date": "2025-12-23T09:28:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Singapore team develops durable perovskite-silicon tandem solar cells",
+      "url": "https://www.pv-magazine.com/2025/12/23/singapore-team-develops-durable-perovskite-silicon-tandem-solar-cells/",
+      "date": "2025-12-23T09:15:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Aiko achieves 34.76% efficiency for 2-terminal perovskite-silicon tandem solar cell",
       "url": "https://www.pv-magazine.com/2025/12/23/aiko-achieves-34-76-efficiency-for-2-terminal-perovskite-silicon-tandem-solar-cell/",
@@ -194,13 +208,6 @@
       "title": "Awendio Solaris plans multi-gigawatt solar manufacturing hub in Canada",
       "url": "https://www.pv-magazine.com/2025/12/19/awendio-solaris-plans-multi-gigawatt-solar-manufacturing-hub-in-canada/",
       "date": "2025-12-19T15:30:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Slovak researchers predict PV inverter output without weather sensors",
-      "url": "https://www.pv-magazine.com/2025/12/19/pv-inverter-output-and-anomalies-predicted-without-environmental-sensors/",
-      "date": "2025-12-19T14:29:59.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Vena Energy signs BESS agreement with CATL for Indonesia-Singapore ‘renewable energy corridor’",
       "url": "https://www.energy-storage.news/vena-energy-signs-bess-agreement-with-catl-for-indonesia-singapore-renewable-energy-corridor/",
       "date": "2025-12-09T07:57:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Western Australia’s 500MWh vanadium flow battery initiative is a ‘pivotal moment’",
-      "url": "https://www.energy-storage.news/western-australias-500mwh-vanadium-flow-battery-initiative-is-a-pivotal-moment/",
-      "date": "2025-12-09T01:07:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
