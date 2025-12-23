@@ -1,6 +1,13 @@
 {
-  "ts": 1766496483611,
+  "ts": 1766498453555,
   "items": [
+    {
+      "title": "European Energy secures approval for 1.1 GW of solar in Australia",
+      "url": "https://www.pv-magazine.com/2025/12/23/european-energy-secures-approval-for-1-1-gw-of-solar-in-australia/",
+      "date": "2025-12-23T13:30:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "VIDEO: Discover how New York powers energy storage innovation",
       "url": "https://www.energy-storage.news/video-discover-how-new-york-powers-energy-storage-innovation/",
@@ -201,13 +208,6 @@
       "title": "Hungary to host 450 MW solar plant using back-contact modules",
       "url": "https://www.pv-magazine.com/2025/12/22/hungary-to-host-450-mw-solar-plant-using-longi-back-contact-modules/",
       "date": "2025-12-22T08:30:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Imaging tech to analyze sub-cells in tandem and triple junction PV devices",
-      "url": "https://www.pv-magazine.com/2025/12/22/imaging-tech-to-analyze-sub-cells-in-tandem-and-triple-junction-pv-devices/",
-      "date": "2025-12-22T08:00:34.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
