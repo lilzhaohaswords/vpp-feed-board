@@ -1,6 +1,13 @@
 {
-  "ts": 1766567588046,
+  "ts": 1766570448422,
   "items": [
+    {
+      "title": "European Energy switches on 148 MW of solar in Denmark",
+      "url": "https://www.pv-magazine.com/2025/12/24/european-energy-switches-on-148-mw-of-solar-in-denmark/",
+      "date": "2025-12-24T09:30:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "PV redox flow battery with 4.2% solar-to-electricity conversion efficiency",
       "url": "https://www.pv-magazine.com/2025/12/24/pv-redox-flow-battery-with-4-2-solar-to-electricity-conversion-efficiency/",
@@ -222,13 +229,6 @@
       "title": "Dutch regulator finds grid fees for rooftop solar are reasonable",
       "url": "https://www.pv-magazine.com/2025/12/22/dutch-regulator-finds-grid-fees-for-rooftop-solar-are-reasonable/",
       "date": "2025-12-22T15:14:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Emmvee starts production at 2.5 GW solar module line in India",
-      "url": "https://www.pv-magazine.com/2025/12/22/emmvee-starts-production-at-2-5-gw-solar-module-line-in-india/",
-      "date": "2025-12-22T15:06:40.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
