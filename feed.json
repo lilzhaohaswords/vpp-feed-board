@@ -1,6 +1,13 @@
 {
-  "ts": 1766733122163,
+  "ts": 1766736059195,
   "items": [
+    {
+      "title": "Sembcorp completes acquisition of 300 MW solar project in India",
+      "url": "https://www.pv-magazine.com/2025/12/26/sembcorp-completes-acquisition-of-300-mw-solar-project-in-india/",
+      "date": "2025-12-26T07:45:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Michigan utilities awarded financial damages for work performed on pumped hydro plant",
       "url": "https://www.energy-storage.news/michigan-utilities-awarded-financial-damages-for-work-performed-on-pumped-hydro-plant/",
@@ -237,13 +244,6 @@
       "url": "https://www.energy-storage.news/policy-storms-ahead-fire-safety-and-data-centres-energy-storage-news-2025-guest-blog-picks-part-1/",
       "date": "2025-12-23T08:03:36.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Off-grid floating PV-desalination system for hydrogen production",
-      "url": "https://www.pv-magazine.com/2025/12/23/off-grid-floating-pv-desalination-system-for-hydrogen-production/",
-      "date": "2025-12-23T08:00:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
