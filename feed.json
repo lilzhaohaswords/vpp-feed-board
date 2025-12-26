@@ -1,6 +1,13 @@
 {
-  "ts": 1766736059195,
+  "ts": 1766740258186,
   "items": [
+    {
+      "title": "Massachusetts awards 1.3 GW in first large-scale energy storage tender",
+      "url": "https://www.pv-magazine.com/2025/12/26/massachusetts-awards-1-3-gw-in-first-large-scale-energy-storage-tender/",
+      "date": "2025-12-26T08:30:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Sembcorp completes acquisition of 300 MW solar project in India",
       "url": "https://www.pv-magazine.com/2025/12/26/sembcorp-completes-acquisition-of-300-mw-solar-project-in-india/",
@@ -229,13 +236,6 @@
       "title": "Research shows vacuum melting is key to efficient silicon kerf recycling",
       "url": "https://www.pv-magazine.com/2025/12/23/how-to-recycle-silicon-kerf-powder-from-polysilicon-production/",
       "date": "2025-12-23T09:00:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar glare forces panel removal at Amsterdam Airport",
-      "url": "https://www.pv-magazine.com/2025/12/23/solar-glare-forces-partial-panel-removal-at-amsterdam-airport/",
-      "date": "2025-12-23T08:15:05.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
