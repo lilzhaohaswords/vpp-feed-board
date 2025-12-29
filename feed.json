@@ -1,6 +1,20 @@
 {
-  "ts": 1767002473581,
+  "ts": 1767006055676,
   "items": [
+    {
+      "title": "A year of insights: Energy-Storage.news webinars in 2025",
+      "url": "https://www.energy-storage.news/a-year-of-insights-energy-storage-news-webinars-in-2025/",
+      "date": "2025-12-29T10:24:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Poland projected to reach 59.1 GW of solar by 2035",
+      "url": "https://www.pv-magazine.com/2025/12/29/poland-projected-to-reach-59-1-gw-of-solar-by-2035/",
+      "date": "2025-12-29T10:21:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Global solar generation topped 540 GW in April, says Solcast",
       "url": "https://www.pv-magazine.com/2025/12/29/global-solar-generation-topped-540-gw-in-april-says-solcast-analysis/",
@@ -201,13 +215,6 @@
       "title": "Financing secured for 134 MW solar project in North Macedonia",
       "url": "https://www.pv-magazine.com/2025/12/23/financing-secured-for-134-mw-solar-project-in-north-macedonia/",
       "date": "2025-12-23T16:40:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Masdar signs PPA for 200 MW floating solar project in Malaysia",
-      "url": "https://www.pv-magazine.com/2025/12/23/masdar-moves-forward-with-200-mw-floating-pv-project-in-malaysia/",
-      "date": "2025-12-23T14:19:03.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Clearway negotiates 560MWh tolling agreements with California IOU SDG&#038;E, sells BESS to yieldco",
       "url": "https://www.energy-storage.news/clearway-negotiates-560mwh-tolling-agreements-with-california-iou-sdge-sells-bess-to-yieldco/",
       "date": "2025-12-10T11:42:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Submissions rebound in UK BESS development market in November",
-      "url": "https://www.energy-storage.news/submissions-rebound-in-uk-bess-development-market-in-november/",
-      "date": "2025-12-10T09:58:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
