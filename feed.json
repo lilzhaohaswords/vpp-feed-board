@@ -1,6 +1,20 @@
 {
-  "ts": 1767088858883,
+  "ts": 1767092448353,
   "items": [
+    {
+      "title": "Metlen completes sale of 1.6GWh Chile solar-plus-storage portfolio to Glenfarne Group",
+      "url": "https://www.energy-storage.news/metlen-completes-sale-of-1-6gwh-chile-solar-plus-storage-portfolio-to-glenfarne-group/",
+      "date": "2025-12-30T10:59:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "India tenders 1 GW of pumped storage to bolster grid-scale energy storage",
+      "url": "https://www.pv-magazine.com/2025/12/30/india-tenders-1-gw-of-pumped-storage-to-bolster-grid-scale-energy-storage/",
+      "date": "2025-12-30T10:00:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "PV industry urges New York City to double solar target, add 2 GW of storage",
       "url": "https://www.pv-magazine.com/2025/12/30/pv-industry-urges-new-york-city-to-double-solar-target-add-2-gw-of-storage/",
@@ -194,13 +208,6 @@
       "title": "PV redox flow battery with 4.2% solar-to-electricity conversion efficiency",
       "url": "https://www.pv-magazine.com/2025/12/24/pv-redox-flow-battery-with-4-2-solar-to-electricity-conversion-efficiency/",
       "date": "2025-12-24T09:00:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Korean researchers build tin monosulfide solar cell with 4.81% efficiency",
-      "url": "https://www.pv-magazine.com/2025/12/24/korean-researchers-build-tin-monosulfide-solar-cell-with-4-81-efficiency/",
-      "date": "2025-12-24T08:59:08.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "ACWA Power, Scatec sign gigawatt-scale MENA solar-plus-storage project deals",
       "url": "https://www.energy-storage.news/acwa-power-scatec-sign-gigawatt-scale-mena-solar-plus-storage-project-deals/",
       "date": "2025-12-11T05:57:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NextEra signs 2.5GW of renewable energy agreements with Meta for projects across US",
-      "url": "https://www.energy-storage.news/nextera-signs-2-5gw-of-renewable-energy-agreements-with-meta-for-projects-across-us/",
-      "date": "2025-12-10T13:15:58.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
