@@ -1,6 +1,13 @@
 {
-  "ts": 1767101280321,
+  "ts": 1767103277139,
   "items": [
+    {
+      "title": "Growing agri-PV tomatoes while producing hydrogen for smart windows",
+      "url": "https://www.pv-magazine.com/2025/12/30/growing-agri-pv-tomatoes-while-producing-hydrogen-for-smart-windows/",
+      "date": "2025-12-30T14:00:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Taiwan on track to deploy 31.2 GW of solar by 2035",
       "url": "https://www.pv-magazine.com/2025/12/30/taiwan-on-track-to-deploy-31-2-gw-of-solar-by-2035/",
@@ -201,13 +208,6 @@
       "title": "Romania’s Electrica opens two solar tenders",
       "url": "https://www.pv-magazine.com/2025/12/24/romanias-electrica-opens-two-solar-tenders/",
       "date": "2025-12-24T11:30:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Korean bank backs Guam’s largest solar project",
-      "url": "https://www.pv-magazine.com/2025/12/24/korean-bank-backs-guams-largest-solar-project/",
-      "date": "2025-12-24T10:30:32.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
