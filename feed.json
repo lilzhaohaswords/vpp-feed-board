@@ -1,6 +1,20 @@
 {
-  "ts": 1767183401702,
+  "ts": 1767187505644,
   "items": [
+    {
+      "title": "New digital twin for floating PV application uses artificial intelligence",
+      "url": "https://www.pv-magazine.com/2025/12/31/new-digital-twin-for-floating-pv-application-uses-artificial-intelligence/",
+      "date": "2025-12-31T13:00:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "For thermal batteries, continuous delivery matters more than peak temperature",
+      "url": "https://www.energy-storage.news/for-thermal-batteries-continuous-delivery-matters-more-than-peak-temperature/",
+      "date": "2025-12-31T12:28:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Bangladesh seeking contractors for 220 MW solar project",
       "url": "https://www.pv-magazine.com/2025/12/31/bangladesh-seeking-contractors-for-220-mw-solar-project/",
@@ -208,13 +222,6 @@
       "title": "Leecell develops organic PV for indoor, outdoor use",
       "url": "https://www.pv-magazine.com/2025/12/29/leecell-develops-organic-pv-for-indoor-outdoor-use/",
       "date": "2025-12-29T08:00:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US solar installer adapts business model as policy support shifts",
-      "url": "https://www.pv-magazine.com/2025/12/29/us-solar-installer-adapts-business-model-as-policy-support-shifts/",
-      "date": "2025-12-29T07:46:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "How distributed energy resources could combat soaring electricity costs in the US",
       "url": "https://www.energy-storage.news/how-distributed-energy-resources-could-combat-soaring-electricity-costs-in-the-us/",
       "date": "2025-12-11T15:16:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US BESS deals: Samsung SDI&#8217;s first LFP contract, Trina&#8217;s 1GWh+ agreement with Lightshift",
-      "url": "https://www.energy-storage.news/us-bess-deals-samsung-sdis-first-lfp-contract-trinas-1gwh-agreement-with-lightshift/",
-      "date": "2025-12-11T12:20:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
