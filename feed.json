@@ -1,6 +1,27 @@
 {
-  "ts": 1767178853589,
+  "ts": 1767183401702,
   "items": [
+    {
+      "title": "Bangladesh seeking contractors for 220 MW solar project",
+      "url": "https://www.pv-magazine.com/2025/12/31/bangladesh-seeking-contractors-for-220-mw-solar-project/",
+      "date": "2025-12-31T12:00:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Massachusetts selects 1.2GW of BESS through RFP",
+      "url": "https://www.energy-storage.news/massachusetts-selects-1-2gw-of-bess-through-rfp/",
+      "date": "2025-12-31T11:58:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Year in Review: Jinko on leveraging a global solar brand to compete in &#8216;transformational&#8217; 2025",
+      "url": "https://www.energy-storage.news/year-in-review-jinko-on-leveraging-a-global-solar-brand-to-compete-in-transformational-2025/",
+      "date": "2025-12-31T11:56:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Utilities risk penalizing efficiency by shifting to fixed charges",
       "url": "https://www.pv-magazine.com/2025/12/31/utilities-risk-penalizing-efficiency-by-shifting-to-fixed-charges/",
@@ -194,13 +215,6 @@
       "title": "US solar installer adapts business model as policy support shifts",
       "url": "https://www.pv-magazine.com/2025/12/29/us-solar-installer-adapts-business-model-as-policy-support-shifts/",
       "date": "2025-12-29T07:46:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Carmaker uses repurposed EV batteries to help power factory in Australia",
-      "url": "https://www.pv-magazine.com/2025/12/26/carmaker-uses-repurposed-ev-batteries-to-help-power-factory-in-australia/",
-      "date": "2025-12-26T16:09:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "US BESS deals: Samsung SDI&#8217;s first LFP contract, Trina&#8217;s 1GWh+ agreement with Lightshift",
       "url": "https://www.energy-storage.news/us-bess-deals-samsung-sdis-first-lfp-contract-trinas-1gwh-agreement-with-lightshift/",
       "date": "2025-12-11T12:20:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany firmly enters large-scale BESS era with EnBW, Vattenfall and Enertrag project news",
-      "url": "https://www.energy-storage.news/germany-firmly-enters-large-scale-bess-era-with-enbw-vattenfall-and-enertrag-project-news/",
-      "date": "2025-12-11T11:37:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery storage assets in Europe could see 3% ROI uplift with 15-minute trading, Rystad says",
-      "url": "https://www.energy-storage.news/battery-storage-assets-in-europe-could-see-3-roi-uplift-with-15-minute-trading-rystad-says/",
-      "date": "2025-12-11T09:31:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
