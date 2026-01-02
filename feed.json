@@ -1,6 +1,13 @@
 {
-  "ts": 1767345185072,
+  "ts": 1767348043604,
   "items": [
+    {
+      "title": "Battery technology outlook for 2026 sharpens beyond lithium-ion",
+      "url": "https://www.pv-magazine.com/2026/01/02/battery-technology-outlook-for-2026-sharpens-beyond-lithium-ion/",
+      "date": "2026-01-02T09:15:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Beyond Technology: Reshaping the gender equality narrative for the energy transition’s Success",
       "url": "https://www.pv-magazine.com/2026/01/02/beyond-technology-reshaping-the-gender-equality-narrative-for-the-energy-transitions-success/",
@@ -208,13 +215,6 @@
       "title": "Installers misread what homeowners want from home batteries",
       "url": "https://www.pv-magazine.com/2025/12/30/installers-misread-what-homeowners-want-from-home-batteries/",
       "date": "2025-12-30T07:45:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China commissions world’s largest 1 GW open-sea offshore solar project",
-      "url": "https://www.pv-magazine.com/2025/12/29/china-commissions-worlds-largest-1-gw-open-sea-offshore-solar-project/",
-      "date": "2025-12-29T16:20:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
