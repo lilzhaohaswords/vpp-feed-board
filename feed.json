@@ -1,6 +1,20 @@
 {
-  "ts": 1767348043604,
+  "ts": 1767351648820,
   "items": [
+    {
+      "title": "Voltalia constructing hybrid renewables-plus-storage ‘cluster’ in Uzbekistan",
+      "url": "https://www.energy-storage.news/voltalia-constructing-hybrid-renewables-plus-storage-cluster-in-uzbekistan/",
+      "date": "2026-01-02T10:21:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "JA Solar, Trina Solar tie for top spot in Wood Mackenzie ranking",
+      "url": "https://www.pv-magazine.com/2026/01/02/ja-solar-trina-solar-tie-for-top-spot-in-wood-mackenzie-ranking/",
+      "date": "2026-01-02T10:00:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Battery technology outlook for 2026 sharpens beyond lithium-ion",
       "url": "https://www.pv-magazine.com/2026/01/02/battery-technology-outlook-for-2026-sharpens-beyond-lithium-ion/",
@@ -208,13 +222,6 @@
       "title": "Solar to occupy no more than 0.6% of UK farmland by 2030",
       "url": "https://www.pv-magazine.com/2025/12/30/solar-to-occupy-no-more-than-0-6-of-uk-farmland-by-2030/",
       "date": "2025-12-30T08:30:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Installers misread what homeowners want from home batteries",
-      "url": "https://www.pv-magazine.com/2025/12/30/installers-misread-what-homeowners-want-from-home-batteries/",
-      "date": "2025-12-30T07:45:11.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Malaysia’s first large-scale battery storage system inaugurated in Sabah, Borneo",
       "url": "https://www.energy-storage.news/malaysias-first-large-scale-battery-storage-system-inaugurated-in-sabah-borneo/",
       "date": "2025-12-12T08:32:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Origin selects Wärtsilä for expansion of Australia’s largest approved BESS by capacity at Eraring",
-      "url": "https://www.energy-storage.news/origin-selects-wartsila-for-expansion-of-australias-largest-approved-bess-by-capacity-at-eraring/",
-      "date": "2025-12-12T04:43:35.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
