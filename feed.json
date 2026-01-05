@@ -1,6 +1,27 @@
 {
-  "ts": 1767619959868,
+  "ts": 1767622359680,
   "items": [
+    {
+      "title": "Singapore forecast to reach 5.3 GW of solar by 2035",
+      "url": "https://www.pv-magazine.com/2026/01/05/singapore-forecast-to-reach-5-3-gw-of-solar-by-2035/",
+      "date": "2026-01-05T14:00:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Google acquires data centre and energy developer Intersect for US$4.75 billion",
+      "url": "https://www.energy-storage.news/google-acquires-data-centre-and-energy-developer-intersect-for-us4-75-billion/",
+      "date": "2026-01-05T13:58:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Engie asks CEC to pause review of 1GWh Compass Energy Storage project in order to consider alternative sites",
+      "url": "https://www.energy-storage.news/engie-asks-cec-to-pause-review-of-1gwh-compass-energy-storage-project-in-order-to-consider-alternative-sites/",
+      "date": "2026-01-05T13:39:05.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "New research sheds light on defect regions in perovskite solar films",
       "url": "https://www.pv-magazine.com/2026/01/05/new-research-sheds-light-on-defect-regions-in-perovskite-solar-films/",
@@ -194,13 +215,6 @@
       "title": "US market on course to hit 737.8 GW of solar by 2035",
       "url": "https://www.pv-magazine.com/2025/12/31/u-s-on-course-to-reach-737-8-gw-of-solar-by-2035/",
       "date": "2025-12-31T16:40:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China wafer leaders lift quotes as 2026 module prices may hit CNY 1/W",
-      "url": "https://www.pv-magazine.com/2025/12/31/china-wafer-leaders-lift-quotes-as-2026-module-prices-may-hit-cny-1-w/",
-      "date": "2025-12-31T16:00:59.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Single 100MW BESS outage could cause a US$1.2 million monthly loss, cybersecurity report finds",
       "url": "https://www.energy-storage.news/single-100mw-bess-outage-could-cause-a-us1-2-million-monthly-loss-cybersecurity-report-finds/",
       "date": "2025-12-15T11:08:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Korea Power Exchange to announce winners of 540MW/3,240MWh energy storage auction in February",
-      "url": "https://www.energy-storage.news/korea-power-exchange-to-announce-winners-of-540mw-3240mwh-energy-storage-auction-in-february/",
-      "date": "2025-12-15T06:06:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Poland shortlists energy storage projects for €1 billion in grants",
-      "url": "https://www.energy-storage.news/poland-shortlists-energy-storage-projects-for-e1-billion-in-grants/",
-      "date": "2025-12-12T11:18:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
