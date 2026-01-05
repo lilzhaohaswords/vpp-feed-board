@@ -1,6 +1,13 @@
 {
-  "ts": 1767607930740,
+  "ts": 1767611352139,
   "items": [
+    {
+      "title": "France, Germany, Italy break solar records in December",
+      "url": "https://www.pv-magazine.com/2026/01/05/france-germany-italy-break-solar-records-in-december/",
+      "date": "2026-01-05T10:59:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Greece struggling to connect grid-scale battery storage projects",
       "url": "https://www.pv-magazine.com/2026/01/05/greece-struggling-to-connect-grid-scale-battery-storage-projects/",
@@ -195,13 +202,6 @@
       "url": "https://www.energy-storage.news/for-thermal-batteries-continuous-delivery-matters-more-than-peak-temperature/",
       "date": "2025-12-31T12:28:15.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Bangladesh seeking contractors for 220 MW solar project",
-      "url": "https://www.pv-magazine.com/2025/12/31/bangladesh-seeking-contractors-for-220-mw-solar-project/",
-      "date": "2025-12-31T12:00:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
