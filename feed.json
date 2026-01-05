@@ -1,6 +1,27 @@
 {
-  "ts": 1767604734200,
+  "ts": 1767607930740,
   "items": [
+    {
+      "title": "Greece struggling to connect grid-scale battery storage projects",
+      "url": "https://www.pv-magazine.com/2026/01/05/greece-struggling-to-connect-grid-scale-battery-storage-projects/",
+      "date": "2026-01-05T09:34:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China strengthens intellectual property protection in solar industry",
+      "url": "https://www.pv-magazine.com/2026/01/05/china-strengthens-intellectual-property-protection-in-solar-industry/",
+      "date": "2026-01-05T09:30:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India: KPI Group, POWERGRID win VGF-supported BESS tenders in Gujarat, Andhra Pradesh",
+      "url": "https://www.energy-storage.news/india-kpi-group-powergrid-win-vgf-supported-bess-tenders-in-gujarat-andhra-pradesh/",
+      "date": "2026-01-05T09:28:09.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "California water district plans up to 21 GW of solar on fallowed farmland",
       "url": "https://www.pv-magazine.com/2026/01/05/california-water-district-plans-up-to-21-gw-of-solar-on-fallowed-farmland/",
@@ -195,20 +216,6 @@
       "url": "https://www.energy-storage.news/year-in-review-jinko-on-leveraging-a-global-solar-brand-to-compete-in-transformational-2025/",
       "date": "2025-12-31T11:56:36.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Utilities risk penalizing efficiency by shifting to fixed charges",
-      "url": "https://www.pv-magazine.com/2025/12/31/utilities-risk-penalizing-efficiency-by-shifting-to-fixed-charges/",
-      "date": "2025-12-31T09:30:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Waaree Energies tops 20 GW as India’s largest ALMM-approved PV maker",
-      "url": "https://www.pv-magazine.com/2025/12/31/waaree-energies-tops-20-gw-as-indias-largest-almm-approved-solar-manufacturer/",
-      "date": "2025-12-31T08:34:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "System integrator Guoxia Technology to go Public in Hong Kong on 16 December",
       "url": "https://www.energy-storage.news/system-integrator-guoxia-technology-to-go-public-in-hong-kong-on-16-december/",
       "date": "2025-12-12T09:24:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Malaysia’s first large-scale battery storage system inaugurated in Sabah, Borneo",
-      "url": "https://www.energy-storage.news/malaysias-first-large-scale-battery-storage-system-inaugurated-in-sabah-borneo/",
-      "date": "2025-12-12T08:32:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
