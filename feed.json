@@ -1,6 +1,27 @@
 {
-  "ts": 1767600057198,
+  "ts": 1767604734200,
   "items": [
+    {
+      "title": "California water district plans up to 21 GW of solar on fallowed farmland",
+      "url": "https://www.pv-magazine.com/2026/01/05/california-water-district-plans-up-to-21-gw-of-solar-on-fallowed-farmland/",
+      "date": "2026-01-05T09:00:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Researchers propose new taxonomy for agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/01/05/researchers-propose-new-taxonomy-for-agrivoltaics/",
+      "date": "2026-01-05T08:55:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spain allocates funding for 9.4 GWh of large-scale storage projects",
+      "url": "https://www.pv-magazine.com/2026/01/05/spain-allocates-funding-for-9-4-gwh-of-large-scale-storage-projects/",
+      "date": "2026-01-05T08:15:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia rooftop solar installs rise as households shift to larger systems",
       "url": "https://www.pv-magazine.com/2026/01/05/australia-rooftop-solar-installs-rise-as-households-shift-to-larger-systems/",
@@ -187,27 +208,6 @@
       "title": "Waaree Energies tops 20 GW as India’s largest ALMM-approved PV maker",
       "url": "https://www.pv-magazine.com/2025/12/31/waaree-energies-tops-20-gw-as-indias-largest-almm-approved-solar-manufacturer/",
       "date": "2025-12-31T08:34:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US state orders utility to enable flexible grid connections for community solar",
-      "url": "https://www.pv-magazine.com/2025/12/31/us-state-orders-utility-to-enable-flexible-grid-connections-for-community-solar/",
-      "date": "2025-12-31T07:42:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tata Power Renewable completes 1 GW DCR-compliant PV project for SJVN",
-      "url": "https://www.pv-magazine.com/2025/12/30/tata-power-renewable-completes-1-gw-dcr-compliant-pv-project-for-sjvn/",
-      "date": "2025-12-30T16:04:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India mandates 20% domestic content in battery storage projects",
-      "url": "https://www.pv-magazine.com/2025/12/30/india-mandates-20-domestic-content-in-battery-storage-projects/",
-      "date": "2025-12-30T16:00:13.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
