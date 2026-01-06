@@ -1,6 +1,27 @@
 {
-  "ts": 1767697250834,
+  "ts": 1767701852854,
   "items": [
+    {
+      "title": "Spain opens €90 million funding round for 7 GWh of pumped hydro storage",
+      "url": "https://www.pv-magazine.com/2026/01/06/spain-opens-e90-million-funding-round-for-7-gwh-of-pumped-hydro-storage/",
+      "date": "2026-01-06T12:12:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Utilities SRP and ED3 seeking offtake deal for esVolta&#8217;s newly-approved 3.2GWh Arizona BESS",
+      "url": "https://www.energy-storage.news/utilities-srp-and-ed3-seeking-offtake-deal-for-esvoltas-newly-approved-3-2gwh-arizona-bess/",
+      "date": "2026-01-06T12:12:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "2025 concludes with 1.5GWh+ of European BESS project completions, financing and supply deals",
+      "url": "https://www.energy-storage.news/2025-concludes-with-1-5gwh-of-european-bess-project-completions-financing-and-supply-deals/",
+      "date": "2026-01-06T11:49:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "US state repurposes wastewater land for 250 MW solar plant",
       "url": "https://www.pv-magazine.com/2026/01/06/us-state-repurposes-wastewater-land-for-250-mw-solar-plant/",
@@ -9,7 +30,7 @@
       "bucket": "A"
     },
     {
-      "title": "Fox ESS rolls out stackable battery system in Australia",
+      "title": "Fox ESS rolls out stackable battery system",
       "url": "https://www.pv-magazine.com/2026/01/06/fox-ess-rolls-out-stackable-battery-system-in-australia/",
       "date": "2026-01-06T08:30:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -237,13 +258,6 @@
       "url": "https://www.energy-storage.news/voltalia-constructing-hybrid-renewables-plus-storage-cluster-in-uzbekistan/",
       "date": "2026-01-02T10:21:06.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "JA Solar, Trina Solar tie for top spot in Wood Mackenzie ranking",
-      "url": "https://www.pv-magazine.com/2026/01/02/ja-solar-trina-solar-tie-for-top-spot-in-wood-mackenzie-ranking/",
-      "date": "2026-01-02T10:00:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Georgia Power agrees electric bill deal with regulators to enable 9.9GW resource addition",
       "url": "https://www.energy-storage.news/georgia-power-agrees-electric-bill-deal-with-regulators-to-enable-9-9gw-resource-addition/",
       "date": "2025-12-16T13:03:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Turning data centres from a &#8216;potential liability to a grid asset&#8217;: Calibrant on its first-of-a-kind BESS with Aligned",
-      "url": "https://www.energy-storage.news/turning-data-centres-from-a-potential-liability-to-a-grid-asset-calibrant-on-its-first-of-a-kind-bess-with-aligned/",
-      "date": "2025-12-16T12:31:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hithium launches 8-hour dedicated battery cell and BESS, sodium-lithium hybrid data centre solution",
-      "url": "https://www.energy-storage.news/hithium-launches-8-hour-dedicated-battery-cell-and-bess-sodium-lithium-hybrid-data-centre-solution/",
-      "date": "2025-12-16T11:29:39.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
