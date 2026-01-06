@@ -1,6 +1,20 @@
 {
-  "ts": 1767701852854,
+  "ts": 1767706140357,
   "items": [
+    {
+      "title": "Germany adds 17.5 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/01/06/germany-adds-17-5-gw-of-solar-in-2025/",
+      "date": "2026-01-06T13:14:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SolarMax secures two EPC agreements for 400MWh total BESS capacity in Puerto Rico",
+      "url": "https://www.energy-storage.news/solarmax-secures-two-epc-agreements-for-400mwh-total-bess-capacity-in-puerto-rico/",
+      "date": "2026-01-06T12:25:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Spain opens €90 million funding round for 7 GWh of pumped hydro storage",
       "url": "https://www.pv-magazine.com/2026/01/06/spain-opens-e90-million-funding-round-for-7-gwh-of-pumped-hydro-storage/",
@@ -243,13 +257,6 @@
       "title": "UK study finds azimuthal trackers boost floating PV performance",
       "url": "https://www.pv-magazine.com/2026/01/02/uk-study-finds-azimuthal-trackers-boost-floating-pv-performance/",
       "date": "2026-01-02T13:30:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "LiTime launches 320 Ah LiFePO4 battery with 4,096 Wh capacity",
-      "url": "https://www.pv-magazine.com/2026/01/02/litime-launches-320-ah-lifepo4-battery-with-4096-wh-capacity/",
-      "date": "2026-01-02T12:32:23.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "US ROUNDUP: Shell immersion cooling partnership, PNNL begins utility-scale battery tests, ON.Energy in 5GW transformer deal",
       "url": "https://www.energy-storage.news/us-roundup-shell-immersion-cooling-partnership-pnnl-begins-utility-scale-battery-tests-on-energy-in-5gw-transformer-deal/",
       "date": "2025-12-16T13:12:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Georgia Power agrees electric bill deal with regulators to enable 9.9GW resource addition",
-      "url": "https://www.energy-storage.news/georgia-power-agrees-electric-bill-deal-with-regulators-to-enable-9-9gw-resource-addition/",
-      "date": "2025-12-16T13:03:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
