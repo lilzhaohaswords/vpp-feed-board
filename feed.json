@@ -1,6 +1,20 @@
 {
-  "ts": 1767683718349,
+  "ts": 1767686451808,
   "items": [
+    {
+      "title": "New process achieves 97% silver recovery from end-of-life solar panels",
+      "url": "https://www.pv-magazine.com/2026/01/06/new-process-achieves-97-silver-recovery-from-end-of-life-solar-panels/",
+      "date": "2026-01-06T07:45:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India’s biggest solar manufacturer Waaree raises funds toward 20GWh energy storage factory",
+      "url": "https://www.energy-storage.news/indias-biggest-solar-manufacturer-waaree-raises-funds-toward-20gwh-energy-storage-factory/",
+      "date": "2026-01-06T07:43:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "EPFL researchers enhance perovskite solar cell performance via rubidium",
       "url": "https://www.pv-magazine.com/2026/01/06/epfl-researchers-enhance-perovskite-solar-cell-performance-via-rubidium/",
@@ -229,13 +243,6 @@
       "title": "Beyond Technology: Reshaping the gender equality narrative for the energy transition’s Success",
       "url": "https://www.pv-magazine.com/2026/01/02/beyond-technology-reshaping-the-gender-equality-narrative-for-the-energy-transitions-success/",
       "date": "2026-01-02T09:10:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Early Solar forecast: First half 2026 solar outlook",
-      "url": "https://www.pv-magazine.com/2026/01/02/early-solar-forecast-first-half-2026-solar-outlook/",
-      "date": "2026-01-02T08:51:29.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Hithium launches 8-hour dedicated battery cell and BESS, sodium-lithium hybrid data centre solution",
       "url": "https://www.energy-storage.news/hithium-launches-8-hour-dedicated-battery-cell-and-bess-sodium-lithium-hybrid-data-centre-solution/",
       "date": "2025-12-16T11:29:39.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery storage system prices continue to fall sharply, BNEF and Ember reports find",
-      "url": "https://www.energy-storage.news/battery-storage-system-prices-continue-to-fall-sharply-bnef-and-ember-reports-find/",
-      "date": "2025-12-16T10:12:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
