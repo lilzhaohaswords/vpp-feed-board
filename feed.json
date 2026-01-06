@@ -1,6 +1,20 @@
 {
-  "ts": 1767680127704,
+  "ts": 1767683718349,
   "items": [
+    {
+      "title": "EPFL researchers enhance perovskite solar cell performance via rubidium",
+      "url": "https://www.pv-magazine.com/2026/01/06/epfl-researchers-enhance-perovskite-solar-cell-performance-via-rubidium/",
+      "date": "2026-01-06T06:52:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "ML System unveils solar facade panels, roof-integrated PV tiles",
+      "url": "https://www.pv-magazine.com/2026/01/06/ml-system-unveils-solar-facade-panels-roof-integrated-pv-tiles/",
+      "date": "2026-01-06T06:42:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "AER: 244 community battery storage systems now connected across Australia",
       "url": "https://www.energy-storage.news/aer-244-community-battery-storage-systems-now-connected-across-australia/",
@@ -230,20 +244,6 @@
       "url": "https://www.energy-storage.news/india-introduces-20-domestic-content-rule-for-viability-gap-funding-of-battery-storage/",
       "date": "2026-01-02T08:32:44.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Adani Green Energy commissions 307.4 MW of renewables in India",
-      "url": "https://www.pv-magazine.com/2026/01/02/adani-green-energy-commissions-307-4-mw-of-renewables-in-india/",
-      "date": "2026-01-02T08:28:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK solar on track for record CfD deployment in 2026",
-      "url": "https://www.pv-magazine.com/2025/12/31/uk-solar-on-track-for-record-cfd-deployment-in-2026/",
-      "date": "2025-12-31T16:50:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
