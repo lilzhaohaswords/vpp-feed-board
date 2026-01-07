@@ -1,6 +1,27 @@
 {
-  "ts": 1767792648098,
+  "ts": 1767795127018,
   "items": [
+    {
+      "title": "IPO updates from Chinese firms: EVE Energy re-files for HKEX, Fox ESS updates prospectus",
+      "url": "https://www.energy-storage.news/ipo-updates-from-chinese-firms-eve-energy-re-files-for-hkex-fox-ess-updates-prospectus/",
+      "date": "2026-01-07T14:08:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "CMBlu positions organic flow batteries as lithium alternative for US hyperscaler demand",
+      "url": "https://www.energy-storage.news/cmblu-positions-organic-flow-batteries-as-lithium-alternative-for-us-hyperscaler-demand/",
+      "date": "2026-01-07T13:49:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "French startup offers on-site solar module repair solution",
+      "url": "https://www.pv-magazine.com/2026/01/07/french-startup-offers-on-site-solar-module-repair-solution/",
+      "date": "2026-01-07T13:46:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Saudi Arabia reveals qualified bidders for 3.1 GW solar auction",
       "url": "https://www.pv-magazine.com/2026/01/07/saudi-arabia-reveals-qualified-bidders-for-3-1-gw-solar-auction/",
@@ -254,13 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "Huawei, Sungrow lead Wood Mackenzie’s inverter market ranking",
-      "url": "https://www.pv-magazine.com/2026/01/05/huawei-sungrow-lead-wood-mackenzies-solar-inverter-market-ranking/",
-      "date": "2026-01-05T12:00:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Zelestra&#8217;s solar-plus-storage Spain offtake deal is &#8216;PPA 2.0&#8217;, firm says",
       "url": "https://www.energy-storage.news/zelestras-solar-plus-storage-spain-offtake-deal-is-ppa-2-0-firm-says/",
       "date": "2026-01-05T11:08:58.000Z",
@@ -509,20 +523,6 @@
       "title": "How thermal energy storage (TES) makes steam from renewables economically viable",
       "url": "https://www.energy-storage.news/how-thermal-energy-storage-tes-makes-steam-from-renewables-economically-viable/",
       "date": "2025-12-17T13:47:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European BESS: 800MW of project awards, M&#038;A and financing announced across continent",
-      "url": "https://www.energy-storage.news/european-bess-800mw-of-project-awards-ma-and-financing-announced-across-continent/",
-      "date": "2025-12-17T11:57:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Akuo Energy, Voltalia kick off projects in French overseas territories New Caledonia, French Guiana",
-      "url": "https://www.energy-storage.news/akuo-energy-voltalia-kick-off-projects-in-french-overseas-territories-new-caledonia-french-guiana/",
-      "date": "2025-12-17T11:46:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
