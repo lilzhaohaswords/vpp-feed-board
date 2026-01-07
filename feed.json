@@ -1,6 +1,27 @@
 {
-  "ts": 1767795127018,
+  "ts": 1767798691477,
   "items": [
+    {
+      "title": "ROUNDUP: Texas BESS updates from SolarMax, Energy Vault, Engie, and Spearmint",
+      "url": "https://www.energy-storage.news/roundup-texas-bess-updates-from-solarmax-energy-vault-engie-and-spearmint/",
+      "date": "2026-01-07T15:00:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Battery storage fire in Upstate New York involved unauthorised system, mayor says",
+      "url": "https://www.energy-storage.news/battery-storage-fire-in-upstate-new-york-involved-unauthorised-system-mayor-says/",
+      "date": "2026-01-07T14:51:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New European solid-state battery business targets commercial production",
+      "url": "https://www.pv-magazine.com/2026/01/07/new-european-solid-state-battery-business-targets-commercial-production/",
+      "date": "2026-01-07T14:24:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "IPO updates from Chinese firms: EVE Energy re-files for HKEX, Fox ESS updates prospectus",
       "url": "https://www.energy-storage.news/ipo-updates-from-chinese-firms-eve-energy-re-files-for-hkex-fox-ess-updates-prospectus/",
@@ -268,13 +289,6 @@
       "bucket": "A"
     },
     {
-      "title": "New research sheds light on defect regions in perovskite solar films",
-      "url": "https://www.pv-magazine.com/2026/01/05/new-research-sheds-light-on-defect-regions-in-perovskite-solar-films/",
-      "date": "2026-01-05T12:14:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Zelestra&#8217;s solar-plus-storage Spain offtake deal is &#8216;PPA 2.0&#8217;, firm says",
       "url": "https://www.energy-storage.news/zelestras-solar-plus-storage-spain-offtake-deal-is-ppa-2-0-firm-says/",
       "date": "2026-01-05T11:08:58.000Z",
@@ -509,20 +523,6 @@
       "title": "ERCOT BESS revenue &#8216;roller coaster&#8217; is a feature, not a bug",
       "url": "https://www.energy-storage.news/ercot-bess-revenue-roller-coaster-is-a-feature-not-a-bug/",
       "date": "2025-12-17T14:51:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US energy storage installations in 2025 have already surpassed last year&#8217;s total: Wood Mac",
-      "url": "https://www.energy-storage.news/us-energy-storage-installations-in-2025-have-already-surpassed-last-years-total-wood-mac/",
-      "date": "2025-12-17T14:05:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How thermal energy storage (TES) makes steam from renewables economically viable",
-      "url": "https://www.energy-storage.news/how-thermal-energy-storage-tes-makes-steam-from-renewables-economically-viable/",
-      "date": "2025-12-17T13:47:57.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
