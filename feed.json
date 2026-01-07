@@ -1,6 +1,20 @@
 {
-  "ts": 1767754206582,
+  "ts": 1767758156162,
   "items": [
+    {
+      "title": "Western Australia prioritises long-duration energy storage in latest clean energy funding round",
+      "url": "https://www.energy-storage.news/western-australia-prioritises-long-duration-energy-storage-in-latest-clean-energy-funding-round/",
+      "date": "2026-01-07T02:54:05.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia&#8217;s 1,770MWh Eraring Battery 1 commences commercial operations",
+      "url": "https://www.energy-storage.news/australias-1770mwh-eraring-battery-1-commences-commercial-operations/",
+      "date": "2026-01-07T02:51:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Japanese companies to build world’s largest liquefied hydrogen carrier",
       "url": "https://www.pv-magazine.com/2026/01/06/japanese-companies-to-build-worlds-largest-liquefied-hydrogen-carrier/",
@@ -509,20 +523,6 @@
       "title": "Akuo Energy, Voltalia kick off projects in French overseas territories New Caledonia, French Guiana",
       "url": "https://www.energy-storage.news/akuo-energy-voltalia-kick-off-projects-in-french-overseas-territories-new-caledonia-french-guiana/",
       "date": "2025-12-17T11:46:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ford’s ‘big strategic pivot’ into the ‘fiercely competitive’ battery storage market",
-      "url": "https://www.energy-storage.news/fords-big-strategic-pivot-into-the-fiercely-competitive-battery-storage-market/",
-      "date": "2025-12-17T09:59:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US ROUNDUP: Shell immersion cooling partnership, PNNL begins utility-scale battery tests, ON.Energy in 5GW transformer deal",
-      "url": "https://www.energy-storage.news/us-roundup-shell-immersion-cooling-partnership-pnnl-begins-utility-scale-battery-tests-on-energy-in-5gw-transformer-deal/",
-      "date": "2025-12-16T13:12:14.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
