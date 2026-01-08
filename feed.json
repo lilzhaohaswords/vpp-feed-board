@@ -1,6 +1,27 @@
 {
-  "ts": 1767879113506,
+  "ts": 1767881615336,
   "items": [
+    {
+      "title": "NB Power issues REOI for 50MW Canadian BESS, Boralex commissions 320MWh Ontario project",
+      "url": "https://www.energy-storage.news/nb-power-issues-reoi-for-50mw-canadian-bess-boralex-commissions-320mwh-ontario-project/",
+      "date": "2026-01-08T14:06:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Campaign group protests giant solar projects in Portugal",
+      "url": "https://www.pv-magazine.com/2026/01/08/campaign-group-protests-giant-solar-projects-in-portugal/",
+      "date": "2026-01-08T14:00:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Greenflash Infrastructure safe harbours over 10GWh of Li-ion energy storage in US",
+      "url": "https://www.energy-storage.news/greenflash-infrastructure-safe-harbours-over-10gwh-of-li-ion-energy-storage-in-us/",
+      "date": "2026-01-08T13:57:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "China’s Hefei BOE Solar Technology claims 27.37% efficiency for perovskite solar cell",
       "url": "https://www.pv-magazine.com/2026/01/08/chinas-hefei-boe-solar-technology-claims-27-37-efficiency-for-perovskite-solar-cell/",
@@ -222,13 +243,6 @@
       "title": "India’s energy storage market set for breakout year in 2026",
       "url": "https://www.pv-magazine.com/2026/01/07/indias-energy-storage-market-set-for-breakout-year-in-2026/",
       "date": "2026-01-07T07:45:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Thicker alumunium oxide layers can reduce ultraviolet-induced degradation in TOPCon solar cells",
-      "url": "https://www.pv-magazine.com/2026/01/07/thicker-alumunium-oxide-layers-can-reduce-ultraviolet-induced-degradation-in-topcon-solar-cells/",
-      "date": "2026-01-07T07:13:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "California CCA throws support behind two thermal battery storage startup developers",
       "url": "https://www.energy-storage.news/california-cca-throws-support-behind-two-thermal-battery-storage-startup-developers/",
       "date": "2025-12-18T14:11:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "GridStor executes tolling agreement for Texas BESS, CPS Energy launches 500MW BESS RFP",
-      "url": "https://www.energy-storage.news/gridstor-executes-tolling-agreement-for-texas-bess-cps-energy-launches-500mw-bess-rfp/",
-      "date": "2025-12-18T14:02:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US virtual power plant programmes advance with new partnerships and investment",
-      "url": "https://www.energy-storage.news/us-virtual-power-plant-programmes-advance-with-new-partnerships-and-investment/",
-      "date": "2025-12-18T13:58:35.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
