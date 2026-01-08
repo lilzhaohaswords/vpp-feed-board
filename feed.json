@@ -1,6 +1,13 @@
 {
-  "ts": 1767888799587,
+  "ts": 1767892581787,
   "items": [
+    {
+      "title": "Spanish startup develops BIPV systems for tunnel exits, entrances",
+      "url": "https://www.pv-magazine.com/2026/01/08/spanish-startup-develops-bipv-systems-for-tunnel-exits-entrances/",
+      "date": "2026-01-08T16:21:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "French regulator highlights flexible grid connections, battery queue pressures",
       "url": "https://www.pv-magazine.com/2026/01/08/french-regulator-highlights-flexible-grid-connections-battery-queue-pressures/",
@@ -243,13 +250,6 @@
       "title": "Peru adds 454 MW of large-scale PV in 2025",
       "url": "https://www.pv-magazine.com/2026/01/07/peru-adds-454-mw-of-large-scale-pv-in-2025/",
       "date": "2026-01-07T09:15:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Regulatory changes could shape Brazil’s 2026 battery storage auction",
-      "url": "https://www.pv-magazine.com/2026/01/07/regulatory-changes-could-shape-brazils-2026-battery-storage-auction/",
-      "date": "2026-01-07T08:30:56.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
