@@ -1,6 +1,13 @@
 {
-  "ts": 1767833066184,
+  "ts": 1767840567892,
   "items": [
+    {
+      "title": "1.2GWh of energy storage submitted for EPBC Act approval across Australia",
+      "url": "https://www.energy-storage.news/1-2gwh-of-energy-storage-submitted-for-epbc-act-approval-across-australia/",
+      "date": "2026-01-08T01:48:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Astronergy launches 670 W TOPCon solar module with 24.9% efficiency",
       "url": "https://www.pv-magazine.com/2026/01/07/astronergy-launches-670-w-topcon-solar-module-with-24-9-efficiency/",
@@ -516,13 +523,6 @@
       "title": "Queensland government says it, not councils, will decide on battery storage projects in Australian state",
       "url": "https://www.energy-storage.news/queensland-government-says-it-not-councils-will-decide-on-battery-storage-projects-in-australian-state/",
       "date": "2025-12-18T08:27:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ERCOT BESS revenue &#8216;roller coaster&#8217; is a feature, not a bug",
-      "url": "https://www.energy-storage.news/ercot-bess-revenue-roller-coaster-is-a-feature-not-a-bug/",
-      "date": "2025-12-17T14:51:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
