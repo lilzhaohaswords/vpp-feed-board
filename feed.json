@@ -1,6 +1,34 @@
 {
-  "ts": 1767859256717,
+  "ts": 1767863794077,
   "items": [
+    {
+      "title": "Pacific Energy advances renewable power project for town in Australia",
+      "url": "https://www.pv-magazine.com/2026/01/08/pacific-energy-advances-renewable-power-project-for-remote-town-in-australia/",
+      "date": "2026-01-08T09:15:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Adani Green unit signs hybrid power supply deal with Asahi India Glass",
+      "url": "https://www.pv-magazine.com/2026/01/08/adani-green-unit-signs-hybrid-power-supply-deal-with-asahi-india-glass/",
+      "date": "2026-01-08T08:30:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Localized polysilicon thinning improves TOPCon solar cell performance",
+      "url": "https://www.pv-magazine.com/2026/01/08/localized-polysilicon-thinning-improves-topcon-solar-cell-performance/",
+      "date": "2026-01-08T08:23:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Malaysia: Energy Commission shortlists bidders in 1.6GWh ‘landmark’ BESS programme",
+      "url": "https://www.energy-storage.news/malaysia-energy-commission-shortlists-bidders-in-1-6gwh-landmark-bess-programme/",
+      "date": "2026-01-08T08:22:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "TOYO secures US polysilicon to navigate solar trade barriers",
       "url": "https://www.pv-magazine.com/2026/01/08/toyo-secures-us-polysilicon-to-navigate-solar-trade-barriers/",
@@ -223,27 +251,6 @@
       "url": "https://www.energy-storage.news/2025-concludes-with-1-5gwh-of-european-bess-project-completions-financing-and-supply-deals/",
       "date": "2026-01-06T11:49:03.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US state repurposes wastewater land for 250 MW solar plant",
-      "url": "https://www.pv-magazine.com/2026/01/06/us-state-repurposes-wastewater-land-for-250-mw-solar-plant/",
-      "date": "2026-01-06T09:45:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fox ESS rolls out stackable battery system",
-      "url": "https://www.pv-magazine.com/2026/01/06/fox-ess-rolls-out-stackable-battery-system-in-australia/",
-      "date": "2026-01-06T08:30:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New process achieves 97% silver recovery from end-of-life solar panels",
-      "url": "https://www.pv-magazine.com/2026/01/06/new-process-achieves-97-silver-recovery-from-end-of-life-solar-panels/",
-      "date": "2026-01-06T07:45:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Sungrow and Algihaz&#8217; 7.8GWh Saudi Arabia BESS connected to grid",
       "url": "https://www.energy-storage.news/sungrow-and-algihaz-7-8gwh-saudi-arabia-bess-connected-to-grid/",
       "date": "2025-12-18T10:06:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Queensland government says it, not councils, will decide on battery storage projects in Australian state",
-      "url": "https://www.energy-storage.news/queensland-government-says-it-not-councils-will-decide-on-battery-storage-projects-in-australian-state/",
-      "date": "2025-12-18T08:27:04.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
