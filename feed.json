@@ -1,6 +1,20 @@
 {
-  "ts": 1767881615336,
+  "ts": 1767885170085,
   "items": [
+    {
+      "title": "French regulator highlights flexible grid connections, battery queue pressures",
+      "url": "https://www.pv-magazine.com/2026/01/08/french-regulator-highlights-flexible-grid-connections-battery-queue-pressures/",
+      "date": "2026-01-08T15:00:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US V2G specialist Nuvve’s BESS pivot yields projects and partnerships in Japan, Europe and US",
+      "url": "https://www.energy-storage.news/us-v2g-specialist-nuvves-bess-pivot-yields-projects-and-partnerships-in-japan-europe-and-us/",
+      "date": "2026-01-08T14:40:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "NB Power issues REOI for 50MW Canadian BESS, Boralex commissions 320MWh Ontario project",
       "url": "https://www.energy-storage.news/nb-power-issues-reoi-for-50mw-canadian-bess-boralex-commissions-320mwh-ontario-project/",
@@ -236,13 +250,6 @@
       "title": "Regulatory changes could shape Brazil’s 2026 battery storage auction",
       "url": "https://www.pv-magazine.com/2026/01/07/regulatory-changes-could-shape-brazils-2026-battery-storage-auction/",
       "date": "2026-01-07T08:30:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s energy storage market set for breakout year in 2026",
-      "url": "https://www.pv-magazine.com/2026/01/07/indias-energy-storage-market-set-for-breakout-year-in-2026/",
-      "date": "2026-01-07T07:45:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Australian government supports additional 40GWh of Cheaper Home Batteries by 2030",
       "url": "https://www.energy-storage.news/australian-government-supports-additional-40gwh-of-cheaper-home-batteries-by-2030/",
       "date": "2025-12-19T06:37:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "California CCA throws support behind two thermal battery storage startup developers",
-      "url": "https://www.energy-storage.news/california-cca-throws-support-behind-two-thermal-battery-storage-startup-developers/",
-      "date": "2025-12-18T14:11:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
