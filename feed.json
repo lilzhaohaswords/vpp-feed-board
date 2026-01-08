@@ -1,6 +1,34 @@
 {
-  "ts": 1767870617114,
+  "ts": 1767874706233,
   "items": [
+    {
+      "title": "Australia’s biggest battery starts commercial operations",
+      "url": "https://www.pv-magazine.com/2026/01/08/australias-biggest-battery-starts-commercial-operations/",
+      "date": "2026-01-08T11:55:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "JinkoSolar pushes on perovskite-silicon tandem solar with new partnership",
+      "url": "https://www.pv-magazine.com/2026/01/08/jinkosolar-pushes-on-perovskite-silicon-tandem-solar-with-new-partnership/",
+      "date": "2026-01-08T11:39:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Year in Review: Hithium expects BESS market segmentation by application, not geography, in 2026",
+      "url": "https://www.energy-storage.news/year-in-review-hithium-expects-bess-market-segmentation-by-application-not-geography-in-2026/",
+      "date": "2026-01-08T11:27:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany grants €46 million for sodium-chloride solid-state battery factory",
+      "url": "https://www.energy-storage.news/germany-grants-e46-million-for-sodium-chloride-solid-state-battery-factory/",
+      "date": "2026-01-08T11:10:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Maldives microgrid project with floating solar becomes model for island renewables projects",
       "url": "https://www.pv-magazine.com/2026/01/08/maldives-microgrid-project-with-floating-solar-becomes-model-for-island-renewables-projects/",
@@ -215,20 +243,6 @@
       "title": "Semi-transparent photovoltaics cost-competitive only up to 50% transparency",
       "url": "https://www.pv-magazine.com/2026/01/06/semi-transparent-photovoltaics-cost-competitive-only-up-to-50-transparency/",
       "date": "2026-01-06T15:22:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Corrosion-free bromine flow battery promises longer life and higher energy density",
-      "url": "https://www.pv-magazine.com/2026/01/06/corrosion-free-bromine-flow-battery-promises-longer-life-and-higher-energy-density/",
-      "date": "2026-01-06T14:43:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Rising silver prices drive China’s Longi shift to copper-metallized solar cells",
-      "url": "https://www.pv-magazine.com/2026/01/06/rising-silver-prices-drive-chinas-longi-shift-to-copper-metallized-solar-cells/",
-      "date": "2026-01-06T14:29:42.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "US virtual power plant programmes advance with new partnerships and investment",
       "url": "https://www.energy-storage.news/us-virtual-power-plant-programmes-advance-with-new-partnerships-and-investment/",
       "date": "2025-12-18T13:58:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Evolving revenue mix, harsh Nordic operating conditions’: Hitachi Energy supplies PCS to Finland&#8217;s largest BESS",
-      "url": "https://www.energy-storage.news/evolving-revenue-mix-harsh-nordic-operating-conditions-hitachi-energy-supplies-pcs-to-finlands-largest-bess/",
-      "date": "2025-12-18T10:10:09.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow and Algihaz&#8217; 7.8GWh Saudi Arabia BESS connected to grid",
-      "url": "https://www.energy-storage.news/sungrow-and-algihaz-7-8gwh-saudi-arabia-bess-connected-to-grid/",
-      "date": "2025-12-18T10:06:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
