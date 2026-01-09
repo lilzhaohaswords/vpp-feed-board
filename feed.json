@@ -1,6 +1,13 @@
 {
-  "ts": 1767930963220,
+  "ts": 1767933060742,
   "items": [
+    {
+      "title": "Australia&#8217;s battery storage fleet &#8216;facing challenges in extreme heatwave conditions&#8217;",
+      "url": "https://www.energy-storage.news/australias-battery-storage-fleet-facing-challenges-in-extreme-heatwave-conditions/",
+      "date": "2026-01-09T04:01:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Gamuda lands ECI contract for 2,400MWh Mortlake solar-plus-storage site in Australia",
       "url": "https://www.energy-storage.news/gamuda-lands-eci-contract-for-2400mwh-mortlake-solar-plus-storage-site-in-australia/",
@@ -516,13 +523,6 @@
       "title": "BESS wins in Poland capacity market falls for the first time, de-rating cut to blame",
       "url": "https://www.energy-storage.news/bess-wins-in-poland-capacity-market-falls-for-the-first-time-de-rating-cut-to-blame/",
       "date": "2025-12-19T11:56:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Egypt: AMEA Power secures IFC funds for ‘Africa’s largest single-site renewables and battery project’",
-      "url": "https://www.energy-storage.news/egypt-amea-power-secures-ifc-funds-for-africas-largest-single-site-renewables-and-battery-project/",
-      "date": "2025-12-19T10:24:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
