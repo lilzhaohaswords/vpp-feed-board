@@ -1,6 +1,13 @@
 {
-  "ts": 1767945658735,
+  "ts": 1767950147030,
   "items": [
+    {
+      "title": "California introduces bill to legalize plug-in balcony solar",
+      "url": "https://www.pv-magazine.com/2026/01/09/california-introduces-bill-to-legalize-plug-in-balcony-solar/",
+      "date": "2026-01-09T08:45:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Polysilicon prices jump over 9% as China supply tightens",
       "url": "https://www.pv-magazine.com/2026/01/09/polysilicon-prices-jump-over-9-as-china-supply-tightens/",
@@ -265,13 +272,6 @@
       "url": "https://www.energy-storage.news/cmblu-positions-organic-flow-batteries-as-lithium-alternative-for-us-hyperscaler-demand/",
       "date": "2026-01-07T13:49:58.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "French startup offers on-site solar module repair solution",
-      "url": "https://www.pv-magazine.com/2026/01/07/french-startup-offers-on-site-solar-module-repair-solution/",
-      "date": "2026-01-07T13:46:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
