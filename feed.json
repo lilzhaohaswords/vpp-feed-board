@@ -1,6 +1,27 @@
 {
-  "ts": 1767967919278,
+  "ts": 1767971405480,
   "items": [
+    {
+      "title": "China to abolish solar export tax rebates in April",
+      "url": "https://www.pv-magazine.com/2026/01/09/china-to-abolish-solar-export-tax-rebates-from-april/",
+      "date": "2026-01-09T14:32:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Terra-Gen puts 129MW/515MWh BESS in operation at California solar PV complex",
+      "url": "https://www.energy-storage.news/terra-gen-puts-129mw-515mwh-bess-in-operation-at-california-solar-pv-complex/",
+      "date": "2026-01-09T14:24:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "The Hydrogen Stream: RWE commissions 100 MW hydrogen electrolyzer",
+      "url": "https://www.pv-magazine.com/2026/01/09/the-hydrogen-stream-rwe-commissions-100-mw-hydrogen-electrolyzer/",
+      "date": "2026-01-09T14:15:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Malaysia launches new net metering scheme for rooftop PV",
       "url": "https://www.pv-magazine.com/2026/01/09/malaysia-introduces-rooftop-solar-scheme-to-replace-net-metering-program-solar-atap/",
@@ -222,20 +243,6 @@
       "title": "UK startup claims its electrolytes can triple flow battery energy density",
       "url": "https://www.pv-magazine.com/2026/01/08/uk-startup-claims-its-electrolytes-can-triple-flow-battery-energy-density/",
       "date": "2026-01-08T10:00:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pacific Energy advances renewable power project for town in Australia",
-      "url": "https://www.pv-magazine.com/2026/01/08/pacific-energy-advances-renewable-power-project-for-remote-town-in-australia/",
-      "date": "2026-01-08T09:15:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Adani Green unit signs hybrid power supply deal with Asahi India Glass",
-      "url": "https://www.pv-magazine.com/2026/01/08/adani-green-unit-signs-hybrid-power-supply-deal-with-asahi-india-glass/",
-      "date": "2026-01-08T08:30:34.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Can US trade policy deliver a domestic battery supply chain?",
       "url": "https://www.energy-storage.news/can-us-trade-policy-deliver-a-domestic-battery-supply-chain/",
       "date": "2025-12-22T10:56:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian utility Flow Power closes financing on its first BESS project, in Victoria’s Latrobe Valley",
-      "url": "https://www.energy-storage.news/australian-utility-flow-power-closes-financing-on-its-first-bess-project-in-victorias-latrobe-valley/",
-      "date": "2025-12-22T08:47:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
