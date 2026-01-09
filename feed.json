@@ -1,6 +1,13 @@
 {
-  "ts": 1767965395881,
+  "ts": 1767967919278,
   "items": [
+    {
+      "title": "Malaysia launches new net metering scheme for rooftop PV",
+      "url": "https://www.pv-magazine.com/2026/01/09/malaysia-introduces-rooftop-solar-scheme-to-replace-net-metering-program-solar-atap/",
+      "date": "2026-01-09T13:33:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Sodium-ion battery cells already near lithium-ion cost parity, set to get cheaper",
       "url": "https://www.pv-magazine.com/2026/01/09/sodium-ion-battery-cells-already-near-lithium-ion-cost-parity-set-to-get-cheaper/",
@@ -229,13 +236,6 @@
       "title": "Adani Green unit signs hybrid power supply deal with Asahi India Glass",
       "url": "https://www.pv-magazine.com/2026/01/08/adani-green-unit-signs-hybrid-power-supply-deal-with-asahi-india-glass/",
       "date": "2026-01-08T08:30:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Localized polysilicon thinning improves TOPCon solar cell performance",
-      "url": "https://www.pv-magazine.com/2026/01/08/localized-polysilicon-thinning-improves-topcon-solar-cell-performance/",
-      "date": "2026-01-08T08:23:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
