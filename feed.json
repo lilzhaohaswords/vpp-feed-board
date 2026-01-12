@@ -1,6 +1,20 @@
 {
-  "ts": 1768220336261,
+  "ts": 1768224821152,
   "items": [
+    {
+      "title": "France awards 40 MW of solar projects in non-interconnected zones",
+      "url": "https://www.pv-magazine.com/2026/01/12/france-awards-40-mw-of-solar-projects-in-non-interconnected-zones/",
+      "date": "2026-01-12T13:00:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Energy storage fleet mitigated 2TWh of renewables curtailment in Chile in 2025",
+      "url": "https://www.energy-storage.news/energy-storage-fleet-mitigated-2twh-of-renewables-curtailment-in-chile-in-2025/",
+      "date": "2026-01-12T12:39:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Pacific Hydro commissions 293 MW of PV with 110 MW/220 MWh of storage in Chile",
       "url": "https://www.pv-magazine.com/2026/01/12/pacific-hydro-commissions-293-mw-of-pv-with-110-mw-220-mwh-of-storage-in-chile/",
@@ -187,13 +201,6 @@
       "title": "India’s smart metering boom reshapes grid through decentralized IoT",
       "url": "https://www.pv-magazine.com/2026/01/09/indias-smart-metering-boom-reshapes-grid-through-decentralized-iot/",
       "date": "2026-01-09T09:30:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "California introduces bill to legalize plug-in balcony solar",
-      "url": "https://www.pv-magazine.com/2026/01/09/california-introduces-bill-to-legalize-plug-in-balcony-solar/",
-      "date": "2026-01-09T08:45:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Operational risk, optimisation, data, tolls and more: Battery Asset Management Summit Europe key takeaways",
       "url": "https://www.energy-storage.news/operational-risk-optimisation-data-tolls-and-more-battery-asset-management-summit-europe-key-takeaways/",
       "date": "2025-12-23T09:28:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Policy storms ahead, fire safety and data centres: Energy-Storage.news 2025 Guest Blog picks, Part 1",
-      "url": "https://www.energy-storage.news/policy-storms-ahead-fire-safety-and-data-centres-energy-storage-news-2025-guest-blog-picks-part-1/",
-      "date": "2025-12-23T08:03:36.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
