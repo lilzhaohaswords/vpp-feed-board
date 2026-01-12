@@ -1,6 +1,13 @@
 {
-  "ts": 1768202253657,
+  "ts": 1768204849497,
   "items": [
+    {
+      "title": "US would reach 100% renewable energy by 2148 at current pace",
+      "url": "https://www.pv-magazine.com/2026/01/12/us-would-reach-100-renewable-energy-by-2148-at-current-pace/",
+      "date": "2026-01-12T07:30:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India’s solar capacity additions on track in 2025, says SBICAPS",
       "url": "https://www.pv-magazine.com/2026/01/09/indias-solar-capacity-additions-on-track-in-2025-says-sbicaps/",
@@ -222,13 +229,6 @@
       "title": "Australia’s biggest battery starts commercial operations",
       "url": "https://www.pv-magazine.com/2026/01/08/australias-biggest-battery-starts-commercial-operations/",
       "date": "2026-01-08T11:55:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "JinkoSolar pushes on perovskite-silicon tandem solar with new partnership",
-      "url": "https://www.pv-magazine.com/2026/01/08/jinkosolar-pushes-on-perovskite-silicon-tandem-solar-with-new-partnership/",
-      "date": "2026-01-08T11:39:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
