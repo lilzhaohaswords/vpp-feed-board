@@ -1,6 +1,55 @@
 {
-  "ts": 1768204849497,
+  "ts": 1768209588480,
   "items": [
+    {
+      "title": "Capex-driven strategies can reduce solar LCOE by 20%",
+      "url": "https://www.pv-magazine.com/2026/01/12/capex-driven-strategies-can-reduce-solar-lcoe-by-20/",
+      "date": "2026-01-12T09:00:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India’s SECI awards 1.2 GW of solar, 600 MW/3,600 MWh of storage at $0.035/kWh",
+      "url": "https://www.pv-magazine.com/2026/01/12/indias-seci-awards-1-2-gw-of-solar-600-mw-3600-mwh-of-storage-at-inr-3-12-kwh/",
+      "date": "2026-01-12T09:00:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Scatec secures PPA for Africa&#8217;s largest solar-plus-storage project",
+      "url": "https://www.pv-magazine.com/2026/01/12/scatec-secures-ppa-for-africas-largest-solar-plus-storage-project/",
+      "date": "2026-01-12T08:40:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "RenewSys launches reel-format sheet encapsulants for junction box, busbar insulation in solar modules",
+      "url": "https://www.pv-magazine.com/2026/01/12/renewsys-launches-reel-format-sheet-encapsulants-for-junction-box-busbar-insulation-in-solar-modules/",
+      "date": "2026-01-12T08:31:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar module efficiency could exceed 35% by 2050",
+      "url": "https://www.pv-magazine.com/2026/01/12/solar-module-efficiency-could-exceed-35-by-2050/",
+      "date": "2026-01-12T08:30:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany adds 6.57 GWh of battery storage in 2025, total hits 24 GWh",
+      "url": "https://www.pv-magazine.com/2026/01/12/germany-adds-6-57-gwh-of-battery-storage-in-2025-total-hits-24-gwh/",
+      "date": "2026-01-12T08:15:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Danish researchers develop color-tunable BIPV foil",
+      "url": "https://www.pv-magazine.com/2026/01/12/danish-researchers-develop-color-tunable-bipv-foil/",
+      "date": "2026-01-12T08:00:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US would reach 100% renewable energy by 2148 at current pace",
       "url": "https://www.pv-magazine.com/2026/01/12/us-would-reach-100-renewable-energy-by-2148-at-current-pace/",
@@ -149,13 +198,6 @@
       "bucket": "A"
     },
     {
-      "title": "La Niña Ridge drives December solar gains across U.S. Southwest",
-      "url": "https://www.pv-magazine.com/2026/01/09/la-nina-ridge-drives-december-solar-gains-across-u-s-southwest/",
-      "date": "2026-01-09T06:50:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Australia&#8217;s battery storage fleet &#8216;facing challenges in extreme heatwave conditions&#8217;",
       "url": "https://www.energy-storage.news/australias-battery-storage-fleet-facing-challenges-in-extreme-heatwave-conditions/",
       "date": "2026-01-09T04:01:00.000Z",
@@ -167,20 +209,6 @@
       "url": "https://www.energy-storage.news/gamuda-lands-eci-contract-for-2400mwh-mortlake-solar-plus-storage-site-in-australia/",
       "date": "2026-01-09T02:14:23.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Spanish startup develops BIPV systems for tunnel exits, entrances",
-      "url": "https://www.pv-magazine.com/2026/01/08/spanish-startup-develops-bipv-systems-for-tunnel-exits-entrances/",
-      "date": "2026-01-08T16:21:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "French regulator highlights flexible grid connections, battery queue pressures",
-      "url": "https://www.pv-magazine.com/2026/01/08/french-regulator-highlights-flexible-grid-connections-battery-queue-pressures/",
-      "date": "2026-01-08T15:00:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -198,38 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "Campaign group protests giant solar projects in Portugal",
-      "url": "https://www.pv-magazine.com/2026/01/08/campaign-group-protests-giant-solar-projects-in-portugal/",
-      "date": "2026-01-08T14:00:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Greenflash Infrastructure safe harbours over 10GWh of Li-ion energy storage in US",
       "url": "https://www.energy-storage.news/greenflash-infrastructure-safe-harbours-over-10gwh-of-li-ion-energy-storage-in-us/",
       "date": "2026-01-08T13:57:38.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China’s Hefei BOE Solar Technology claims 27.37% efficiency for perovskite solar cell",
-      "url": "https://www.pv-magazine.com/2026/01/08/chinas-hefei-boe-solar-technology-claims-27-37-efficiency-for-perovskite-solar-cell/",
-      "date": "2026-01-08T13:03:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ecuador plans 2.1 GW power auction with high share of solar",
-      "url": "https://www.pv-magazine.com/2026/01/08/ecuador-plans-2-1-gw-power-auction-with-high-share-of-solar/",
-      "date": "2026-01-08T13:00:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s biggest battery starts commercial operations",
-      "url": "https://www.pv-magazine.com/2026/01/08/australias-biggest-battery-starts-commercial-operations/",
-      "date": "2026-01-08T11:55:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
