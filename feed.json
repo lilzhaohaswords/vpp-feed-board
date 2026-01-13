@@ -1,6 +1,27 @@
 {
-  "ts": 1768298465843,
+  "ts": 1768302581042,
   "items": [
+    {
+      "title": "Tongwei unveils 770 W TOPCon PV module with 24.8% efficiency",
+      "url": "https://www.pv-magazine.com/2026/01/13/tongwei-unveils-770-w-topcon-pv-module-with-24-8-efficiency/",
+      "date": "2026-01-13T10:52:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US withdraws from IRENA",
+      "url": "https://www.pv-magazine.com/2026/01/13/us-withdraws-from-irena/",
+      "date": "2026-01-13T10:10:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Strengthening food and energy resilience with agri-PV",
+      "url": "https://www.pv-magazine.com/2026/01/13/strengthening-food-and-energy-resilience-with-agri-pv/",
+      "date": "2026-01-13T10:00:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Batteries ‘the only technology’ that can keep pace with AI data centre power fluctuations",
       "url": "https://www.energy-storage.news/batteries-only-technology-that-can-keep-pace-with-ai-data-centre-power-fluctuations/",
@@ -194,27 +215,6 @@
       "title": "Scatec secures PPA for Africa&#8217;s largest solar-plus-storage project",
       "url": "https://www.pv-magazine.com/2026/01/12/scatec-secures-ppa-for-africas-largest-solar-plus-storage-project/",
       "date": "2026-01-12T08:40:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "RenewSys launches reel-format sheet encapsulants for junction box, busbar insulation in solar modules",
-      "url": "https://www.pv-magazine.com/2026/01/12/renewsys-launches-reel-format-sheet-encapsulants-for-junction-box-busbar-insulation-in-solar-modules/",
-      "date": "2026-01-12T08:31:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar module efficiency could exceed 35% by 2050",
-      "url": "https://www.pv-magazine.com/2026/01/12/solar-module-efficiency-could-exceed-35-by-2050/",
-      "date": "2026-01-12T08:30:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany adds 6.57 GWh of battery storage in 2025, total hits 24 GWh",
-      "url": "https://www.pv-magazine.com/2026/01/12/germany-adds-6-57-gwh-of-battery-storage-in-2025-total-hits-24-gwh/",
-      "date": "2026-01-12T08:15:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
