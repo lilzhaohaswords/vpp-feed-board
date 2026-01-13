@@ -1,6 +1,20 @@
 {
-  "ts": 1768264822361,
+  "ts": 1768272506463,
   "items": [
+    {
+      "title": "South Australia leads AU$14,271/MW battery storage revenue surge in NEM&#8217;s first week of 2026",
+      "url": "https://www.energy-storage.news/south-australia-leads-au14271-mw-battery-storage-revenue-surge-in-nems-first-week-of-2026/",
+      "date": "2026-01-13T01:59:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Horizon Power seeks federal approval for 239MWh solar-plus-storage site in Western Australia",
+      "url": "https://www.energy-storage.news/horizon-power-seeks-federal-approval-for-239mwh-solar-plus-storage-site-in-western-australia/",
+      "date": "2026-01-13T01:59:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "AlphaESS launches modular energy storage system for small C&#038;I users",
       "url": "https://www.pv-magazine.com/2026/01/12/alphaess-launches-modular-energy-storage-system-for-small-ci-users/",
@@ -509,20 +523,6 @@
       "title": "How to navigate volatility in ERCOT: Ascend Analytics",
       "url": "https://www.energy-storage.news/how-to-navigate-volatility-in-ercot-ascend-analytics/",
       "date": "2025-12-23T14:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Discover how New York powers energy storage innovation",
-      "url": "https://www.energy-storage.news/video-discover-how-new-york-powers-energy-storage-innovation/",
-      "date": "2025-12-23T13:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Operational risk, optimisation, data, tolls and more: Battery Asset Management Summit Europe key takeaways",
-      "url": "https://www.energy-storage.news/operational-risk-optimisation-data-tolls-and-more-battery-asset-management-summit-europe-key-takeaways/",
-      "date": "2025-12-23T09:28:37.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
