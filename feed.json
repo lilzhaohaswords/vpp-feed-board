@@ -1,6 +1,13 @@
 {
-  "ts": 1768313612476,
+  "ts": 1768317147633,
   "items": [
+    {
+      "title": "Norway adds 117 MW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/01/13/norway-adds-117-mw-of-solar-in-2025/",
+      "date": "2026-01-13T15:03:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "505MWh BESS commissioned in Bulgaria, 2.2GWh progressed elsewhere in Europe",
       "url": "https://www.energy-storage.news/505mwh-bess-commissioned-in-bulgaria-2-2gwh-progressed-elsewhere-in-europe/",
@@ -222,13 +229,6 @@
       "title": "Masdar bags PPA for 150 MW of solar in Angola",
       "url": "https://www.pv-magazine.com/2026/01/12/masdar-bags-ppa-for-150-mw-of-solar-in-angola/",
       "date": "2026-01-12T09:51:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Capex-driven strategies can reduce solar LCOE by 20%",
-      "url": "https://www.pv-magazine.com/2026/01/12/capex-driven-strategies-can-reduce-solar-lcoe-by-20/",
-      "date": "2026-01-12T09:00:40.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
