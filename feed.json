@@ -1,6 +1,27 @@
 {
-  "ts": 1768288491581,
+  "ts": 1768291287615,
   "items": [
+    {
+      "title": "Swiss researchers improve electrolyte design for long-life solid-state batteries",
+      "url": "https://www.pv-magazine.com/2026/01/13/swiss-researchers-improve-electrolyte-for-long-life-solid-state-batteries/",
+      "date": "2026-01-13T08:00:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Adani Green unit to supply solar-wind power to Asahi India Glass",
+      "url": "https://www.pv-magazine.com/2026/01/13/adani-green-unit-to-supply-solar-wind-power-to-asahi-india-glass/",
+      "date": "2026-01-13T07:45:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Another record-breaking year for UK battery storage as 4GWh comes online",
+      "url": "https://www.energy-storage.news/another-record-breaking-year-for-uk-battery-storage-as-4gwh-comes-online/",
+      "date": "2026-01-13T07:28:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Ola Electric unveils first fully made-in-India residential battery storage system",
       "url": "https://www.pv-magazine.com/2026/01/13/ola-electric-unveils-first-fully-made-in-india-residential-battery-storage-system/",
@@ -198,24 +219,10 @@
       "bucket": "A"
     },
     {
-      "title": "Sodium-ion battery cells already near lithium-ion cost parity, set to get cheaper",
-      "url": "https://www.pv-magazine.com/2026/01/09/sodium-ion-battery-cells-already-near-lithium-ion-cost-parity-set-to-get-cheaper/",
-      "date": "2026-01-09T13:16:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "German large-scale BESS projects have built industry confidence, but FCA, grid and revenue challenges remain",
       "url": "https://www.energy-storage.news/german-large-scale-bess-projects-have-built-industry-confidence-but-fca-grid-and-revenue-challenges-remain/",
       "date": "2026-01-09T11:37:02.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How to avoid &#8216;long tail&#8217; effects in large-scale PV plants",
-      "url": "https://www.pv-magazine.com/2026/01/09/how-to-avoid-long-tail-effects-in-large-scale-pv-plants/",
-      "date": "2026-01-09T09:52:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -515,13 +522,6 @@
     {
       "title": "New Orleans approves US$30 million virtual power plant programme to support grid resilience",
       "url": "https://www.energy-storage.news/new-orleans-approves-us30-million-virtual-power-plant-programme-to-support-grid-resilience/",
-      "date": "2025-12-23T14:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How to navigate volatility in ERCOT: Ascend Analytics",
-      "url": "https://www.energy-storage.news/how-to-navigate-volatility-in-ercot-ascend-analytics/",
       "date": "2025-12-23T14:00:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
