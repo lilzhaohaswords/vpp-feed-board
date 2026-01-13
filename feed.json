@@ -1,6 +1,20 @@
 {
-  "ts": 1768295775374,
+  "ts": 1768298465843,
   "items": [
+    {
+      "title": "Batteries ‘the only technology’ that can keep pace with AI data centre power fluctuations",
+      "url": "https://www.energy-storage.news/batteries-only-technology-that-can-keep-pace-with-ai-data-centre-power-fluctuations/",
+      "date": "2026-01-13T09:58:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Cyprus solar curtailment hits 47% in 2025",
+      "url": "https://www.pv-magazine.com/2026/01/13/cyprus-solar-curtailment-hits-47-in-2025/",
+      "date": "2026-01-13T09:30:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Grid-forming inverters boost grid stability, say US researchers",
       "url": "https://www.pv-magazine.com/2026/01/13/grid-forming-inverters-boost-grid-stability-say-us-researchers/",
@@ -201,13 +215,6 @@
       "title": "Germany adds 6.57 GWh of battery storage in 2025, total hits 24 GWh",
       "url": "https://www.pv-magazine.com/2026/01/12/germany-adds-6-57-gwh-of-battery-storage-in-2025-total-hits-24-gwh/",
       "date": "2026-01-12T08:15:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Danish researchers develop color-tunable BIPV foil",
-      "url": "https://www.pv-magazine.com/2026/01/12/danish-researchers-develop-color-tunable-bipv-foil/",
-      "date": "2026-01-12T08:00:32.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Pacifico Energy aims to prove subsidy-free BESS in Japan &#8216;demonstrates competitive returns&#8217;",
       "url": "https://www.energy-storage.news/pacifico-energy-aims-to-prove-subsidy-free-bess-in-japan-demonstrates-competitive-returns/",
       "date": "2025-12-24T04:59:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New Orleans approves US$30 million virtual power plant programme to support grid resilience",
-      "url": "https://www.energy-storage.news/new-orleans-approves-us30-million-virtual-power-plant-programme-to-support-grid-resilience/",
-      "date": "2025-12-23T14:00:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
