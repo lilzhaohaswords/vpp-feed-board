@@ -1,6 +1,20 @@
 {
-  "ts": 1768371339799,
+  "ts": 1768374892239,
   "items": [
+    {
+      "title": "Australian solar installer fined $6,000 over unsafe battery installs",
+      "url": "https://www.pv-magazine.com/2026/01/14/australian-solar-installer-fined-6000-over-unsafe-battery-installs/",
+      "date": "2026-01-14T07:00:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "A guidebook on plug-in balcony solar for U.S. policymakers",
+      "url": "https://www.pv-magazine.com/2026/01/14/a-guidebook-on-plug-in-balcony-solar-for-u-s-policymakers/",
+      "date": "2026-01-14T06:30:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Court rules Trump Administration funding cut to clean energy projects unlawful",
       "url": "https://www.pv-magazine.com/2026/01/14/court-rules-trump-administration-funding-cut-to-clean-energy-projects-unlawful/",
@@ -212,24 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "France awards 40 MW of solar projects in non-interconnected zones",
-      "url": "https://www.pv-magazine.com/2026/01/12/france-awards-40-mw-of-solar-projects-in-non-interconnected-zones/",
-      "date": "2026-01-12T13:00:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Energy storage fleet mitigated 2TWh of renewables curtailment in Chile in 2025",
       "url": "https://www.energy-storage.news/energy-storage-fleet-mitigated-2twh-of-renewables-curtailment-in-chile-in-2025/",
       "date": "2026-01-12T12:39:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Pacific Hydro commissions 293 MW of PV with 110 MW/220 MWh of storage in Chile",
-      "url": "https://www.pv-magazine.com/2026/01/12/pacific-hydro-commissions-293-mw-of-pv-with-110-mw-220-mwh-of-storage-in-chile/",
-      "date": "2026-01-12T12:00:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
