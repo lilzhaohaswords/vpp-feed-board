@@ -1,6 +1,27 @@
 {
-  "ts": 1768389062421,
+  "ts": 1768393053547,
   "items": [
+    {
+      "title": "Standardisation is making US BESS an easy target for cyberattacks",
+      "url": "https://www.energy-storage.news/standardisation-is-making-us-bess-an-easy-target-for-cyberattacks/",
+      "date": "2026-01-14T12:11:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Neoen and French TSO to trial grid-forming services with retrofitted BESS",
+      "url": "https://www.energy-storage.news/neoen-and-french-tso-to-trial-grid-forming-services-with-retrofitted-bess/",
+      "date": "2026-01-14T12:09:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Eolian and CyrusOne team up to deploy Texas data centre at site of 100MW BESS",
+      "url": "https://www.energy-storage.news/eolian-and-cyrusone-team-up-to-deploy-texas-data-centre-at-site-of-100mw-bess/",
+      "date": "2026-01-14T12:07:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Tesla and Sungrow top bankability report ratings, as integrators threaten to outperform cell suppliers",
       "url": "https://www.energy-storage.news/tesla-and-sungrow-top-bankability-report-ratings-as-integrators-threaten-to-outperform-cell-suppliers/",
@@ -502,27 +523,6 @@
       "title": "Year in Review: Jinko on leveraging a global solar brand to compete in &#8216;transformational&#8217; 2025",
       "url": "https://www.energy-storage.news/year-in-review-jinko-on-leveraging-a-global-solar-brand-to-compete-in-transformational-2025/",
       "date": "2025-12-31T11:56:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Year in Review: EPC Burns &#038; McDonnell on data centre demand, FEOC and energy density",
-      "url": "https://www.energy-storage.news/year-in-review-epc-burns-mcdonnell-on-data-centre-demand-feoc-and-energy-density/",
-      "date": "2025-12-30T15:01:49.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Metlen completes sale of 1.6GWh Chile solar-plus-storage portfolio to Glenfarne Group",
-      "url": "https://www.energy-storage.news/metlen-completes-sale-of-1-6gwh-chile-solar-plus-storage-portfolio-to-glenfarne-group/",
-      "date": "2025-12-30T10:59:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "PGE receives regulatory approval to increase price of 1GW BESS portfolio, &#8216;significant changes&#8217; to tariffs and ITC to blame",
-      "url": "https://www.energy-storage.news/pge-receives-regulatory-approval-to-increase-price-of-1gw-bess-portfolio-significant-changes-to-tariffs-and-itc-to-blame/",
-      "date": "2025-12-29T11:19:45.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
