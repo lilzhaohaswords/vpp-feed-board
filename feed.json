@@ -1,6 +1,13 @@
 {
-  "ts": 1768449484267,
+  "ts": 1768451742095,
   "items": [
+    {
+      "title": "Torrent Power picks L&#038;T to build India’s largest pumped hydro storage facility",
+      "url": "https://www.energy-storage.news/torrent-power-picks-lt-to-build-indias-largest-pumped-hydro-storage-facility/",
+      "date": "2026-01-15T04:22:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "BlackRock-backed Akaysha Energy weighs funding options for battery storage expansion",
       "url": "https://www.energy-storage.news/blackrock-backed-akaysha-energy-weighs-funding-options-for-battery-storage-expansion/",
@@ -516,13 +523,6 @@
       "title": "Voltalia constructing hybrid renewables-plus-storage ‘cluster’ in Uzbekistan",
       "url": "https://www.energy-storage.news/voltalia-constructing-hybrid-renewables-plus-storage-cluster-in-uzbekistan/",
       "date": "2026-01-02T10:21:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India introduces 20% domestic content rule for Viability Gap Funding of battery storage",
-      "url": "https://www.energy-storage.news/india-introduces-20-domestic-content-rule-for-viability-gap-funding-of-battery-storage/",
-      "date": "2026-01-02T08:32:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
