@@ -1,6 +1,27 @@
 {
-  "ts": 1768437724879,
+  "ts": 1768445431384,
   "items": [
+    {
+      "title": "BlackRock-backed Akaysha Energy weighs funding options for battery storage expansion",
+      "url": "https://www.energy-storage.news/blackrock-backed-akaysha-energy-weighs-funding-options-for-battery-storage-expansion/",
+      "date": "2026-01-15T02:04:09.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia: ASL unveils dual-track LTESA strategy as solar-battery hybrids reshape NSW energy market",
+      "url": "https://www.energy-storage.news/australia-asl-unveils-dual-track-ltesa-strategy-as-solar-battery-hybrids-reshape-nsw-energy-market/",
+      "date": "2026-01-15T01:37:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Battery storage costs fall 11-16% as Australia’s CSIRO maps least-cost route to net zero",
+      "url": "https://www.energy-storage.news/battery-storage-costs-fall-11-16-as-australias-csiro-maps-least-cost-route-to-net-zero/",
+      "date": "2026-01-15T01:13:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Romania installs 2.2 GW of solar in 2025",
       "url": "https://www.pv-magazine.com/2026/01/14/romania-installs-2-2-gw-of-solar-in-2025/",
@@ -502,27 +523,6 @@
       "title": "India introduces 20% domestic content rule for Viability Gap Funding of battery storage",
       "url": "https://www.energy-storage.news/india-introduces-20-domestic-content-rule-for-viability-gap-funding-of-battery-storage/",
       "date": "2026-01-02T08:32:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "For thermal batteries, continuous delivery matters more than peak temperature",
-      "url": "https://www.energy-storage.news/for-thermal-batteries-continuous-delivery-matters-more-than-peak-temperature/",
-      "date": "2025-12-31T12:28:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Massachusetts selects 1.2GW of BESS through RFP",
-      "url": "https://www.energy-storage.news/massachusetts-selects-1-2gw-of-bess-through-rfp/",
-      "date": "2025-12-31T11:58:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Year in Review: Jinko on leveraging a global solar brand to compete in &#8216;transformational&#8217; 2025",
-      "url": "https://www.energy-storage.news/year-in-review-jinko-on-leveraging-a-global-solar-brand-to-compete-in-transformational-2025/",
-      "date": "2025-12-31T11:56:36.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
