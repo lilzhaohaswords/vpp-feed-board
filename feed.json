@@ -1,6 +1,13 @@
 {
-  "ts": 1768540515650,
+  "ts": 1768544131465,
   "items": [
+    {
+      "title": "DNV forecasts tenfold increase in MENA region&#8217;s installed energy storage capacity by 2030",
+      "url": "https://www.energy-storage.news/dnv-forecasts-tenfold-increase-in-mena-regions-installed-energy-storage-capacity-by-2030/",
+      "date": "2026-01-16T06:06:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Australia&#8217;s pumped hydro pipeline swells with 2.15GW of new EPBC Act applications",
       "url": "https://www.energy-storage.news/australias-pumped-hydro-pipeline-swells-with-2-15gw-of-new-epbc-act-applications/",
@@ -516,13 +523,6 @@
       "title": "Australian battery storage projects attract international lenders in year-end financing spree",
       "url": "https://www.energy-storage.news/australian-battery-storage-projects-attract-international-lenders-in-year-end-financing-spree/",
       "date": "2026-01-06T02:20:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Google acquires data centre and energy developer Intersect for US$4.75 billion",
-      "url": "https://www.energy-storage.news/google-acquires-data-centre-and-energy-developer-intersect-for-us4-75-billion/",
-      "date": "2026-01-05T13:58:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
