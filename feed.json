@@ -1,6 +1,48 @@
 {
-  "ts": 1768565857026,
+  "ts": 1768570187069,
   "items": [
+    {
+      "title": "Chinese PV Industry Brief: Major solar manufacturers report steep full-year losses",
+      "url": "https://www.pv-magazine.com/2026/01/16/chinese-pv-industry-brief-major-solar-manufacturers-report-steep-full-year-losses/",
+      "date": "2026-01-16T13:29:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;True leadership comes from listening&#8217;",
+      "url": "https://www.pv-magazine.com/2026/01/16/true-leadership-comes-from-listening/",
+      "date": "2026-01-16T13:16:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China deploys 65GWh of BESS in December, 25% of 2025 global total",
+      "url": "https://www.energy-storage.news/china-deploys-65gwh-of-bess-in-december-25-of-2025-global-total/",
+      "date": "2026-01-16T13:07:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Storm systems and late snow event drag down irradiance in eastern and western Europe",
+      "url": "https://www.pv-magazine.com/2026/01/16/storm-systems-and-late-snow-event-drag-down-irradiance-in-eastern-and-western-europe/",
+      "date": "2026-01-16T13:00:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US ROUNDUP: Duke Energy, Elevate, Fluence with BrightNight and Cordelio progress BESS projects",
+      "url": "https://www.energy-storage.news/us-roundup-duke-energy-elevate-fluence-with-brightnight-and-cordelio-progress-bess-projects/",
+      "date": "2026-01-16T12:55:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Compliance premiums lift global polysilicon prices",
+      "url": "https://www.pv-magazine.com/2026/01/16/compliance-premiums-lift-global-polysilicon-prices/",
+      "date": "2026-01-16T12:43:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Oxford PV targets 20-year lifetime for perovskite-silicon tandem modules by 2028",
       "url": "https://www.pv-magazine.com/2026/01/16/oxford-pv-targets-20-year-lifetime-for-perovskite-silicon-tandem-modules-by-2028/",
@@ -191,27 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "Electricity rate hikes slash commercial solar payback periods in US by 33%, says Wood Mackenzie",
-      "url": "https://www.pv-magazine.com/2026/01/15/electricity-rate-hikes-slash-commercial-solar-payback-periods-in-us-by-33-says-wood-mackenzie/",
-      "date": "2026-01-15T08:03:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Researchers achieve record perovskite solar module stability under light, heat, and UV stress",
-      "url": "https://www.pv-magazine.com/2026/01/15/researchers-achieve-record-perovskite-solar-module-stability-under-light-heat-and-uv-stress/",
-      "date": "2026-01-15T08:00:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Enphase begins shipping GaN-based commercial microinverters",
-      "url": "https://www.pv-magazine.com/2026/01/15/enphase-begins-shipping-gan-based-commercial-microinverters/",
-      "date": "2026-01-15T07:52:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Torrent Power picks L&#038;T to build India’s largest pumped hydro storage facility",
       "url": "https://www.energy-storage.news/torrent-power-picks-lt-to-build-indias-largest-pumped-hydro-storage-facility/",
       "date": "2026-01-15T04:22:47.000Z",
@@ -237,13 +258,6 @@
       "url": "https://www.energy-storage.news/battery-storage-costs-fall-11-16-as-australias-csiro-maps-least-cost-route-to-net-zero/",
       "date": "2026-01-15T01:13:45.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Romania installs 2.2 GW of solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/01/14/romania-installs-2-2-gw-of-solar-in-2025/",
-      "date": "2026-01-14T14:33:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "AER: 244 community battery storage systems now connected across Australia",
       "url": "https://www.energy-storage.news/aer-244-community-battery-storage-systems-now-connected-across-australia/",
       "date": "2026-01-06T06:11:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "World’s first gigawatt-hour-scale flow battery project goes into operation in China",
-      "url": "https://www.energy-storage.news/worlds-first-gigawatt-hour-scale-flow-battery-project-goes-into-operation-in-china/",
-      "date": "2026-01-06T06:05:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Full-scope integration: The forgotten advantage in Australia’s energy storage race",
-      "url": "https://www.energy-storage.news/full-scope-integration-the-forgotten-advantage-in-australias-energy-storage-race/",
-      "date": "2026-01-06T02:29:43.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
