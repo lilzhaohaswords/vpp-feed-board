@@ -1,6 +1,27 @@
 {
-  "ts": 1768551227504,
+  "ts": 1768554861470,
   "items": [
+    {
+      "title": "Green bonds totaling $870 million issued for 2 GW solar project in UAE",
+      "url": "https://www.pv-magazine.com/2026/01/16/green-bonds-totaling-870-million-issued-for-2-gw-solar-project-in-uae/",
+      "date": "2026-01-16T09:00:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tesla offers new all-black solar module for residential applications",
+      "url": "https://www.pv-magazine.com/2026/01/16/tesla-offers-new-all-black-solar-module-for-residential-applications/",
+      "date": "2026-01-16T08:38:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Year in Review: Flexibility is more valuable than ever, says Fluence",
+      "url": "https://www.energy-storage.news/year-in-review-flexibility-is-more-valuable-than-ever-says-fluence/",
+      "date": "2026-01-16T08:14:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Not all POE encapsulants protect TOPCon solar cells from corrosion",
       "url": "https://www.pv-magazine.com/2026/01/16/not-all-poe-encapsulants-protect-topcon-solar-cells-from-corrosion/",
@@ -254,24 +275,10 @@
       "bucket": "A"
     },
     {
-      "title": "Solar accounted for 7.24 million jobs in 2024",
-      "url": "https://www.pv-magazine.com/2026/01/14/solar-accounted-for-7-24-million-jobs-in-2024/",
-      "date": "2026-01-14T10:12:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "HD Renewable Energy puts energy storage at centre of 2026 ‘overseas expansion year’ strategy",
       "url": "https://www.energy-storage.news/hd-renewable-energy-puts-energy-storage-at-centre-of-2026-overseas-expansion-year-strategy/",
       "date": "2026-01-14T09:14:43.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "High-capacity gutter for efficient solar panel drainage",
-      "url": "https://www.pv-magazine.com/2026/01/14/high-capacity-gutter-for-efficient-solar-panel-drainage/",
-      "date": "2026-01-14T09:00:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Full-scope integration: The forgotten advantage in Australia’s energy storage race",
       "url": "https://www.energy-storage.news/full-scope-integration-the-forgotten-advantage-in-australias-energy-storage-race/",
       "date": "2026-01-06T02:29:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian battery storage projects attract international lenders in year-end financing spree",
-      "url": "https://www.energy-storage.news/australian-battery-storage-projects-attract-international-lenders-in-year-end-financing-spree/",
-      "date": "2026-01-06T02:20:30.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
