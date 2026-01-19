@@ -1,6 +1,13 @@
 {
-  "ts": 1768835622621,
+  "ts": 1768839173158,
   "items": [
+    {
+      "title": "China’s top regulators summon battery giants, warn against &#8216;below-cost&#8217; price wars",
+      "url": "https://www.pv-magazine.com/2026/01/19/chinas-top-regulators-summon-battery-giants-warn-against-below-cost-price-wars/",
+      "date": "2026-01-19T15:21:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Copeland releases sanitary water heat pumps",
       "url": "https://www.pv-magazine.com/2026/01/19/copeland-releases-sanitary-water-heat-pumps/",
@@ -215,13 +222,6 @@
       "title": "Not all POE encapsulants protect TOPCon solar cells from corrosion",
       "url": "https://www.pv-magazine.com/2026/01/16/not-all-poe-encapsulants-protect-topcon-solar-cells-from-corrosion/",
       "date": "2026-01-16T07:54:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Greek startup launches direct PV water heating solution",
-      "url": "https://www.pv-magazine.com/2026/01/16/greek-startup-launches-direct-pv-water-heating-solution/",
-      "date": "2026-01-16T07:43:30.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
