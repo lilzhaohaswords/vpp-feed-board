@@ -1,6 +1,13 @@
 {
-  "ts": 1768821081441,
+  "ts": 1768825149958,
   "items": [
+    {
+      "title": "European PV market faces potential 2026 price shock from China export tax",
+      "url": "https://www.pv-magazine.com/2026/01/19/european-pv-market-faces-potential-2026-price-shock-from-china-export-tax/",
+      "date": "2026-01-19T11:28:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "German BESS flexibility platform and operator Terralayr raises €192 million",
       "url": "https://www.energy-storage.news/german-bess-flexibility-platform-and-operator-terralayr-raises-e192-million/",
@@ -201,13 +208,6 @@
       "title": "PV could outcompete agriculture in Spain within 20 years",
       "url": "https://www.pv-magazine.com/2026/01/16/pv-could-outcompete-agriculture-in-spain-within-20-years/",
       "date": "2026-01-16T06:53:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil eyes gigawatt-scale energy storage growth in 2026",
-      "url": "https://www.pv-magazine.com/2026/01/16/brazil-eyes-gigawatt-scale-energy-storage-growth-in-2026/",
-      "date": "2026-01-16T06:33:35.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
