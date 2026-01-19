@@ -1,6 +1,13 @@
 {
-  "ts": 1768807176552,
+  "ts": 1768810584018,
   "items": [
+    {
+      "title": "US court approves Amazon acquisition of 1.2 GW Oregon solar project",
+      "url": "https://www.pv-magazine.com/2026/01/19/us-court-approves-amazon-acquisition-of-1-2-gw-oregon-solar-project/",
+      "date": "2026-01-19T07:45:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australian thermal storage startup 1414 Degrees bags GPS approval for 140MW BESS",
       "url": "https://www.energy-storage.news/australian-thermal-storage-startup-1414-degrees-bags-gps-approval-for-140mw-bess/",
@@ -230,13 +237,6 @@
       "url": "https://www.energy-storage.news/post-macse-dynamics-make-private-tolls-more-attractive-ipp-says/",
       "date": "2026-01-15T12:15:27.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The eyes and ears of the power grid",
-      "url": "https://www.pv-magazine.com/2026/01/15/the-eyes-and-ears-of-the-power-grid/",
-      "date": "2026-01-15T12:06:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
