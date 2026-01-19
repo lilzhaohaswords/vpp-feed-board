@@ -1,6 +1,27 @@
 {
-  "ts": 1768817707885,
+  "ts": 1768821081441,
   "items": [
+    {
+      "title": "German BESS flexibility platform and operator Terralayr raises €192 million",
+      "url": "https://www.energy-storage.news/german-bess-flexibility-platform-and-operator-terralayr-raises-e192-million/",
+      "date": "2026-01-19T11:01:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Poland draft grid law could slow solar and storage investment, warns industry",
+      "url": "https://www.pv-magazine.com/2026/01/19/poland-draft-grid-law-could-slow-solar-and-storage-investment-warns-industry/",
+      "date": "2026-01-19T10:44:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Masdar reaches financial close on 300 MW Uzbek solar project",
+      "url": "https://www.pv-magazine.com/2026/01/19/masdar-reaches-financial-close-on-300-mw-uzbek-solar-project/",
+      "date": "2026-01-19T10:19:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "TCL Zhonghuan aims for controlling stake in DAS Solar",
       "url": "https://www.pv-magazine.com/2026/01/19/tcl-zhonghuan-aims-for-controlling-stake-in-das-solar/",
@@ -187,20 +208,6 @@
       "title": "Brazil eyes gigawatt-scale energy storage growth in 2026",
       "url": "https://www.pv-magazine.com/2026/01/16/brazil-eyes-gigawatt-scale-energy-storage-growth-in-2026/",
       "date": "2026-01-16T06:33:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India tenders 2.45 GW solar power projects with battery storage",
-      "url": "https://www.pv-magazine.com/2026/01/16/india-tenders-2-45-gw-solar-power-projects-with-battery-storage/",
-      "date": "2026-01-16T06:30:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "CSIRO puts battery chemistries to test in tropical conditions",
-      "url": "https://www.pv-magazine.com/2026/01/16/csiro-puts-battery-chemistries-to-test-in-tropical-conditions/",
-      "date": "2026-01-16T06:22:53.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "2025 concludes with 1.5GWh+ of European BESS project completions, financing and supply deals",
       "url": "https://www.energy-storage.news/2025-concludes-with-1-5gwh-of-european-bess-project-completions-financing-and-supply-deals/",
       "date": "2026-01-06T11:49:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s biggest solar manufacturer Waaree raises funds toward 20GWh energy storage factory",
-      "url": "https://www.energy-storage.news/indias-biggest-solar-manufacturer-waaree-raises-funds-20gwh-energy-storage-factory/",
-      "date": "2026-01-06T07:43:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
