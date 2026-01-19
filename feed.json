@@ -1,6 +1,27 @@
 {
-  "ts": 1768825149958,
+  "ts": 1768829785309,
   "items": [
+    {
+      "title": "GCL, Cornex, TBEA to build solar manufacturing complex in Egypt",
+      "url": "https://www.pv-magazine.com/2026/01/19/gcl-cornex-tbea-to-build-solar-manufacturing-complex-in-egypt/",
+      "date": "2026-01-19T13:35:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Arizona utilities approve new technologies to accelerate residential storage and VPP deployment",
+      "url": "https://www.energy-storage.news/arizona-utilities-approve-new-technologies-to-accelerate-residential-storage-and-vpp-deployment/",
+      "date": "2026-01-19T13:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Inlyte Energy completes UK factory acceptance test, CEO says US must &#8216;make better technologies&#8217; than China",
+      "url": "https://www.energy-storage.news/inlyte-energy-completes-uk-factory-acceptance-test-ceo-says-us-must-make-better-technologies-than-china/",
+      "date": "2026-01-19T13:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "European PV market faces potential 2026 price shock from China export tax",
       "url": "https://www.pv-magazine.com/2026/01/19/european-pv-market-faces-potential-2026-price-shock-from-china-export-tax/",
@@ -201,13 +222,6 @@
       "title": "Masdar join forces with Montenegrin utility",
       "url": "https://www.pv-magazine.com/2026/01/16/masdar-join-forces-with-montenegrin-utility/",
       "date": "2026-01-16T07:01:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "PV could outcompete agriculture in Spain within 20 years",
-      "url": "https://www.pv-magazine.com/2026/01/16/pv-could-outcompete-agriculture-in-spain-within-20-years/",
-      "date": "2026-01-16T06:53:03.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "SolarMax secures two EPC agreements for 400MWh total BESS capacity in Puerto Rico",
       "url": "https://www.energy-storage.news/solarmax-secures-two-epc-agreements-for-400mwh-total-bess-capacity-in-puerto-rico/",
       "date": "2026-01-06T12:25:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Utilities SRP and ED3 seeking offtake deal for esVolta&#8217;s newly-approved 3.2GWh Arizona BESS",
-      "url": "https://www.energy-storage.news/utilities-srp-and-ed3-seeking-offtake-deal-for-esvoltas-newly-approved-3-2gwh-arizona-bess/",
-      "date": "2026-01-06T12:12:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "2025 concludes with 1.5GWh+ of European BESS project completions, financing and supply deals",
-      "url": "https://www.energy-storage.news/2025-concludes-with-1-5gwh-of-european-bess-project-completions-financing-and-supply-deals/",
-      "date": "2026-01-06T11:49:03.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
