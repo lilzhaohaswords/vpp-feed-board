@@ -1,6 +1,13 @@
 {
-  "ts": 1768783727152,
+  "ts": 1768791529814,
   "items": [
+    {
+      "title": "Australian thermal storage startup 1414 Degrees bags GPS approval for 140MW BESS",
+      "url": "https://www.energy-storage.news/australian-thermal-storage-startup-1414-degrees-bags-gps-approval-for-140mw-bess/",
+      "date": "2026-01-19T02:52:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sodium-ion batteries gain momentum: Unigrid launches commercial deliveries as Altris, Draslovka forge Europe’s first supply chain",
       "url": "https://www.pv-magazine.com/2026/01/16/sodium-ion-batteries-gain-momentum-unigrid-launches-commercial-deliveries-as-altris-draslovka-forge-europes-first-supply-chain/",
@@ -516,13 +523,6 @@
       "title": "India’s biggest solar manufacturer Waaree raises funds toward 20GWh energy storage factory",
       "url": "https://www.energy-storage.news/indias-biggest-solar-manufacturer-waaree-raises-funds-20gwh-energy-storage-factory/",
       "date": "2026-01-06T07:43:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AER: 244 community battery storage systems now connected across Australia",
-      "url": "https://www.energy-storage.news/aer-244-community-battery-storage-systems-now-connected-across-australia/",
-      "date": "2026-01-06T06:11:34.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
