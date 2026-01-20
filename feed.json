@@ -1,6 +1,20 @@
 {
-  "ts": 1768869821762,
+  "ts": 1768877582184,
   "items": [
+    {
+      "title": "ANZA Power secures US$300 million from I Squared for Australia-New Zealand portfolio",
+      "url": "https://www.energy-storage.news/anza-power-secures-us300-million-from-i-squared-for-australia-new-zealand-portfolio/",
+      "date": "2026-01-20T02:08:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Akaysha Energy switches on 410MWh grid-forming BESS in Australia five months ahead of schedule",
+      "url": "https://www.energy-storage.news/akaysha-energy-switches-on-410mwh-grid-forming-bess-in-australia-five-months-ahead-of-schedule/",
+      "date": "2026-01-20T02:06:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "China’s top regulators summon battery giants, warn against &#8216;below-cost&#8217; price wars",
       "url": "https://www.pv-magazine.com/2026/01/19/chinas-top-regulators-summon-battery-giants-warn-against-below-cost-price-wars/",
@@ -509,20 +523,6 @@
       "title": "Western Australia prioritises long-duration energy storage in latest clean energy funding round",
       "url": "https://www.energy-storage.news/western-australia-prioritises-long-duration-energy-storage-in-latest-clean-energy-funding-round/",
       "date": "2026-01-07T02:54:05.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s 1,770MWh Eraring Battery 1 commences commercial operations",
-      "url": "https://www.energy-storage.news/australias-1770mwh-eraring-battery-1-commences-commercial-operations/",
-      "date": "2026-01-07T02:51:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SolarMax secures two EPC agreements for 400MWh total BESS capacity in Puerto Rico",
-      "url": "https://www.energy-storage.news/solarmax-secures-two-epc-agreements-for-400mwh-total-bess-capacity-in-puerto-rico/",
-      "date": "2026-01-06T12:25:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
