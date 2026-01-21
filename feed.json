@@ -1,6 +1,20 @@
 {
-  "ts": 1769008641984,
+  "ts": 1769012393041,
   "items": [
+    {
+      "title": "UK to spend $20 billion on home energy upgrades, mandatory PV for new homes",
+      "url": "https://www.pv-magazine.com/2026/01/21/uk-to-spend-20-billion-on-home-energy-upgrades-solar-mandatory-for-new-homes/",
+      "date": "2026-01-21T15:51:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy installs 6.4 GW of PV in 2025",
+      "url": "https://www.pv-magazine.com/2026/01/21/italy-installs-6-4-gw-of-pv-in-2025/",
+      "date": "2026-01-21T15:30:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Large-Scale Fire Testing (LSFT): from best practice to mandatory requirement",
       "url": "https://www.energy-storage.news/large-scale-fire-testing-lsft-from-best-practice-to-mandatory-requirement/",
@@ -223,20 +237,6 @@
       "url": "https://www.energy-storage.news/uk-developers-grappling-with-grid-connection-reform-and-ldes-scheme-implications/",
       "date": "2026-01-20T11:30:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Key takeaways from Abu Dhabi’s World Future Energy Summit",
-      "url": "https://www.pv-magazine.com/2026/01/20/key-takeaways-from-abu-dhabis-world-future-energy-summit-3/",
-      "date": "2026-01-20T11:22:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pakistan&#8217;s installed PV capacity estimated above 27 GW",
-      "url": "https://www.pv-magazine.com/2026/01/20/pakistans-installed-pv-capacity-estimated-above-27-gw/",
-      "date": "2026-01-20T10:09:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
