@@ -1,6 +1,13 @@
 {
-  "ts": 1768970537971,
+  "ts": 1768972724333,
   "items": [
+    {
+      "title": "First Solar wins key round in TOPCon patent dispute",
+      "url": "https://www.pv-magazine.com/2026/01/21/first-solar-wins-key-round-in-topcon-patent-dispute/",
+      "date": "2026-01-21T05:06:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Battery trading performance: Demystifying normalised revenue and percent of perfect foresight",
       "url": "https://www.energy-storage.news/battery-trading-performance-demystifying-normalised-revenue-and-percent-of-perfect-foresight/",
@@ -236,13 +243,6 @@
       "title": "New software identifies optimal rooftops for C&#038;I solar",
       "url": "https://www.pv-magazine.com/2026/01/19/new-software-identifies-optimal-rooftops-for-ci-solar/",
       "date": "2026-01-19T08:53:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese scientists build 31.13%-efficient perovskite-silicon tandem solar cell via 2D seeding agent",
-      "url": "https://www.pv-magazine.com/2026/01/19/chinese-scientists-build-31-13-efficient-perovskite-silicon-tandem-solar-cell-via-2d-seeding-agent/",
-      "date": "2026-01-19T08:49:40.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
