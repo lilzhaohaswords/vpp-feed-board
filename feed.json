@@ -1,6 +1,41 @@
 {
-  "ts": 1768990415493,
+  "ts": 1768993995506,
   "items": [
+    {
+      "title": "China completes first full-scale underwater pumped storage trial at 65 m depth",
+      "url": "https://www.pv-magazine.com/2026/01/21/china-completes-first-full-scale-underwater-pumped-storage-trial-at-65-m-depth/",
+      "date": "2026-01-21T11:03:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "More PV manufacturers expected to adopt copper metallization in 2026",
+      "url": "https://www.pv-magazine.com/2026/01/21/more-pv-manufacturers-expected-to-adopt-copper-metallization-in-2026/",
+      "date": "2026-01-21T10:37:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Year in Review: BESS industry maturing through &#8216;growing pains&#8217; says Wärtsilä software VP",
+      "url": "https://www.energy-storage.news/year-in-review-bess-industry-maturing-through-growing-pains-says-wartsila-software-vp/",
+      "date": "2026-01-21T10:30:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Guyana plans three utility-scale solar parks",
+      "url": "https://www.pv-magazine.com/2026/01/21/guyana-plans-three-utility-scale-solar-parks/",
+      "date": "2026-01-21T10:22:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The impact of sand erosion on mounting structures in large-scale PV plants",
+      "url": "https://www.pv-magazine.com/2026/01/21/the-impact-of-sand-erosion-on-mounting-structures-in-large-scale-pv-plants/",
+      "date": "2026-01-21T10:21:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Battery storage in Spain could become unviable beyond 32 GWh",
       "url": "https://www.pv-magazine.com/2026/01/21/battery-storage-in-spain-could-become-unviable-beyond-32-gwh/",
@@ -198,27 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "China’s top regulators summon battery giants, warn against &#8216;below-cost&#8217; price wars",
-      "url": "https://www.pv-magazine.com/2026/01/19/chinas-top-regulators-summon-battery-giants-warn-against-below-cost-price-wars/",
-      "date": "2026-01-19T15:21:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Copeland releases sanitary water heat pumps",
-      "url": "https://www.pv-magazine.com/2026/01/19/copeland-releases-sanitary-water-heat-pumps/",
-      "date": "2026-01-19T14:22:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "GCL, Cornex, TBEA to build solar manufacturing complex in Egypt",
-      "url": "https://www.pv-magazine.com/2026/01/19/gcl-cornex-tbea-to-build-solar-manufacturing-complex-in-egypt/",
-      "date": "2026-01-19T13:35:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Arizona utilities approve new technologies to accelerate residential storage and VPP deployment",
       "url": "https://www.energy-storage.news/arizona-utilities-approve-new-technologies-to-accelerate-residential-storage-and-vpp-deployment/",
       "date": "2026-01-19T13:00:00.000Z",
@@ -230,13 +244,6 @@
       "url": "https://www.energy-storage.news/inlyte-energy-completes-uk-factory-acceptance-test-ceo-says-us-must-make-better-technologies-than-china/",
       "date": "2026-01-19T13:00:00.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European PV market faces potential 2026 price shock from China export tax",
-      "url": "https://www.pv-magazine.com/2026/01/19/european-pv-market-faces-potential-2026-price-shock-from-china-export-tax/",
-      "date": "2026-01-19T11:28:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Malaysia: Energy Commission shortlists bidders in 1.6GWh ‘landmark’ BESS programme",
       "url": "https://www.energy-storage.news/malaysia-energy-commission-shortlists-bidders-in-1-6gwh-landmark-bess-programme/",
       "date": "2026-01-08T08:22:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "1.2GWh of energy storage submitted for EPBC Act approval across Australia",
-      "url": "https://www.energy-storage.news/1-2gwh-of-energy-storage-submitted-for-epbc-act-approval-across-australia/",
-      "date": "2026-01-08T01:48:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
