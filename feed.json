@@ -1,6 +1,55 @@
 {
-  "ts": 1769005112364,
+  "ts": 1769008641984,
   "items": [
+    {
+      "title": "Large-Scale Fire Testing (LSFT): from best practice to mandatory requirement",
+      "url": "https://www.energy-storage.news/large-scale-fire-testing-lsft-from-best-practice-to-mandatory-requirement/",
+      "date": "2026-01-21T15:12:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Noon Energy demonstrates 100+ hour ultra-long-duration energy storage system",
+      "url": "https://www.pv-magazine.com/2026/01/21/noon-energy-demonstrates-100-hour-ultra-long-duration-energy-storage-system/",
+      "date": "2026-01-21T15:06:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EGbatt releases 15 kWh storage solution for residential use",
+      "url": "https://www.pv-magazine.com/2026/01/21/egbatt-releases-15-kwh-storage-solution-for-residential-use/",
+      "date": "2026-01-21T14:59:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Amazon buys ready-to-build Oregon solar-plus-storage project from bankrupt developer Pine Gate",
+      "url": "https://www.energy-storage.news/amazon-buys-ready-to-build-oregon-solar-plus-storage-project-from-bankrupt-developer-pine-gate/",
+      "date": "2026-01-21T14:57:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Scientists achieve 32.6% efficiency in perovskite-silicon tandem solar cell via interface engineering",
+      "url": "https://www.pv-magazine.com/2026/01/21/scientists-achieve-32-6-efficiency-in-perovskite-silicon-tandem-solar-cell-via-interface-engineering/",
+      "date": "2026-01-21T14:52:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hungary adds 1.1 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/01/21/hungary-adds-1-1-gw-of-solar-in-2025/",
+      "date": "2026-01-21T14:42:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Virginia proposes 20.78GW storage mandate as Trump, governors call for emergency PJM grid measures",
+      "url": "https://www.energy-storage.news/virginia-proposes-20-78gw-storage-mandate-as-trump-governors-call-for-emergency-pjm-grid-measures/",
+      "date": "2026-01-21T14:28:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Japan’s solar industry targets vertical bifacial PV with new guide",
       "url": "https://www.pv-magazine.com/2026/01/21/japans-solar-industry-targets-vertical-bifacial-pv-with-new-guide/",
@@ -187,34 +236,6 @@
       "title": "Pakistan&#8217;s installed PV capacity estimated above 27 GW",
       "url": "https://www.pv-magazine.com/2026/01/20/pakistans-installed-pv-capacity-estimated-above-27-gw/",
       "date": "2026-01-20T10:09:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "DK Electronic Materials client adopts copper paste in GW-scale cell output",
-      "url": "https://www.pv-magazine.com/2026/01/20/dk-electronic-materials-customer-adopts-copper-paste-in-gw-scale-cell-production/",
-      "date": "2026-01-20T10:07:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "French IT services provider develops cybersecurity box for PV plants",
-      "url": "https://www.pv-magazine.com/2026/01/20/french-it-services-provider-develops-cybersecurity-box-for-pv-plants/",
-      "date": "2026-01-20T08:12:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Scientists achieve 25.4% efficiency in perovskite solar cells with enhanced stability using multivalent ligands",
-      "url": "https://www.pv-magazine.com/2026/01/20/scientists-achieve-25-4-efficiency-in-perovskite-solar-cells-with-enhanced-stability-using-multivalent-ligands/",
-      "date": "2026-01-20T07:55:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Smart Commercial to roll out prefab vertical rooftop PV system",
-      "url": "https://www.pv-magazine.com/2026/01/20/smart-commercial-to-roll-out-prefab-vertical-rooftop-pv-system/",
-      "date": "2026-01-20T07:45:23.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "US V2G specialist Nuvve’s BESS pivot yields projects and partnerships in Japan, Europe and US",
       "url": "https://www.energy-storage.news/us-v2g-specialist-nuvves-bess-pivot-yields-projects-and-partnerships-in-japan-europe-and-us/",
       "date": "2026-01-08T14:40:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NB Power issues REOI for 50MW Canadian BESS, Boralex commissions 320MWh Ontario project",
-      "url": "https://www.energy-storage.news/nb-power-issues-reoi-for-50mw-canadian-bess-boralex-commissions-320mwh-ontario-project/",
-      "date": "2026-01-08T14:06:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Greenflash Infrastructure safe harbours over 10GWh of Li-ion energy storage in US",
-      "url": "https://www.energy-storage.news/greenflash-infrastructure-safe-harbours-over-10gwh-of-li-ion-energy-storage-in-us/",
-      "date": "2026-01-08T13:57:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Year in Review: Hithium expects BESS market segmentation by application, not geography, in 2026",
-      "url": "https://www.energy-storage.news/year-in-review-hithium-expects-bess-market-segmentation-by-application-not-geography-in-2026/",
-      "date": "2026-01-08T11:27:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
