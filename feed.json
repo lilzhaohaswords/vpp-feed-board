@@ -1,6 +1,27 @@
 {
-  "ts": 1769089019015,
+  "ts": 1769091561909,
   "items": [
+    {
+      "title": "Austria’s Andritz to supply South Korean 500 MW pumped storage power plant",
+      "url": "https://www.pv-magazine.com/2026/01/22/austrias-andritz-to-supply-south-korean-500-mw-pumped-storage-power-plant/",
+      "date": "2026-01-22T14:13:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar Steel presents new 2P single-row solar tracker",
+      "url": "https://www.pv-magazine.com/2026/01/22/solar-steel-presents-new-2p-single-row-solar-tracker/",
+      "date": "2026-01-22T14:00:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Private sector backers needed for next phase of Middle East energy storage market",
+      "url": "https://www.energy-storage.news/private-sector-backers-needed-for-next-phase-of-middle-east-energy-storage-market/",
+      "date": "2026-01-22T13:45:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sungrow releases new inverters, storage system for utility and C&#038;I solar",
       "url": "https://www.pv-magazine.com/2026/01/22/sungrow-releases-new-inverters-storage-system-for-utility-and-ci-solar/",
@@ -216,20 +237,6 @@
       "url": "https://www.energy-storage.news/over-2gwh-of-europe-bess-completed-financed-and-transacted-in-past-week/",
       "date": "2026-01-21T11:54:39.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China completes first full-scale underwater pumped storage trial at 65 m depth",
-      "url": "https://www.pv-magazine.com/2026/01/21/china-completes-first-full-scale-underwater-pumped-storage-trial-at-65-m-depth/",
-      "date": "2026-01-21T11:03:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "More PV manufacturers expected to adopt copper metallization in 2026",
-      "url": "https://www.pv-magazine.com/2026/01/21/more-pv-manufacturers-expected-to-adopt-copper-metallization-in-2026/",
-      "date": "2026-01-21T10:37:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "German large-scale BESS projects have built industry confidence, but FCA, grid and revenue challenges remain",
       "url": "https://www.energy-storage.news/german-large-scale-bess-projects-have-built-industry-confidence-but-fca-grid-and-revenue-challenges-remain/",
       "date": "2026-01-09T11:37:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Year in Review: Sodium-ion startup Alsym on supply chains, safety and scale",
-      "url": "https://www.energy-storage.news/year-in-review-sodium-ion-startup-alsym-on-supply-chains-safety-and-scale/",
-      "date": "2026-01-09T07:31:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
