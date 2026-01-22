@@ -1,6 +1,20 @@
 {
-  "ts": 1769068859887,
+  "ts": 1769073621240,
   "items": [
+    {
+      "title": "Grid-scale battery economics diverge in Texas and California",
+      "url": "https://www.pv-magazine.com/2026/01/22/grid-scale-battery-economics-diverge-in-texas-and-california/",
+      "date": "2026-01-22T09:15:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia set for massive utility-scale solar and wind investment in 2026",
+      "url": "https://www.pv-magazine.com/2026/01/22/australia-set-for-massive-utility-scale-solar-and-wind-investment-in-2026/",
+      "date": "2026-01-22T08:30:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar met 61% of US electricity demand growth in 2025",
       "url": "https://www.pv-magazine.com/2026/01/22/solar-met-61-of-us-electricity-demand-growth-in-2025/",
@@ -30,7 +44,7 @@
       "bucket": "A"
     },
     {
-      "title": "Engie acquires Australia&#8217;s first large-scale BESS built on a decommissioned coal plant, from Eku",
+      "title": "Engie fully acquires Australia&#8217;s first large-scale BESS built on a decommissioned coal plant",
       "url": "https://www.energy-storage.news/engie-acquires-australias-first-large-scale-bess-built-on-a-decommissioned-coal-plant-from-eku/",
       "date": "2026-01-22T02:50:24.000Z",
       "source": "Energy Storage News",
@@ -216,20 +230,6 @@
       "url": "https://www.energy-storage.news/battery-trading-performance-demystifying-normalised-revenue-and-percent-of-perfect-foresight/",
       "date": "2026-01-21T00:57:49.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU to ban Chinese inverters? – Commission proposal in Cybersecurity mulls &#8216;high-risk vendors-list&#8217;",
-      "url": "https://www.pv-magazine.com/2026/01/20/eu-to-ban-chinese-inverters-commission-proposal-in-cybersecurity-mulls-high-risk-vendors-list/",
-      "date": "2026-01-20T17:13:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar to surge 49% as EIA forecasts 70 GW of new capacity by 2027",
-      "url": "https://www.pv-magazine.com/2026/01/20/solar-to-surge-49-as-eia-forecasts-70-gw-of-new-capacity-by-2027/",
-      "date": "2026-01-20T16:19:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
