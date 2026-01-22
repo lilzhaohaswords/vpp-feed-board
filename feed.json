@@ -1,6 +1,13 @@
 {
-  "ts": 1769062559945,
+  "ts": 1769066220074,
   "items": [
+    {
+      "title": "Australian startup moves forward with perovskite solar manufacturing plans",
+      "url": "https://www.pv-magazine.com/2026/01/22/australian-startup-moves-forward-with-perovskite-solar-manufacturing-plans/",
+      "date": "2026-01-22T06:45:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Engie acquires Australia&#8217;s first large-scale BESS built on a decommissioned coal plant, from Eku",
       "url": "https://www.energy-storage.news/engie-acquires-australias-first-large-scale-bess-built-on-a-decommissioned-coal-plant-from-eku/",
@@ -229,13 +236,6 @@
       "title": "Omani polysilicon factory reaches financial close",
       "url": "https://www.pv-magazine.com/2026/01/20/omani-polysilicon-factory-reaches-financial-close/",
       "date": "2026-01-20T11:56:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Global BESS demand jumps 51% in 2025 as installations top 300 GWh",
-      "url": "https://www.pv-magazine.com/2026/01/20/global-bess-demand-jumps-51-in-2025-as-installations-top-300-gwh/",
-      "date": "2026-01-20T11:47:05.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
