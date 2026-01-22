@@ -1,6 +1,41 @@
 {
-  "ts": 1769076856105,
+  "ts": 1769080381249,
   "items": [
+    {
+      "title": "&#8216;Agrivoltaics is not just a land-sharing concept, but as a systems-level solution to some of the world’s most pressing challenges&#8217;",
+      "url": "https://www.pv-magazine.com/2026/01/22/agrivoltaics-is-not-just-a-land-sharing-concept-but-as-a-systems-level-solution-to-some-of-the-worlds-most-pressing-challenges/",
+      "date": "2026-01-22T11:12:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK&#8217;s Gore Street closes European battery storage fund, sees &#8216;improved economics of LDES&#8217;",
+      "url": "https://www.energy-storage.news/uks-gore-street-closes-european-battery-storage-fund-sees-improved-economics-of-ldes/",
+      "date": "2026-01-22T11:09:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Long-duration energy storage costs declining, European policymakers urged to make ‘strategic choice’",
+      "url": "https://www.energy-storage.news/long-duration-energy-storage-costs-declining-european-policymakers-urged-to-make-strategic-choice/",
+      "date": "2026-01-22T10:56:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Africa&#8217;s installed PV capacity estimated above 63 GW",
+      "url": "https://www.pv-magazine.com/2026/01/22/africas-installed-pv-capacity-estimated-above-63-gw/",
+      "date": "2026-01-22T10:54:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "IEA PVPS invites modelers to join first coloured BIPV intercomparison",
+      "url": "https://www.pv-magazine.com/2026/01/22/iea-pvps-invites-modelers-to-join-first-coloured-bipv-intercomparison/",
+      "date": "2026-01-22T10:18:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Fujiyama Power commissions 1 GW solar cell plant in India",
       "url": "https://www.pv-magazine.com/2026/01/22/fujiyama-power-commissions-1-gw-solar-cell-plant-in-india/",
@@ -201,27 +236,6 @@
       "title": "Global solar corporate funding reached $22.2 billion in 2025",
       "url": "https://www.pv-magazine.com/2026/01/21/global-solar-corporate-funding-reached-22-2-billion-in-2025/",
       "date": "2026-01-21T09:50:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "GoodEnough Energy starts production at 7 GWh BESS factory in India",
-      "url": "https://www.pv-magazine.com/2026/01/21/goodenough-energy-starts-production-at-7-gwh-bess-factory-in-india/",
-      "date": "2026-01-21T09:15:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Easing the transformer procurement bottleneck",
-      "url": "https://www.pv-magazine.com/2026/01/21/easing-the-transformer-procurement-bottleneck/",
-      "date": "2026-01-21T08:30:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia approves Fortescue 644 MW Turner River solar farm",
-      "url": "https://www.pv-magazine.com/2026/01/21/australia-approves-fortescue-644-mw-turner-river-solar-farm/",
-      "date": "2026-01-21T07:45:46.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Year in Review: Sodium-ion startup Alsym on supply chains, safety and scale",
       "url": "https://www.energy-storage.news/year-in-review-sodium-ion-startup-alsym-on-supply-chains-safety-and-scale/",
       "date": "2026-01-09T07:31:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s battery storage fleet &#8216;facing challenges in extreme heatwave conditions&#8217;",
-      "url": "https://www.energy-storage.news/australias-battery-storage-fleet-facing-challenges-in-extreme-heatwave-conditions/",
-      "date": "2026-01-09T04:01:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Gamuda lands ECI contract for 2,400MWh Mortlake solar-plus-storage site in Australia",
-      "url": "https://www.energy-storage.news/gamuda-lands-eci-contract-for-2400mwh-mortlake-solar-plus-storage-site-in-australia/",
-      "date": "2026-01-09T02:14:23.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
