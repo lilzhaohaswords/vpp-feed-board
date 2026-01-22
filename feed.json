@@ -1,6 +1,27 @@
 {
-  "ts": 1769091561909,
+  "ts": 1769095003641,
   "items": [
+    {
+      "title": "US, Europe on track for 2030 solar goals despite pipeline gaps",
+      "url": "https://www.pv-magazine.com/2026/01/22/us-europe-on-track-for-2030-solar-goals-despite-pipeline-gaps/",
+      "date": "2026-01-22T14:53:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EV slowdown creates potential lifeline for US energy storage amid FEOC, tariffs",
+      "url": "https://www.energy-storage.news/ev-slowdown-creates-potential-lifeline-for-us-energy-storage-amid-feoc-tariffs/",
+      "date": "2026-01-22T14:52:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US startup Noon Energy unveils ‘multi-day baseload&#8217; energy storage tech demonstration",
+      "url": "https://www.energy-storage.news/us-startup-noon-energy-unveils-multi-day-baseload-energy-storage-tech-demonstration/",
+      "date": "2026-01-22T14:40:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Austria’s Andritz to supply South Korean 500 MW pumped storage power plant",
       "url": "https://www.pv-magazine.com/2026/01/22/austrias-andritz-to-supply-south-korean-500-mw-pumped-storage-power-plant/",
@@ -215,13 +236,6 @@
       "title": "Ideal Energy commissions AI-enabled flexible HJT pilot line for space",
       "url": "https://www.pv-magazine.com/2026/01/21/ideal-energy-commissions-ai-enabled-flexible-hjt-pilot-line-for-space/",
       "date": "2026-01-21T12:36:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New design specifications for sodium-ion batteries",
-      "url": "https://www.pv-magazine.com/2026/01/21/new-design-specifications-for-sodium-ion-batteries/",
-      "date": "2026-01-21T12:26:43.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Year in Review: Analytics provider TWAICE on 2025&#8217;s BESS industry ‘wake-up call’ and operationalising data in 2026",
       "url": "https://www.energy-storage.news/year-in-review-analytics-provider-twaice-on-2025s-bess-industry-wake-up-call-and-operationalising-data-in-2026/",
       "date": "2026-01-12T11:57:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Terra-Gen puts 129MW/515MWh BESS in operation at California solar PV complex",
-      "url": "https://www.energy-storage.news/terra-gen-puts-129mw-515mwh-bess-in-operation-at-california-solar-pv-complex/",
-      "date": "2026-01-09T14:24:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "German large-scale BESS projects have built industry confidence, but FCA, grid and revenue challenges remain",
-      "url": "https://www.energy-storage.news/german-large-scale-bess-projects-have-built-industry-confidence-but-fca-grid-and-revenue-challenges-remain/",
-      "date": "2026-01-09T11:37:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
