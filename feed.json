@@ -1,6 +1,13 @@
 {
-  "ts": 1769042717328,
+  "ts": 1769050627553,
   "items": [
+    {
+      "title": "Engie acquires Australia&#8217;s first large-scale BESS built on a decommissioned coal plant, from Eku",
+      "url": "https://www.energy-storage.news/engie-acquires-australias-first-large-scale-bess-built-on-a-decommissioned-coal-plant-from-eku/",
+      "date": "2026-01-22T02:50:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "UK to spend $20 billion on home energy upgrades, mandatory PV for new homes",
       "url": "https://www.pv-magazine.com/2026/01/21/uk-to-spend-20-billion-on-home-energy-upgrades-solar-mandatory-for-new-homes/",
@@ -516,13 +523,6 @@
       "title": "Gamuda lands ECI contract for 2,400MWh Mortlake solar-plus-storage site in Australia",
       "url": "https://www.energy-storage.news/gamuda-lands-eci-contract-for-2400mwh-mortlake-solar-plus-storage-site-in-australia/",
       "date": "2026-01-09T02:14:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US V2G specialist Nuvve’s BESS pivot yields projects and partnerships in Japan, Europe and US",
-      "url": "https://www.energy-storage.news/us-v2g-specialist-nuvves-bess-pivot-yields-projects-and-partnerships-in-japan-europe-and-us/",
-      "date": "2026-01-08T14:40:37.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
