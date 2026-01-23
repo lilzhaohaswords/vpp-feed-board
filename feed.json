@@ -1,6 +1,13 @@
 {
-  "ts": 1769148931650,
+  "ts": 1769152537739,
   "items": [
+    {
+      "title": "&#8216;An immediate transition to copper is technically and economically feasible&#8217;",
+      "url": "https://www.pv-magazine.com/2026/01/23/an-immediate-transition-to-copper-is-technically-and-economically-feasible/",
+      "date": "2026-01-23T07:07:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Third utility-scale battery storage project proposed for Western Australia’s Collie",
       "url": "https://www.energy-storage.news/third-utility-scale-battery-storage-project-proposed-for-western-australias-collie/",
@@ -243,13 +250,6 @@
       "title": "Japan’s solar industry targets vertical bifacial PV with new guide",
       "url": "https://www.pv-magazine.com/2026/01/21/japans-solar-industry-targets-vertical-bifacial-pv-with-new-guide/",
       "date": "2026-01-21T13:30:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ideal Energy commissions AI-enabled flexible HJT pilot line for space",
-      "url": "https://www.pv-magazine.com/2026/01/21/ideal-energy-commissions-ai-enabled-flexible-hjt-pilot-line-for-space/",
-      "date": "2026-01-21T12:36:36.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
