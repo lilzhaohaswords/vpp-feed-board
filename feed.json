@@ -1,6 +1,20 @@
 {
-  "ts": 1769140698968,
+  "ts": 1769143082175,
   "items": [
+    {
+      "title": "Third utility-scale battery storage project proposed for Western Australia’s Collie",
+      "url": "https://www.energy-storage.news/third-utility-scale-battery-storage-project-proposed-for-western-australias-collie/",
+      "date": "2026-01-23T04:19:50.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Fortescue claims ‘record-low pricing’ for large-scale battery storage in Australia",
+      "url": "https://www.energy-storage.news/fortescue-claims-record-low-pricing-for-large-scale-battery-storage-in-australia/",
+      "date": "2026-01-23T04:06:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "US, Europe on track for 2030 solar goals despite pipeline gaps",
       "url": "https://www.pv-magazine.com/2026/01/22/us-europe-on-track-for-2030-solar-goals-despite-pipeline-gaps/",
@@ -509,20 +523,6 @@
       "title": "Horizon Power seeks federal approval for 239MWh solar-plus-storage site in Western Australia",
       "url": "https://www.energy-storage.news/horizon-power-seeks-federal-approval-for-239mwh-solar-plus-storage-site-in-western-australia/",
       "date": "2026-01-13T01:59:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy storage fleet mitigated 2TWh of renewables curtailment in Chile in 2025",
-      "url": "https://www.energy-storage.news/energy-storage-fleet-mitigated-2twh-of-renewables-curtailment-in-chile-in-2025/",
-      "date": "2026-01-12T12:39:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Year in Review: Analytics provider TWAICE on 2025&#8217;s BESS industry ‘wake-up call’ and operationalising data in 2026",
-      "url": "https://www.energy-storage.news/year-in-review-analytics-provider-twaice-on-2025s-bess-industry-wake-up-call-and-operationalising-data-in-2026/",
-      "date": "2026-01-12T11:57:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
