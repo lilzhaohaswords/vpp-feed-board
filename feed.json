@@ -1,6 +1,27 @@
 {
-  "ts": 1769414453313,
+  "ts": 1769419265824,
   "items": [
+    {
+      "title": "Energy-hungry Australian pig farm goes off-grid with 100 kW solar array",
+      "url": "https://www.pv-magazine.com/2026/01/26/energy-hungry-south-australian-pig-farm-goes-off-grid-with-100-kw-solar-array/",
+      "date": "2026-01-26T09:15:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China switches on 1 GW of solar at 4,600 m above sea level",
+      "url": "https://www.pv-magazine.com/2026/01/26/china-switches-on-1-gw-of-solar-at-4600-m-above-sea-level/",
+      "date": "2026-01-26T09:02:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bridging contracting and factory quality controls in BESS projects",
+      "url": "https://www.energy-storage.news/bridging-contracting-and-factory-quality-controls-in-bess-projects/",
+      "date": "2026-01-26T08:29:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Silver price hits all time high of $108.17 an ounce",
       "url": "https://www.pv-magazine.com/2026/01/26/silver-price-hits-all-time-high-of-108-17-an-ounce/",
@@ -166,20 +187,6 @@
       "title": "Chinese battery makers scale up from 314 Ah to 500 Ah-plus LFP cells",
       "url": "https://www.pv-magazine.com/2026/01/23/chinese-battery-makers-scale-up-from-314ah-to-500ah-plus-lfp-cells/",
       "date": "2026-01-23T07:46:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China TOPCon solar module prices climb over 30% since mid-December",
-      "url": "https://www.pv-magazine.com/2026/01/23/china-topcon-module-prices-climb-over-30-since-mid-december/",
-      "date": "2026-01-23T07:19:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;An immediate transition to copper is technically and economically feasible&#8217;",
-      "url": "https://www.pv-magazine.com/2026/01/23/an-immediate-transition-to-copper-is-technically-and-economically-feasible/",
-      "date": "2026-01-23T07:07:42.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Another record-breaking year for UK battery storage as 4GWh comes online",
       "url": "https://www.energy-storage.news/another-record-breaking-year-for-uk-battery-storage-as-4gwh-comes-online/",
       "date": "2026-01-13T07:28:21.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "South Australia leads AU$14,271/MW battery storage revenue surge in NEM&#8217;s first week of 2026",
-      "url": "https://www.energy-storage.news/south-australia-leads-au14271-mw-battery-storage-revenue-surge-in-nems-first-week-of-2026/",
-      "date": "2026-01-13T01:59:25.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
