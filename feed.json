@@ -1,6 +1,20 @@
 {
-  "ts": 1769437013366,
+  "ts": 1769440569743,
   "items": [
+    {
+      "title": "Jackery releases 2 kW solar gazebo",
+      "url": "https://www.pv-magazine.com/2026/01/26/jackery-releases-2-kw-solar-gazebo/",
+      "date": "2026-01-26T14:55:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India’s ‘first merchant BESS’: Juniper Green brings 100MWh project into full operation",
+      "url": "https://www.energy-storage.news/indias-first-merchant-bess-juniper-green-brings-100mwh-project-into-full-operation/",
+      "date": "2026-01-26T14:31:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "TU Delft unveils liquid solar module encapsulation tech",
       "url": "https://www.pv-magazine.com/2026/01/26/tu-delft-unveils-liquid-solar-module-encapsulation-tech/",
@@ -180,13 +194,6 @@
       "title": "Hybrid inverters set to drive next phase of Indian rooftop solar",
       "url": "https://www.pv-magazine.com/2026/01/23/hybrid-inverters-set-to-drive-next-phase-of-indian-rooftop-solar/",
       "date": "2026-01-23T09:15:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UAE&#8217;s massive solar-plus-storage project set to redefine baseload power, says Wood Mackenzie",
-      "url": "https://www.pv-magazine.com/2026/01/23/uaes-massive-solar-plus-storage-project-set-to-redefine-baseload-power-says-wood-mackenzie/",
-      "date": "2026-01-23T09:08:19.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Batteries ‘the only technology’ that can keep pace with AI data centre power fluctuations",
       "url": "https://www.energy-storage.news/batteries-only-technology-that-can-keep-pace-with-ai-data-centre-power-fluctuations/",
       "date": "2026-01-13T09:58:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Another record-breaking year for UK battery storage as 4GWh comes online",
-      "url": "https://www.energy-storage.news/another-record-breaking-year-for-uk-battery-storage-as-4gwh-comes-online/",
-      "date": "2026-01-13T07:28:21.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
