@@ -1,11 +1,67 @@
 {
-  "ts": 1769515259814,
+  "ts": 1769521030750,
   "items": [
+    {
+      "title": "Scientists unveil hybrid-energy heat pump combining absorption and compression cycles",
+      "url": "https://www.pv-magazine.com/2026/01/27/scientists-unveil-hybrid-energy-heat-pump-combining-absorption-and-compression-cycles/",
+      "date": "2026-01-27T13:29:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "World’s largest compressed-air storage plant switched on in China",
+      "url": "https://www.pv-magazine.com/2026/01/27/worlds-largest-compressed-air-storage-plant-switched-on-in-china/",
+      "date": "2026-01-27T12:47:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Year in Review: Lunar Energy on the progress of US home energy storage through ‘turbulent 2025’ and the way ahead for virtual power plants",
+      "url": "https://www.energy-storage.news/year-in-review-lunar-energy-on-the-progress-of-us-home-energy-storage-through-turbulent-2025-and-the-way-ahead-for-virtual-power-plants/",
+      "date": "2026-01-27T12:44:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Greater acceptance of merchant exposure&#8217; in UK market, investment firm says",
+      "url": "https://www.energy-storage.news/greater-acceptance-of-merchant-exposure-in-uk-market-investment-firm-says/",
+      "date": "2026-01-27T12:37:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Sigenergy secures top position for multiple storage markets as installer adoption accelerates",
+      "url": "https://www.pv-magazine.com/2026/01/27/sigenergy-secures-top-position-for-multiple-storage-markets-as-installer-adoption-accelerates/",
+      "date": "2026-01-27T12:26:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "ContourGlobal buys BESS in Greece, Alpiq in France; Iberdrola commissions Spain&#8217;s largest projects",
+      "url": "https://www.energy-storage.news/contourglobal-buys-bess-in-greece-alpiq-in-france-iberdrola-commissions-spains-largest-projects/",
+      "date": "2026-01-27T12:23:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "How to combine C&#038;I solar with compressed air energy storage",
+      "url": "https://www.pv-magazine.com/2026/01/27/how-to-combine-ci-solar-with-compressed-air-energy-storage/",
+      "date": "2026-01-27T12:18:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Serbia installs 134.3 MW of solar in 2025",
       "url": "https://www.pv-magazine.com/2026/01/27/serbia-installs-134-3-mw-of-solar-in-2025/",
       "date": "2026-01-27T10:45:42.000Z",
       "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany’s TSO begin inertia procurement with long-term contracts for grid-forming BESS",
+      "url": "https://www.energy-storage.news/germanys-tso-begin-inertia-procurement-with-long-term-contracts-for-grid-forming-bess/",
+      "date": "2026-01-27T10:22:22.000Z",
+      "source": "Energy Storage News",
       "bucket": "A"
     },
     {
@@ -174,34 +230,6 @@
       "url": "https://www.energy-storage.news/digital-bess-services-ma-quinbrook-sells-optimiser-flexitricity-fortescues-analytics-provider-buys-zitara/",
       "date": "2026-01-26T07:11:45.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Key takeaways from Solar Energy Expo in Poland",
-      "url": "https://www.pv-magazine.com/2026/01/23/key-takeaways-from-solar-energy-expo-in-poland/",
-      "date": "2026-01-23T16:30:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EU opens probe into Bulgaria compensation award to foreign investor",
-      "url": "https://www.pv-magazine.com/2026/01/23/eu-opens-probe-into-bulgaria-compensation-award-to-foreign-investment-vehicle/",
-      "date": "2026-01-23T16:25:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India commissions first merchant battery energy storage system",
-      "url": "https://www.pv-magazine.com/2026/01/23/india-commissions-first-merchant-battery-energy-storage-system/",
-      "date": "2026-01-23T15:21:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: Longi, Tongwei announce losses for fiscal 2025",
-      "url": "https://www.pv-magazine.com/2026/01/23/chinese-pv-industry-brief-longi-tongwei-announce-sharp-losses-for-fiscal-2025/",
-      "date": "2026-01-23T15:15:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -495,34 +523,6 @@
       "title": "HD Renewable Energy puts energy storage at centre of 2026 ‘overseas expansion year’ strategy",
       "url": "https://www.energy-storage.news/hd-renewable-energy-puts-energy-storage-at-centre-of-2026-overseas-expansion-year-strategy/",
       "date": "2026-01-14T09:14:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Who&#8217;s driving the 300GWh boom in demand for AI data centre battery storage?",
-      "url": "https://www.energy-storage.news/whos-driving-the-300gwh-boom-in-demand-for-ai-data-centre-battery-storage/",
-      "date": "2026-01-14T07:14:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Illinois signs clean energy bill, will drive investments for solar PV, battery storage and VPPs",
-      "url": "https://www.energy-storage.news/illinois-signs-clean-energy-bill-will-drive-investments-for-solar-pv-battery-storage-and-vpps/",
-      "date": "2026-01-13T15:24:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "505MWh BESS commissioned in Bulgaria, 2.2GWh progressed elsewhere in Europe",
-      "url": "https://www.energy-storage.news/505mwh-bess-commissioned-in-bulgaria-2-2gwh-progressed-elsewhere-in-europe/",
-      "date": "2026-01-13T14:07:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Developer Noveria talks BESS industry successes and challenges: ‘community acceptance is generally good’",
-      "url": "https://www.energy-storage.news/developer-noveria-talks-bess-industry-successes-and-challenges-community-acceptance-is-generally-good/",
-      "date": "2026-01-13T12:52:30.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
