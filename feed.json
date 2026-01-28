@@ -1,6 +1,20 @@
 {
-  "ts": 1769613505350,
+  "ts": 1769617204823,
   "items": [
+    {
+      "title": "Cyprus installs 122 MW of solar capacity in 2025",
+      "url": "https://www.pv-magazine.com/2026/01/28/cyprus-installs-122-mw-of-solar-capacity-in-2025/",
+      "date": "2026-01-28T16:15:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bangladesh signs PPAs for 523 MW of solar capacity",
+      "url": "https://www.pv-magazine.com/2026/01/28/bangladesh-signs-ppas-for-523-mw-of-solar-capacity/",
+      "date": "2026-01-28T15:30:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Financing grid-scale BESS in Europe: successes and challenges in focus as segment becomes industry driver",
       "url": "https://www.energy-storage.news/financing-grid-scale-bess-in-europe-successes-and-challenges-in-focus-as-segment-becomes-industry-driver/",
@@ -243,20 +257,6 @@
       "title": "Rethinking utility-scale solar inspections in an era of tighter margins",
       "url": "https://www.pv-magazine.com/2026/01/27/rethinking-utility-scale-solar-inspections-in-an-era-of-tighter-margins/",
       "date": "2026-01-27T10:00:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US court dismisses challenge to Silfab Solar factory in South Carolina",
-      "url": "https://www.pv-magazine.com/2026/01/27/us-court-dismisses-challenge-to-silfab-solar-factory-in-south-carolina/",
-      "date": "2026-01-27T09:15:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Analysts warn of possible, sudden silver price fall",
-      "url": "https://www.pv-magazine.com/2026/01/27/analysts-warn-of-possible-sudden-silver-price-fall/",
-      "date": "2026-01-27T08:40:46.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
