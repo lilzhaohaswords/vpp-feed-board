@@ -1,6 +1,13 @@
 {
-  "ts": 1769584563971,
+  "ts": 1769587252304,
   "items": [
+    {
+      "title": "New Jersey governor orders major solar, storage expansion on first day",
+      "url": "https://www.pv-magazine.com/2026/01/28/new-jersey-governor-orders-major-solar-storage-expansion-on-first-day/",
+      "date": "2026-01-28T07:45:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Chinese startup claims record-breaking 27.87% efficiency for single-junction perovskite solar cell",
       "url": "https://www.pv-magazine.com/2026/01/28/chinese-startup-claims-record-breaking-27-87-efficiency-for-single-junction-perovskite-solar-cell/",
@@ -229,13 +236,6 @@
       "title": "Test tracking algorithms for vehicle-integrated photovoltaics",
       "url": "https://www.pv-magazine.com/2026/01/26/test-tracking-algorithms-for-vehicle-integrated-photovoltaics/",
       "date": "2026-01-26T10:55:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Turkey switches on first major solar-plus-storage project",
-      "url": "https://www.pv-magazine.com/2026/01/26/turkey-switches-on-first-major-solar-plus-storage-project/",
-      "date": "2026-01-26T10:00:21.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
