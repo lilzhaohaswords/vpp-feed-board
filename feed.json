@@ -1,6 +1,20 @@
 {
-  "ts": 1769568897469,
+  "ts": 1769572808750,
   "items": [
+    {
+      "title": "Trends to look out for at Energy Storage Summit Australia 2026",
+      "url": "https://www.energy-storage.news/trends-to-look-out-for-at-energy-storage-summit-australia-2026/",
+      "date": "2026-01-28T03:17:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "South Australia battery storage captures 4-hour AU$1,000/MWh price event as heatwave drives revenue uplift",
+      "url": "https://www.energy-storage.news/south-australia-battery-storage-captures-4-hour-au1000-mwh-price-event-as-heatwave-drives-revenue-uplift/",
+      "date": "2026-01-28T02:56:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Hongyuan rolls out 40 µm &#8216;engineering-ready&#8217; ultra-thin silicon wafers",
       "url": "https://www.pv-magazine.com/2026/01/27/hongyuan-rolls-out-first-40-%c2%b5m-engineering-ready-ultra-thin-silicon-wafers/",
@@ -509,20 +523,6 @@
       "title": "Neoen and French TSO to trial grid-forming services with retrofitted BESS",
       "url": "https://www.energy-storage.news/neoen-and-french-tso-to-trial-grid-forming-services-with-retrofitted-bess/",
       "date": "2026-01-14T12:09:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Eolian and CyrusOne team up to deploy Texas data centre at site of 100MW BESS",
-      "url": "https://www.energy-storage.news/eolian-and-cyrusone-team-up-to-deploy-texas-data-centre-at-site-of-100mw-bess/",
-      "date": "2026-01-14T12:07:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Tesla and Sungrow top bankability report ratings, as integrators threaten to outperform cell suppliers",
-      "url": "https://www.energy-storage.news/tesla-and-sungrow-top-bankability-report-ratings-as-integrators-threaten-to-outperform-cell-suppliers/",
-      "date": "2026-01-14T11:06:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
