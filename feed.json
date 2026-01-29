@@ -1,6 +1,27 @@
 {
-  "ts": 1769689494317,
+  "ts": 1769694545505,
   "items": [
+    {
+      "title": "Testing fault at 100 MW battery disrupts Estonia-Finland power link",
+      "url": "https://www.pv-magazine.com/2026/01/29/testing-fault-at-100-mw-battery-disrupts-estonia-finland-power-link/",
+      "date": "2026-01-29T13:09:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Moonwatt brings DC-coupled, passively cooled sodium-ion tech to solar projects",
+      "url": "https://www.pv-magazine.com/2026/01/29/moonwatt-brings-dc-coupled-passively-cooled-sodium-ion-tech-to-solar-projects/",
+      "date": "2026-01-29T12:57:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Envision claims AI-enabled storage systems can detect battery safety risks days in advance",
+      "url": "https://www.pv-magazine.com/2026/01/29/envision-claims-ai-enabled-storage-systems-can-detect-battery-safety-risks-days-in-advance/",
+      "date": "2026-01-29T12:31:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "UK added 2.6 GW of solar in 2025, record year for rooftop",
       "url": "https://www.pv-magazine.com/2026/01/29/uk-added-2-6-gw-of-solar-in-2025-record-year-for-rooftop/",
@@ -212,13 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "Chinese startup claims record-breaking 27.87% efficiency for single-junction perovskite solar cell",
-      "url": "https://www.pv-magazine.com/2026/01/28/chinese-startup-claims-record-breaking-27-87-efficiency-for-single-junction-perovskite-solar-cell/",
-      "date": "2026-01-28T06:43:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Trends to look out for at Energy Storage Summit Australia 2026",
       "url": "https://www.energy-storage.news/trends-to-look-out-for-at-energy-storage-summit-australia-2026/",
       "date": "2026-01-28T03:17:57.000Z",
@@ -233,24 +247,10 @@
       "bucket": "A"
     },
     {
-      "title": "Hongyuan rolls out 40 µm &#8216;engineering-ready&#8217; ultra-thin silicon wafers",
-      "url": "https://www.pv-magazine.com/2026/01/27/hongyuan-rolls-out-first-40-%c2%b5m-engineering-ready-ultra-thin-silicon-wafers/",
-      "date": "2026-01-27T16:00:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Pumped hydro, high-temperature thermal storage, and geothermal LDES projects make key advancements across the US",
       "url": "https://www.energy-storage.news/pumped-hydro-high-temperature-thermal-storage-and-geothermal-ldes-projects-make-key-advancements-across-the-us/",
       "date": "2026-01-27T14:51:08.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "RheEnergise commissions first ‘high density hydro’ long-duration storage in UK",
-      "url": "https://www.pv-magazine.com/2026/01/27/rheenergise-commissions-first-high-density-hydro-long-duration-storage-in-uk/",
-      "date": "2026-01-27T14:10:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
