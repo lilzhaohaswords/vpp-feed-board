@@ -1,6 +1,27 @@
 {
-  "ts": 1769685658359,
+  "ts": 1769689494317,
   "items": [
+    {
+      "title": "UK added 2.6 GW of solar in 2025, record year for rooftop",
+      "url": "https://www.pv-magazine.com/2026/01/29/uk-added-2-6-gw-of-solar-in-2025-record-year-for-rooftop/",
+      "date": "2026-01-29T12:10:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "RWE starting construction on 400MW/800MWh Germany BESS",
+      "url": "https://www.energy-storage.news/rwe-starting-construction-on-400mw-800mwh-germany-bess/",
+      "date": "2026-01-29T11:40:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Silver price surge shows no signs of slowing, hitting a new all-time high of $117.66 per ounce",
+      "url": "https://www.pv-magazine.com/2026/01/29/silver-price-surge-shows-no-signs-of-slowing-hitting-a-new-all-time-high-of-117-66-per-ounce/",
+      "date": "2026-01-29T11:37:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Iberdrola commissions Spain’s largest utility-scale battery systems",
       "url": "https://www.pv-magazine.com/2026/01/29/iberdrola-commissions-spains-largest-utility-scale-battery-systems/",
@@ -229,20 +250,6 @@
       "title": "RheEnergise commissions first ‘high density hydro’ long-duration storage in UK",
       "url": "https://www.pv-magazine.com/2026/01/27/rheenergise-commissions-first-high-density-hydro-long-duration-storage-in-uk/",
       "date": "2026-01-27T14:10:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Five trends for energy storage as global market passes 100 GW",
-      "url": "https://www.pv-magazine.com/2026/01/27/five-trends-for-energy-storage-as-global-market-passes-100-gw/",
-      "date": "2026-01-27T14:00:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Scientists unveil hybrid-energy heat pump combining absorption and compression cycles",
-      "url": "https://www.pv-magazine.com/2026/01/27/scientists-unveil-hybrid-energy-heat-pump-combining-absorption-and-compression-cycles/",
-      "date": "2026-01-27T13:29:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Apex finances 670MW of energy storage, wind, with US$2.79 billion financial commitments",
       "url": "https://www.energy-storage.news/apex-finances-670mw-of-energy-storage-wind-with-us2-79-billion-financial-commitments/",
       "date": "2026-01-15T15:57:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NeoVolta, PotisEdge, Longi form JV for Georgia battery pack and BESS manufacturing facility",
-      "url": "https://www.energy-storage.news/neovolta-potisedge-longi-form-jv-for-georgia-battery-pack-and-bess-manufacturing-facility/",
-      "date": "2026-01-15T15:50:05.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
