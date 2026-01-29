@@ -1,6 +1,20 @@
 {
-  "ts": 1769674982775,
+  "ts": 1769678935970,
   "items": [
+    {
+      "title": "Korean scientists build mini perovskite solar module with 22.56% efficiency",
+      "url": "https://www.pv-magazine.com/2026/01/29/korean-scientists-build-mini-perovskite-solar-module-with-22-56-efficiency/",
+      "date": "2026-01-29T09:13:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Stäubli invests $10 million to expand PV connector manufacturing in India",
+      "url": "https://www.pv-magazine.com/2026/01/29/staubli-invests-10-million-to-expand-pv-connector-manufacturing-in-india/",
+      "date": "2026-01-29T08:45:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "New York City seeks $20 million from Radiant Solar over consumer fraud",
       "url": "https://www.pv-magazine.com/2026/01/29/new-york-city-seeks-20-million-from-radiant-solar-over-consumer-fraud/",
@@ -240,24 +254,10 @@
       "bucket": "A"
     },
     {
-      "title": "Serbia installs 134.3 MW of solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/01/27/serbia-installs-134-3-mw-of-solar-in-2025/",
-      "date": "2026-01-27T10:45:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Germany’s TSOs begin inertia procurement with long-term contracts for grid-forming BESS",
       "url": "https://www.energy-storage.news/germanys-tso-begin-inertia-procurement-with-long-term-contracts-for-grid-forming-bess/",
       "date": "2026-01-27T10:22:22.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fraunhofer ISE developing world&#8217;s first medium-voltage solar plants",
-      "url": "https://www.pv-magazine.com/2026/01/27/fraunhofer-ise-developing-worlds-first-medium-voltage-solar-plants/",
-      "date": "2026-01-27T10:17:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
