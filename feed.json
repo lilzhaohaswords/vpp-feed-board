@@ -1,6 +1,27 @@
 {
-  "ts": 1769678935970,
+  "ts": 1769682178711,
   "items": [
+    {
+      "title": "Sungrow PowerTitan 3.0 BESS debuts in Europe, offering 4-8 hour duration",
+      "url": "https://www.energy-storage.news/sungrow-power-titan-3-ess-debuts-in-europe-at-7-2mw-28-5mwh/",
+      "date": "2026-01-29T09:56:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "European Union battery storage market entered ‘new phase of scale and maturity’ in 2025, but ‘still has a long way to go’",
+      "url": "https://www.energy-storage.news/european-union-battery-storage-market-entered-new-phase-of-scale-and-maturity-in-2025-but-still-has-a-long-way-to-go/",
+      "date": "2026-01-29T09:50:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian rooftop solar reaches record 4,407 MW output in Q4 2025",
+      "url": "https://www.pv-magazine.com/2026/01/29/australian-rooftop-solar-reaches-record-4407-mw-output-in-q4-2025/",
+      "date": "2026-01-29T09:30:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Korean scientists build mini perovskite solar module with 22.56% efficiency",
       "url": "https://www.pv-magazine.com/2026/01/29/korean-scientists-build-mini-perovskite-solar-module-with-22-56-efficiency/",
@@ -244,13 +265,6 @@
       "url": "https://www.energy-storage.news/contourglobal-buys-bess-in-greece-alpiq-in-france-iberdrola-commissions-spains-largest-projects/",
       "date": "2026-01-27T12:23:57.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How to combine C&#038;I solar with compressed air energy storage",
-      "url": "https://www.pv-magazine.com/2026/01/27/how-to-combine-ci-solar-with-compressed-air-energy-storage/",
-      "date": "2026-01-27T12:18:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "NeoVolta, PotisEdge, Longi form JV for Georgia battery pack and BESS manufacturing facility",
       "url": "https://www.energy-storage.news/neovolta-potisedge-longi-form-jv-for-georgia-battery-pack-and-bess-manufacturing-facility/",
       "date": "2026-01-15T15:50:05.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Post-MACSE dynamics make private tolls more attractive, IPP says",
-      "url": "https://www.energy-storage.news/post-macse-dynamics-make-private-tolls-more-attractive-ipp-says/",
-      "date": "2026-01-15T12:15:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Torrent Power picks L&#038;T to build India’s largest pumped hydro storage facility",
-      "url": "https://www.energy-storage.news/torrent-power-picks-lt-to-build-indias-largest-pumped-hydro-storage-facility/",
-      "date": "2026-01-15T04:22:47.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
