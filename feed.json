@@ -1,6 +1,20 @@
 {
-  "ts": 1769768391434,
+  "ts": 1769771895387,
   "items": [
+    {
+      "title": "Sweden deploys 652 MW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/01/30/sweden-deploys-652-mw-of-solar-in-2025/",
+      "date": "2026-01-30T11:04:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "At nearly 200GWh, China&#8217;s new energy storage deployment rate hit record high in 2025",
+      "url": "https://www.energy-storage.news/at-nearly-200gwh-chinas-new-energy-storage-deployment-rate-hit-record-high-in-2025/",
+      "date": "2026-01-30T10:41:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Behind-the meter generation is scaling up to meet “hyperscale” US demand",
       "url": "https://www.pv-magazine.com/2026/01/30/behind-the-meter-generation-is-scaling-up-to-meet-hyperscale-us-demand/",
@@ -215,13 +229,6 @@
       "title": "Cyprus installs 122 MW of solar capacity in 2025",
       "url": "https://www.pv-magazine.com/2026/01/28/cyprus-installs-122-mw-of-solar-capacity-in-2025/",
       "date": "2026-01-28T16:15:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bangladesh signs PPAs for 523 MW of solar capacity",
-      "url": "https://www.pv-magazine.com/2026/01/28/bangladesh-signs-ppas-for-523-mw-of-solar-capacity/",
-      "date": "2026-01-28T15:30:19.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "China deploys 65GWh of BESS in December, 25% of 2025 global total",
       "url": "https://www.energy-storage.news/china-deploys-65gwh-of-bess-in-december-25-of-2025-global-total/",
       "date": "2026-01-16T13:07:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US ROUNDUP: Duke Energy, Elevate, Fluence with BrightNight and Cordelio progress BESS projects",
-      "url": "https://www.energy-storage.news/us-roundup-duke-energy-elevate-fluence-with-brightnight-and-cordelio-progress-bess-projects/",
-      "date": "2026-01-16T12:55:55.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
