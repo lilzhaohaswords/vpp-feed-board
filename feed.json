@@ -1,6 +1,27 @@
 {
-  "ts": 1769780672828,
+  "ts": 1769783034703,
   "items": [
+    {
+      "title": "Agrivoltaics can help lettuce survive extreme heat",
+      "url": "https://www.pv-magazine.com/2026/01/30/agrivoltaics-can-help-lettuce-survive-extreme-heat/",
+      "date": "2026-01-30T14:01:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: Polysilicon output expected to fall by about 15% in January",
+      "url": "https://www.pv-magazine.com/2026/01/30/chinese-pv-industry-brief-dkem-files-cny-200-million-patent-suits-in-jiangsu-court/",
+      "date": "2026-01-30T14:00:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Cubenergy releases energy storage block for utility, C&#038;I applications",
+      "url": "https://www.pv-magazine.com/2026/01/30/cubenergy-releases-energy-storage-block-for-utility-ci-applications/",
+      "date": "2026-01-30T13:58:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Jupiter Power closes US$500 million corporate credit facility to support US BESS projects",
       "url": "https://www.energy-storage.news/jupiter-power-closes-us500-million-corporate-credit-facility-to-support-us-bess-projects/",
@@ -212,13 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "Nissan wheels out solar-powered vehicle",
-      "url": "https://www.pv-magazine.com/2026/01/29/nissan-wheels-out-solar-powered-vehicle/",
-      "date": "2026-01-29T10:25:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Sungrow PowerTitan 3.0 BESS debuts in Europe, offering 4-8 hour duration",
       "url": "https://www.energy-storage.news/sungrow-power-titan-3-ess-debuts-in-europe-at-7-2mw-28-5mwh/",
       "date": "2026-01-29T09:56:16.000Z",
@@ -230,20 +244,6 @@
       "url": "https://www.energy-storage.news/european-union-battery-storage-market-entered-new-phase-of-scale-and-maturity-in-2025-but-still-has-a-long-way-to-go/",
       "date": "2026-01-29T09:50:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian rooftop solar reaches record 4,407 MW output in Q4 2025",
-      "url": "https://www.pv-magazine.com/2026/01/29/australian-rooftop-solar-reaches-record-4407-mw-output-in-q4-2025/",
-      "date": "2026-01-29T09:30:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Korean scientists build mini perovskite solar module with 22.56% efficiency",
-      "url": "https://www.pv-magazine.com/2026/01/29/korean-scientists-build-mini-perovskite-solar-module-with-22-56-efficiency/",
-      "date": "2026-01-29T09:13:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
