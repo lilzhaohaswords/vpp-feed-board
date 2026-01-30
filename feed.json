@@ -1,6 +1,13 @@
 {
-  "ts": 1769734426791,
+  "ts": 1769743110803,
   "items": [
+    {
+      "title": "Battery storage claims 46% share of Australia&#8217;s record 64GW energy investment pipeline",
+      "url": "https://www.energy-storage.news/battery-storage-claims-46-share-of-australias-record-64gw-energy-investment-pipeline/",
+      "date": "2026-01-30T02:42:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sungrow brings grid-forming PowerTitan 3.0 storage system to Europe",
       "url": "https://www.pv-magazine.com/2026/01/29/sungrow-brings-grid-forming-powertitan-3-0-energy-storage-system-to-europe/",
@@ -516,13 +523,6 @@
       "title": "US ROUNDUP: Duke Energy, Elevate, Fluence with BrightNight and Cordelio progress BESS projects",
       "url": "https://www.energy-storage.news/us-roundup-duke-energy-elevate-fluence-with-brightnight-and-cordelio-progress-bess-projects/",
       "date": "2026-01-16T12:55:55.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Year in Review: Flexibility is more valuable than ever, says Fluence",
-      "url": "https://www.energy-storage.news/year-in-review-flexibility-is-more-valuable-than-ever-says-fluence/",
-      "date": "2026-01-16T08:14:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
