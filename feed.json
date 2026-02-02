@@ -1,6 +1,27 @@
 {
-  "ts": 1770035207375,
+  "ts": 1770040338070,
   "items": [
+    {
+      "title": "Europe contracts nearly 24 GWh of BESS under flexibility purchase agreements in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/02/europe-contracts-nearly-24-gwh-of-bess-under-flexibility-purchase-agreements-in-2025/",
+      "date": "2026-02-02T13:20:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US Governors in PJM territory move to unlock renewable energy, energy storage investment",
+      "url": "https://www.energy-storage.news/us-governors-in-pjm-territory-move-to-unlock-renewable-energy-energy-storage-investment/",
+      "date": "2026-02-02T12:52:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "The impact of microclimate effects on floating PV plants",
+      "url": "https://www.pv-magazine.com/2026/02/02/the-impact-of-microclimate-effects-on-floating-pv-plants/",
+      "date": "2026-02-02T12:46:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Silver price drops sharply, falls back below $80 an ounce",
       "url": "https://www.pv-magazine.com/2026/02/02/silver-price-drops-sharply-falls-back-below-80-an-ounce/",
@@ -202,20 +223,6 @@
       "url": "https://www.energy-storage.news/at-nearly-200gwh-chinas-new-energy-storage-deployment-rate-hit-record-high-in-2025/",
       "date": "2026-01-30T10:41:21.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Behind-the meter generation is scaling up to meet “hyperscale” US demand",
-      "url": "https://www.pv-magazine.com/2026/01/30/behind-the-meter-generation-is-scaling-up-to-meet-hyperscale-us-demand/",
-      "date": "2026-01-30T09:15:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s National Electricity Market adds 1.8 GW in Q4 2025",
-      "url": "https://www.pv-magazine.com/2026/01/30/australias-national-electricity-market-adds-1-8-gw-in-q4-2025/",
-      "date": "2026-01-30T08:30:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "ANZA Power secures US$300 million from I Squared for Australia-New Zealand portfolio",
       "url": "https://www.energy-storage.news/anza-power-secures-us300-million-from-i-squared-for-australia-new-zealand-portfolio/",
       "date": "2026-01-20T02:08:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Akaysha Energy switches on 410MWh grid-forming BESS in Australia five months ahead of schedule",
-      "url": "https://www.energy-storage.news/akaysha-energy-switches-on-410mwh-grid-forming-bess-in-australia-five-months-ahead-of-schedule/",
-      "date": "2026-01-20T02:06:03.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
