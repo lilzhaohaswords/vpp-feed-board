@@ -1,6 +1,20 @@
 {
-  "ts": 1770028293168,
+  "ts": 1770031562642,
   "items": [
+    {
+      "title": "Solar-plus-storage for data centers: not a simple switch",
+      "url": "https://www.pv-magazine.com/2026/02/02/solar-plus-storage-for-data-centers-not-a-simple-switch/",
+      "date": "2026-02-02T11:18:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bulgaria installs 1.4 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/02/bulgaria-installs-1-4-gw-of-solar-in-2025/",
+      "date": "2026-02-02T10:59:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Tesla, Chint Power lead new long-duration storage leaderboard",
       "url": "https://www.pv-magazine.com/2026/02/02/tesla-chint-power-lead-new-long-duration-storage-leaderboard/",
@@ -201,20 +215,6 @@
       "title": "TOPCon cell prices rise for fourth week amid elevated silver costs and export rebate uncertainty",
       "url": "https://www.pv-magazine.com/2026/01/30/topcon-cell-prices-rise-for-fourth-week-amid-elevated-silver-costs-and-export-rebate-uncertainty/",
       "date": "2026-01-30T08:14:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Dutch utility testing &#8216;silent&#8217; residential heat pumps",
-      "url": "https://www.pv-magazine.com/2026/01/30/dutch-utility-testing-silent-residential-heat-pumps/",
-      "date": "2026-01-30T07:53:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US firefighters favor microinverter-based rooftop solar for safety",
-      "url": "https://www.pv-magazine.com/2026/01/30/us-firefighters-favor-microinverter-based-rooftop-solar-for-safety/",
-      "date": "2026-01-30T07:45:11.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
