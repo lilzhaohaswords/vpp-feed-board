@@ -1,6 +1,20 @@
 {
-  "ts": 1769993833464,
+  "ts": 1770003380992,
   "items": [
+    {
+      "title": "BW ESS proposes 1.6GWh battery energy storage facility for the Hunter Valley in Australia",
+      "url": "https://www.energy-storage.news/bw-ess-proposes-1-6gwh-battery-energy-storage-facility-for-the-hunter-valley-in-australia/",
+      "date": "2026-02-02T03:07:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Origin Energy begins generating revenue from two utility-scale battery storage sites in Australia",
+      "url": "https://www.energy-storage.news/origin-energy-begins-generating-revenue-from-two-utility-scale-battery-storage-sites-in-australia/",
+      "date": "2026-02-02T03:00:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Repsol, Sunfire advance 200 MW of green H2 in Spain",
       "url": "https://www.pv-magazine.com/2026/01/30/the-hydrogen-stream-germanys-collaboration-with-spain-and-india-takes-shape/",
@@ -509,20 +523,6 @@
       "title": "Arizona utilities approve new technologies to accelerate residential storage and VPP deployment",
       "url": "https://www.energy-storage.news/arizona-utilities-approve-new-technologies-to-accelerate-residential-storage-and-vpp-deployment/",
       "date": "2026-01-19T13:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Inlyte Energy completes UK factory acceptance test, CEO says US must &#8216;make better technologies&#8217; than China",
-      "url": "https://www.energy-storage.news/inlyte-energy-completes-uk-factory-acceptance-test-ceo-says-us-must-make-better-technologies-than-china/",
-      "date": "2026-01-19T13:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "German BESS flexibility platform and operator Terralayr raises €192 million",
-      "url": "https://www.energy-storage.news/german-bess-flexibility-platform-and-operator-terralayr-raises-e192-million/",
-      "date": "2026-01-19T11:01:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
