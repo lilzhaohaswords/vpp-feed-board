@@ -1,6 +1,13 @@
 {
-  "ts": 1770031562642,
+  "ts": 1770035207375,
   "items": [
+    {
+      "title": "Silver price drops sharply, falls back below $80 an ounce",
+      "url": "https://www.pv-magazine.com/2026/02/02/silver-price-drops-sharply-falls-back-below-80-an-ounce/",
+      "date": "2026-02-02T12:23:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar-plus-storage for data centers: not a simple switch",
       "url": "https://www.pv-magazine.com/2026/02/02/solar-plus-storage-for-data-centers-not-a-simple-switch/",
@@ -208,13 +215,6 @@
       "title": "Australia’s National Electricity Market adds 1.8 GW in Q4 2025",
       "url": "https://www.pv-magazine.com/2026/01/30/australias-national-electricity-market-adds-1-8-gw-in-q4-2025/",
       "date": "2026-01-30T08:30:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "TOPCon cell prices rise for fourth week amid elevated silver costs and export rebate uncertainty",
-      "url": "https://www.pv-magazine.com/2026/01/30/topcon-cell-prices-rise-for-fourth-week-amid-elevated-silver-costs-and-export-rebate-uncertainty/",
-      "date": "2026-01-30T08:14:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
