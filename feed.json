@@ -1,6 +1,20 @@
 {
-  "ts": 1770009474204,
+  "ts": 1770014722518,
   "items": [
+    {
+      "title": "China added 66.43 GW of new-type energy storage in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/02/china-added-66-43-gw-of-new-type-energy-storage-in-2025/",
+      "date": "2026-02-02T06:21:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Uncertainty looms as U.S. solar PPA prices climb for second straight quarter",
+      "url": "https://www.pv-magazine.com/2026/02/02/uncertainty-looms-as-u-s-solar-ppa-prices-climb-for-second-straight-quarter/",
+      "date": "2026-02-02T06:15:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "BW ESS proposes 1.6GWh battery energy storage facility for the Hunter Valley in Australia",
       "url": "https://www.energy-storage.news/bw-ess-proposes-1-6gwh-battery-energy-storage-facility-for-the-hunter-valley-in-australia/",
@@ -223,20 +237,6 @@
       "url": "https://www.energy-storage.news/tesla-top-energy-dome-the-highest-non-lithium-firm-in-new-ldes-supplier-ranking/",
       "date": "2026-01-29T13:55:43.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Testing fault at 100 MW battery disrupts Estonia-Finland power link",
-      "url": "https://www.pv-magazine.com/2026/01/29/testing-fault-at-100-mw-battery-disrupts-estonia-finland-power-link/",
-      "date": "2026-01-29T13:09:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Moonwatt brings DC-coupled, passively cooled sodium-ion tech to solar projects",
-      "url": "https://www.pv-magazine.com/2026/01/29/moonwatt-brings-dc-coupled-passively-cooled-sodium-ion-tech-to-solar-projects/",
-      "date": "2026-01-29T12:57:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
