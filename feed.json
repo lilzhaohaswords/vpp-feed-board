@@ -1,6 +1,20 @@
 {
-  "ts": 1770018045919,
+  "ts": 1770020844894,
   "items": [
+    {
+      "title": "Reducing PV module temperature with leaf vein–inspired fins",
+      "url": "https://www.pv-magazine.com/2026/02/02/reducing-pv-module-temperature-with-leaf-vein-inspired-fins/",
+      "date": "2026-02-02T08:25:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How to design a UL-certified balcony solar kit in the United States",
+      "url": "https://www.pv-magazine.com/2026/02/02/how-to-design-a-ul-certified-balcony-solar-kit-in-the-united-states/",
+      "date": "2026-02-02T07:45:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "UNSW researchers identify new damp heat-induced failure mechanism in TOPCon solar modules",
       "url": "https://www.pv-magazine.com/2026/02/02/unsw-researchers-identify-new-damp-heat-induced-failure-mechanism-in-topcon-solar-modules/",
@@ -201,20 +215,6 @@
       "title": "Sungrow brings grid-forming PowerTitan 3.0 storage system to Europe",
       "url": "https://www.pv-magazine.com/2026/01/29/sungrow-brings-grid-forming-powertitan-3-0-energy-storage-system-to-europe/",
       "date": "2026-01-29T16:15:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Samsung releases new all-in-one heat pump for residential use",
-      "url": "https://www.pv-magazine.com/2026/01/29/samsung-releases-new-all-in-one-heat-pump-for-residential-use/",
-      "date": "2026-01-29T15:22:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "SolarEdge, Helioplant build 6.3 MW &#8216;cross-shaped&#8217; bifacial PV system for Alpine regions",
-      "url": "https://www.pv-magazine.com/2026/01/29/solaredge-helioplant-bifacial-solar-pv-installation-snow-albedo-austria-ski-resorts/",
-      "date": "2026-01-29T14:40:20.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
