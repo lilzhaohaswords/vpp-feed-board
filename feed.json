@@ -1,6 +1,34 @@
 {
-  "ts": 1770020844894,
+  "ts": 1770024765876,
   "items": [
+    {
+      "title": "Bhutan to develop new solar, hydropower projects",
+      "url": "https://www.pv-magazine.com/2026/02/02/bhutan-to-develop-new-solar-hydropower-projects/",
+      "date": "2026-02-02T09:31:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tesla energy storage deployments jumped in ‘crucial AI transformation year&#8217;; company expects margin compression in 2026",
+      "url": "https://www.energy-storage.news/tesla-energy-storage-deployments-jumped-in-crucial-ai-transformation-year-company-expects-margin-compression-in-2026/",
+      "date": "2026-02-02T09:24:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "India renewables seek policy clarity, storage incentives in Union Budget 2026",
+      "url": "https://www.pv-magazine.com/2026/02/02/india-renewables-seek-policy-clarity-storage-incentives-in-union-budget-2026/",
+      "date": "2026-02-02T09:15:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian renewables exceed 50% of power supply in Q4",
+      "url": "https://www.pv-magazine.com/2026/02/02/australian-renewables-exceed-50-of-power-supply-in-q4/",
+      "date": "2026-02-02T08:30:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Reducing PV module temperature with leaf vein–inspired fins",
       "url": "https://www.pv-magazine.com/2026/02/02/reducing-pv-module-temperature-with-leaf-vein-inspired-fins/",
@@ -191,31 +219,10 @@
       "bucket": "A"
     },
     {
-      "title": "Korean scientists boost performance of tin monosulfide cells with new post-treatment",
-      "url": "https://www.pv-magazine.com/2026/01/30/korean-scientists-boost-performance-of-tin-monosulfide-cells-with-new-post-treatment/",
-      "date": "2026-01-30T06:54:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "A closer look at Tesla&#8217;s new residential solar panels",
-      "url": "https://www.pv-magazine.com/2026/01/30/a-closer-look-at-teslas-new-residential-solar-panels/",
-      "date": "2026-01-30T06:44:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Battery storage claims 46% share of Australia&#8217;s record 64GW energy investment pipeline",
       "url": "https://www.energy-storage.news/battery-storage-claims-46-share-of-australias-record-64gw-energy-investment-pipeline/",
       "date": "2026-01-30T02:42:46.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow brings grid-forming PowerTitan 3.0 storage system to Europe",
-      "url": "https://www.pv-magazine.com/2026/01/29/sungrow-brings-grid-forming-powertitan-3-0-energy-storage-system-to-europe/",
-      "date": "2026-01-29T16:15:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Akaysha Energy switches on 410MWh grid-forming BESS in Australia five months ahead of schedule",
       "url": "https://www.energy-storage.news/akaysha-energy-switches-on-410mwh-grid-forming-bess-in-australia-five-months-ahead-of-schedule/",
       "date": "2026-01-20T02:06:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Arizona utilities approve new technologies to accelerate residential storage and VPP deployment",
-      "url": "https://www.energy-storage.news/arizona-utilities-approve-new-technologies-to-accelerate-residential-storage-and-vpp-deployment/",
-      "date": "2026-01-19T13:00:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
