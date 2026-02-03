@@ -1,6 +1,27 @@
 {
-  "ts": 1770121641770,
+  "ts": 1770126840014,
   "items": [
+    {
+      "title": "Germany, France, Netherlands curtail 3.9 TWh of renewables in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/03/germany-france-netherlands-curtail-3-9-twh-of-renewables-in-2025/",
+      "date": "2026-02-03T13:50:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Berkshire Hathaway Energy Montana energises 150MWh BESS",
+      "url": "https://www.energy-storage.news/berkshire-hathaway-energy-montana-energises-150mwh-bess/",
+      "date": "2026-02-03T13:47:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘Scrutinising origin, ownership, and control&#8217;: FEOC rules change US BESS buying",
+      "url": "https://www.energy-storage.news/scrutinising-origin-ownership-and-control-feoc-rules-change-us-bess-buying/",
+      "date": "2026-02-03T13:30:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Growatt launches 5 kWh AC-coupled balcony storage system",
       "url": "https://www.pv-magazine.com/2026/02/03/growatt-launches-5-kwh-ac-coupled-balcony-storage-system/",
@@ -215,13 +236,6 @@
       "title": "Australian renewables exceed 50% of power supply in Q4",
       "url": "https://www.pv-magazine.com/2026/02/02/australian-renewables-exceed-50-of-power-supply-in-q4/",
       "date": "2026-02-02T08:30:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Reducing PV module temperature with leaf vein–inspired fins",
-      "url": "https://www.pv-magazine.com/2026/02/02/reducing-pv-module-temperature-with-leaf-vein-inspired-fins/",
-      "date": "2026-02-02T08:25:05.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Over 2GWh of Europe BESS completed, financed and transacted in past week",
       "url": "https://www.energy-storage.news/over-2gwh-of-europe-bess-completed-financed-and-transacted-in-past-week/",
       "date": "2026-01-21T11:54:39.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Year in Review: BESS industry maturing through &#8216;growing pains&#8217; says Wärtsilä software VP",
-      "url": "https://www.energy-storage.news/year-in-review-bess-industry-maturing-through-growing-pains-says-wartsila-software-vp/",
-      "date": "2026-01-21T10:30:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery trading performance: Demystifying normalised revenue and percent of perfect foresight",
-      "url": "https://www.energy-storage.news/battery-trading-performance-demystifying-normalised-revenue-and-percent-of-perfect-foresight/",
-      "date": "2026-01-21T00:57:49.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
