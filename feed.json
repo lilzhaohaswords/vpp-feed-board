@@ -1,6 +1,20 @@
 {
-  "ts": 1770106952594,
+  "ts": 1770110780660,
   "items": [
+    {
+      "title": "BNEF report shows drop-off in support for standalone PV in Australia",
+      "url": "https://www.pv-magazine.com/2026/02/03/bnef-report-shows-drop-off-in-support-for-standalone-pv-in-australia/",
+      "date": "2026-02-03T08:30:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "NREL researchers quantify UV-induced degradation levels in TOPCon solar cells",
+      "url": "https://www.pv-magazine.com/2026/02/03/nrel-researchers-quantify-uv-induced-degradation-levels-in-topcon-solar-cells/",
+      "date": "2026-02-03T08:29:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Enphase Energy cuts about 6% of workforce",
       "url": "https://www.pv-magazine.com/2026/02/03/enphase-energy-cuts-about-6-of-workforce/",
@@ -201,20 +215,6 @@
       "title": "TheStorage launches its first industrial-scale sand-based heat storage system",
       "url": "https://www.pv-magazine.com/2026/01/30/thestorage-launches-its-first-industrial-scale-sand-based-heat-storage-system/",
       "date": "2026-01-30T14:29:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Agrivoltaics can help lettuce survive extreme heat",
-      "url": "https://www.pv-magazine.com/2026/01/30/agrivoltaics-can-help-lettuce-survive-extreme-heat/",
-      "date": "2026-01-30T14:01:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: Polysilicon output set to fall by 15% in January",
-      "url": "https://www.pv-magazine.com/2026/01/30/chinese-pv-industry-brief-dkem-files-cny-200-million-patent-suits-in-jiangsu-court/",
-      "date": "2026-01-30T14:00:37.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
