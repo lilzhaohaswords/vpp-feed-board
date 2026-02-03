@@ -1,6 +1,20 @@
 {
-  "ts": 1770114375428,
+  "ts": 1770117828049,
   "items": [
+    {
+      "title": "Uniper signs 5GWh conditional supply agreement for CMBlu&#8217;s organic flow batteries",
+      "url": "https://www.energy-storage.news/uniper-signs-5gwh-conditional-supply-agreement-for-cmblus-organic-flow-batteries/",
+      "date": "2026-02-03T10:50:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Onyx Solar BIPV solution turns skyscraper skin into power source",
+      "url": "https://www.pv-magazine.com/2026/02/03/onyx-solar-bipv-solution-turns-skyscraper-skin-into-power-source/",
+      "date": "2026-02-03T10:30:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "As data centre capacity surges, merchant revenue battery storage play emerges as a consideration, financier says",
       "url": "https://www.energy-storage.news/as-data-centre-capacity-surges-merchant-revenue-battery-storage-play-emerges-as-a-consideration-financier-says/",
@@ -216,13 +230,6 @@
       "url": "https://www.energy-storage.news/origin-energy-begins-generating-revenue-from-two-utility-scale-battery-storage-sites-in-australia/",
       "date": "2026-02-02T03:00:48.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Repsol, Sunfire advance 200 MW of green H2 in Spain",
-      "url": "https://www.pv-magazine.com/2026/01/30/the-hydrogen-stream-germanys-collaboration-with-spain-and-india-takes-shape/",
-      "date": "2026-01-30T16:45:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Year in Review: Law firm Troutman Pepper Locke on FEOC and the &#8216;privileged status&#8217; of battery storage",
       "url": "https://www.energy-storage.news/year-in-review-law-firm-troutman-pepper-locke-on-feoc-and-the-privileged-status-of-battery-storage/",
       "date": "2026-01-20T11:59:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UK developers grappling with grid connection reform and LDES scheme implications",
-      "url": "https://www.energy-storage.news/uk-developers-grappling-with-grid-connection-reform-and-ldes-scheme-implications/",
-      "date": "2026-01-20T11:30:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
