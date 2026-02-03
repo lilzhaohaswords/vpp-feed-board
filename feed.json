@@ -1,6 +1,13 @@
 {
-  "ts": 1770103986337,
+  "ts": 1770106952594,
   "items": [
+    {
+      "title": "Enphase Energy cuts about 6% of workforce",
+      "url": "https://www.pv-magazine.com/2026/02/03/enphase-energy-cuts-about-6-of-workforce/",
+      "date": "2026-02-03T07:45:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Tonic Group bags rapid EPBC Act approval for 440MWh solar-plus-storage site in Western Australia",
       "url": "https://www.energy-storage.news/tonic-group-bags-rapid-epbc-act-approval-for-440mwh-solar-plus-storage-site-in-western-australia/",
@@ -208,13 +215,6 @@
       "title": "Chinese PV Industry Brief: Polysilicon output set to fall by 15% in January",
       "url": "https://www.pv-magazine.com/2026/01/30/chinese-pv-industry-brief-dkem-files-cny-200-million-patent-suits-in-jiangsu-court/",
       "date": "2026-01-30T14:00:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cubenergy releases energy storage block for utility, C&#038;I applications",
-      "url": "https://www.pv-magazine.com/2026/01/30/cubenergy-releases-energy-storage-block-for-utility-ci-applications/",
-      "date": "2026-01-30T13:58:14.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
