@@ -1,6 +1,13 @@
 {
-  "ts": 1770126840014,
+  "ts": 1770129299339,
   "items": [
+    {
+      "title": "Senegal&#8217;s solar capacity hits 671 MW",
+      "url": "https://www.pv-magazine.com/2026/02/03/senegals-solar-capacity-hits-671-mw/",
+      "date": "2026-02-03T14:32:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Germany, France, Netherlands curtail 3.9 TWh of renewables in 2025",
       "url": "https://www.pv-magazine.com/2026/02/03/germany-france-netherlands-curtail-3-9-twh-of-renewables-in-2025/",
@@ -229,13 +236,6 @@
       "title": "India renewables seek policy clarity, storage incentives in Union Budget 2026",
       "url": "https://www.pv-magazine.com/2026/02/02/india-renewables-seek-policy-clarity-storage-incentives-in-union-budget-2026/",
       "date": "2026-02-02T09:15:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian renewables exceed 50% of power supply in Q4",
-      "url": "https://www.pv-magazine.com/2026/02/02/australian-renewables-exceed-50-of-power-supply-in-q4/",
-      "date": "2026-02-02T08:30:31.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
