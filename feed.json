@@ -1,6 +1,41 @@
 {
-  "ts": 1770117828049,
+  "ts": 1770121641770,
   "items": [
+    {
+      "title": "Growatt launches 5 kWh AC-coupled balcony storage system",
+      "url": "https://www.pv-magazine.com/2026/02/03/growatt-launches-5-kwh-ac-coupled-balcony-storage-system/",
+      "date": "2026-02-03T12:11:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chile installs 1.1 GW of PV in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/03/chile-installs-1-1-gw-of-pv-in-2025/",
+      "date": "2026-02-03T12:06:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Finland adds 227 MW of utility-scale solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/03/finland-adds-227-mw-of-utility-scale-solar-in-2025/",
+      "date": "2026-02-03T12:03:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "WTO rules US clean energy tax credits violate trade rules",
+      "url": "https://www.pv-magazine.com/2026/02/03/wto-rules-us-clean-energy-tax-credits-violate-trade-rules/",
+      "date": "2026-02-03T11:58:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Spain&#8217;s regulatory landscape still incomplete&#8217;: Nuveen on bankability in Southern Europe",
+      "url": "https://www.energy-storage.news/spains-regulatory-landscape-still-incomplete-nuveen-on-bankability-in-southern-europe/",
+      "date": "2026-02-03T11:24:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Uniper signs 5GWh conditional supply agreement for CMBlu&#8217;s organic flow batteries",
       "url": "https://www.energy-storage.news/uniper-signs-5gwh-conditional-supply-agreement-for-cmblus-organic-flow-batteries/",
@@ -187,34 +222,6 @@
       "title": "Reducing PV module temperature with leaf vein–inspired fins",
       "url": "https://www.pv-magazine.com/2026/02/02/reducing-pv-module-temperature-with-leaf-vein-inspired-fins/",
       "date": "2026-02-02T08:25:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How to design a UL-certified balcony solar kit in the United States",
-      "url": "https://www.pv-magazine.com/2026/02/02/how-to-design-a-ul-certified-balcony-solar-kit-in-the-united-states/",
-      "date": "2026-02-02T07:45:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UNSW researchers identify new damp heat-induced failure mechanism in TOPCon solar modules",
-      "url": "https://www.pv-magazine.com/2026/02/02/unsw-researchers-identify-new-damp-heat-induced-failure-mechanism-in-topcon-solar-modules/",
-      "date": "2026-02-02T07:32:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China added 66.43 GW of new-type energy storage in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/02/china-added-66-43-gw-of-new-type-energy-storage-in-2025/",
-      "date": "2026-02-02T06:21:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Uncertainty looms as U.S. solar PPA prices climb for second straight quarter",
-      "url": "https://www.pv-magazine.com/2026/02/02/uncertainty-looms-as-u-s-solar-ppa-prices-climb-for-second-straight-quarter/",
-      "date": "2026-02-02T06:15:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Battery trading performance: Demystifying normalised revenue and percent of perfect foresight",
       "url": "https://www.energy-storage.news/battery-trading-performance-demystifying-normalised-revenue-and-percent-of-perfect-foresight/",
       "date": "2026-01-21T00:57:49.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Year in Review: Law firm Troutman Pepper Locke on FEOC and the &#8216;privileged status&#8217; of battery storage",
-      "url": "https://www.energy-storage.news/year-in-review-law-firm-troutman-pepper-locke-on-feoc-and-the-privileged-status-of-battery-storage/",
-      "date": "2026-01-20T11:59:19.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
