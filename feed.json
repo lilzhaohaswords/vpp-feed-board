@@ -1,6 +1,20 @@
 {
-  "ts": 1770186822782,
+  "ts": 1770190530457,
   "items": [
+    {
+      "title": "US solar capacity overtakes wind",
+      "url": "https://www.pv-magazine.com/2026/02/04/us-solar-capacity-overtakes-wind/",
+      "date": "2026-02-04T07:30:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New surface texturing boosts TOPCon solar cell efficiency by 1%",
+      "url": "https://www.pv-magazine.com/2026/02/04/new-surface-texturing-boosts-topcon-solar-cell-efficiency-by-1/",
+      "date": "2026-02-04T07:27:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "U.S.-India trade deal reduces solar tariffs",
       "url": "https://www.pv-magazine.com/2026/02/04/u-s-india-trade-deal-reduces-solar-tariffs/",
@@ -215,20 +229,6 @@
       "title": "Silver price drops sharply, falls back below $80 an ounce",
       "url": "https://www.pv-magazine.com/2026/02/02/silver-price-drops-sharply-falls-back-below-80-an-ounce/",
       "date": "2026-02-02T12:23:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar-plus-storage for data centers: not a simple switch",
-      "url": "https://www.pv-magazine.com/2026/02/02/solar-plus-storage-for-data-centers-not-a-simple-switch/",
-      "date": "2026-02-02T11:18:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bulgaria installs 1.4 GW of solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/02/bulgaria-installs-1-4-gw-of-solar-in-2025/",
-      "date": "2026-02-02T10:59:43.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
