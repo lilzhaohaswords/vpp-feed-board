@@ -1,6 +1,20 @@
 {
-  "ts": 1770204209342,
+  "ts": 1770208067087,
   "items": [
+    {
+      "title": "Guided-learning model for PV power forecasting without irradiance sensors",
+      "url": "https://www.pv-magazine.com/2026/02/04/guided-learning-model-for-pv-power-forecasting-without-irradiance-sensors/",
+      "date": "2026-02-04T12:14:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Philippines accelerates permits for solar net-metering",
+      "url": "https://www.pv-magazine.com/2026/02/04/philippines-accelerates-permits-for-solar-net-metering/",
+      "date": "2026-02-04T11:31:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "LG Energy Solution targets 50% share of US energy storage market in 2026",
       "url": "https://www.energy-storage.news/lg-energy-solution-targets-50-percent-share-of-us-energy-storage-market-in-2026/",
@@ -208,20 +222,6 @@
       "title": "BNEF report shows drop-off in support for standalone PV in Australia",
       "url": "https://www.pv-magazine.com/2026/02/03/bnef-report-shows-drop-off-in-support-for-standalone-pv-in-australia/",
       "date": "2026-02-03T08:30:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "NREL researchers quantify UV-induced degradation levels in TOPCon solar cells",
-      "url": "https://www.pv-magazine.com/2026/02/03/nrel-researchers-quantify-uv-induced-degradation-levels-in-topcon-solar-cells/",
-      "date": "2026-02-03T08:29:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Enphase Energy cuts about 6% of workforce",
-      "url": "https://www.pv-magazine.com/2026/02/03/enphase-energy-cuts-about-6-of-workforce/",
-      "date": "2026-02-03T07:45:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
