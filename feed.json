@@ -1,6 +1,27 @@
 {
-  "ts": 1770200762855,
+  "ts": 1770204209342,
   "items": [
+    {
+      "title": "LG Energy Solution targets 50% share of US energy storage market in 2026",
+      "url": "https://www.energy-storage.news/lg-energy-solution-targets-50-percent-share-of-us-energy-storage-market-in-2026/",
+      "date": "2026-02-04T11:16:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Saudi Arabia could hit net-zero emissions by 2060, with 151 GW of solar",
+      "url": "https://www.pv-magazine.com/2026/02/04/saudi-arabia-could-hit-net-zero-emissions-by-2060-with-151-gw-of-solar/",
+      "date": "2026-02-04T10:44:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Indonesia’s solar capacity reaches 1.49 GW",
+      "url": "https://www.pv-magazine.com/2026/02/04/indonesias-solar-capacity-reaches-1-49-gw/",
+      "date": "2026-02-04T10:30:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Why the best way to avoid BESS commissioning delays is to start earlier than you might expect",
       "url": "https://www.energy-storage.news/why-the-best-way-to-avoid-bess-commissioning-delays-is-to-start-earlier-than-you-might-expect/",
@@ -216,20 +237,6 @@
       "url": "https://www.energy-storage.news/western-australias-era-proposes-au491700-mw-benchmark-price-driven-by-1200mwh-battery-storage-specifications/",
       "date": "2026-02-03T02:33:28.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain deploys 1.13 GW of solar for self-consumption in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/02/spain-deploys-1-13-gw-of-solar-for-self-consumption-in-2025/",
-      "date": "2026-02-02T16:15:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Key takeaways from Solar Flex Prague",
-      "url": "https://www.pv-magazine.com/2026/02/02/key-takeaways-from-solar-flex-prague/",
-      "date": "2026-02-02T15:30:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Virginia proposes 20.78GW storage mandate as Trump, governors call for emergency PJM grid measures",
       "url": "https://www.energy-storage.news/virginia-proposes-20-78gw-storage-mandate-as-trump-governors-call-for-emergency-pjm-grid-measures/",
       "date": "2026-01-21T14:28:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UK battery storage development market moves from speculation to execution",
-      "url": "https://www.energy-storage.news/uk-battery-storage-development-market-moves-from-speculation-to-execution/",
-      "date": "2026-01-21T11:57:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
