@@ -1,6 +1,27 @@
 {
-  "ts": 1770197407400,
+  "ts": 1770200762855,
   "items": [
+    {
+      "title": "Why the best way to avoid BESS commissioning delays is to start earlier than you might expect",
+      "url": "https://www.energy-storage.news/why-the-best-way-to-avoid-bess-commissioning-delays-is-to-start-earlier-than-you-might-expect/",
+      "date": "2026-02-04T10:22:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "The transition to back contact follows market trend toward long-term solar project sustainability",
+      "url": "https://www.pv-magazine.com/2026/02/04/the-transition-to-back-contact-follows-market-trend-toward-long-term-solar-project-sustainability/",
+      "date": "2026-02-04T10:00:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Battery management systems key to deploying batteries in data centers",
+      "url": "https://www.pv-magazine.com/2026/02/04/battery-management-systems-key-to-deploying-batteries-in-data-centers/",
+      "date": "2026-02-04T09:53:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India installs more than 2.08 million rooftop solar systems under PM scheme",
       "url": "https://www.pv-magazine.com/2026/02/04/india-installs-more-than-2-08-million-rooftop-solar-systems-under-pm-scheme/",
@@ -208,20 +229,6 @@
       "title": "Key takeaways from Solar Flex Prague",
       "url": "https://www.pv-magazine.com/2026/02/02/key-takeaways-from-solar-flex-prague/",
       "date": "2026-02-02T15:30:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Data center survey reveals majority believe renewables and BESS are the ideal energy mix, power issues start in 2027",
-      "url": "https://www.pv-magazine.com/2026/02/02/data-center-survey-reveals-majority-believe-renewables-and-bess-are-the-ideal-energy-mix-power-issues-start-in-2027/",
-      "date": "2026-02-02T15:26:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil curtails 20% of solar and wind output in 2025, with losses at $1.2 billion",
-      "url": "https://www.pv-magazine.com/2026/02/02/brazil-curtails-20-of-solar-and-wind-output-in-2025-with-losses-at-1-2-billion/",
-      "date": "2026-02-02T15:08:52.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "UK battery storage development market moves from speculation to execution",
       "url": "https://www.energy-storage.news/uk-battery-storage-development-market-moves-from-speculation-to-execution/",
       "date": "2026-01-21T11:57:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Over 2GWh of Europe BESS completed, financed and transacted in past week",
-      "url": "https://www.energy-storage.news/over-2gwh-of-europe-bess-completed-financed-and-transacted-in-past-week/",
-      "date": "2026-01-21T11:54:39.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
