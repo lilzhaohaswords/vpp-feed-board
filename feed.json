@@ -1,6 +1,20 @@
 {
-  "ts": 1770190530457,
+  "ts": 1770193488308,
   "items": [
+    {
+      "title": "Australia’s rooftop solar hits 28.3 GW as home battery uptake surges",
+      "url": "https://www.pv-magazine.com/2026/02/04/australias-rooftop-solar-hits-28-3-gw-as-home-battery-uptake-surges/",
+      "date": "2026-02-04T08:15:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Maxwell claims 26.92% efficiency for heterojunction solar cell",
+      "url": "https://www.pv-magazine.com/2026/02/04/maxwell-claims-26-92-efficiency-for-heterojunction-solar-cell/",
+      "date": "2026-02-04T07:51:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US solar capacity overtakes wind",
       "url": "https://www.pv-magazine.com/2026/02/04/us-solar-capacity-overtakes-wind/",
@@ -216,20 +230,6 @@
       "url": "https://www.energy-storage.news/us-governors-in-pjm-territory-move-to-unlock-renewable-energy-energy-storage-investment/",
       "date": "2026-02-02T12:52:13.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The impact of microclimate effects on floating PV plants",
-      "url": "https://www.pv-magazine.com/2026/02/02/the-impact-of-microclimate-effects-on-floating-pv-plants/",
-      "date": "2026-02-02T12:46:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Silver price drops sharply, falls back below $80 an ounce",
-      "url": "https://www.pv-magazine.com/2026/02/02/silver-price-drops-sharply-falls-back-below-80-an-ounce/",
-      "date": "2026-02-02T12:23:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
