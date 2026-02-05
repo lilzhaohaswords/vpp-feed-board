@@ -1,6 +1,13 @@
 {
-  "ts": 1770302216057,
+  "ts": 1770305313285,
   "items": [
+    {
+      "title": "Photovoltaics for salmon farms",
+      "url": "https://www.pv-magazine.com/2026/02/05/photovoltaics-for-salmon-farms/",
+      "date": "2026-02-05T15:20:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "&#8216;Reversible solid oxide fuel cells&#8217;: Noon Energy&#8217;s approach to 100+ hour energy storage",
       "url": "https://www.energy-storage.news/reversible-solid-oxide-fuel-cells-noon-energys-approach-to-100-hour-energy-storage/",
@@ -264,13 +271,6 @@
       "title": "Battery management systems key to deploying batteries in data centers",
       "url": "https://www.pv-magazine.com/2026/02/04/battery-management-systems-key-to-deploying-batteries-in-data-centers/",
       "date": "2026-02-04T09:53:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India installs more than 2.08 million rooftop solar systems under PM scheme",
-      "url": "https://www.pv-magazine.com/2026/02/04/india-installs-more-than-2-08-million-rooftop-solar-systems-under-pm-scheme/",
-      "date": "2026-02-04T09:00:13.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
