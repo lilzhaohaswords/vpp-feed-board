@@ -1,6 +1,27 @@
 {
-  "ts": 1770273622887,
+  "ts": 1770277234301,
   "items": [
+    {
+      "title": "Global BESS capacity tops 250 GW, overtaking pumped hydro for first time",
+      "url": "https://www.pv-magazine.com/2026/02/05/global-bess-capacity-tops-250-gw-overtaking-pumped-hydro-for-first-time/",
+      "date": "2026-02-05T07:30:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "German researchers develop sodium-ion battery based on lignin",
+      "url": "https://www.pv-magazine.com/2026/02/05/german-researchers-develop-sodium-ion-battery-based-on-lignin/",
+      "date": "2026-02-05T07:28:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Philippines House of Representatives passes national energy storage framework legislation",
+      "url": "https://www.energy-storage.news/philippines-house-of-representatives-passes-national-energy-storage-framework-legislation/",
+      "date": "2026-02-05T07:14:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Vietnam more cost-competitive than India in cell, PV module production, says IRENA",
       "url": "https://www.pv-magazine.com/2026/02/05/vietnam-more-cost-competitive-than-india-in-cell-pv-module-production-says-irena/",
@@ -236,20 +257,6 @@
       "title": "Chile installs 1.1 GW of PV in 2025",
       "url": "https://www.pv-magazine.com/2026/02/03/chile-installs-1-1-gw-of-pv-in-2025/",
       "date": "2026-02-03T12:06:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Finland adds 227 MW of utility-scale solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/03/finland-adds-227-mw-of-utility-scale-solar-in-2025/",
-      "date": "2026-02-03T12:03:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "WTO finds US clean energy tax credits violate trade rules",
-      "url": "https://www.pv-magazine.com/2026/02/03/wto-rules-us-clean-energy-tax-credits-violate-trade-rules/",
-      "date": "2026-02-03T11:58:52.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "EV slowdown creates potential lifeline for US energy storage amid FEOC, tariffs",
       "url": "https://www.energy-storage.news/ev-slowdown-creates-potential-lifeline-for-us-energy-storage-amid-feoc-tariffs/",
       "date": "2026-01-22T14:52:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US startup Noon Energy unveils ‘multi-day baseload&#8217; energy storage tech demonstration",
-      "url": "https://www.energy-storage.news/us-startup-noon-energy-unveils-multi-day-baseload-energy-storage-tech-demonstration/",
-      "date": "2026-01-22T14:40:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
