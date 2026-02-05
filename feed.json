@@ -1,6 +1,27 @@
 {
-  "ts": 1770290698427,
+  "ts": 1770294502903,
   "items": [
+    {
+      "title": "Fluence revenue up 154% but margin halves in last three months of 2025",
+      "url": "https://www.energy-storage.news/fluence-revenue-up-154-but-margin-halves-in-last-three-months-of-2025/",
+      "date": "2026-02-05T12:02:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Latvia’s largest single-site solar plant begins operating",
+      "url": "https://www.pv-magazine.com/2026/02/05/latvias-largest-single-site-solar-plant-begins-operating/",
+      "date": "2026-02-05T11:48:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hong Kong–based startup launches glass-fiber composite solar module frames",
+      "url": "https://www.pv-magazine.com/2026/02/05/hong-kong-based-startup-launches-glass-fiber-composite-solar-module-frames/",
+      "date": "2026-02-05T11:35:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Made in Europe: Sungrow builds first European factory in Poland",
       "url": "https://www.pv-magazine.com/2026/02/05/made-in-europe-sungrow-builds-first-european-factory-in-poland/",
@@ -229,20 +250,6 @@
       "title": "US solar capacity overtakes wind",
       "url": "https://www.pv-magazine.com/2026/02/04/us-solar-capacity-overtakes-wind/",
       "date": "2026-02-04T07:30:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New surface texturing boosts TOPCon solar cell efficiency by 1%",
-      "url": "https://www.pv-magazine.com/2026/02/04/new-surface-texturing-boosts-topcon-solar-cell-efficiency-by-1/",
-      "date": "2026-02-04T07:27:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S.-India trade deal reduces solar tariffs",
-      "url": "https://www.pv-magazine.com/2026/02/04/u-s-india-trade-deal-reduces-solar-tariffs/",
-      "date": "2026-02-04T06:05:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Fortescue claims ‘record-low pricing’ for large-scale battery storage in Australia",
       "url": "https://www.energy-storage.news/fortescue-claims-record-low-pricing-for-large-scale-battery-storage-in-australia/",
       "date": "2026-01-23T04:06:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EV slowdown creates potential lifeline for US energy storage amid FEOC, tariffs",
-      "url": "https://www.energy-storage.news/ev-slowdown-creates-potential-lifeline-for-us-energy-storage-amid-feoc-tariffs/",
-      "date": "2026-01-22T14:52:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
