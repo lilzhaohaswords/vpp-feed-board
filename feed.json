@@ -1,6 +1,13 @@
 {
-  "ts": 1770262045193,
+  "ts": 1770268200634,
   "items": [
+    {
+      "title": "437MWh BESS in Australia&#8217;s highest city receives final approvals ahead of commissioning",
+      "url": "https://www.energy-storage.news/437mwh-bess-in-australias-highest-city-receives-final-approvals-ahead-of-commissioning/",
+      "date": "2026-02-05T03:47:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Octopus Australia acquires 4.8GWh battery storage project in New South Wales",
       "url": "https://www.energy-storage.news/octopus-australia-acquires-4-8gwh-battery-storage-project-in-new-south-wales/",
@@ -516,13 +523,6 @@
       "title": "US startup Noon Energy unveils ‘multi-day baseload&#8217; energy storage tech demonstration",
       "url": "https://www.energy-storage.news/us-startup-noon-energy-unveils-multi-day-baseload-energy-storage-tech-demonstration/",
       "date": "2026-01-22T14:40:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Private sector backers needed for next phase of Middle East energy storage market",
-      "url": "https://www.energy-storage.news/private-sector-backers-needed-for-next-phase-of-middle-east-energy-storage-market/",
-      "date": "2026-01-22T13:45:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
