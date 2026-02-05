@@ -1,6 +1,20 @@
 {
-  "ts": 1770252998066,
+  "ts": 1770262045193,
   "items": [
+    {
+      "title": "Octopus Australia acquires 4.8GWh battery storage project in New South Wales",
+      "url": "https://www.energy-storage.news/octopus-australia-acquires-4-8gwh-battery-storage-project-in-new-south-wales/",
+      "date": "2026-02-05T03:23:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia&#8217;s biggest LDES tender: NSW contracts six battery storage projects totalling 1.17GW/12GWh",
+      "url": "https://www.energy-storage.news/australias-biggest-ldes-tender-nsw-contracts-six-battery-storage-projects-totalling-1-17gw-12gwh/",
+      "date": "2026-02-05T03:17:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "SMA releases new storage system for C&#038;I solar",
       "url": "https://www.pv-magazine.com/2026/02/04/sma-releases-new-storage-system-for-ci-solar/",
@@ -509,20 +523,6 @@
       "title": "Private sector backers needed for next phase of Middle East energy storage market",
       "url": "https://www.energy-storage.news/private-sector-backers-needed-for-next-phase-of-middle-east-energy-storage-market/",
       "date": "2026-01-22T13:45:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UK&#8217;s Gore Street closes European battery storage fund, sees &#8216;improved economics of LDES&#8217;",
-      "url": "https://www.energy-storage.news/uks-gore-street-closes-european-battery-storage-fund-sees-improved-economics-of-ldes/",
-      "date": "2026-01-22T11:09:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Long-duration energy storage costs declining, European policymakers urged to make ‘strategic choice’",
-      "url": "https://www.energy-storage.news/long-duration-energy-storage-costs-declining-european-policymakers-urged-to-make-strategic-choice/",
-      "date": "2026-01-22T10:56:31.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
