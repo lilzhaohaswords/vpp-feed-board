@@ -1,6 +1,13 @@
 {
-  "ts": 1770277234301,
+  "ts": 1770280011523,
   "items": [
+    {
+      "title": "US PPA volumes down 22% in 2025 amid policy shocks",
+      "url": "https://www.pv-magazine.com/2026/02/05/us-ppa-volumes-down-22-in-2025-amid-policy-shocks/",
+      "date": "2026-02-05T08:15:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Global BESS capacity tops 250 GW, overtaking pumped hydro for first time",
       "url": "https://www.pv-magazine.com/2026/02/05/global-bess-capacity-tops-250-gw-overtaking-pumped-hydro-for-first-time/",
@@ -250,13 +257,6 @@
       "title": "Growatt launches 5 kWh AC-coupled balcony storage system",
       "url": "https://www.pv-magazine.com/2026/02/03/growatt-launches-5-kwh-ac-coupled-balcony-storage-system/",
       "date": "2026-02-03T12:11:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chile installs 1.1 GW of PV in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/03/chile-installs-1-1-gw-of-pv-in-2025/",
-      "date": "2026-02-03T12:06:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
