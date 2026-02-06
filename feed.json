@@ -1,6 +1,20 @@
 {
-  "ts": 1770391634661,
+  "ts": 1770395296611,
   "items": [
+    {
+      "title": "Lunar Energy raises US$232 million to scale VPP software globally",
+      "url": "https://www.energy-storage.news/lunar-energy-raises-us232-million-to-scale-vpp-software-globally/",
+      "date": "2026-02-06T16:09:50.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Missouri declares war on solar",
+      "url": "https://www.pv-magazine.com/2026/02/06/missouri-declares-war-on-solar/",
+      "date": "2026-02-06T15:56:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "E-Storage, Sunraycer enter agreements for Texas BESS projects totalling 503MWh",
       "url": "https://www.energy-storage.news/e-storage-sunraycer-enter-agreements-for-texas-bess-projects-totalling-503mwh/",
@@ -229,13 +243,6 @@
       "title": "Over 85% silver extraction efficiency achieved in solar panel recycling test",
       "url": "https://www.pv-magazine.com/2026/02/05/over-85-silver-extraction-efficiency-achieved-in-solar-panel-recycling-test/",
       "date": "2026-02-05T09:00:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US PPA volumes down 22% in 2025 amid policy shocks",
-      "url": "https://www.pv-magazine.com/2026/02/05/us-ppa-volumes-down-22-in-2025-amid-policy-shocks/",
-      "date": "2026-02-05T08:15:43.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Year in Review: Lunar Energy on the progress of US home energy storage through ‘turbulent 2025’ and the way ahead for virtual power plants",
       "url": "https://www.energy-storage.news/year-in-review-lunar-energy-on-the-progress-of-us-home-energy-storage-through-turbulent-2025-and-the-way-ahead-for-virtual-power-plants/",
       "date": "2026-01-27T12:44:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Greater acceptance of merchant exposure&#8217; in UK market, investment firm says",
-      "url": "https://www.energy-storage.news/greater-acceptance-of-merchant-exposure-in-uk-market-investment-firm-says/",
-      "date": "2026-01-27T12:37:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
