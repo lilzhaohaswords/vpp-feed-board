@@ -1,6 +1,27 @@
 {
-  "ts": 1770339169618,
+  "ts": 1770348224810,
   "items": [
+    {
+      "title": "Iberdrola Australia opens 130MWh battery storage system in western Sydney",
+      "url": "https://www.energy-storage.news/iberdrola-australia-opens-130mwh-battery-storage-system-in-western-sydney/",
+      "date": "2026-02-06T03:09:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘We&#8217;re not stopping here’: Reactions as Australia’s New South Wales smashes long-duration storage targets with 12GWh tender",
+      "url": "https://www.energy-storage.news/were-not-stopping-here-reactions-as-australias-new-south-wales-smashes-long-duration-storage-targets-with-12gwh-tender/",
+      "date": "2026-02-06T02:43:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s New South Wales designates 22GWh of pumped hydro as critical infrastructure",
+      "url": "https://www.energy-storage.news/australias-new-south-wales-designates-22gwh-of-pumped-hydro-as-critical-infrastructure/",
+      "date": "2026-02-06T02:30:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "China sets &#8216;capacity price&#8217; floor for grid-scale storage, tying payments to coal benchmarks",
       "url": "https://www.pv-magazine.com/2026/02/05/china-sets-capacity-price-floor-for-grid-scale-storage-tying-payments-to-coal-benchmarks/",
@@ -502,27 +523,6 @@
       "title": "Germany’s TSOs begin inertia procurement with long-term contracts for grid-forming BESS",
       "url": "https://www.energy-storage.news/germanys-tso-begin-inertia-procurement-with-long-term-contracts-for-grid-forming-bess/",
       "date": "2026-01-27T10:22:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Grid-forming, hybrids and alternative chemistries in Wood Mackenzie’s 2026 energy storage trend predictions",
-      "url": "https://www.energy-storage.news/grid-forming-hybrids-and-alternative-chemistries-in-wood-mackenzies-2026-energy-storage-trend-predictions/",
-      "date": "2026-01-27T06:54:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s ‘first merchant BESS’: Juniper Green brings 100MWh project into full operation",
-      "url": "https://www.energy-storage.news/indias-first-merchant-bess-juniper-green-brings-100mwh-project-into-full-operation/",
-      "date": "2026-01-26T14:31:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Bridging contracting and factory quality controls in BESS projects",
-      "url": "https://www.energy-storage.news/bridging-contracting-and-factory-quality-controls-in-bess-projects/",
-      "date": "2026-01-26T08:29:51.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
