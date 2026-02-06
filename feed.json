@@ -1,6 +1,13 @@
 {
-  "ts": 1770380789061,
+  "ts": 1770385900029,
   "items": [
+    {
+      "title": "Winter Storm Fern disrupts North American solar in late January",
+      "url": "https://www.pv-magazine.com/2026/02/06/winter-storm-fern-disrupts-north-american-solar-in-late-january/",
+      "date": "2026-02-06T12:28:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Entso-E outlines tools for spotting instability in renewables-heavy grids",
       "url": "https://www.pv-magazine.com/2026/02/06/entso-e-outlines-tools-for-spotting-instability-in-renewables-heavy-grids/",
@@ -222,13 +229,6 @@
       "title": "Global BESS capacity tops 250 GW, overtaking pumped hydro for first time",
       "url": "https://www.pv-magazine.com/2026/02/05/global-bess-capacity-tops-250-gw-overtaking-pumped-hydro-for-first-time/",
       "date": "2026-02-05T07:30:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "German researchers develop sodium-ion battery based on lignin",
-      "url": "https://www.pv-magazine.com/2026/02/05/german-researchers-develop-sodium-ion-battery-based-on-lignin/",
-      "date": "2026-02-05T07:28:03.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
