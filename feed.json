@@ -1,6 +1,13 @@
 {
-  "ts": 1770373562465,
+  "ts": 1770376987969,
   "items": [
+    {
+      "title": "Chinese PV Industry Brief: Solar manufacturers forecast 2025 losses",
+      "url": "https://www.pv-magazine.com/2026/02/06/chinese-pv-industry-brief-solar-manufacturers-forecast-2025-losses/",
+      "date": "2026-02-06T10:45:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Modeling subcell degradation rates in perovskite-silicon tandem solar modules",
       "url": "https://www.pv-magazine.com/2026/02/06/modelling-subcell-degradation-rates-in-perovskite-silicon-tandem-modules/",
@@ -251,13 +258,6 @@
       "url": "https://www.energy-storage.news/australias-biggest-ldes-tender-nsw-contracts-six-battery-storage-projects-totalling-1-17gw-12gwh/",
       "date": "2026-02-05T03:17:31.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SMA releases new storage system for C&#038;I solar",
-      "url": "https://www.pv-magazine.com/2026/02/04/sma-releases-new-storage-system-for-ci-solar/",
-      "date": "2026-02-04T15:00:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
