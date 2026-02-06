@@ -1,6 +1,34 @@
 {
-  "ts": 1770366378280,
+  "ts": 1770370203360,
   "items": [
+    {
+      "title": "Battery data analytics software specialist TWAICE nets European Investment Bank funding",
+      "url": "https://www.energy-storage.news/battery-data-analytics-software-specialist-twaice-nets-european-investment-bank-funding/",
+      "date": "2026-02-06T09:17:50.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy installs 6.4 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/06/italy-installs-6-4-gw-of-solar-in-2025/",
+      "date": "2026-02-06T09:17:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia rooftop solar volumes fall 32% after four-month rebound",
+      "url": "https://www.pv-magazine.com/2026/02/06/australia-rooftop-solar-volumes-fall-32-after-four-month-rebound/",
+      "date": "2026-02-06T09:00:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How to combine mechanized farming with agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/02/06/how-to-combine-mechanized-farming-with-agrivoltaics/",
+      "date": "2026-02-06T08:40:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India’s GREW Solar secures 550 MW repeat module order from IPP",
       "url": "https://www.pv-magazine.com/2026/02/06/indias-grew-solar-secures-550-mw-repeat-module-order-from-ipp/",
@@ -261,27 +289,6 @@
       "bucket": "A"
     },
     {
-      "title": "100 MW Hertz 1 battery enters operation after Estonia–Finland grid incident",
-      "url": "https://www.pv-magazine.com/2026/02/04/100-mw-hertz-1-battery-enters-operation-after-estonia-finland-grid-incident/",
-      "date": "2026-02-04T12:43:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Guided-learning model for PV power forecasting without irradiance sensors",
-      "url": "https://www.pv-magazine.com/2026/02/04/guided-learning-model-for-pv-power-forecasting-without-irradiance-sensors/",
-      "date": "2026-02-04T12:14:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Philippines accelerates permits for solar net-metering",
-      "url": "https://www.pv-magazine.com/2026/02/04/philippines-accelerates-permits-for-solar-net-metering/",
-      "date": "2026-02-04T11:31:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "LG Energy Solution targets 90GWh of battery orders in US energy storage market in 2026",
       "url": "https://www.energy-storage.news/lg-energy-solution-targets-90gwh-battery-orders-us-energy-storage-market-in-2026/",
       "date": "2026-02-04T11:16:22.000Z",
@@ -516,13 +523,6 @@
       "title": "ContourGlobal buys BESS in Greece, Alpiq in France; Iberdrola commissions Spain&#8217;s largest projects",
       "url": "https://www.energy-storage.news/contourglobal-buys-bess-in-greece-alpiq-in-france-iberdrola-commissions-spains-largest-projects/",
       "date": "2026-01-27T12:23:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany’s TSOs begin inertia procurement with long-term contracts for grid-forming BESS",
-      "url": "https://www.energy-storage.news/germanys-tso-begin-inertia-procurement-with-long-term-contracts-for-grid-forming-bess/",
-      "date": "2026-01-27T10:22:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
