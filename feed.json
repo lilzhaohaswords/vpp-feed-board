@@ -1,6 +1,20 @@
 {
-  "ts": 1770385900029,
+  "ts": 1770388297980,
   "items": [
+    {
+      "title": "E-Storage, Sunraycer enter agreements for Texas BESS projects totalling 503MWh",
+      "url": "https://www.energy-storage.news/e-storage-sunraycer-enter-agreements-for-texas-bess-projects-totalling-503mwh/",
+      "date": "2026-02-06T14:08:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Aiko, Maxeon settle global back-contact patent dispute",
+      "url": "https://www.pv-magazine.com/2026/02/06/aiko-maxeon-settle-global-back-contact-patent-dispute/",
+      "date": "2026-02-06T14:05:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Winter Storm Fern disrupts North American solar in late January",
       "url": "https://www.pv-magazine.com/2026/02/06/winter-storm-fern-disrupts-north-american-solar-in-late-january/",
@@ -222,13 +236,6 @@
       "title": "US PPA volumes down 22% in 2025 amid policy shocks",
       "url": "https://www.pv-magazine.com/2026/02/05/us-ppa-volumes-down-22-in-2025-amid-policy-shocks/",
       "date": "2026-02-05T08:15:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Global BESS capacity tops 250 GW, overtaking pumped hydro for first time",
-      "url": "https://www.pv-magazine.com/2026/02/05/global-bess-capacity-tops-250-gw-overtaking-pumped-hydro-for-first-time/",
-      "date": "2026-02-05T07:30:30.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "&#8216;Greater acceptance of merchant exposure&#8217; in UK market, investment firm says",
       "url": "https://www.energy-storage.news/greater-acceptance-of-merchant-exposure-in-uk-market-investment-firm-says/",
       "date": "2026-01-27T12:37:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ContourGlobal buys BESS in Greece, Alpiq in France; Iberdrola commissions Spain&#8217;s largest projects",
-      "url": "https://www.energy-storage.news/contourglobal-buys-bess-in-greece-alpiq-in-france-iberdrola-commissions-spains-largest-projects/",
-      "date": "2026-01-27T12:23:57.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
