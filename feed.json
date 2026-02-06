@@ -1,6 +1,20 @@
 {
-  "ts": 1770370203360,
+  "ts": 1770373562465,
   "items": [
+    {
+      "title": "Modeling subcell degradation rates in perovskite-silicon tandem solar modules",
+      "url": "https://www.pv-magazine.com/2026/02/06/modelling-subcell-degradation-rates-in-perovskite-silicon-tandem-modules/",
+      "date": "2026-02-06T09:55:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India wraps up 1.2 GW renewables-plus-storage tender at $0.069/kWh",
+      "url": "https://www.pv-magazine.com/2026/02/06/india-wraps-up-1-2-gw-renewables-plus-storage-tender-at-0-069-kwh/",
+      "date": "2026-02-06T09:45:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Battery data analytics software specialist TWAICE nets European Investment Bank funding",
       "url": "https://www.energy-storage.news/battery-data-analytics-software-specialist-twaice-nets-european-investment-bank-funding/",
@@ -265,20 +279,6 @@
       "url": "https://www.energy-storage.news/standalone-solar-no-longer-enough-in-europe-as-storage-takes-centre-stage/",
       "date": "2026-02-04T14:00:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Cornex secures 11.5 GWh of battery orders from Saudi Arabia, Egypt",
-      "url": "https://www.pv-magazine.com/2026/02/04/cornex-secures-11-5-gwh-of-battery-orders-from-saudi-arabia-egypt/",
-      "date": "2026-02-04T13:47:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s Loom Solar unveils 261 kWh BESS for C&#038;I applications",
-      "url": "https://www.pv-magazine.com/2026/02/04/indias-loom-solar-unveils-261-kwh-bess-for-ci-applications/",
-      "date": "2026-02-04T13:30:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
