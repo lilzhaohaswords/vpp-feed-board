@@ -1,6 +1,13 @@
 {
-  "ts": 1770588726523,
+  "ts": 1770592607934,
   "items": [
+    {
+      "title": "Australia’s energy transition puts essential system services in focus",
+      "url": "https://www.energy-storage.news/australias-energy-transition-puts-essential-system-services-in-focus/",
+      "date": "2026-02-08T22:13:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Verna completes first two hydrogen pilot wells in Canada",
       "url": "https://www.pv-magazine.com/2026/02/06/the-hydrogen-stream-verna-completes-first-two-hydrogen-pilot-wells-in-quebec/",
@@ -516,13 +523,6 @@
       "title": "Pumped hydro, high-temperature thermal storage, and geothermal LDES projects make key advancements across the US",
       "url": "https://www.energy-storage.news/pumped-hydro-high-temperature-thermal-storage-and-geothermal-ldes-projects-make-key-advancements-across-the-us/",
       "date": "2026-01-27T14:51:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Year in Review: Lunar Energy on the progress of US home energy storage through ‘turbulent 2025’ and the way ahead for virtual power plants",
-      "url": "https://www.energy-storage.news/year-in-review-lunar-energy-on-the-progress-of-us-home-energy-storage-through-turbulent-2025-and-the-way-ahead-for-virtual-power-plants/",
-      "date": "2026-01-27T12:44:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
