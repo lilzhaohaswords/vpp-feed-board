@@ -1,6 +1,13 @@
 {
-  "ts": 1770651637992,
+  "ts": 1770658773558,
   "items": [
+    {
+      "title": "China expects up to 287 GW of new PV capacity additions in 2026",
+      "url": "https://www.pv-magazine.com/2026/02/09/chinese-pv-sector-expects-new-pv-capacity-additions-to-reach-up-to-287-gw-this-year/",
+      "date": "2026-02-09T16:15:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Greece to auction up to 200 MW of solar plus storage",
       "url": "https://www.pv-magazine.com/2026/02/09/greece-to-auction-up-to-200-mw-of-solar-plus-storage/",
@@ -237,13 +244,6 @@
       "url": "https://www.energy-storage.news/battery-data-analytics-software-specialist-twaice-nets-european-investment-bank-funding/",
       "date": "2026-02-06T09:17:50.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy installs 6.4 GW of solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/06/italy-installs-6-4-gw-of-solar-in-2025/",
-      "date": "2026-02-06T09:17:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
