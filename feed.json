@@ -1,6 +1,20 @@
 {
-  "ts": 1770626064049,
+  "ts": 1770630263153,
   "items": [
+    {
+      "title": "The business case for C&#038;I storage",
+      "url": "https://www.pv-magazine.com/2026/02/09/the-business-case-for-ci-storage/",
+      "date": "2026-02-09T09:15:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU invests €3 billion in decarbonization of buildings, road transport",
+      "url": "https://www.pv-magazine.com/2026/02/09/eu-invests-e3-billion-in-decarbonization-of-buildings-road-transport/",
+      "date": "2026-02-09T09:06:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australian state awards 12 GWh of long-duration storage contracts",
       "url": "https://www.pv-magazine.com/2026/02/09/australian-state-awards-12-gwh-of-long-duration-storage-contracts/",
@@ -251,20 +265,6 @@
       "url": "https://www.energy-storage.news/most-tsos-are-sitting-on-their-hands-when-it-comes-to-energy-storage-says-nordic-developer/",
       "date": "2026-02-05T13:05:35.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "World’s largest AI-powered battery storage cluster comes online in China",
-      "url": "https://www.pv-magazine.com/2026/02/05/worlds-largest-ai-powered-battery-storage-cluster-comes-online-in-china/",
-      "date": "2026-02-05T12:42:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "French railway operator tests solar on train tracks",
-      "url": "https://www.pv-magazine.com/2026/02/05/french-railway-operator-tests-pv-on-train-tracks/",
-      "date": "2026-02-05T12:30:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
