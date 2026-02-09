@@ -1,6 +1,27 @@
 {
-  "ts": 1770630263153,
+  "ts": 1770633784728,
   "items": [
+    {
+      "title": "Hithium completes open-door fire test of 6.25 MWh battery system",
+      "url": "https://www.pv-magazine.com/2026/02/09/hithium-completes-open-door-fire-test-of-6-25-mwh-battery-system/",
+      "date": "2026-02-09T10:30:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "TotalEnergies signs 1 GW of solar PPAs for Google’s Texas data centers",
+      "url": "https://www.pv-magazine.com/2026/02/09/totalenergies-signs-1-gw-of-solar-ppas-for-googles-texas-data-centers/",
+      "date": "2026-02-09T10:04:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Voltage Energy Announces Planned Global Headquarters in Roxboro, North Carolina",
+      "url": "https://www.pv-magazine.com/2026/02/09/voltage-energy-announces-planned-global-headquarters-in-roxboro-north-carolina/",
+      "date": "2026-02-09T10:00:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "The business case for C&#038;I storage",
       "url": "https://www.pv-magazine.com/2026/02/09/the-business-case-for-ci-storage/",
@@ -226,20 +247,6 @@
       "bucket": "A"
     },
     {
-      "title": "China sets &#8216;capacity price&#8217; floor for grid-scale storage, tying payments to coal benchmarks",
-      "url": "https://www.pv-magazine.com/2026/02/05/china-sets-capacity-price-floor-for-grid-scale-storage-tying-payments-to-coal-benchmarks/",
-      "date": "2026-02-05T15:36:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Photovoltaics for salmon farms",
-      "url": "https://www.pv-magazine.com/2026/02/05/photovoltaics-for-salmon-farms/",
-      "date": "2026-02-05T15:20:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "&#8216;Reversible solid oxide fuel cells&#8217;: Noon Energy&#8217;s approach to 100+ hour energy storage",
       "url": "https://www.energy-storage.news/reversible-solid-oxide-fuel-cells-noon-energys-approach-to-100-hour-energy-storage/",
       "date": "2026-02-05T13:52:14.000Z",
@@ -251,13 +258,6 @@
       "url": "https://www.energy-storage.news/aypa-power-closes-us1-5-billion-credit-facility-for-us-bess-projects/",
       "date": "2026-02-05T13:39:42.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Brookfield explores sale of solar developer X-Elio",
-      "url": "https://www.pv-magazine.com/2026/02/05/brookfield-explores-sale-of-solar-developer-x-elio/",
-      "date": "2026-02-05T13:15:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
