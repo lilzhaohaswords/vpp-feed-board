@@ -1,6 +1,48 @@
 {
-  "ts": 1770640497791,
+  "ts": 1770645872327,
   "items": [
+    {
+      "title": "Deye releases new off-grid inverter series",
+      "url": "https://www.pv-magazine.com/2026/02/09/deye-releases-new-off-grid-inverter-series/",
+      "date": "2026-02-09T13:58:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "GridStor warns of industry slowdown as US Treasury guidance delays BESS decisions",
+      "url": "https://www.energy-storage.news/gridstor-warns-of-industry-slowdown-as-us-treasury-guidance-delays-bess-decisions/",
+      "date": "2026-02-09T13:50:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "DAS Solar unveils new method to identify hot-spots in TOPCon back-contact solar modules",
+      "url": "https://www.pv-magazine.com/2026/02/09/das-solar-unveils-new-method-to-identify-hot-spots-in-topcon-back-contact-solar-modules/",
+      "date": "2026-02-09T13:38:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "FlexGen begins operating 700MWh total BESS in Wisconsin, Iowa for Alliant Energy",
+      "url": "https://www.energy-storage.news/flexgen-begins-operating-700mwh-total-bess-in-wisconsin-iowa-for-alliant-energy/",
+      "date": "2026-02-09T13:26:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Europe’s energy storage buildout: who leads and who is left behind",
+      "url": "https://www.energy-storage.news/europes-energy-storage-buildout-who-leads-and-who-is-left-behind/",
+      "date": "2026-02-09T13:19:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar, wind PPA prices continue to fall in Europe",
+      "url": "https://www.pv-magazine.com/2026/02/09/solar-wind-ppa-prices-continue-to-fall-in-europe/",
+      "date": "2026-02-09T13:05:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Abu Dhabi unveils solar-plus-storage self-supply policy",
       "url": "https://www.pv-magazine.com/2026/02/09/abu-dhabi-unveils-solar-plus-storage-self-supply-policy/",
@@ -201,27 +243,6 @@
       "title": "Australia rooftop solar volumes fall 32% after four-month rebound",
       "url": "https://www.pv-magazine.com/2026/02/06/australia-rooftop-solar-volumes-fall-32-after-four-month-rebound/",
       "date": "2026-02-06T09:00:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How to combine mechanized farming with agrivoltaics",
-      "url": "https://www.pv-magazine.com/2026/02/06/how-to-combine-mechanized-farming-with-agrivoltaics/",
-      "date": "2026-02-06T08:40:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s GREW Solar secures 550 MW repeat module order from IPP",
-      "url": "https://www.pv-magazine.com/2026/02/06/indias-grew-solar-secures-550-mw-repeat-module-order-from-ipp/",
-      "date": "2026-02-06T08:15:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China TOPCon solar module prices ease after 4-week rally on silver pullback, holiday slowdown",
-      "url": "https://www.pv-magazine.com/2026/02/06/china-topcon-solar-module-prices-ease-after-4-week-rally-on-silver-pullback-holiday-slowdown/",
-      "date": "2026-02-06T07:46:12.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "US sodium-ion startup Unigrid begins international shipments of battery cells",
       "url": "https://www.energy-storage.news/us-sodium-ion-startup-unigrid-begins-international-shipments-of-battery-cells/",
       "date": "2026-01-28T13:04:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Pacific Northwest US utility Avista selects 100MW BESS as part of RFP",
-      "url": "https://www.energy-storage.news/pacific-northwest-us-utility-avista-selects-100mw-bess-as-part-of-rfp/",
-      "date": "2026-01-28T12:50:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ERCOT’s battery fleet is the ‘first line of defence for the grid’ through Texas winter storms",
-      "url": "https://www.energy-storage.news/ercots-battery-fleet-is-the-first-line-of-defence-for-the-grid-through-texas-winter-storms/",
-      "date": "2026-01-28T12:43:49.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "TSOs&#8217; differing understanding of storage is an industry challenge",
-      "url": "https://www.energy-storage.news/tsos-differing-understanding-of-storage-is-an-industry-challenge/",
-      "date": "2026-01-28T12:02:11.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
