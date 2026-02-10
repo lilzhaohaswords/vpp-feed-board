@@ -1,6 +1,48 @@
 {
-  "ts": 1770716703588,
+  "ts": 1770720034393,
   "items": [
+    {
+      "title": "Zendure uneils new batteries for balcony, rootfop solar",
+      "url": "https://www.pv-magazine.com/2026/02/10/zendure-uneils-new-batteries-for-balcony-rootfop-solar/",
+      "date": "2026-02-10T10:33:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Retrofit coloring solution makes conventional solar panels less visible",
+      "url": "https://www.pv-magazine.com/2026/02/10/retrofit-coloring-solution-makes-conventional-solar-panels-less-visible/",
+      "date": "2026-02-10T10:25:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hoymiles releases all-in-one residential inverter and modular battery",
+      "url": "https://www.pv-magazine.com/2026/02/10/hoymiles-releases-all-in-one-residential-inverter-and-modular-battery/",
+      "date": "2026-02-10T10:11:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "RWE, Masdar, Zenobe, Enlight and others forge partnerships, tolling offers to further Germany market expansion",
+      "url": "https://www.energy-storage.news/rwe-masdar-zenobe-enlight-and-others-forge-partnerships-tolling-offers-to-further-germany-market-expansion/",
+      "date": "2026-02-10T10:03:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EnBW seeks investor for Senec to fund growth",
+      "url": "https://www.pv-magazine.com/2026/02/10/enbw-seeks-investor-for-senec-to-fund-growth/",
+      "date": "2026-02-10T10:00:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK secures 4.9 GW of solar capacity in CfD auction",
+      "url": "https://www.pv-magazine.com/2026/02/10/uk-secures-4-9-gw-of-solar-capacity-in-cfd-auction/",
+      "date": "2026-02-10T09:45:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Sungrow to invest US$270 million in inverter and BESS factory in Poland, first outside Asia",
       "url": "https://www.energy-storage.news/sungrow-to-invest-us270-million-in-inverter-and-bess-factory-in-poland-first-outside-asia/",
@@ -198,13 +240,6 @@
       "bucket": "A"
     },
     {
-      "title": "United Solar begins production at Omani polysilicon factory",
-      "url": "https://www.pv-magazine.com/2026/02/09/united-solar-begins-production-at-omani-polysilicon-factory/",
-      "date": "2026-02-09T07:45:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "EVE Energy to deploy 628Ah battery cells in solar-plus-storage system at Kuala Lumpur International Airport",
       "url": "https://www.energy-storage.news/eve-energy-to-deploy-628ah-battery-cells-in-solar-plus-storage-system-at-kuala-lumpur-international-airport/",
       "date": "2026-02-09T02:41:06.000Z",
@@ -233,38 +268,10 @@
       "bucket": "A"
     },
     {
-      "title": "The Hydrogen Stream: Verna completes first two hydrogen pilot wells in Canada",
-      "url": "https://www.pv-magazine.com/2026/02/06/the-hydrogen-stream-verna-completes-first-two-hydrogen-pilot-wells-in-quebec/",
-      "date": "2026-02-06T16:50:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "NextPower leads Wood Mackenzie tracker rankings as US, China dominate",
-      "url": "https://www.pv-magazine.com/2026/02/06/nextpower-tops-woodmac-tracker-league-table-as-us-china-and-spain-lock-up-the-entire-top-10/",
-      "date": "2026-02-06T16:40:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Today, women leaders are no longer a quota: they are a competitive advantage&#8217;",
-      "url": "https://www.pv-magazine.com/2026/02/06/today-women-leaders-are-no-longer-a-quota-they-are-a-competitive-advantage/",
-      "date": "2026-02-06T16:30:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Lunar Energy raises US$232 million to scale VPP software globally",
       "url": "https://www.energy-storage.news/lunar-energy-raises-us232-million-to-scale-vpp-software-globally/",
       "date": "2026-02-06T16:09:50.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Missouri declares war on solar",
-      "url": "https://www.pv-magazine.com/2026/02/06/missouri-declares-war-on-solar/",
-      "date": "2026-02-06T15:56:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Hydrostor announces equipment supply deal with Baker Hughes for A-CAES projects in US, Australia",
       "url": "https://www.energy-storage.news/hydrostor-announces-equipment-supply-deal-with-baker-hughes-for-a-caes-projects-in-us-australia/",
       "date": "2026-01-29T14:06:26.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Tesla top, Energy Dome the highest non-lithium firm in new LDES supplier ranking",
-      "url": "https://www.energy-storage.news/tesla-top-energy-dome-the-highest-non-lithium-firm-in-new-ldes-supplier-ranking/",
-      "date": "2026-01-29T13:55:43.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
