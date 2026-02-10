@@ -1,6 +1,20 @@
 {
-  "ts": 1770685605341,
+  "ts": 1770697194673,
   "items": [
+    {
+      "title": "Revera Energy secures US$150 million to support 3.4GWh of battery storage across Australia and the UK",
+      "url": "https://www.energy-storage.news/revera-energy-secures-us150-million-to-support-3-4gwh-of-battery-storage-across-australia-and-the-uk/",
+      "date": "2026-02-10T02:50:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia: Victoria government accelerates 700MW of battery storage via Development Facilitation Program",
+      "url": "https://www.energy-storage.news/australia-victoria-government-accelerates-700mw-of-battery-storage-via-development-facilitation-program/",
+      "date": "2026-02-10T02:43:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "China expects up to 287 GW of new PV capacity additions in 2026",
       "url": "https://www.pv-magazine.com/2026/02/09/chinese-pv-sector-expects-new-pv-capacity-additions-to-reach-up-to-287-gw-this-year/",
@@ -509,20 +523,6 @@
       "title": "European Union battery storage market entered ‘new phase of scale and maturity’ in 2025, but ‘still has a long way to go’",
       "url": "https://www.energy-storage.news/european-union-battery-storage-market-entered-new-phase-of-scale-and-maturity-in-2025-but-still-has-a-long-way-to-go/",
       "date": "2026-01-29T09:50:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Financing grid-scale BESS in Europe: successes and challenges in focus as segment becomes industry driver",
-      "url": "https://www.energy-storage.news/financing-grid-scale-bess-in-europe-successes-and-challenges-in-focus-as-segment-becomes-industry-driver/",
-      "date": "2026-01-28T14:41:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US sodium-ion startup Unigrid begins international shipments of battery cells",
-      "url": "https://www.energy-storage.news/us-sodium-ion-startup-unigrid-begins-international-shipments-of-battery-cells/",
-      "date": "2026-01-28T13:04:57.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
