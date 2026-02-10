@@ -1,6 +1,27 @@
 {
-  "ts": 1770727183995,
+  "ts": 1770732774566,
   "items": [
+    {
+      "title": "Energy Vault to secure 1.5GWh of US-manufactured sodium-ion BESS from Peak Energy",
+      "url": "https://www.energy-storage.news/energy-vault-to-secure-1-5gwh-of-us-manufactured-sodium-ion-bess-from-peak-energy/",
+      "date": "2026-02-10T13:08:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Samsung SDI partners with Korea East-West Power to develop ‘global’ BESS projects",
+      "url": "https://www.energy-storage.news/samsung-sdi-partners-with-korea-east-west-power-to-develop-global-bess-projects/",
+      "date": "2026-02-10T13:06:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Norwegian firm introduces fire-resistant membrane for rooftop PV",
+      "url": "https://www.pv-magazine.com/2026/02/10/norwegian-firm-introduces-fire-resistant-membrane-for-rooftop-pv/",
+      "date": "2026-02-10T12:48:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Carbon dioxide removal benefits from solar PV",
       "url": "https://www.pv-magazine.com/2026/02/10/carbon-dioxide-removal-benefits-from-solar-pv/",
@@ -229,13 +250,6 @@
       "title": "Voltage Energy Announces Planned Global Headquarters in Roxboro, North Carolina",
       "url": "https://www.pv-magazine.com/2026/02/09/voltage-energy-announces-planned-global-headquarters-in-roxboro-north-carolina/",
       "date": "2026-02-09T10:00:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The business case for C&#038;I storage",
-      "url": "https://www.pv-magazine.com/2026/02/09/the-business-case-for-ci-storage/",
-      "date": "2026-02-09T09:15:21.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Battery storage claims 46% share of Australia&#8217;s record 64GW energy investment pipeline",
       "url": "https://www.energy-storage.news/battery-storage-claims-46-share-of-australias-record-64gw-energy-investment-pipeline/",
       "date": "2026-01-30T02:42:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How energy storage can help data centres reduce their grid impact",
-      "url": "https://www.energy-storage.news/how-energy-storage-can-help-data-centres-reduce-their-grid-impact/",
-      "date": "2026-01-29T14:12:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hydrostor announces equipment supply deal with Baker Hughes for A-CAES projects in US, Australia",
-      "url": "https://www.energy-storage.news/hydrostor-announces-equipment-supply-deal-with-baker-hughes-for-a-caes-projects-in-us-australia/",
-      "date": "2026-01-29T14:06:26.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
