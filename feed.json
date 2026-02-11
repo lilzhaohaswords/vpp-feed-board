@@ -1,6 +1,27 @@
 {
-  "ts": 1770818733108,
+  "ts": 1770824703776,
   "items": [
+    {
+      "title": "Hungary launches grants for residential battery storage",
+      "url": "https://www.pv-magazine.com/2026/02/11/hungary-launches-grants-for-residential-battery-storage/",
+      "date": "2026-02-11T15:33:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Brazil reserve battery auction rules near finalization with 20 GW lined up",
+      "url": "https://www.pv-magazine.com/2026/02/11/brazil-reserve-battery-auction-rules-near-finalization-with-20-gw-lined-up/",
+      "date": "2026-02-11T14:40:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Pace Digitek secures 250 MW of solar and 1.1 GWh of storage in India",
+      "url": "https://www.pv-magazine.com/2026/02/11/pace-digitek-secures-250-mw-of-solar-and-1-1-gwh-of-storage-in-india/",
+      "date": "2026-02-11T14:25:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "French startup launches app to boost collective self-consumption",
       "url": "https://www.pv-magazine.com/2026/02/11/french-startup-launches-app-to-boost-collective-self-consumption/",
@@ -212,20 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "EnBW seeks investor for Senec to fund growth",
-      "url": "https://www.pv-magazine.com/2026/02/10/enbw-seeks-investor-for-senec-to-fund-growth/",
-      "date": "2026-02-10T10:00:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK secures 4.9 GW of solar capacity in CfD auction",
-      "url": "https://www.pv-magazine.com/2026/02/10/uk-secures-4-9-gw-of-solar-capacity-in-cfd-auction/",
-      "date": "2026-02-10T09:45:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Sungrow to invest US$270 million in inverter and BESS factory in Poland, first outside Asia",
       "url": "https://www.energy-storage.news/sungrow-to-invest-us270-million-in-inverter-and-bess-factory-in-poland-first-outside-asia/",
       "date": "2026-02-10T09:25:55.000Z",
@@ -237,13 +244,6 @@
       "url": "https://www.energy-storage.news/a123-hithium-tout-semi-solid-cells-immersion-cooling-and-lsft-bess-safety-advances/",
       "date": "2026-02-10T09:15:11.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "France sees growing case for residential solar battery leasing",
-      "url": "https://www.pv-magazine.com/2026/02/10/france-sees-growing-case-for-residential-solar-battery-leasing/",
-      "date": "2026-02-10T09:15:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
