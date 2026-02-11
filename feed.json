@@ -1,6 +1,27 @@
 {
-  "ts": 1770798726163,
+  "ts": 1770802714736,
   "items": [
+    {
+      "title": "Silver prices forecast to strengthen further this year",
+      "url": "https://www.pv-magazine.com/2026/02/11/silver-prices-forecast-to-strengthen-further-this-year/",
+      "date": "2026-02-11T09:33:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BESS financing benefitting from other clean energy segment struggles, US uncertainty, Fidra CEO says",
+      "url": "https://www.energy-storage.news/bess-financing-benefitting-from-other-clean-energy-segment-struggles-us-uncertainty-fidra-ceo-says/",
+      "date": "2026-02-11T09:23:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia grid constraints push data centers to regions",
+      "url": "https://www.pv-magazine.com/2026/02/11/australia-grid-constraints-push-data-centers-to-regions/",
+      "date": "2026-02-11T09:15:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India&#8217;s GREW Solar secures 3 GW ALMM approval",
       "url": "https://www.pv-magazine.com/2026/02/11/indias-grew-solar-secures-3-gw-almm-approval/",
@@ -222,20 +243,6 @@
       "title": "China expects up to 287 GW of new PV capacity additions in 2026",
       "url": "https://www.pv-magazine.com/2026/02/09/chinese-pv-sector-expects-new-pv-capacity-additions-to-reach-up-to-287-gw-this-year/",
       "date": "2026-02-09T16:15:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Greece to auction up to 200 MW of solar plus storage",
-      "url": "https://www.pv-magazine.com/2026/02/09/greece-to-auction-up-to-200-mw-of-solar-plus-storage/",
-      "date": "2026-02-09T15:30:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Deye releases new off-grid inverter series",
-      "url": "https://www.pv-magazine.com/2026/02/09/deye-releases-new-off-grid-inverter-series/",
-      "date": "2026-02-09T13:58:03.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Battery recycler Redwood receives financing boost from Google, aims to expand US energy storage division",
       "url": "https://www.energy-storage.news/battery-recycler-redwood-receives-financing-boost-from-google-aims-to-expand-us-energy-storage-division/",
       "date": "2026-01-30T13:33:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "At nearly 200GWh, China&#8217;s new energy storage deployment rate hit record high in 2025",
-      "url": "https://www.energy-storage.news/at-nearly-200gwh-chinas-new-energy-storage-deployment-rate-hit-record-high-in-2025/",
-      "date": "2026-01-30T10:41:21.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
