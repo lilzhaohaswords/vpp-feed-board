@@ -1,6 +1,13 @@
 {
-  "ts": 1770771889123,
+  "ts": 1770783397866,
   "items": [
+    {
+      "title": "Akaysha Energy submits 1.6GWh BESS to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/akaysha-energy-submits-1-6gwh-bess-to-australias-epbc-act/",
+      "date": "2026-02-11T02:44:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Wanxiang A123 launches immersion-cooled semi-solid-state energy storage solutions",
       "url": "https://www.pv-magazine.com/2026/02/10/wanxiang-a123-launches-immersion-cooled-semi-solid-state-energy-storage-solutions/",
@@ -516,13 +523,6 @@
       "title": "At nearly 200GWh, China&#8217;s new energy storage deployment rate hit record high in 2025",
       "url": "https://www.energy-storage.news/at-nearly-200gwh-chinas-new-energy-storage-deployment-rate-hit-record-high-in-2025/",
       "date": "2026-01-30T10:41:21.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery storage claims 46% share of Australia&#8217;s record 64GW energy investment pipeline",
-      "url": "https://www.energy-storage.news/battery-storage-claims-46-share-of-australias-record-64gw-energy-investment-pipeline/",
-      "date": "2026-01-30T02:42:46.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
