@@ -1,6 +1,13 @@
 {
-  "ts": 1770806156751,
+  "ts": 1770809636844,
   "items": [
+    {
+      "title": "Ore Energy pilots 100-hour iron-air BESS at EDF lab in France",
+      "url": "https://www.energy-storage.news/ore-energy-pilots-100-hour-iron-air-bess-at-edf-lab-in-france/",
+      "date": "2026-02-11T11:06:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Energy Vault secures 1.5 GWh sodium-ion supply for AI",
       "url": "https://www.pv-magazine.com/2026/02/11/energy-vault-secures-1-5-gwh-sodium-ion-supply-for-ai/",
@@ -516,13 +523,6 @@
       "title": "Jupiter Power closes US$500 million corporate credit facility to support US BESS projects",
       "url": "https://www.energy-storage.news/jupiter-power-closes-us500-million-corporate-credit-facility-to-support-us-bess-projects/",
       "date": "2026-01-30T13:36:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery recycler Redwood receives financing boost from Google, aims to expand US energy storage division",
-      "url": "https://www.energy-storage.news/battery-recycler-redwood-receives-financing-boost-from-google-aims-to-expand-us-energy-storage-division/",
-      "date": "2026-01-30T13:33:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
