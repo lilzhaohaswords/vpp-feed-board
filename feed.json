@@ -1,6 +1,20 @@
 {
-  "ts": 1770809636844,
+  "ts": 1770813293741,
   "items": [
+    {
+      "title": "NineDot Energy closes US$431 million for New York BESS, Ameresco completes multiple tax credit transfers",
+      "url": "https://www.energy-storage.news/ninedot-energy-closes-us431-million-for-new-york-bess-ameresco-completes-multiple-tax-credit-transfers/",
+      "date": "2026-02-11T12:20:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Varta unveils residential battery with AI-driven energy management",
+      "url": "https://www.pv-magazine.com/2026/02/11/varta-unveils-residential-battery-with-ai-driven-energy-management/",
+      "date": "2026-02-11T12:14:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Ore Energy pilots 100-hour iron-air BESS at EDF lab in France",
       "url": "https://www.energy-storage.news/ore-energy-pilots-100-hour-iron-air-bess-at-edf-lab-in-france/",
@@ -222,13 +236,6 @@
       "title": "Global cadmium telluride solar module manufacturing capacity could reach 100 GW by 2030",
       "url": "https://www.pv-magazine.com/2026/02/10/global-cadmium-telluride-solar-module-manufacturing-capacity-could-reach-100-gw-by-2030/",
       "date": "2026-02-10T08:05:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Shoals secures initial ITC win in patent dispute with Voltage",
-      "url": "https://www.pv-magazine.com/2026/02/10/shoals-secures-initial-itc-win-in-patent-dispute-with-voltage/",
-      "date": "2026-02-10T07:45:14.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Origin Energy begins generating revenue from two utility-scale battery storage sites in Australia",
       "url": "https://www.energy-storage.news/origin-energy-begins-generating-revenue-from-two-utility-scale-battery-storage-sites-in-australia/",
       "date": "2026-02-02T03:00:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Jupiter Power closes US$500 million corporate credit facility to support US BESS projects",
-      "url": "https://www.energy-storage.news/jupiter-power-closes-us500-million-corporate-credit-facility-to-support-us-bess-projects/",
-      "date": "2026-01-30T13:36:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
