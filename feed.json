@@ -1,6 +1,34 @@
 {
-  "ts": 1770813293741,
+  "ts": 1770818733108,
   "items": [
+    {
+      "title": "French startup launches app to boost collective self-consumption",
+      "url": "https://www.pv-magazine.com/2026/02/11/french-startup-launches-app-to-boost-collective-self-consumption/",
+      "date": "2026-02-11T13:30:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SolarEdge ships US-made inverters to Europe, ramping up BESS manufacturing",
+      "url": "https://www.pv-magazine.com/2026/02/11/solaredge-ships-us-made-inverters-to-europe-ramping-up-bess-manufacturing/",
+      "date": "2026-02-11T13:23:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Work begins on Georgia&#8217;s first utility-scale solar plant for on-site consumption",
+      "url": "https://www.pv-magazine.com/2026/02/11/work-begins-on-georgias-first-utility-scale-solar-plant-for-on-site-consumption/",
+      "date": "2026-02-11T12:52:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Moment of truth&#8217;: The 2026 regulatory agenda for large battery storage in Germany",
+      "url": "https://www.energy-storage.news/moment-of-truth-the-2026-regulatory-agenda-for-large-battery-storage-in-germany/",
+      "date": "2026-02-11T12:41:39.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "NineDot Energy closes US$431 million for New York BESS, Ameresco completes multiple tax credit transfers",
       "url": "https://www.energy-storage.news/ninedot-energy-closes-us431-million-for-new-york-bess-ameresco-completes-multiple-tax-credit-transfers/",
@@ -215,27 +243,6 @@
       "title": "France sees growing case for residential solar battery leasing",
       "url": "https://www.pv-magazine.com/2026/02/10/france-sees-growing-case-for-residential-solar-battery-leasing/",
       "date": "2026-02-10T09:15:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korea’s Won Kwang S&#038;T launches mobile solar panel recycling solution",
-      "url": "https://www.pv-magazine.com/2026/02/10/south-koreas-won-kwang-st/",
-      "date": "2026-02-10T09:04:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pahal Solar expands module manufacturing capacity to 3 GW",
-      "url": "https://www.pv-magazine.com/2026/02/10/pahal-solar-expands-module-manufacturing-capacity-to-3-gw/",
-      "date": "2026-02-10T08:30:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Global cadmium telluride solar module manufacturing capacity could reach 100 GW by 2030",
-      "url": "https://www.pv-magazine.com/2026/02/10/global-cadmium-telluride-solar-module-manufacturing-capacity-could-reach-100-gw-by-2030/",
-      "date": "2026-02-10T08:05:03.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "BW ESS proposes 1.6GWh battery energy storage facility for the Hunter Valley in Australia",
       "url": "https://www.energy-storage.news/bw-ess-proposes-1-6gwh-battery-energy-storage-facility-for-the-hunter-valley-in-australia/",
       "date": "2026-02-02T03:07:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Origin Energy begins generating revenue from two utility-scale battery storage sites in Australia",
-      "url": "https://www.energy-storage.news/origin-energy-begins-generating-revenue-from-two-utility-scale-battery-storage-sites-in-australia/",
-      "date": "2026-02-02T03:00:48.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
