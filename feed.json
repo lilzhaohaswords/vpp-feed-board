@@ -1,6 +1,27 @@
 {
-  "ts": 1770796495802,
+  "ts": 1770798726163,
   "items": [
+    {
+      "title": "India&#8217;s GREW Solar secures 3 GW ALMM approval",
+      "url": "https://www.pv-magazine.com/2026/02/11/indias-grew-solar-secures-3-gw-almm-approval/",
+      "date": "2026-02-11T08:30:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Colombia deploys 333 MW of PV in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/11/colombia-deploys-333-mw-of-pv-in-2025/",
+      "date": "2026-02-11T08:21:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New reflective coating increases BIPV power output by 11%",
+      "url": "https://www.pv-magazine.com/2026/02/11/new-reflective-coating-increases-bipv-power-output-by-11/",
+      "date": "2026-02-11T08:05:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Chemitek offers solution for drone-based cleaning of agrivoltaics",
       "url": "https://www.pv-magazine.com/2026/02/11/chemitek-offers-solution-for-drone-based-cleaning-of-agrivoltaics/",
@@ -226,13 +247,6 @@
       "bucket": "A"
     },
     {
-      "title": "DAS Solar unveils new method to identify hot-spots in TOPCon back-contact solar modules",
-      "url": "https://www.pv-magazine.com/2026/02/09/das-solar-unveils-new-method-to-identify-hot-spots-in-topcon-back-contact-solar-modules/",
-      "date": "2026-02-09T13:38:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "FlexGen begins operating 700MWh total BESS in Wisconsin, Iowa for Alliant Energy",
       "url": "https://www.energy-storage.news/flexgen-begins-operating-700mwh-total-bess-in-wisconsin-iowa-for-alliant-energy/",
       "date": "2026-02-09T13:26:24.000Z",
@@ -244,20 +258,6 @@
       "url": "https://www.energy-storage.news/europes-energy-storage-buildout-who-leads-and-who-is-left-behind/",
       "date": "2026-02-09T13:19:49.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar, wind PPA prices continue to fall in Europe",
-      "url": "https://www.pv-magazine.com/2026/02/09/solar-wind-ppa-prices-continue-to-fall-in-europe/",
-      "date": "2026-02-09T13:05:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Abu Dhabi unveils solar-plus-storage self-supply policy",
-      "url": "https://www.pv-magazine.com/2026/02/09/abu-dhabi-unveils-solar-plus-storage-self-supply-policy/",
-      "date": "2026-02-09T11:39:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
