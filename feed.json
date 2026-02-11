@@ -1,6 +1,20 @@
 {
-  "ts": 1770802714736,
+  "ts": 1770806156751,
   "items": [
+    {
+      "title": "Energy Vault secures 1.5 GWh sodium-ion supply for AI",
+      "url": "https://www.pv-magazine.com/2026/02/11/energy-vault-secures-1-5-gwh-sodium-ion-supply-for-ai/",
+      "date": "2026-02-11T10:00:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Scientists say land-preservation costs should be factored into agrivoltaics’ LCOE calculations",
+      "url": "https://www.pv-magazine.com/2026/02/11/scientists-say-land-preservation-costs-should-be-factored-into-agrivoltaics-lcoe-calculations/",
+      "date": "2026-02-11T09:55:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Silver prices forecast to strengthen further this year",
       "url": "https://www.pv-magazine.com/2026/02/11/silver-prices-forecast-to-strengthen-further-this-year/",
@@ -212,13 +226,6 @@
       "bucket": "A"
     },
     {
-      "title": "All agrivoltaic cropping systems at a glance",
-      "url": "https://www.pv-magazine.com/2026/02/10/all-agrivoltaic-cropping-systems-at-a-glance/",
-      "date": "2026-02-10T07:40:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "CATL, Cornex, SolaX and other Chinese energy storage players in multi-GWh international agreements",
       "url": "https://www.energy-storage.news/catl-cornex-solax-and-other-chinese-energy-storage-players-in-multi-gwh-international-agreements/",
       "date": "2026-02-10T05:13:01.000Z",
@@ -237,13 +244,6 @@
       "url": "https://www.energy-storage.news/australia-victoria-government-accelerates-700mw-of-battery-storage-via-development-facilitation-program/",
       "date": "2026-02-10T02:43:27.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China expects up to 287 GW of new PV capacity additions in 2026",
-      "url": "https://www.pv-magazine.com/2026/02/09/chinese-pv-sector-expects-new-pv-capacity-additions-to-reach-up-to-287-gw-this-year/",
-      "date": "2026-02-09T16:15:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
