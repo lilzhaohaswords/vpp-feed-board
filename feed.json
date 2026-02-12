@@ -1,6 +1,13 @@
 {
-  "ts": 1770888859771,
+  "ts": 1770892263583,
   "items": [
+    {
+      "title": "Long-duration storage as an antidote to grid congestion, renewables curtailment",
+      "url": "https://www.pv-magazine.com/2026/02/12/long-duration-storage-as-an-antidote-to-grid-congestion-renewables-curtailment/",
+      "date": "2026-02-12T09:40:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Jupiter International doubles solar cell manufacturing capacity to 2 GW in India",
       "url": "https://www.pv-magazine.com/2026/02/12/jupiter-international-doubles-solar-cell-manufacturing-capacity-to-2-gw-in-india/",
@@ -222,13 +229,6 @@
       "title": "Carbon dioxide removal benefits from solar PV",
       "url": "https://www.pv-magazine.com/2026/02/10/carbon-dioxide-removal-benefits-from-solar-pv/",
       "date": "2026-02-10T12:00:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Canada adds only 57 MW of utility-scale solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/10/canada-adds-only-57-mw-of-utility-scale-solar-in-2025/",
-      "date": "2026-02-10T11:19:54.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
