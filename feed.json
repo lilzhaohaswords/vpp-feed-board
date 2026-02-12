@@ -1,6 +1,13 @@
 {
-  "ts": 1770895779738,
+  "ts": 1770899526000,
   "items": [
+    {
+      "title": "Tesla set to launch vehicle-to-grid programme in the US",
+      "url": "https://www.energy-storage.news/tesla-set-to-launch-vehicle-to-grid-programme-in-the-us/",
+      "date": "2026-02-12T12:29:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Cambodia to permit 30 MW of rooftop solar systems",
       "url": "https://www.pv-magazine.com/2026/02/12/cambodia-to-permit-30-mw-of-rooftop-solar-systems/",
@@ -516,13 +523,6 @@
       "title": "US Governors in PJM territory move to unlock renewable energy, energy storage investment",
       "url": "https://www.energy-storage.news/us-governors-in-pjm-territory-move-to-unlock-renewable-energy-energy-storage-investment/",
       "date": "2026-02-02T12:52:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Tesla energy storage deployments jumped in ‘crucial AI transformation year&#8217;; company expects margin compression in 2026",
-      "url": "https://www.energy-storage.news/tesla-energy-storage-deployments-jumped-in-crucial-ai-transformation-year-company-expects-margin-compression-in-2026/",
-      "date": "2026-02-02T09:24:28.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
