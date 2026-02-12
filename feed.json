@@ -1,6 +1,13 @@
 {
-  "ts": 1770931266519,
+  "ts": 1770934696540,
   "items": [
+    {
+      "title": "‘The cost declines in lithium-ion tech provide very attractive pricing’: ASL on NSW&#8217;s recent 12GWh LDES tender",
+      "url": "https://www.energy-storage.news/the-cost-declines-in-lithium-ion-tech-provide-very-attractive-pricing-asl-on-nsws-recent-12gwh-ldes-tender/",
+      "date": "2026-02-12T21:51:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Fraunhofer ISE, PTB report just 0.15% uncertainty in PV module yield measurements",
       "url": "https://www.pv-magazine.com/2026/02/12/fraunhofer-ise-ptb-report-just-0-15-uncertainty-in-pv-module-yield-measurements/",
@@ -516,13 +523,6 @@
       "title": "&#8216;Spain&#8217;s regulatory landscape still incomplete&#8217;: Nuveen on bankability in Southern Europe",
       "url": "https://www.energy-storage.news/spains-regulatory-landscape-still-incomplete-nuveen-on-bankability-in-southern-europe/",
       "date": "2026-02-03T11:24:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Uniper signs 5GWh conditional supply agreement for CMBlu&#8217;s organic flow batteries",
-      "url": "https://www.energy-storage.news/uniper-signs-5gwh-conditional-supply-agreement-for-cmblus-organic-flow-batteries/",
-      "date": "2026-02-03T10:50:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
