@@ -1,6 +1,27 @@
 {
-  "ts": 1770882099602,
+  "ts": 1770885011696,
   "items": [
+    {
+      "title": "Agrivoltaics? Yes in my vineyard",
+      "url": "https://www.pv-magazine.com/2026/02/12/agrivoltaics-yes-in-my-vineyard/",
+      "date": "2026-02-12T07:57:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Baltic BESS and TES: Estonia&#8217;s 1.1GWh district heating accumulator, Nidec PCS-transformer deal in Lithuania",
+      "url": "https://www.energy-storage.news/baltic-bess-and-tes-estonias-1-1gwh-district-heating-accumulator-nidec-pcs-transformer-deal-in-lithuania/",
+      "date": "2026-02-12T07:49:11.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "High-voltage DC design targets AI data center costs",
+      "url": "https://www.pv-magazine.com/2026/02/12/high-voltage-dc-design-targets-ai-data-center-costs/",
+      "date": "2026-02-12T07:45:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Comparing safety profiles of lithium-ion, sodium-ion and solid-state batteries",
       "url": "https://www.pv-magazine.com/2026/02/12/comparing-safety-profiles-of-lithium-ion-sodium-ion-and-solid-state-batteries/",
@@ -208,20 +229,6 @@
       "title": "Ore Energy completes 100-hour iron-air storage system for EDF in France",
       "url": "https://www.pv-magazine.com/2026/02/10/ore-energy-completes-100-hour-iron-air-storage-system-for-edf-in-france/",
       "date": "2026-02-10T11:11:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Zendure unveils new batteries for balcony, rooftop solar",
-      "url": "https://www.pv-magazine.com/2026/02/10/zendure-uneils-new-batteries-for-balcony-rootfop-solar/",
-      "date": "2026-02-10T10:33:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Retrofit coloring solution makes conventional solar panels less visible",
-      "url": "https://www.pv-magazine.com/2026/02/10/retrofit-coloring-solution-makes-conventional-solar-panels-less-visible/",
-      "date": "2026-02-10T10:25:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Tesla energy storage deployments jumped in ‘crucial AI transformation year&#8217;; company expects margin compression in 2026",
       "url": "https://www.energy-storage.news/tesla-energy-storage-deployments-jumped-in-crucial-ai-transformation-year-company-expects-margin-compression-in-2026/",
       "date": "2026-02-02T09:24:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BW ESS proposes 1.6GWh battery energy storage facility for the Hunter Valley in Australia",
-      "url": "https://www.energy-storage.news/bw-ess-proposes-1-6gwh-battery-energy-storage-facility-for-the-hunter-valley-in-australia/",
-      "date": "2026-02-02T03:07:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
