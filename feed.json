@@ -1,6 +1,41 @@
 {
-  "ts": 1770971282104,
+  "ts": 1770975036962,
   "items": [
+    {
+      "title": "The impact of azimuth angles on PV power production in Saudi Arabia",
+      "url": "https://www.pv-magazine.com/2026/02/13/the-impact-of-azimuth-angles-on-pv-power-production-in-saudi-arabia/",
+      "date": "2026-02-13T09:16:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EnergyAustralia reaches financial close on 250MWh BESS in South Australia",
+      "url": "https://www.energy-storage.news/energyaustralia-reaches-financial-close-on-250mwh-bess-in-south-australia/",
+      "date": "2026-02-13T09:08:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "CleanCo opens 500MWh Tesla Megapack BESS in Queensland, Australia",
+      "url": "https://www.energy-storage.news/cleanco-opens-500mwh-tesla-megapack-bess-in-queensland-australia/",
+      "date": "2026-02-13T09:00:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Polysilicon transactions remain subdued amid buyer hesitancy",
+      "url": "https://www.pv-magazine.com/2026/02/13/polysilicon-transactions-remain-subdued-amid-buyer-hesitancy/",
+      "date": "2026-02-13T08:39:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India installs record 36.6 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/13/india-installs-record-36-6-gw-of-solar-in-2025/",
+      "date": "2026-02-13T08:30:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US repeals greenhouse gas endangerment ruling",
       "url": "https://www.pv-magazine.com/2026/02/13/us-repeals-greenhouse-gas-endangerment-ruling/",
@@ -205,13 +240,6 @@
       "bucket": "A"
     },
     {
-      "title": "Work begins on Georgia&#8217;s first utility-scale solar plant for on-site consumption",
-      "url": "https://www.pv-magazine.com/2026/02/11/work-begins-on-georgias-first-utility-scale-solar-plant-for-on-site-consumption/",
-      "date": "2026-02-11T12:52:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "&#8216;Moment of truth&#8217;: The 2026 regulatory agenda for large battery storage in Germany",
       "url": "https://www.energy-storage.news/moment-of-truth-the-2026-regulatory-agenda-for-large-battery-storage-in-germany/",
       "date": "2026-02-11T12:41:39.000Z",
@@ -226,24 +254,10 @@
       "bucket": "A"
     },
     {
-      "title": "Varta unveils residential battery with AI-driven energy management",
-      "url": "https://www.pv-magazine.com/2026/02/11/varta-unveils-residential-battery-with-ai-driven-energy-management/",
-      "date": "2026-02-11T12:14:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Ore Energy pilots 100-hour iron-air BESS at EDF lab in France",
       "url": "https://www.energy-storage.news/ore-energy-pilots-100-hour-iron-air-bess-at-edf-lab-in-france/",
       "date": "2026-02-11T11:06:12.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy Vault secures 1.5 GWh sodium-ion supply for AI",
-      "url": "https://www.pv-magazine.com/2026/02/11/energy-vault-secures-1-5-gwh-sodium-ion-supply-for-ai/",
-      "date": "2026-02-11T10:00:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Berkshire Hathaway Energy Montana energises 150MWh BESS",
       "url": "https://www.energy-storage.news/berkshire-hathaway-energy-montana-energises-150mwh-bess/",
       "date": "2026-02-03T13:47:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Scrutinising origin, ownership, and control&#8217;: FEOC rules change US BESS buying",
-      "url": "https://www.energy-storage.news/scrutinising-origin-ownership-and-control-feoc-rules-change-us-bess-buying/",
-      "date": "2026-02-03T13:30:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Spain&#8217;s regulatory landscape still incomplete&#8217;: Nuveen on bankability in Southern Europe",
-      "url": "https://www.energy-storage.news/spains-regulatory-landscape-still-incomplete-nuveen-on-bankability-in-southern-europe/",
-      "date": "2026-02-03T11:24:23.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
