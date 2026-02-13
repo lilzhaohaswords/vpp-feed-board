@@ -1,6 +1,20 @@
 {
-  "ts": 1770975036962,
+  "ts": 1770978417754,
   "items": [
+    {
+      "title": "Philippines to auction 25 GW of renewables by 2035",
+      "url": "https://www.pv-magazine.com/2026/02/13/philippines-to-auction-25-gw-of-renewables-by-2035/",
+      "date": "2026-02-13T09:59:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Beyond a lithium-only future&#8217;: How US trade rules could accelerate BESS diversification",
+      "url": "https://www.energy-storage.news/beyond-a-lithium-only-future-how-us-trade-rules-could-accelerate-bess-diversification/",
+      "date": "2026-02-13T09:32:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The impact of azimuth angles on PV power production in Saudi Arabia",
       "url": "https://www.pv-magazine.com/2026/02/13/the-impact-of-azimuth-angles-on-pv-power-production-in-saudi-arabia/",
@@ -229,13 +243,6 @@
       "title": "French startup launches app to boost collective self-consumption",
       "url": "https://www.pv-magazine.com/2026/02/11/french-startup-launches-app-to-boost-collective-self-consumption/",
       "date": "2026-02-11T13:30:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "SolarEdge ships US-made inverters to Europe, ramping up BESS manufacturing",
-      "url": "https://www.pv-magazine.com/2026/02/11/solaredge-ships-us-made-inverters-to-europe-ramping-up-bess-manufacturing/",
-      "date": "2026-02-11T13:23:05.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Why the best way to avoid BESS commissioning delays is to start earlier than you might expect",
       "url": "https://www.energy-storage.news/why-the-best-way-to-avoid-bess-commissioning-delays-is-to-start-earlier-than-you-might-expect/",
       "date": "2026-02-04T10:22:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Berkshire Hathaway Energy Montana energises 150MWh BESS",
-      "url": "https://www.energy-storage.news/berkshire-hathaway-energy-montana-energises-150mwh-bess/",
-      "date": "2026-02-03T13:47:03.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
