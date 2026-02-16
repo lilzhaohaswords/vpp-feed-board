@@ -1,6 +1,20 @@
 {
-  "ts": 1771252533377,
+  "ts": 1771255749730,
   "items": [
+    {
+      "title": "French startup launches ‘universal’ home energy management system",
+      "url": "https://www.pv-magazine.com/2026/02/16/french-startup-launches-universal-home-energy-management-system/",
+      "date": "2026-02-16T14:49:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "NeoVolta raises US$23 million for Georgia battery pack and BESS manufacturing facility",
+      "url": "https://www.energy-storage.news/neovolta-raises-us23-million-for-georgia-battery-pack-and-bess-manufacturing-facility/",
+      "date": "2026-02-16T14:35:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Plus Power brings ‘largest BESS on ISO New England grid’ online, in Maine",
       "url": "https://www.energy-storage.news/plus-power-brings-largest-bess-on-iso-new-england-grid-online-in-maine/",
@@ -222,13 +236,6 @@
       "title": "Polysilicon transactions remain subdued amid buyer hesitancy",
       "url": "https://www.pv-magazine.com/2026/02/13/polysilicon-transactions-remain-subdued-amid-buyer-hesitancy/",
       "date": "2026-02-13T08:39:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India installs record 36.6 GW of solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/13/india-installs-record-36-6-gw-of-solar-in-2025/",
-      "date": "2026-02-13T08:30:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Australia&#8217;s biggest LDES tender: NSW contracts six battery storage projects totalling 1.17GW/12GWh",
       "url": "https://www.energy-storage.news/australias-biggest-ldes-tender-nsw-contracts-six-battery-storage-projects-totalling-1-17gw-12gwh/",
       "date": "2026-02-05T03:17:31.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Evecon, Mirova and Corsica Sole inaugurate first of two 100MW/200MWh BESS in Estonia",
-      "url": "https://www.energy-storage.news/evecon-mirova-and-corsica-sole-inaugurate-first-of-two-100mw-200mwh-bess-in-estonia/",
-      "date": "2026-02-04T14:42:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
