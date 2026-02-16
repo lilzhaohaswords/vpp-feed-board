@@ -1,6 +1,27 @@
 {
-  "ts": 1771241430707,
+  "ts": 1771244972114,
   "items": [
+    {
+      "title": "South Africans are &#8216;off-gridding&#8217;",
+      "url": "https://www.pv-magazine.com/2026/02/16/south-africans-are-off-gridding/",
+      "date": "2026-02-16T12:25:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Denmark deploys 1.55 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/16/denmark-deploys-1-55-gw-of-solar-in-2025/",
+      "date": "2026-02-16T12:18:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Vietnam&#8217;s BESS breakthrough: A turning point for energy storage across ASEAN",
+      "url": "https://www.energy-storage.news/vietnams-bess-breakthrough-a-turning-point-for-energy-storage-across-asean/",
+      "date": "2026-02-16T11:36:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Hydrostor signs California offtake deal for 4 GWh compressed air storage",
       "url": "https://www.pv-magazine.com/2026/02/16/hydrostor-signs-california-offtake-deal-for-4-gwh-compressed-air-storage/",
@@ -202,20 +223,6 @@
       "url": "https://www.energy-storage.news/the-cost-declines-in-lithium-ion-tech-provide-very-attractive-pricing-asl-on-nsws-recent-12gwh-ldes-tender/",
       "date": "2026-02-12T21:51:00.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fraunhofer ISE, PTB report just 0.15% uncertainty in PV module yield measurements",
-      "url": "https://www.pv-magazine.com/2026/02/12/fraunhofer-ise-ptb-report-just-0-15-uncertainty-in-pv-module-yield-measurements/",
-      "date": "2026-02-12T14:45:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "World’s first 628 Ah grid-scale battery enters operation",
-      "url": "https://www.pv-magazine.com/2026/02/12/worlds-first-628-ah-grid-scale-battery-enters-operation/",
-      "date": "2026-02-12T14:00:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Standalone solar no longer enough in Europe as storage takes centre stage",
       "url": "https://www.energy-storage.news/standalone-solar-no-longer-enough-in-europe-as-storage-takes-centre-stage/",
       "date": "2026-02-04T14:00:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Enlight advances US$3 billion, 1.2GW solar 4GWh BESS ‘Complex’ in Arizona",
-      "url": "https://www.energy-storage.news/enlight-advances-us3-billion-1-2gw-solar-4gwh-bess-complex-in-arizona/",
-      "date": "2026-02-04T12:43:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
