@@ -1,6 +1,41 @@
 {
-  "ts": 1771230663656,
+  "ts": 1771234680676,
   "items": [
+    {
+      "title": "Hallett battery project reaches financial close in Australia",
+      "url": "https://www.pv-magazine.com/2026/02/16/hallett-battery-project-reaches-financial-close-in-australia/",
+      "date": "2026-02-16T09:30:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Queensland’s Stanwell opens 600MWh battery storage system in Australia",
+      "url": "https://www.energy-storage.news/queenslands-stanwell-opens-600mwh-battery-storage-system-in-australia/",
+      "date": "2026-02-16T09:19:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Fox ESS partners with Origin to expand VPP access across Australia",
+      "url": "https://www.energy-storage.news/fox-ess-partners-with-origin-to-expand-vpp-access-across-australia/",
+      "date": "2026-02-16T09:17:05.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New algorithm reduces solar module temperature during clipping, curtailment",
+      "url": "https://www.pv-magazine.com/2026/02/16/new-algorithm-reduces-solar-module-temperature-during-clipping-curtailment/",
+      "date": "2026-02-16T08:59:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India’s blueprint for sustainable solar success",
+      "url": "https://www.pv-magazine.com/2026/02/16/indias-blueprint-for-sustainable-solar-success/",
+      "date": "2026-02-16T08:45:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "PowerBank posts $22.3 million in H2 2025 revenue amid space solar AI push",
       "url": "https://www.pv-magazine.com/2026/02/16/powerbank-posts-22-3-million-in-h2-2025-revenue-amid-space-solar-ai-push/",
@@ -180,27 +215,6 @@
       "title": "IEC-based technical specifications needed for second-life PV module market",
       "url": "https://www.pv-magazine.com/2026/02/12/iec-based-technical-specifications-needed-for-second-life-pv-module-market/",
       "date": "2026-02-12T13:21:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "SALD launches large area sheet-to-sheet tool for perovskite solar pilot lines",
-      "url": "https://www.pv-magazine.com/2026/02/12/sald-launches-large-area-sheet-to-sheet-tool-for-perovskite-solar-pilot-lines/",
-      "date": "2026-02-12T13:09:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Beyond first-time installations: How Europe’s residential solar Market is shifting toward upgrades and intelligent energy systems",
-      "url": "https://www.pv-magazine.com/2026/02/12/beyond-first-time-installations-how-europes-residential-solar-market-is-shifting-toward-upgrades-and-intelligent-energy-systems/",
-      "date": "2026-02-12T12:57:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain hits 50 GW solar milestone",
-      "url": "https://www.pv-magazine.com/2026/02/12/spain-hits-50-gw-solar-milestone/",
-      "date": "2026-02-12T12:51:40.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Enlight advances US$3 billion, 1.2GW solar 4GWh BESS ‘Complex’ in Arizona",
       "url": "https://www.energy-storage.news/enlight-advances-us3-billion-1-2gw-solar-4gwh-bess-complex-in-arizona/",
       "date": "2026-02-04T12:43:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "LG Energy Solution targets 90GWh of battery orders in US energy storage market in 2026",
-      "url": "https://www.energy-storage.news/lg-energy-solution-targets-90gwh-battery-orders-us-energy-storage-market-in-2026/",
-      "date": "2026-02-04T11:16:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Why the best way to avoid BESS commissioning delays is to start earlier than you might expect",
-      "url": "https://www.energy-storage.news/why-the-best-way-to-avoid-bess-commissioning-delays-is-to-start-earlier-than-you-might-expect/",
-      "date": "2026-02-04T10:22:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
