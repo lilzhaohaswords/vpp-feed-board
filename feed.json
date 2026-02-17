@@ -1,6 +1,34 @@
 {
-  "ts": 1771327797259,
+  "ts": 1771331402935,
   "items": [
+    {
+      "title": "Fraunhofer ISE achieves 34.2% efficiency with III-V germanium PV module",
+      "url": "https://www.pv-magazine.com/2026/02/17/fraunhofer-ise-achieves-34-2-efficiency-with-iii-v-germanium-pv-module/",
+      "date": "2026-02-17T12:26:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "KNESS and Hithium enter 2GWh Ukraine partnership, c.700MWh progressed elsewhere in Finland, Estonia and Southeast Europe",
+      "url": "https://www.energy-storage.news/kness-hithium-2gwh-bess-ukraine-partnership-700mwh-progressed-elsewhere-finland-estonia-southeast-europe/",
+      "date": "2026-02-17T12:22:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Caterpillar VC backs startup ElevenEs as it builds 1GWh LFP cell factory in Serbia",
+      "url": "https://www.energy-storage.news/caterpillar-vc-backs-startup-elevenes-as-it-builds-1gwh-lfp-cell-factory-in-serbia/",
+      "date": "2026-02-17T12:18:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘Greater diversity reshapes expectations’: Women in Energy Storage Network on strengthening and empowering an inclusive industry",
+      "url": "https://www.energy-storage.news/greater-diversity-reshapes-expectations-women-in-energy-storage-network-on-strengthening-and-empowering-an-inclusive-industry/",
+      "date": "2026-02-17T11:40:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The impact of agrivoltaics on soil properties",
       "url": "https://www.pv-magazine.com/2026/02/17/the-impact-of-agrivoltaics-on-soil-properties/",
@@ -215,13 +243,6 @@
       "title": "Chinese PV Industry Brief: CNMIA reports flat solar cell, module prices",
       "url": "https://www.pv-magazine.com/2026/02/13/chinese-pv-industry-brief-cnmia-reports-flat-solar-cell-module-prices/",
       "date": "2026-02-13T15:15:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Risen Energy adds full liquid cooling to 131 kW/261 kWh C&#038;I storage unit",
-      "url": "https://www.pv-magazine.com/2026/02/13/risen-energy-adds-full-liquid-cooling-to-131-kw-261-kwh-ci-storage-unit/",
-      "date": "2026-02-13T14:20:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "Fluence revenue up 154% but margin halves in last three months of 2025",
       "url": "https://www.energy-storage.news/fluence-revenue-up-154-but-margin-halves-in-last-three-months-of-2025/",
       "date": "2026-02-05T12:02:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Philippines House of Representatives passes national energy storage framework legislation",
-      "url": "https://www.energy-storage.news/philippines-house-of-representatives-passes-national-energy-storage-framework-legislation/",
-      "date": "2026-02-05T07:14:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "437MWh BESS in Australia&#8217;s highest city receives final approvals ahead of commissioning",
-      "url": "https://www.energy-storage.news/437mwh-bess-in-australias-highest-city-receives-final-approvals-ahead-of-commissioning/",
-      "date": "2026-02-05T03:47:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Octopus Australia acquires 4.8GWh battery storage project in New South Wales",
-      "url": "https://www.energy-storage.news/octopus-australia-acquires-4-8gwh-battery-storage-project-in-new-south-wales/",
-      "date": "2026-02-05T03:23:55.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
