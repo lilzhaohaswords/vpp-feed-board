@@ -1,6 +1,27 @@
 {
-  "ts": 1771316994740,
+  "ts": 1771320877575,
   "items": [
+    {
+      "title": "Guatemala PEG-5 tender draws 51 bidders for 4.7 GW of capacity",
+      "url": "https://www.pv-magazine.com/2026/02/17/guatemala-peg-5-tender-draws-51-bidders-for-4-7-gw-of-capacity/",
+      "date": "2026-02-17T09:14:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian Vanadium, Sumitomo Electric partner for bid in Western Australia&#8217;s 500MWh flow battery procurement",
+      "url": "https://www.energy-storage.news/australian-vanadium-sumitomo-electric-partner-for-bid-in-western-australias-500mwh-flow-battery-procurement/",
+      "date": "2026-02-17T08:56:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "What happens when type-C cracks strike photovoltaic modules",
+      "url": "https://www.pv-magazine.com/2026/02/17/what-happens-when-type-c-cracks-strike-photovoltaic-modules/",
+      "date": "2026-02-17T08:55:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Chinese Academy of Sciences unveils 101 MW compressor for compressed air energy storage",
       "url": "https://www.pv-magazine.com/2026/02/17/chinese-academy-of-sciences-unveils-101-mw-compressor-for-compressed-air-energy-storage/",
@@ -201,20 +222,6 @@
       "title": "Hot, dry start to 2026 lifts Australian PV, despite fires and monsoon losses",
       "url": "https://www.pv-magazine.com/2026/02/13/hot-dry-start-to-2026-lifts-australian-pv-despite-fires-and-monsoon-losses/",
       "date": "2026-02-13T13:43:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "World&#8217;s fastest supercomputers probing future of sodium-ion batteries",
-      "url": "https://www.pv-magazine.com/2026/02/13/worlds-fastest-supercomputers-probing-future-of-sodium-ion-batteries/",
-      "date": "2026-02-13T13:21:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Can sodium-ion beat Li-ion in portable power? Bluetti Pioneer Na gives it a try",
-      "url": "https://www.pv-magazine.com/2026/02/13/can-sodium-ion-beat-lithium-ion-in-portable-power-bluetti-pioneer-na-gives-it-a-try/",
-      "date": "2026-02-13T13:07:29.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Octopus Australia acquires 4.8GWh battery storage project in New South Wales",
       "url": "https://www.energy-storage.news/octopus-australia-acquires-4-8gwh-battery-storage-project-in-new-south-wales/",
       "date": "2026-02-05T03:23:55.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s biggest LDES tender: NSW contracts six battery storage projects totalling 1.17GW/12GWh",
-      "url": "https://www.energy-storage.news/australias-biggest-ldes-tender-nsw-contracts-six-battery-storage-projects-totalling-1-17gw-12gwh/",
-      "date": "2026-02-05T03:17:31.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
