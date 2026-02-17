@@ -1,6 +1,27 @@
 {
-  "ts": 1771339196864,
+  "ts": 1771342669877,
   "items": [
+    {
+      "title": "Enphase releases new control software for its IQ8, IQ9 microinverters",
+      "url": "https://www.pv-magazine.com/2026/02/17/enphase-releases-new-control-software-for-its-iq8-iq9-microinverters/",
+      "date": "2026-02-17T15:11:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "An ever-changing market: Delving into the heart of power purchase agreements",
+      "url": "https://www.pv-magazine.com/2026/02/17/an-ever-changing-market-delving-into-the-heart-of-power-purchase-agreements/",
+      "date": "2026-02-17T15:00:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Base Power partners with El Paso Electric, Sonnen launches &#8216;battery-only&#8217; Texas VPP programme",
+      "url": "https://www.energy-storage.news/base-power-partners-with-el-paso-electric-sonnen-launches-battery-only-texas-vpp-programme/",
+      "date": "2026-02-17T14:46:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Spain’s behind-the-meter storage grows 119% in 2025",
       "url": "https://www.pv-magazine.com/2026/02/17/spains-behind-the-meter-storage-grows-119-in-2025/",
@@ -229,20 +250,6 @@
       "title": "New algorithm reduces solar module temperature during clipping, curtailment",
       "url": "https://www.pv-magazine.com/2026/02/16/new-algorithm-reduces-solar-module-temperature-during-clipping-curtailment/",
       "date": "2026-02-16T08:59:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s blueprint for sustainable solar success",
-      "url": "https://www.pv-magazine.com/2026/02/16/indias-blueprint-for-sustainable-solar-success/",
-      "date": "2026-02-16T08:45:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "PowerBank posts $22.3 million in H2 2025 revenue amid space solar AI push",
-      "url": "https://www.pv-magazine.com/2026/02/16/powerbank-posts-22-3-million-in-h2-2025-revenue-amid-space-solar-ai-push/",
-      "date": "2026-02-16T08:00:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "‘Most TSOs are sitting on their hands’ when it comes to energy storage, says Nordic developer",
       "url": "https://www.energy-storage.news/most-tsos-are-sitting-on-their-hands-when-it-comes-to-energy-storage-says-nordic-developer/",
       "date": "2026-02-05T13:05:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fluence revenue up 154% but margin halves in last three months of 2025",
-      "url": "https://www.energy-storage.news/fluence-revenue-up-154-but-margin-halves-in-last-three-months-of-2025/",
-      "date": "2026-02-05T12:02:20.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
