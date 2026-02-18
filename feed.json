@@ -1,6 +1,13 @@
 {
-  "ts": 1771400433203,
+  "ts": 1771403389089,
   "items": [
+    {
+      "title": "California batteries sustain near 24-hour solar run",
+      "url": "https://www.pv-magazine.com/2026/02/18/california-batteries-sustain-near-24-hour-solar-run/",
+      "date": "2026-02-18T08:29:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Pexapark records 12 European PPAs for 724 MW in January",
       "url": "https://www.pv-magazine.com/2026/02/18/pexapark-records-12-european-ppas-for-724-mw-in-january/",
@@ -229,13 +236,6 @@
       "title": "Optimal solar module row spacing for agrivoltaics across Europe",
       "url": "https://www.pv-magazine.com/2026/02/16/optimal-solar-module-row-spacing-for-agrivoltaics-across-europe/",
       "date": "2026-02-16T10:06:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hallett battery project reaches financial close in Australia",
-      "url": "https://www.pv-magazine.com/2026/02/16/hallett-battery-project-reaches-financial-close-in-australia/",
-      "date": "2026-02-16T09:30:45.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
