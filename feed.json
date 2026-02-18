@@ -1,6 +1,20 @@
 {
-  "ts": 1771410612275,
+  "ts": 1771414126169,
   "items": [
+    {
+      "title": "Gigawatt-hours of investments, tolls, optimisation and platform financing across Europe this week",
+      "url": "https://www.energy-storage.news/gigawatt-hours-of-investments-tolls-optimisation-and-platform-financing-across-europe-this-week/",
+      "date": "2026-02-18T11:15:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Long-term trade-offs of agrivoltaics on pear farming",
+      "url": "https://www.pv-magazine.com/2026/02/18/long-term-trade-offs-of-agrivoltaics-on-pear-farming/",
+      "date": "2026-02-18T10:50:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Battery storage can help establish a new era of European energy resilience",
       "url": "https://www.energy-storage.news/battery-storage-can-help-establish-a-new-era-of-european-energy-resilience/",
@@ -251,13 +265,6 @@
       "url": "https://www.energy-storage.news/planning-barriers-threaten-to-stall-momentum-in-uk-battery-storage-market/",
       "date": "2026-02-16T14:05:51.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The prospects for ultra-high-temperature heat pumps",
-      "url": "https://www.pv-magazine.com/2026/02/16/the-prospects-for-ultra-high-temperature-heat-pumps/",
-      "date": "2026-02-16T13:11:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Iberdrola Australia opens 130MWh battery storage system in western Sydney",
       "url": "https://www.energy-storage.news/iberdrola-australia-opens-130mwh-battery-storage-system-in-western-sydney/",
       "date": "2026-02-06T03:09:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘We&#8217;re not stopping here’: Reactions as Australia’s New South Wales smashes long-duration storage targets with 12GWh tender",
-      "url": "https://www.energy-storage.news/were-not-stopping-here-reactions-as-australias-new-south-wales-smashes-long-duration-storage-targets-with-12gwh-tender/",
-      "date": "2026-02-06T02:43:28.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
