@@ -1,6 +1,27 @@
 {
-  "ts": 1771407172360,
+  "ts": 1771410612275,
   "items": [
+    {
+      "title": "Battery storage can help establish a new era of European energy resilience",
+      "url": "https://www.energy-storage.news/battery-storage-can-help-establish-a-new-era-of-european-energy-resilience/",
+      "date": "2026-02-18T10:07:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Adani to invest $100 billion in AI data centers in India",
+      "url": "https://www.pv-magazine.com/2026/02/18/adani-to-invest-100-billion-in-ai-data-centers-in-india/",
+      "date": "2026-02-18T10:00:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "North Macedonia adds 210 MW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/18/north-macedonia-adds-210-mw-of-solar-in-2025/",
+      "date": "2026-02-18T09:58:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Global-warming-induced degradation could raise rooftop solar LCOE by up to 20%",
       "url": "https://www.pv-magazine.com/2026/02/18/global-warming-induced-degradation-could-raise-rooftop-solar-lcoe-by-up-to-20/",
@@ -236,20 +257,6 @@
       "title": "The prospects for ultra-high-temperature heat pumps",
       "url": "https://www.pv-magazine.com/2026/02/16/the-prospects-for-ultra-high-temperature-heat-pumps/",
       "date": "2026-02-16T13:11:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil targets 107 GW of solar by 2035 under energy plan",
-      "url": "https://www.pv-magazine.com/2026/02/16/brazil-targets-107-gw-of-solar-by-2035-under-energy-plan/",
-      "date": "2026-02-16T13:03:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Africans are &#8216;off-gridding&#8217;",
-      "url": "https://www.pv-magazine.com/2026/02/16/south-africans-are-off-gridding/",
-      "date": "2026-02-16T12:25:35.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "‘We&#8217;re not stopping here’: Reactions as Australia’s New South Wales smashes long-duration storage targets with 12GWh tender",
       "url": "https://www.energy-storage.news/were-not-stopping-here-reactions-as-australias-new-south-wales-smashes-long-duration-storage-targets-with-12gwh-tender/",
       "date": "2026-02-06T02:43:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s New South Wales designates 22GWh of pumped hydro as critical infrastructure",
-      "url": "https://www.energy-storage.news/australias-new-south-wales-designates-22gwh-of-pumped-hydro-as-critical-infrastructure/",
-      "date": "2026-02-06T02:30:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
