@@ -1,6 +1,13 @@
 {
-  "ts": 1771397066559,
+  "ts": 1771400433203,
   "items": [
+    {
+      "title": "Pexapark records 12 European PPAs for 724 MW in January",
+      "url": "https://www.pv-magazine.com/2026/02/18/pexapark-records-12-european-ppas-for-724-mw-in-january/",
+      "date": "2026-02-18T07:38:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Enphase releases new control software for its IQ8, IQ9 microinverters",
       "url": "https://www.pv-magazine.com/2026/02/17/enphase-releases-new-control-software-for-its-iq8-iq9-microinverters/",
@@ -244,13 +251,6 @@
       "url": "https://www.energy-storage.news/fox-ess-partners-with-origin-to-expand-vpp-access-across-australia/",
       "date": "2026-02-16T09:17:05.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New algorithm reduces solar module temperature during clipping, curtailment",
-      "url": "https://www.pv-magazine.com/2026/02/16/new-algorithm-reduces-solar-module-temperature-during-clipping-curtailment/",
-      "date": "2026-02-16T08:59:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
