@@ -1,6 +1,48 @@
 {
-  "ts": 1771403389089,
+  "ts": 1771407172360,
   "items": [
+    {
+      "title": "Global-warming-induced degradation could raise rooftop solar LCOE by up to 20%",
+      "url": "https://www.pv-magazine.com/2026/02/18/global-warming-induced-degradation-could-raise-rooftop-solar-lcoe-by-up-to-20/",
+      "date": "2026-02-18T09:17:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Investment rally coincides with renewables records in Australia’s NEM",
+      "url": "https://www.pv-magazine.com/2026/02/18/investment-rally-coincides-with-renewables-records-in-australias-nem/",
+      "date": "2026-02-18T09:15:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New Zealand gentailer Contact Energy eyes US$316 million raise for renewables and energy storage expansion",
+      "url": "https://www.energy-storage.news/new-zealand-gentailer-contact-energy-eyes-us316-million-raise-for-renewables-and-energy-storage-expansion/",
+      "date": "2026-02-18T09:02:11.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Quinbrook powers up 619MWh Supernode Stage One BESS in Queensland, Australia",
+      "url": "https://www.energy-storage.news/quinbrook-powers-up-619mwh-supernode-stage-one-bess-in-queensland-australia/",
+      "date": "2026-02-18T09:01:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia commissions 4.9GWh of grid-scale batteries in 2025, matching entire 2017-2024 output",
+      "url": "https://www.energy-storage.news/australia-commissions-4-9gwh-of-grid-scale-batteries-in-2025-matching-entire-2017-2024-output/",
+      "date": "2026-02-18T08:58:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "One-year perovskite solar module testing shows promising outdoor stability",
+      "url": "https://www.pv-magazine.com/2026/02/18/one-year-perovskite-solar-module-testing-shows-promising-outdoor-stability/",
+      "date": "2026-02-18T08:44:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "California batteries sustain near 24-hour solar run",
       "url": "https://www.pv-magazine.com/2026/02/18/california-batteries-sustain-near-24-hour-solar-run/",
@@ -212,31 +254,10 @@
       "bucket": "A"
     },
     {
-      "title": "Denmark deploys 1.55 GW of solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/16/denmark-deploys-1-55-gw-of-solar-in-2025/",
-      "date": "2026-02-16T12:18:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Vietnam&#8217;s BESS breakthrough: A turning point for energy storage across ASEAN",
       "url": "https://www.energy-storage.news/vietnams-bess-breakthrough-a-turning-point-for-energy-storage-across-asean/",
       "date": "2026-02-16T11:36:58.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hydrostor signs California offtake deal for 4 GWh compressed air storage",
-      "url": "https://www.pv-magazine.com/2026/02/16/hydrostor-signs-california-offtake-deal-for-4-gwh-compressed-air-storage/",
-      "date": "2026-02-16T10:15:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Optimal solar module row spacing for agrivoltaics across Europe",
-      "url": "https://www.pv-magazine.com/2026/02/16/optimal-solar-module-row-spacing-for-agrivoltaics-across-europe/",
-      "date": "2026-02-16T10:06:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "Australia’s New South Wales designates 22GWh of pumped hydro as critical infrastructure",
       "url": "https://www.energy-storage.news/australias-new-south-wales-designates-22gwh-of-pumped-hydro-as-critical-infrastructure/",
       "date": "2026-02-06T02:30:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Reversible solid oxide fuel cells&#8217;: Noon Energy&#8217;s approach to 100+ hour energy storage",
-      "url": "https://www.energy-storage.news/reversible-solid-oxide-fuel-cells-noon-energys-approach-to-100-hour-energy-storage/",
-      "date": "2026-02-05T13:52:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Aypa Power closes US$1.5 billion credit facility for US BESS projects",
-      "url": "https://www.energy-storage.news/aypa-power-closes-us1-5-billion-credit-facility-for-us-bess-projects/",
-      "date": "2026-02-05T13:39:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Most TSOs are sitting on their hands’ when it comes to energy storage, says Nordic developer",
-      "url": "https://www.energy-storage.news/most-tsos-are-sitting-on-their-hands-when-it-comes-to-energy-storage-says-nordic-developer/",
-      "date": "2026-02-05T13:05:35.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
