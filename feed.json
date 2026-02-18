@@ -1,6 +1,34 @@
 {
-  "ts": 1771417783713,
+  "ts": 1771423093847,
   "items": [
+    {
+      "title": "Mexico could become data center hub, but clean power lags behind",
+      "url": "https://www.pv-magazine.com/2026/02/18/mexico-could-become-data-center-hub-but-clean-power-lags-behind/",
+      "date": "2026-02-18T13:46:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Centrotherm launches new high-volume TOPCon PECVD tool",
+      "url": "https://www.pv-magazine.com/2026/02/18/centrotherm-launches-new-high-volume-topcon-pecvd-tool/",
+      "date": "2026-02-18T12:56:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Lydian Energy secures US$689 million for three US BESS and solar projects",
+      "url": "https://www.energy-storage.news/lydian-energy-secures-us689-million-for-three-us-bess-and-solar-projects/",
+      "date": "2026-02-18T12:43:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Interim FEOC guidance from US Treasury refers back to existing safe harbour guidelines",
+      "url": "https://www.energy-storage.news/interim-feoc-guidance-from-us-treasury-refers-back-to-existing-safe-harbour-guidelines/",
+      "date": "2026-02-18T12:38:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Slow start to global 2026 BESS deployments in January, China continues to dominate",
       "url": "https://www.energy-storage.news/slow-start-to-global-2026-bess-deployments-in-january-china-continues-to-dominate/",
@@ -236,20 +264,6 @@
       "title": "Silver-saving efforts ramping up in solar industry, says Heraeus",
       "url": "https://www.pv-magazine.com/2026/02/16/silver-saving-efforts-ramping-up-in-solar-industry-says-heraeus/",
       "date": "2026-02-16T16:15:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Silbat silicon batteries guarantee uninterrupted power supply for 14 days",
-      "url": "https://www.pv-magazine.com/2026/02/16/silbat-silicon-batteries-guarantee-uninterrupted-power-supply-for-14-days/",
-      "date": "2026-02-16T15:51:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Key takeaways from Solaire Expo Maroc",
-      "url": "https://www.pv-magazine.com/2026/02/16/key-takeaways-from-solaire-expo-maroc/",
-      "date": "2026-02-16T15:30:22.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Lunar Energy raises US$232 million to scale VPP software globally",
       "url": "https://www.energy-storage.news/lunar-energy-raises-us232-million-to-scale-vpp-software-globally/",
       "date": "2026-02-06T16:09:50.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "E-Storage, Sunraycer enter agreements for Texas BESS projects totalling 503MWh",
-      "url": "https://www.energy-storage.news/e-storage-sunraycer-enter-agreements-for-texas-bess-projects-totalling-503mwh/",
-      "date": "2026-02-06T14:08:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery data analytics software specialist TWAICE nets European Investment Bank funding",
-      "url": "https://www.energy-storage.news/battery-data-analytics-software-specialist-twaice-nets-european-investment-bank-funding/",
-      "date": "2026-02-06T09:17:50.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
