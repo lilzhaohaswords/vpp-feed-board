@@ -1,6 +1,20 @@
 {
-  "ts": 1771512200417,
+  "ts": 1771515266196,
   "items": [
+    {
+      "title": "Intertek acquires German PV inspection specialist AePVI",
+      "url": "https://www.pv-magazine.com/2026/02/19/intertek-acquires-german-pv-inspection-specialist-aepvi/",
+      "date": "2026-02-19T15:30:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Without transparent energy planning, the lights could go out",
+      "url": "https://www.energy-storage.news/without-transparent-energy-planning-the-lights-could-go-out/",
+      "date": "2026-02-19T14:47:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "ADB backs $350 million for three solar-plus-storage projects in Thailand",
       "url": "https://www.pv-magazine.com/2026/02/19/adb-backs-350-million-for-three-solar-storage-projects-in-thailand/",
@@ -243,13 +257,6 @@
       "title": "Global-warming-induced degradation could raise rooftop solar LCOE by up to 20%",
       "url": "https://www.pv-magazine.com/2026/02/18/global-warming-induced-degradation-could-raise-rooftop-solar-lcoe-by-up-to-20/",
       "date": "2026-02-18T09:17:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Investment rally coincides with renewables records in Australia’s NEM",
-      "url": "https://www.pv-magazine.com/2026/02/18/investment-rally-coincides-with-renewables-records-in-australias-nem/",
-      "date": "2026-02-18T09:15:28.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "GridStor warns of industry slowdown as US Treasury guidance delays BESS decisions",
       "url": "https://www.energy-storage.news/gridstor-warns-of-industry-slowdown-as-us-treasury-guidance-delays-bess-decisions/",
       "date": "2026-02-09T13:50:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "FlexGen begins operating 700MWh total BESS in Wisconsin, Iowa for Alliant Energy",
-      "url": "https://www.energy-storage.news/flexgen-begins-operating-700mwh-total-bess-in-wisconsin-iowa-for-alliant-energy/",
-      "date": "2026-02-09T13:26:24.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
