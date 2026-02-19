@@ -1,8 +1,22 @@
 {
-  "ts": 1771493509053,
+  "ts": 1771496987409,
   "items": [
     {
-      "title": "AI now can now predict solar cell efficiency from wafer quality",
+      "title": "Rotterdam port advances 96 MW floating solar project for local use",
+      "url": "https://www.pv-magazine.com/2026/02/19/large-scale-dutch-floating-solar-project-progresses/",
+      "date": "2026-02-19T10:00:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The effects of solar module elevation on ground-mounted PV",
+      "url": "https://www.pv-magazine.com/2026/02/19/the-effects-of-solar-module-elevation-on-ground-mounted-pv/",
+      "date": "2026-02-19T09:53:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "AI can now predict solar cell efficiency from wafer quality",
       "url": "https://www.pv-magazine.com/2026/02/19/ai-now-can-now-predict-solar-cell-efficiency-from-wafer-quality/",
       "date": "2026-02-19T09:25:01.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -240,13 +254,6 @@
       "bucket": "A"
     },
     {
-      "title": "Fraunhofer ISE achieves 34.2% efficiency with III-V germanium PV module",
-      "url": "https://www.pv-magazine.com/2026/02/17/fraunhofer-ise-achieves-34-2-efficiency-with-iii-v-germanium-pv-module/",
-      "date": "2026-02-17T12:26:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "KNESS and Hithium enter 2GWh Ukraine partnership, c.700MWh progressed elsewhere in Finland, Estonia and Southeast Europe",
       "url": "https://www.energy-storage.news/kness-hithium-2gwh-bess-ukraine-partnership-700mwh-progressed-elsewhere-finland-estonia-southeast-europe/",
       "date": "2026-02-17T12:22:43.000Z",
@@ -265,13 +272,6 @@
       "url": "https://www.energy-storage.news/greater-diversity-reshapes-expectations-women-in-energy-storage-network-on-strengthening-and-empowering-an-inclusive-industry/",
       "date": "2026-02-17T11:40:49.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The impact of agrivoltaics on soil properties",
-      "url": "https://www.pv-magazine.com/2026/02/17/the-impact-of-agrivoltaics-on-soil-properties/",
-      "date": "2026-02-17T09:56:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
