@@ -1,6 +1,13 @@
 {
-  "ts": 1771586462263,
+  "ts": 1771590421845,
   "items": [
+    {
+      "title": "Egypt tenders 500 MW solar project",
+      "url": "https://www.pv-magazine.com/2026/02/20/egypt-tenders-500-mw-solar-project/",
+      "date": "2026-02-20T12:00:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Storm train hits Western Europe PV as East clears under cold",
       "url": "https://www.pv-magazine.com/2026/02/20/storm-train-hits-western-europe-pv-as-east-clears-under-cold/",
@@ -215,13 +222,6 @@
       "title": "The effects of solar module elevation on ground-mounted PV",
       "url": "https://www.pv-magazine.com/2026/02/19/the-effects-of-solar-module-elevation-on-ground-mounted-pv/",
       "date": "2026-02-19T09:53:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "AI can now predict solar cell efficiency from wafer quality",
-      "url": "https://www.pv-magazine.com/2026/02/19/ai-now-can-now-predict-solar-cell-efficiency-from-wafer-quality/",
-      "date": "2026-02-19T09:25:01.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
