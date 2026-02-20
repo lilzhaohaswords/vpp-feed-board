@@ -1,6 +1,27 @@
 {
-  "ts": 1771573104813,
+  "ts": 1771575963856,
   "items": [
+    {
+      "title": "Agrivoltaics for regenerative agriculture",
+      "url": "https://www.pv-magazine.com/2026/02/20/agrivoltaics-for-regenerative-agriculture/",
+      "date": "2026-02-20T08:25:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "South Africa adds 1.6 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/20/south-africa-adds-1-6-gw-of-solar-in-2025/",
+      "date": "2026-02-20T08:04:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Rethinking solar and storage ROI: Beyond old efficiency assumptions",
+      "url": "https://www.pv-magazine.com/2026/02/20/rethinking-solar-and-storage-roi-beyond-old-efficiency-assumptions/",
+      "date": "2026-02-20T07:45:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "How to detect PV system underperformance using only AC-side inverter data",
       "url": "https://www.pv-magazine.com/2026/02/20/how-to-detect-pv-system-underperformance-using-only-ac-side-inverter-data/",
@@ -205,13 +226,6 @@
       "bucket": "A"
     },
     {
-      "title": "Centrotherm launches new high-volume TOPCon PECVD tool",
-      "url": "https://www.pv-magazine.com/2026/02/18/centrotherm-launches-new-high-volume-topcon-pecvd-tool/",
-      "date": "2026-02-18T12:56:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Lydian Energy secures US$689 million for three US BESS and solar projects",
       "url": "https://www.energy-storage.news/lydian-energy-secures-us689-million-for-three-us-bess-and-solar-projects/",
       "date": "2026-02-18T12:43:36.000Z",
@@ -233,24 +247,10 @@
       "bucket": "A"
     },
     {
-      "title": "MENA region to add 860 GW of solar by 2040, says DNV",
-      "url": "https://www.pv-magazine.com/2026/02/18/mena-region-to-add-860-gw-of-solar-by-2040-says-dnv/",
-      "date": "2026-02-18T12:21:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Gigawatt-hours of investments, tolls, optimisation and platform financing across Europe this week",
       "url": "https://www.energy-storage.news/gigawatt-hours-of-investments-tolls-optimisation-and-platform-financing-across-europe-this-week/",
       "date": "2026-02-18T11:15:16.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Long-term trade-offs of agrivoltaics on pear farming",
-      "url": "https://www.pv-magazine.com/2026/02/18/long-term-trade-offs-of-agrivoltaics-on-pear-farming/",
-      "date": "2026-02-18T10:50:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
