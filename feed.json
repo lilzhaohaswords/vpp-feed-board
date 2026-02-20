@@ -1,6 +1,13 @@
 {
-  "ts": 1771604534925,
+  "ts": 1771608392589,
   "items": [
+    {
+      "title": "The Hydrogen Stream: Dutch agribusiness installs 1 MW electrolyzer",
+      "url": "https://www.pv-magazine.com/2026/02/20/the-hydrogen-stream-agricultural-company-installs-solid-oxide-electrolyzer-for-local-production/",
+      "date": "2026-02-20T16:50:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "4-hour projects, 15-year toll: Neoen, Statkraft, Zenobē and Infranode progress BESS in Northern Europe",
       "url": "https://www.energy-storage.news/4-hour-projects-15-year-toll-neoen-statkraft-zenobe-and-infranode-progress-bess-in-northern-europe/",
@@ -222,13 +229,6 @@
       "title": "World’s largest steam-producing heat pump comes online in Finland",
       "url": "https://www.pv-magazine.com/2026/02/19/worlds-largest-steam-producing-heat-pump-comes-online-in-finland/",
       "date": "2026-02-19T13:22:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Dominican Republic updates net metering rules for rooftop solar",
-      "url": "https://www.pv-magazine.com/2026/02/19/dominican-republic-updates-net-metering-rules-for-rooftop-solar/",
-      "date": "2026-02-19T13:00:58.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
