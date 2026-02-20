@@ -1,6 +1,27 @@
 {
-  "ts": 1771597801055,
+  "ts": 1771601187401,
   "items": [
+    {
+      "title": "India: Energy storage tech scope widens with 100MWh flow battery, 100GW pumped hydro and grid-forming BESS prospects",
+      "url": "https://www.energy-storage.news/india-energy-storage-tech-scope-widens-with-100mwh-flow-battery-100gw-pumped-hydro-and-grid-forming-bess-prospects/",
+      "date": "2026-02-20T15:13:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘I had to work significantly harder to achieve the same level of credibility and recognition as my male peers’",
+      "url": "https://www.pv-magazine.com/2026/02/20/i-had-to-work-significantly-harder-to-achieve-the-same-level-of-credibility-and-recognition-as-my-male-peers/",
+      "date": "2026-02-20T15:10:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Panasonic debuts fuel cell cogeneration system for PV‑integrated homes",
+      "url": "https://www.pv-magazine.com/2026/02/20/panasonic-debuts-residential-fuel-cell-cogeneration-system-for-pv%e2%80%91integrated-homes/",
+      "date": "2026-02-20T14:54:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "German consortium launches web guide for BIPV planning",
       "url": "https://www.pv-magazine.com/2026/02/20/german-consortium-launches-web-guide-for-bipv-planning/",
@@ -205,24 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "Space-based solar could be competitive by 2040, UK government finds",
-      "url": "https://www.pv-magazine.com/2026/02/19/space-based-solar-could-be-competitive-by-2040-uk-government-finds/",
-      "date": "2026-02-19T11:53:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Ukraine&#8217;s strategic need for energy storage",
       "url": "https://www.energy-storage.news/ukraines-strategic-need-for-energy-storage/",
       "date": "2026-02-19T11:03:24.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Rotterdam port advances 96 MW floating solar project for local use",
-      "url": "https://www.pv-magazine.com/2026/02/19/large-scale-dutch-floating-solar-project-progresses/",
-      "date": "2026-02-19T10:00:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "CATL, Cornex, SolaX and other Chinese energy storage players in multi-GWh international agreements",
       "url": "https://www.energy-storage.news/catl-cornex-solax-and-other-chinese-energy-storage-players-in-multi-gwh-international-agreements/",
       "date": "2026-02-10T05:13:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Revera Energy secures US$150 million to support 3.4GWh of battery storage across Australia and the UK",
-      "url": "https://www.energy-storage.news/revera-energy-secures-us150-million-to-support-3-4gwh-of-battery-storage-across-australia-and-the-uk/",
-      "date": "2026-02-10T02:50:33.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
