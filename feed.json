@@ -1,6 +1,41 @@
 {
-  "ts": 1771575963856,
+  "ts": 1771579686975,
   "items": [
+    {
+      "title": "Samsung HVAC unveils inverter-driven residential heat pumps for cold climates",
+      "url": "https://www.pv-magazine.com/2026/02/20/samsung-hvac-unveils-inverter-driven-residential-heat-pumps-for-cold-climates/",
+      "date": "2026-02-20T09:23:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Enable the next wave of applications and opportunity: Cubenergy’s FlexCombo 2.0 flexible energy storage AC block",
+      "url": "https://www.energy-storage.news/enable-the-next-wave-of-applications-and-opportunity-cubenergys-flexcombo-2-0-flexible-energy-storage-ac-block/",
+      "date": "2026-02-20T09:15:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Quinbrook advances Supernode BESS with 780MW stage two submitted to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/quinbrook-advances-supernode-bess-with-780mw-stage-two-submitted-to-australias-epbc-act/",
+      "date": "2026-02-20T09:13:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New Zealand selects 32 farms for solar and battery trial",
+      "url": "https://www.pv-magazine.com/2026/02/20/new-zealand-selects-32-farms-for-solar-and-battery-trial/",
+      "date": "2026-02-20T09:00:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India adds 7.8 GW of open-access solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/20/india-adds-7-8-gw-of-open-access-solar-in-2025/",
+      "date": "2026-02-20T08:30:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Agrivoltaics for regenerative agriculture",
       "url": "https://www.pv-magazine.com/2026/02/20/agrivoltaics-for-regenerative-agriculture/",
@@ -201,27 +236,6 @@
       "title": "Pay-as-you-go solar often underutilized in Sub-Saharan Africa",
       "url": "https://www.pv-magazine.com/2026/02/19/pay-as-you-go-solar-often-underutilized-in-sub-saharan-africa/",
       "date": "2026-02-19T07:00:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Luxembourg launches new tender for C&#038;I solar",
-      "url": "https://www.pv-magazine.com/2026/02/18/luxembourg-launches-new-tender-for-ci-solar/",
-      "date": "2026-02-18T16:00:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Burundi switches on solar at five health facilities",
-      "url": "https://www.pv-magazine.com/2026/02/18/burundi-switches-on-solar-at-five-health-facilities/",
-      "date": "2026-02-18T15:50:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Mexico could become data center hub, but clean power lags behind",
-      "url": "https://www.pv-magazine.com/2026/02/18/mexico-could-become-data-center-hub-but-clean-power-lags-behind/",
-      "date": "2026-02-18T13:46:48.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Revera Energy secures US$150 million to support 3.4GWh of battery storage across Australia and the UK",
       "url": "https://www.energy-storage.news/revera-energy-secures-us150-million-to-support-3-4gwh-of-battery-storage-across-australia-and-the-uk/",
       "date": "2026-02-10T02:50:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: Victoria government accelerates 700MW of battery storage via Development Facilitation Program",
-      "url": "https://www.energy-storage.news/australia-victoria-government-accelerates-700mw-of-battery-storage-via-development-facilitation-program/",
-      "date": "2026-02-10T02:43:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "GridStor warns of industry slowdown as US Treasury guidance delays BESS decisions",
-      "url": "https://www.energy-storage.news/gridstor-warns-of-industry-slowdown-as-us-treasury-guidance-delays-bess-decisions/",
-      "date": "2026-02-09T13:50:24.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
