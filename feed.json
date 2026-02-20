@@ -1,6 +1,27 @@
 {
-  "ts": 1771601187401,
+  "ts": 1771604534925,
   "items": [
+    {
+      "title": "4-hour projects, 15-year toll: Neoen, Statkraft, Zenobē and Infranode progress BESS in Northern Europe",
+      "url": "https://www.energy-storage.news/4-hour-projects-15-year-toll-neoen-statkraft-zenobe-and-infranode-progress-bess-in-northern-europe/",
+      "date": "2026-02-20T16:17:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: The application gap between BESS asset operation data and insights",
+      "url": "https://www.energy-storage.news/video-the-application-gap-between-bess-asset-operation-data-and-insights/",
+      "date": "2026-02-20T15:55:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Corporate PPA deals down 10% in 2025 as AI demand plugs gaps",
+      "url": "https://www.pv-magazine.com/2026/02/20/corporate-ppa-deals-down-10-in-2025-as-ai-demand-plugs-gaps/",
+      "date": "2026-02-20T15:45:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India: Energy storage tech scope widens with 100MWh flow battery, 100GW pumped hydro and grid-forming BESS prospects",
       "url": "https://www.energy-storage.news/india-energy-storage-tech-scope-widens-with-100mwh-flow-battery-100gw-pumped-hydro-and-grid-forming-bess-prospects/",
@@ -208,13 +229,6 @@
       "title": "Dominican Republic updates net metering rules for rooftop solar",
       "url": "https://www.pv-magazine.com/2026/02/19/dominican-republic-updates-net-metering-rules-for-rooftop-solar/",
       "date": "2026-02-19T13:00:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Anti-glare film enables PV system at Brussels Airport",
-      "url": "https://www.pv-magazine.com/2026/02/19/anti-glare-film-enables-pv-system-at-brussels-airport/",
-      "date": "2026-02-19T12:00:12.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Sungrow to invest US$270 million in inverter and BESS factory in Poland, first outside Asia",
       "url": "https://www.energy-storage.news/sungrow-to-invest-us270-million-in-inverter-and-bess-factory-in-poland-first-outside-asia/",
       "date": "2026-02-10T09:25:55.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "A123, Hithium tout semi-solid cells, immersion cooling and LSFT BESS safety advances",
-      "url": "https://www.energy-storage.news/a123-hithium-tout-semi-solid-cells-immersion-cooling-and-lsft-bess-safety-advances/",
-      "date": "2026-02-10T09:15:11.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CATL, Cornex, SolaX and other Chinese energy storage players in multi-GWh international agreements",
-      "url": "https://www.energy-storage.news/catl-cornex-solax-and-other-chinese-energy-storage-players-in-multi-gwh-international-agreements/",
-      "date": "2026-02-10T05:13:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
