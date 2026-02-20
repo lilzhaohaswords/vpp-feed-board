@@ -1,6 +1,20 @@
 {
-  "ts": 1771569470694,
+  "ts": 1771573104813,
   "items": [
+    {
+      "title": "How to detect PV system underperformance using only AC-side inverter data",
+      "url": "https://www.pv-magazine.com/2026/02/20/how-to-detect-pv-system-underperformance-using-only-ac-side-inverter-data/",
+      "date": "2026-02-20T07:19:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New single-diode model tackles recombination losses in solar cells",
+      "url": "https://www.pv-magazine.com/2026/02/20/new-single-diode-model-tackles-recombination-losses-in-solar-cells/",
+      "date": "2026-02-20T06:44:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Japanese utility launches residential battery demand response pilot",
       "url": "https://www.pv-magazine.com/2026/02/19/japanese-utility-launches-residential-battery-demand-response-pilot/",
@@ -244,20 +258,6 @@
       "url": "https://www.energy-storage.news/battery-storage-can-help-establish-a-new-era-of-european-energy-resilience/",
       "date": "2026-02-18T10:07:00.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Adani to invest $100 billion in AI data centers in India",
-      "url": "https://www.pv-magazine.com/2026/02/18/adani-to-invest-100-billion-in-ai-data-centers-in-india/",
-      "date": "2026-02-18T10:00:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "North Macedonia adds 210 MW of solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/18/north-macedonia-adds-210-mw-of-solar-in-2025/",
-      "date": "2026-02-18T09:58:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
