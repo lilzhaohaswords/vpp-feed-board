@@ -1,6 +1,27 @@
 {
-  "ts": 1771839525817,
+  "ts": 1771842991051,
   "items": [
+    {
+      "title": "ESS Tech acquires VoltStorage GmbH to expand long-duration energy storage",
+      "url": "https://www.pv-magazine.com/2026/02/23/ess-tech-acquires-voltstorage-gmbh-to-expand-long-duration-energy-storage/",
+      "date": "2026-02-23T10:00:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The redefined role of steel in solar energy projects",
+      "url": "https://www.pv-magazine.com/2026/02/23/the-redefined-role-of-steel-in-solar-energy-projects/",
+      "date": "2026-02-23T10:00:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Morocco sets net‑metering tariffs for high, medium‑voltage systems",
+      "url": "https://www.pv-magazine.com/2026/02/23/morocco-sets-net%e2%80%91metering-tariffs-for-high-and-medium%e2%80%91voltage-systems/",
+      "date": "2026-02-23T09:56:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Home batteries reshape Australia’s national electricity market",
       "url": "https://www.pv-magazine.com/2026/02/23/home-batteries-reshape-australias-national-electricity-market/",
@@ -187,27 +208,6 @@
       "title": "South Africa adds 1.6 GW of solar in 2025",
       "url": "https://www.pv-magazine.com/2026/02/20/south-africa-adds-1-6-gw-of-solar-in-2025/",
       "date": "2026-02-20T08:04:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Rethinking solar and storage ROI: Beyond old efficiency assumptions",
-      "url": "https://www.pv-magazine.com/2026/02/20/rethinking-solar-and-storage-roi-beyond-old-efficiency-assumptions/",
-      "date": "2026-02-20T07:45:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How to detect PV system underperformance using only AC-side inverter data",
-      "url": "https://www.pv-magazine.com/2026/02/20/how-to-detect-pv-system-underperformance-using-only-ac-side-inverter-data/",
-      "date": "2026-02-20T07:19:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New single-diode model tackles recombination losses in solar cells",
-      "url": "https://www.pv-magazine.com/2026/02/20/new-single-diode-model-tackles-recombination-losses-in-solar-cells/",
-      "date": "2026-02-20T06:44:43.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
