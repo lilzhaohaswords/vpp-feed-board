@@ -1,6 +1,20 @@
 {
-  "ts": 1771842991051,
+  "ts": 1771846202911,
   "items": [
+    {
+      "title": "How airflow modifications in agrivoltaics affect crop yield, energy output",
+      "url": "https://www.pv-magazine.com/2026/02/23/how-airflow-modifications-in-agrivoltaics-affect-crop-yield-energy-output/",
+      "date": "2026-02-23T11:22:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Taiwan’s solar feed-in tariffs remain unchanged",
+      "url": "https://www.pv-magazine.com/2026/02/23/taiwans-solar-feed-in-tariffs-remain-unchanged/",
+      "date": "2026-02-23T11:20:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "ESS Tech acquires VoltStorage GmbH to expand long-duration energy storage",
       "url": "https://www.pv-magazine.com/2026/02/23/ess-tech-acquires-voltstorage-gmbh-to-expand-long-duration-energy-storage/",
@@ -194,20 +208,6 @@
       "title": "India adds 7.8 GW of open-access solar in 2025",
       "url": "https://www.pv-magazine.com/2026/02/20/india-adds-7-8-gw-of-open-access-solar-in-2025/",
       "date": "2026-02-20T08:30:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Agrivoltaics for regenerative agriculture",
-      "url": "https://www.pv-magazine.com/2026/02/20/agrivoltaics-for-regenerative-agriculture/",
-      "date": "2026-02-20T08:25:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Africa adds 1.6 GW of solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/20/south-africa-adds-1-6-gw-of-solar-in-2025/",
-      "date": "2026-02-20T08:04:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
