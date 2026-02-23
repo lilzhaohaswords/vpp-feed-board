@@ -1,6 +1,34 @@
 {
-  "ts": 1771846202911,
+  "ts": 1771849884032,
   "items": [
+    {
+      "title": "European Union members make mixed progress in implementing energy storage strategies",
+      "url": "https://www.energy-storage.news/european-union-members-make-mixed-progress-in-implementing-energy-storage-strategies/",
+      "date": "2026-02-23T12:23:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "FRV set for 1.2GW/5GWh BESS rollout in Spain",
+      "url": "https://www.energy-storage.news/frv-set-for-1-2gw-5gwh-bess-rollout-in-spain/",
+      "date": "2026-02-23T12:18:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "High-temp sodium-zinc batteries reveal causes of rapid capacity loss",
+      "url": "https://www.pv-magazine.com/2026/02/23/high-temp-sodium-zinc-batteries-reveal-causes-of-rapid-capacity-loss/",
+      "date": "2026-02-23T12:00:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Redefining BESS bankability in 2026: from installed capacity to operational performance",
+      "url": "https://www.energy-storage.news/redefining-bess-bankability-in-2026-from-installed-capacity-to-operational-performance/",
+      "date": "2026-02-23T11:36:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "How airflow modifications in agrivoltaics affect crop yield, energy output",
       "url": "https://www.pv-magazine.com/2026/02/23/how-airflow-modifications-in-agrivoltaics-affect-crop-yield-energy-output/",
@@ -201,13 +229,6 @@
       "title": "New Zealand selects 32 farms for solar and battery trial",
       "url": "https://www.pv-magazine.com/2026/02/20/new-zealand-selects-32-farms-for-solar-and-battery-trial/",
       "date": "2026-02-20T09:00:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India adds 7.8 GW of open-access solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/20/india-adds-7-8-gw-of-open-access-solar-in-2025/",
-      "date": "2026-02-20T08:30:22.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "Energy Vault to secure 1.5GWh of US-manufactured sodium-ion BESS from Peak Energy",
       "url": "https://www.energy-storage.news/energy-vault-to-secure-1-5gwh-of-us-manufactured-sodium-ion-bess-from-peak-energy/",
       "date": "2026-02-10T13:08:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Samsung SDI partners with Korea East-West Power to develop ‘global’ BESS projects",
-      "url": "https://www.energy-storage.news/samsung-sdi-partners-with-korea-east-west-power-to-develop-global-bess-projects/",
-      "date": "2026-02-10T13:06:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "RWE, Masdar, Zenobe, Enlight and others forge partnerships, tolling offers to further Germany market expansion",
-      "url": "https://www.energy-storage.news/rwe-masdar-zenobe-enlight-and-others-forge-partnerships-tolling-offers-to-further-germany-market-expansion/",
-      "date": "2026-02-10T10:03:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow to invest US$270 million in inverter and BESS factory in Poland, first outside Asia",
-      "url": "https://www.energy-storage.news/sungrow-to-invest-us270-million-in-inverter-and-bess-factory-in-poland-first-outside-asia/",
-      "date": "2026-02-10T09:25:55.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
