@@ -1,6 +1,13 @@
 {
-  "ts": 1771855097376,
+  "ts": 1771857681196,
   "items": [
+    {
+      "title": "Solar module prices rise faster than expected in February",
+      "url": "https://www.pv-magazine.com/2026/02/23/solar-module-prices-rise-faster-than-expected-in-february/",
+      "date": "2026-02-23T14:30:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Fox ESS releases hybrid inverters for commercial PV",
       "url": "https://www.pv-magazine.com/2026/02/23/fox-ess-releases-hybrid-inverters-for-commercial-pv/",
@@ -208,13 +215,6 @@
       "title": "NexWafe, Talon PV sign 7 GW solar wafer supply agreement",
       "url": "https://www.pv-magazine.com/2026/02/20/nexwafe-talon-pv-sign-7-gw-solar-wafer-supply-agreement/",
       "date": "2026-02-20T09:42:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Samsung HVAC unveils inverter-driven residential heat pumps for cold climates",
-      "url": "https://www.pv-magazine.com/2026/02/20/samsung-hvac-unveils-inverter-driven-residential-heat-pumps-for-cold-climates/",
-      "date": "2026-02-20T09:23:33.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
