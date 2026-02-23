@@ -1,6 +1,27 @@
 {
-  "ts": 1771832657971,
+  "ts": 1771835543414,
   "items": [
+    {
+      "title": "Deloitte urges India to align renewables with AI data growth",
+      "url": "https://www.pv-magazine.com/2026/02/23/deloitte-urges-india-to-align-renewables-with-ai-data-growth/",
+      "date": "2026-02-23T08:30:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Amorphous silicon-silicon tandem solar cell achieves 12.3% efficiency via new honeycomb-shaped micro-structures",
+      "url": "https://www.pv-magazine.com/2026/02/23/amorphous-silicon-silicon-tandem-solar-cell-achieves-12-3-efficiency-via-new-honeycomb-shaped-micro-structures/",
+      "date": "2026-02-23T08:15:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Nextpower to supply steel frames for JinkoSolar’s Florida factory",
+      "url": "https://www.pv-magazine.com/2026/02/23/nextpower-to-supply-steel-frames-for-jinkosolars-florida-factory/",
+      "date": "2026-02-23T07:45:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Dutch agribusiness installs 1 MW electrolyzer",
       "url": "https://www.pv-magazine.com/2026/02/20/the-hydrogen-stream-agricultural-company-installs-solid-oxide-electrolyzer-for-local-production/",
@@ -198,13 +219,6 @@
       "bucket": "A"
     },
     {
-      "title": "Idemitsu switches on 2 MW of solar above rice paddy",
-      "url": "https://www.pv-magazine.com/2026/02/19/idemitsu-switches-on-2-mw-of-solar-above-rice-paddy/",
-      "date": "2026-02-19T14:25:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US Roundup: California CCAs secure LDES from Hydrostor, ESS Inc. iron-salt acquisition, PowerSecure microgrids enhance New Mexico grid",
       "url": "https://www.energy-storage.news/us-roundup-california-ccas-secure-ldes-from-hydrostor-ess-inc-iron-salt-acquisition-powersecure-microgrids-enhance-new-mexico-grid/",
       "date": "2026-02-19T13:58:07.000Z",
@@ -216,20 +230,6 @@
       "url": "https://www.energy-storage.news/moonwatt-targets-same-disruption-string-inverters-had-in-solar-with-distributed-sodium-ion-bess-architecture/",
       "date": "2026-02-19T13:42:06.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Zeo Energy signs MoU for 280 MW of solar plus LDES at Utah data center hub",
-      "url": "https://www.pv-magazine.com/2026/02/19/zeo-energy-signs-mou-for-280-mw-solar-plus-ldes-at-utah-data-center-hub/",
-      "date": "2026-02-19T13:30:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "World’s largest steam-producing heat pump comes online in Finland",
-      "url": "https://www.pv-magazine.com/2026/02/19/worlds-largest-steam-producing-heat-pump-comes-online-in-finland/",
-      "date": "2026-02-19T13:22:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
