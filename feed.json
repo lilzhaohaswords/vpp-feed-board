@@ -1,6 +1,55 @@
 {
-  "ts": 1771921833042,
+  "ts": 1771925866554,
   "items": [
+    {
+      "title": "ACWA Power to build 2 GW of solar in Türkiye",
+      "url": "https://www.pv-magazine.com/2026/02/24/acwa-power-to-build-2-gw-of-solar-in-turkiye/",
+      "date": "2026-02-24T09:17:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar curtailment rises in Chile as grid constraints persist",
+      "url": "https://www.pv-magazine.com/2026/02/24/solar-curtailment-rises-in-chile-as-grid-constraints-persist/",
+      "date": "2026-02-24T09:15:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Lightsource bp sells 800MWh of co-located battery storage in Australia to Aula Energy",
+      "url": "https://www.energy-storage.news/lightsource-bp-sells-800mwh-of-co-located-battery-storage-in-australia-to-aula-energy/",
+      "date": "2026-02-24T09:04:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Weidmuller USA launches PV connectors rated for 1,500 V",
+      "url": "https://www.pv-magazine.com/2026/02/24/weidmuller-usa-launches-pv-connectors-rated-for-1500-v/",
+      "date": "2026-02-24T08:50:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Execution discipline redefines energy storage value in Europe, as investable projects become harder to secure",
+      "url": "https://www.energy-storage.news/execution-discipline-redefines-energy-storage-value-in-europe-as-investable-projects-become-harder-to-secure/",
+      "date": "2026-02-24T08:38:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Inside the PV recycling black box",
+      "url": "https://www.pv-magazine.com/2026/02/24/inside-the-pv-recycling-black-box/",
+      "date": "2026-02-24T08:30:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "RES Australia joint venture bags EPBC Act approval for 3.6GWh solar-plus-storage project in Queensland",
+      "url": "https://www.energy-storage.news/res-australia-joint-venture-bags-epbc-act-approval-for-3-6gwh-solar-plus-storage-project-in-queensland/",
+      "date": "2026-02-24T08:30:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "South Africa&#8217;s solar industry must &#8216;focus on execution&#8217;",
       "url": "https://www.pv-magazine.com/2026/02/24/south-africas-solar-industry-must-focus-on-execution/",
@@ -187,34 +236,6 @@
       "title": "Panasonic debuts fuel cell cogeneration system for PV‑integrated homes",
       "url": "https://www.pv-magazine.com/2026/02/20/panasonic-debuts-residential-fuel-cell-cogeneration-system-for-pv%e2%80%91integrated-homes/",
       "date": "2026-02-20T14:54:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "German consortium launches web guide for BIPV planning",
-      "url": "https://www.pv-magazine.com/2026/02/20/german-consortium-launches-web-guide-for-bipv-planning/",
-      "date": "2026-02-20T13:40:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Egypt tenders 500 MW solar project",
-      "url": "https://www.pv-magazine.com/2026/02/20/egypt-tenders-500-mw-solar-project/",
-      "date": "2026-02-20T12:00:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Storm train hits Western Europe PV as East clears under cold",
-      "url": "https://www.pv-magazine.com/2026/02/20/storm-train-hits-western-europe-pv-as-east-clears-under-cold/",
-      "date": "2026-02-20T10:36:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China wafer prices fall for fourth week as discounting deepens under inventory pressure",
-      "url": "https://www.pv-magazine.com/2026/02/20/china-wafer-prices-fall-for-fourth-week-as-discounting-deepens-under-inventory-pressure/",
-      "date": "2026-02-20T10:09:11.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "Ore Energy pilots 100-hour iron-air BESS at EDF lab in France",
       "url": "https://www.energy-storage.news/ore-energy-pilots-100-hour-iron-air-bess-at-edf-lab-in-france/",
       "date": "2026-02-11T11:06:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BESS financing benefitting from other clean energy segment struggles, US uncertainty, Fidra CEO says",
-      "url": "https://www.energy-storage.news/bess-financing-benefitting-from-other-clean-energy-segment-struggles-us-uncertainty-fidra-ceo-says/",
-      "date": "2026-02-11T09:23:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Akaysha Energy submits 1.6GWh BESS to Australia’s EPBC Act",
-      "url": "https://www.energy-storage.news/akaysha-energy-submits-1-6gwh-bess-to-australias-epbc-act/",
-      "date": "2026-02-11T02:44:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy Vault to secure 1.5GWh of US-manufactured sodium-ion BESS from Peak Energy",
-      "url": "https://www.energy-storage.news/energy-vault-to-secure-1-5gwh-of-us-manufactured-sodium-ion-bess-from-peak-energy/",
-      "date": "2026-02-10T13:08:36.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
