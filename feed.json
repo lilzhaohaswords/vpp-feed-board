@@ -1,6 +1,20 @@
 {
-  "ts": 1771929246226,
+  "ts": 1771932607194,
   "items": [
+    {
+      "title": "How to protect animals from lightning in agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/02/24/how-to-protect-animals-from-lightning-in-agrivoltaics/",
+      "date": "2026-02-24T11:26:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Israel approves rules for agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/02/24/israel-approves-rules-for-agrivoltaics/",
+      "date": "2026-02-24T10:48:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Argentina adds 810 MW of solar capacity in 2025",
       "url": "https://www.pv-magazine.com/2026/02/24/argentina-adds-810-mw-of-solar-capacity-in-2025/",
@@ -205,13 +219,6 @@
       "bucket": "A"
     },
     {
-      "title": "The Hydrogen Stream: Dutch agribusiness installs 1 MW electrolyzer",
-      "url": "https://www.pv-magazine.com/2026/02/20/the-hydrogen-stream-agricultural-company-installs-solid-oxide-electrolyzer-for-local-production/",
-      "date": "2026-02-20T16:50:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "4-hour projects, 15-year toll: Neoen, Statkraft, Zenobē and Infranode progress BESS in Northern Europe",
       "url": "https://www.energy-storage.news/4-hour-projects-15-year-toll-neoen-statkraft-zenobe-and-infranode-progress-bess-in-northern-europe/",
       "date": "2026-02-20T16:17:28.000Z",
@@ -223,13 +230,6 @@
       "url": "https://www.energy-storage.news/video-the-application-gap-between-bess-asset-operation-data-and-insights/",
       "date": "2026-02-20T15:55:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Corporate PPA deals down 10% in 2025 as AI demand plugs gaps",
-      "url": "https://www.pv-magazine.com/2026/02/20/corporate-ppa-deals-down-10-in-2025-as-ai-demand-plugs-gaps/",
-      "date": "2026-02-20T15:45:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
