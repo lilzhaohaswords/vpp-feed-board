@@ -1,6 +1,27 @@
 {
-  "ts": 1771941670775,
+  "ts": 1771947733833,
   "items": [
+    {
+      "title": "‘Balance between profitability and predictability’: inside Europe’s shift towards tolling offtake agreements in battery storage",
+      "url": "https://www.energy-storage.news/balance-between-profitability-predictability-europes-shift-tolling-offtake-agreements-battery-storage/",
+      "date": "2026-02-24T15:13:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "BESS continues to be attractive market for M&#038;A",
+      "url": "https://www.energy-storage.news/bess-continues-to-be-attractive-market-for-ma/",
+      "date": "2026-02-24T14:59:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Vattenfall to combine wind and solar with new connection concept",
+      "url": "https://www.pv-magazine.com/2026/02/24/vattenfall-combines-wind-and-solar-with-new-connection-concept/",
+      "date": "2026-02-24T14:45:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Mexico mandates social impact reviews for BESS projects",
       "url": "https://www.pv-magazine.com/2026/02/24/mexico-mandates-social-impact-reviews-for-bess-projects/",
@@ -229,13 +250,6 @@
       "title": "Home batteries reshape Australia’s national electricity market",
       "url": "https://www.pv-magazine.com/2026/02/23/home-batteries-reshape-australias-national-electricity-market/",
       "date": "2026-02-23T09:15:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar LCOE to fall 30% by 2035, says BloombergNEF",
-      "url": "https://www.pv-magazine.com/2026/02/23/solar-lcoe-to-fall-30-by-2035-says-bloombergnef/",
-      "date": "2026-02-23T09:05:56.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "LG Energy Solution Vertech &#8216;to deliver 50GWh of US BESS projects in 2026,&#8217; signs Qcells EPC deal",
       "url": "https://www.energy-storage.news/lg-energy-solution-vertech-to-deliver-50gwh-of-us-bess-projects-in-2026-signs-qcells-epc-deal/",
       "date": "2026-02-12T12:41:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Tesla set to launch vehicle-to-grid programme in the US",
-      "url": "https://www.energy-storage.news/tesla-set-to-launch-vehicle-to-grid-programme-in-the-us/",
-      "date": "2026-02-12T12:29:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Baltic BESS and TES: Estonia&#8217;s 1.1GWh district heating accumulator, Nidec PCS-transformer deal in Lithuania",
-      "url": "https://www.energy-storage.news/baltic-bess-and-tes-estonias-1-1gwh-district-heating-accumulator-nidec-pcs-transformer-deal-in-lithuania/",
-      "date": "2026-02-12T07:49:11.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
