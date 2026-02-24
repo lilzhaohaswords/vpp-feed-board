@@ -1,6 +1,48 @@
 {
-  "ts": 1771936313855,
+  "ts": 1771941670775,
   "items": [
+    {
+      "title": "Mexico mandates social impact reviews for BESS projects",
+      "url": "https://www.pv-magazine.com/2026/02/24/mexico-mandates-social-impact-reviews-for-bess-projects/",
+      "date": "2026-02-24T14:00:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Garbage in, garbage out&#8217; – solar industry debates reality of AI",
+      "url": "https://www.pv-magazine.com/2026/02/24/garbage-in-garbage-out-solar-industry-debates-reality-of-ai/",
+      "date": "2026-02-24T13:00:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "DESRI, Clearway move Texas BESS projects forward",
+      "url": "https://www.energy-storage.news/desri-clearway-move-texas-bess-projects-forward/",
+      "date": "2026-02-24T13:00:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Poland adds 3.6 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/24/poland-adds-3-6-gw-of-solar-in-2025/",
+      "date": "2026-02-24T12:57:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US BESS deployments to increase to 70GWh this year, SEIA says in first sector-dedicated report",
+      "url": "https://www.energy-storage.news/us-bess-deployments-to-increase-to-70gwh-this-year-seia-says-in-first-sector-dedicated-report/",
+      "date": "2026-02-24T12:52:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;No project above 100MW is fully merchant&#8217;: Bankability in focus as Energy Storage Summit 2026 kicks off",
+      "url": "https://www.energy-storage.news/no-project-above-100mw-is-fully-merchant-bankability-in-focus-as-energy-storage-summit-2026-kicks-off/",
+      "date": "2026-02-24T12:40:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sodium-ion batteries key to EU competitive edge, says EESC president",
       "url": "https://www.pv-magazine.com/2026/02/24/sodium-ion-batteries-key-to-eu-competitive-edge-says-eesc-president/",
@@ -194,27 +236,6 @@
       "title": "Solar LCOE to fall 30% by 2035, says BloombergNEF",
       "url": "https://www.pv-magazine.com/2026/02/23/solar-lcoe-to-fall-30-by-2035-says-bloombergnef/",
       "date": "2026-02-23T09:05:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cleaver-Brooks unveils air-to-water heat pump for hydronic heating",
-      "url": "https://www.pv-magazine.com/2026/02/23/cleaver-brooks-unvelis-air-to-water-heat-pump-for-hydronic-heating/",
-      "date": "2026-02-23T09:01:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Deloitte urges India to align renewables with AI data growth",
-      "url": "https://www.pv-magazine.com/2026/02/23/deloitte-urges-india-to-align-renewables-with-ai-data-growth/",
-      "date": "2026-02-23T08:30:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Honeycomb-shaped micro-structures enhance thin film silicon solar cells",
-      "url": "https://www.pv-magazine.com/2026/02/23/amorphous-silicon-silicon-tandem-solar-cell-achieves-12-3-efficiency-via-new-honeycomb-shaped-micro-structures/",
-      "date": "2026-02-23T08:15:45.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "Baltic BESS and TES: Estonia&#8217;s 1.1GWh district heating accumulator, Nidec PCS-transformer deal in Lithuania",
       "url": "https://www.energy-storage.news/baltic-bess-and-tes-estonias-1-1gwh-district-heating-accumulator-nidec-pcs-transformer-deal-in-lithuania/",
       "date": "2026-02-12T07:49:11.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Moment of truth&#8217;: The 2026 regulatory agenda for large battery storage in Germany",
-      "url": "https://www.energy-storage.news/moment-of-truth-the-2026-regulatory-agenda-for-large-battery-storage-in-germany/",
-      "date": "2026-02-11T12:41:39.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NineDot Energy closes US$431 million for New York BESS, Ameresco completes multiple tax credit transfers",
-      "url": "https://www.energy-storage.news/ninedot-energy-closes-us431-million-for-new-york-bess-ameresco-completes-multiple-tax-credit-transfers/",
-      "date": "2026-02-11T12:20:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ore Energy pilots 100-hour iron-air BESS at EDF lab in France",
-      "url": "https://www.energy-storage.news/ore-energy-pilots-100-hour-iron-air-bess-at-edf-lab-in-france/",
-      "date": "2026-02-11T11:06:12.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
