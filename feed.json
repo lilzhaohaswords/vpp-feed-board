@@ -1,6 +1,41 @@
 {
-  "ts": 1772012344749,
+  "ts": 1772015808664,
   "items": [
+    {
+      "title": "Energy Storage Summit 2026 Day One: Reflections and takeaways at Europe’s biggest industry conference",
+      "url": "https://www.energy-storage.news/energy-storage-summit-2026-day-one-reflections-and-takeaways-at-europes-biggest-industry-conference/",
+      "date": "2026-02-25T10:20:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Batteries provide ‘flexibility’ in the European renewable revenue stack",
+      "url": "https://www.energy-storage.news/batteries-provide-flexibility-european-renewable-revenue-stack/",
+      "date": "2026-02-25T10:12:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "JinkoSolar achieves record-breaking 26.66% efficiency for TOPCon solar cell based on M10-size wafer",
+      "url": "https://www.pv-magazine.com/2026/02/25/jinkosolar-achieves-record-breaking-26-66-efficiency-for-topcon-solar-cell-based-on-m10-size-wafer/",
+      "date": "2026-02-25T10:05:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bolivia creates net metering scheme for medium-voltage distributed generation",
+      "url": "https://www.pv-magazine.com/2026/02/25/bolivia-creates-net-metering-scheme-for-medium-voltage-distributed-generation/",
+      "date": "2026-02-25T10:00:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US solar assets lose average $5,070 per MW from power losses",
+      "url": "https://www.pv-magazine.com/2026/02/25/us-solar-assets-lose-average-5070-per-mw-from-power-losses/",
+      "date": "2026-02-25T09:42:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Survey finds 85.8% of Canadians support agrivoltaics",
       "url": "https://www.pv-magazine.com/2026/02/25/survey-finds-85-8-of-canadians-support-agrivoltaics/",
@@ -233,31 +268,10 @@
       "bucket": "A"
     },
     {
-      "title": "Inside the PV recycling black box",
-      "url": "https://www.pv-magazine.com/2026/02/24/inside-the-pv-recycling-black-box/",
-      "date": "2026-02-24T08:30:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "RES Australia joint venture bags EPBC Act approval for 3.6GWh solar-plus-storage project in Queensland",
       "url": "https://www.energy-storage.news/res-australia-joint-venture-bags-epbc-act-approval-for-3-6gwh-solar-plus-storage-project-in-queensland/",
       "date": "2026-02-24T08:30:17.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "South Africa&#8217;s solar industry must &#8216;focus on execution&#8217;",
-      "url": "https://www.pv-magazine.com/2026/02/24/south-africas-solar-industry-must-focus-on-execution/",
-      "date": "2026-02-24T08:00:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Rethinking module geometry to expand rooftop solar capacity",
-      "url": "https://www.pv-magazine.com/2026/02/24/rethinking-module-geometry-to-expand-rooftop-solar-capacity/",
-      "date": "2026-02-24T07:45:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "EnergyAustralia reaches financial close on 250MWh BESS in South Australia",
       "url": "https://www.energy-storage.news/energyaustralia-reaches-financial-close-on-250mwh-bess-in-south-australia/",
       "date": "2026-02-13T09:08:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CleanCo opens 500MWh Tesla Megapack BESS in Queensland, Australia",
-      "url": "https://www.energy-storage.news/cleanco-opens-500mwh-tesla-megapack-bess-in-queensland-australia/",
-      "date": "2026-02-13T09:00:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘The cost declines in lithium-ion tech provide very attractive pricing’: ASL on NSW&#8217;s recent 12GWh LDES tender",
-      "url": "https://www.energy-storage.news/the-cost-declines-in-lithium-ion-tech-provide-very-attractive-pricing-asl-on-nsws-recent-12gwh-ldes-tender/",
-      "date": "2026-02-12T21:51:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
