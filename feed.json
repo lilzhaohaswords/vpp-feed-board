@@ -1,6 +1,27 @@
 {
-  "ts": 1772027997290,
+  "ts": 1772030889052,
   "items": [
+    {
+      "title": "Energy storage co-location with solar PV not a ‘silver bullet’",
+      "url": "https://www.energy-storage.news/energy-storage-co-location-with-solar-pv-not-a-silver-bullet/",
+      "date": "2026-02-25T14:35:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Tongwei plans to acquire polysilicon competitor Qinghai Lihao",
+      "url": "https://www.pv-magazine.com/2026/02/25/tongwei-plans-to-acquire-polysilicon-competitor-qinghai-lihao/",
+      "date": "2026-02-25T14:31:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US Roundup: FlexGen updates EMS, LandGate&#8217;s BESS site selection tool, ON.Energy-Shoals target data centres, Sunrun’s season of VPP dispatching",
+      "url": "https://www.energy-storage.news/us-roundup-flexgen-updates-ems-landgates-bess-site-selection-tool-on-energy-shoals-target-data-centres-sunruns-season-of-vpp-dispatching/",
+      "date": "2026-02-25T14:02:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Data centres are &#8216;convenient scapegoats&#8217; for grid failures, says energy consultant",
       "url": "https://www.energy-storage.news/data-centres-are-convenient-scapegoats-for-grid-failures-says-energy-consultant/",
@@ -254,13 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "Israel approves rules for agrivoltaics",
-      "url": "https://www.pv-magazine.com/2026/02/24/israel-approves-rules-for-agrivoltaics/",
-      "date": "2026-02-24T10:48:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Lightsource bp sells 800MWh of co-located battery storage in Australia to Aula Energy",
       "url": "https://www.energy-storage.news/lightsource-bp-sells-800mwh-of-co-located-battery-storage-in-australia-to-aula-energy/",
       "date": "2026-02-24T09:04:53.000Z",
@@ -509,20 +523,6 @@
       "title": "Queensland’s Stanwell opens 600MWh battery storage system in Australia",
       "url": "https://www.energy-storage.news/queenslands-stanwell-opens-600mwh-battery-storage-system-in-australia/",
       "date": "2026-02-16T09:19:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fox ESS partners with Origin to expand VPP access across Australia",
-      "url": "https://www.energy-storage.news/fox-ess-partners-with-origin-to-expand-vpp-access-across-australia/",
-      "date": "2026-02-16T09:17:05.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Beyond a lithium-only future&#8217;: How US trade rules could accelerate BESS diversification",
-      "url": "https://www.energy-storage.news/beyond-a-lithium-only-future-how-us-trade-rules-could-accelerate-bess-diversification/",
-      "date": "2026-02-13T09:32:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
