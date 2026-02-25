@@ -1,6 +1,48 @@
 {
-  "ts": 1772008330101,
+  "ts": 1772012344749,
   "items": [
+    {
+      "title": "Survey finds 85.8% of Canadians support agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/02/25/survey-finds-85-8-of-canadians-support-agrivoltaics/",
+      "date": "2026-02-25T09:27:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "RE Developments eyes 1GWh battery storage system in Western Australia",
+      "url": "https://www.energy-storage.news/re-developments-eyes-1gwh-battery-storage-system-in-western-australia/",
+      "date": "2026-02-25T09:24:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "400MWh grid-forming New England BESS registered with Australia’s AEMO",
+      "url": "https://www.energy-storage.news/400mwh-grid-forming-new-england-bess-registered-with-australias-aemo/",
+      "date": "2026-02-25T09:20:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian state backs pumped hydro as long-duration energy storage",
+      "url": "https://www.pv-magazine.com/2026/02/25/australian-state-backs-pumped-hydro-as-ldes/",
+      "date": "2026-02-25T09:15:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Waratah Super Battery transformer replacement scheduled for Q3 2026 delivery in Australia",
+      "url": "https://www.energy-storage.news/waratah-super-battery-transformer-replacement-scheduled-for-q3-2026-delivery-in-australia/",
+      "date": "2026-02-25T09:14:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Phnix unveils indoor monobloc heat pump for space‑constrained urban retrofits",
+      "url": "https://www.pv-magazine.com/2026/02/25/phnix-unveils-indoor-monobloc-heat-pump-for-space%e2%80%91constrained-urban-retrofits/",
+      "date": "2026-02-25T09:10:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Pakistan blocks retroactive export rate cut in net billing shift",
       "url": "https://www.pv-magazine.com/2026/02/25/pakistan-blocks-retroactive-export-rate-cut-in-net-billing-shift/",
@@ -215,27 +257,6 @@
       "title": "Rethinking module geometry to expand rooftop solar capacity",
       "url": "https://www.pv-magazine.com/2026/02/24/rethinking-module-geometry-to-expand-rooftop-solar-capacity/",
       "date": "2026-02-24T07:45:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korea to invest $223 million in next-generation distributed grid",
-      "url": "https://www.pv-magazine.com/2026/02/23/south-korea-to-invest-223-million-in-next-generation-distributed-grid/",
-      "date": "2026-02-23T15:30:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar module prices rise faster than expected in February",
-      "url": "https://www.pv-magazine.com/2026/02/23/solar-module-prices-rise-faster-than-expected-in-february/",
-      "date": "2026-02-23T14:30:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fox ESS releases hybrid inverters for commercial PV",
-      "url": "https://www.pv-magazine.com/2026/02/23/fox-ess-releases-hybrid-inverters-for-commercial-pv/",
-      "date": "2026-02-23T13:33:06.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "‘The cost declines in lithium-ion tech provide very attractive pricing’: ASL on NSW&#8217;s recent 12GWh LDES tender",
       "url": "https://www.energy-storage.news/the-cost-declines-in-lithium-ion-tech-provide-very-attractive-pricing-asl-on-nsws-recent-12gwh-ldes-tender/",
       "date": "2026-02-12T21:51:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Potentia achieves financial close for ‘Canada’s largest BESS’",
-      "url": "https://www.energy-storage.news/potentia-achieves-financial-close-for-canadas-largest-bess/",
-      "date": "2026-02-12T12:50:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Yuma County, Arizona: BrightNight breaks ground on 1,200MWh solar-plus-storage project, LRE’s 450MWh BESS now operational",
-      "url": "https://www.energy-storage.news/yuma-county-arizona-brightnight-breaks-ground-on-1200mwh-solar-plus-storage-project-lres-450mwh-bess-now-operational/",
-      "date": "2026-02-12T12:48:05.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hanwha and Morrison’s Chrysalis partner for 3.5GW of solar and storage in North America",
-      "url": "https://www.energy-storage.news/hanwha-and-morrisons-chrysalis-partner-for-3-5gw-of-solar-and-storage-in-north-america/",
-      "date": "2026-02-12T12:46:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
