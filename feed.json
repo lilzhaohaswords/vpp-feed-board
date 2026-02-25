@@ -1,6 +1,34 @@
 {
-  "ts": 1772022708331,
+  "ts": 1772027997290,
   "items": [
+    {
+      "title": "Data centres are &#8216;convenient scapegoats&#8217; for grid failures, says energy consultant",
+      "url": "https://www.energy-storage.news/data-centres-are-convenient-scapegoats-for-grid-failures-says-energy-consultant/",
+      "date": "2026-02-25T13:57:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Malaysia restricts non-AI data centers, citing energy concerns",
+      "url": "https://www.pv-magazine.com/2026/02/25/malaysia-restricts-non-ai-data-centers-citing-energy-concerns/",
+      "date": "2026-02-25T13:36:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fraunhofer IEE calls for &#8216;grid-forming readiness&#8217; in distribution networks",
+      "url": "https://www.pv-magazine.com/2026/02/25/fraunhofer-iee-calls-for-grid-forming-readiness-in-distribution-networks/",
+      "date": "2026-02-25T13:32:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Switzerland streamlines construction of large-scale solar plants",
+      "url": "https://www.pv-magazine.com/2026/02/25/switzerland-streamlines-construction-of-large-scale-solar-plants/",
+      "date": "2026-02-25T12:47:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "AlphaESS releases containerized C&#038;I storage system",
       "url": "https://www.pv-magazine.com/2026/02/25/alphaess-releases-containerized-ci-storage-system/",
@@ -229,27 +257,6 @@
       "title": "Israel approves rules for agrivoltaics",
       "url": "https://www.pv-magazine.com/2026/02/24/israel-approves-rules-for-agrivoltaics/",
       "date": "2026-02-24T10:48:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Argentina adds 810 MW of solar capacity in 2025",
-      "url": "https://www.pv-magazine.com/2026/02/24/argentina-adds-810-mw-of-solar-capacity-in-2025/",
-      "date": "2026-02-24T10:00:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "When hail hits PV: New research maps damage, testing, and mitigation",
-      "url": "https://www.pv-magazine.com/2026/02/24/when-hail-hits-pv-new-research-maps-damage-testing-and-mitigation/",
-      "date": "2026-02-24T09:44:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ACWA Power to build 2 GW of solar in Türkiye",
-      "url": "https://www.pv-magazine.com/2026/02/24/acwa-power-to-build-2-gw-of-solar-in-turkiye/",
-      "date": "2026-02-24T09:17:03.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "&#8216;Beyond a lithium-only future&#8217;: How US trade rules could accelerate BESS diversification",
       "url": "https://www.energy-storage.news/beyond-a-lithium-only-future-how-us-trade-rules-could-accelerate-bess-diversification/",
       "date": "2026-02-13T09:32:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EnergyAustralia reaches financial close on 250MWh BESS in South Australia",
-      "url": "https://www.energy-storage.news/energyaustralia-reaches-financial-close-on-250mwh-bess-in-south-australia/",
-      "date": "2026-02-13T09:08:51.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
