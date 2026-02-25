@@ -1,6 +1,13 @@
 {
-  "ts": 1772030889052,
+  "ts": 1772034315786,
   "items": [
+    {
+      "title": "Germany’s grid fees and inertia payments highlight contrasts in energy storage regulation",
+      "url": "https://www.energy-storage.news/germanys-grid-fees-and-inertia-payments-highlight-contrasts-in-energy-storage-regulation/",
+      "date": "2026-02-25T15:03:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Energy storage co-location with solar PV not a ‘silver bullet’",
       "url": "https://www.energy-storage.news/energy-storage-co-location-with-solar-pv-not-a-silver-bullet/",
@@ -516,13 +523,6 @@
       "title": "Vietnam&#8217;s BESS breakthrough: A turning point for energy storage across ASEAN",
       "url": "https://www.energy-storage.news/vietnams-bess-breakthrough-a-turning-point-for-energy-storage-across-asean/",
       "date": "2026-02-16T11:36:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Queensland’s Stanwell opens 600MWh battery storage system in Australia",
-      "url": "https://www.energy-storage.news/queenslands-stanwell-opens-600mwh-battery-storage-system-in-australia/",
-      "date": "2026-02-16T09:19:48.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
