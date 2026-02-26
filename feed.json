@@ -1,6 +1,27 @@
 {
-  "ts": 1772091692871,
+  "ts": 1772094625330,
   "items": [
+    {
+      "title": "Xbattery launches 5 kWh scalable residential ESS in India",
+      "url": "https://www.pv-magazine.com/2026/02/26/xbattery-launches-5-kwh-scalable-residential-ess-in-india/",
+      "date": "2026-02-26T08:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "MGA Thermal secures AU$3.25 million ARENA funding for thermal energy storage FEED studies",
+      "url": "https://www.energy-storage.news/mga-thermal-secures-au3-25-million-arena-funding-for-thermal-energy-storage-feed-studies/",
+      "date": "2026-02-26T08:18:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar, storage to lead record 86 GW of US capacity in 2026",
+      "url": "https://www.pv-magazine.com/2026/02/26/solar-storage-to-lead-record-86-gw-of-us-capacity-in-2026/",
+      "date": "2026-02-26T07:45:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Trane presents high-temperature water-to-water heat pump",
       "url": "https://www.pv-magazine.com/2026/02/26/trane-presents-high-temperature-water-to-water-heat-pump/",
@@ -243,20 +264,6 @@
       "title": "Vattenfall to combine wind and solar with new connection concept",
       "url": "https://www.pv-magazine.com/2026/02/24/vattenfall-combines-wind-and-solar-with-new-connection-concept/",
       "date": "2026-02-24T14:45:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Mexico mandates social impact reviews for BESS projects",
-      "url": "https://www.pv-magazine.com/2026/02/24/mexico-mandates-social-impact-reviews-for-bess-projects/",
-      "date": "2026-02-24T14:00:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Garbage in, garbage out&#8217; – solar industry debates reality of AI",
-      "url": "https://www.pv-magazine.com/2026/02/24/garbage-in-garbage-out-solar-industry-debates-reality-of-ai/",
-      "date": "2026-02-24T13:00:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Planning barriers ‘threaten to stall momentum’ in UK battery storage market",
       "url": "https://www.energy-storage.news/planning-barriers-threaten-to-stall-momentum-in-uk-battery-storage-market/",
       "date": "2026-02-16T14:05:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Vietnam&#8217;s BESS breakthrough: A turning point for energy storage across ASEAN",
-      "url": "https://www.energy-storage.news/vietnams-bess-breakthrough-a-turning-point-for-energy-storage-across-asean/",
-      "date": "2026-02-16T11:36:58.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
