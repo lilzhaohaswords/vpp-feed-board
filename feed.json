@@ -1,6 +1,20 @@
 {
-  "ts": 1772101929803,
+  "ts": 1772105383790,
   "items": [
+    {
+      "title": "Austria’s Salzstrom unveils sodium-ion storage system for commercial applications",
+      "url": "https://www.pv-magazine.com/2026/02/26/austrias-salzstrom-unveils-sodium-ion-storage-system-for-commercial-applications/",
+      "date": "2026-02-26T11:25:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Where do I put my chips on the table?&#8217;: Long-term BESS revenue curves and uncertainty",
+      "url": "https://www.energy-storage.news/bess-revenues-thought-of-forecast-not-promised-financial-decision-making/",
+      "date": "2026-02-26T10:35:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Germany’s battery sector calls for faster grid connections amid backlog",
       "url": "https://www.pv-magazine.com/2026/02/26/germanys-battery-sector-calls-for-faster-grid-connections-amid-backlog/",
@@ -243,13 +257,6 @@
       "title": "Google to deploy world’s largest iron-air battery for US data center",
       "url": "https://www.pv-magazine.com/2026/02/25/google-to-deploy-worlds-largest-iron-air-battery-for-us-data-center/",
       "date": "2026-02-25T07:45:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy’s new energy provisions could boost gas use, undermine renewables and storage competitiveness",
-      "url": "https://www.pv-magazine.com/2026/02/25/italys-new-energy-provisions-could-boost-gas-use-undermine-renewables-and-storage-competitiveness/",
-      "date": "2026-02-25T07:39:12.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "NeoVolta raises US$23 million for Georgia battery pack and BESS manufacturing facility",
       "url": "https://www.energy-storage.news/neovolta-raises-us23-million-for-georgia-battery-pack-and-bess-manufacturing-facility/",
       "date": "2026-02-16T14:35:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Plus Power brings ‘largest BESS on ISO New England grid’ online, in Maine",
-      "url": "https://www.energy-storage.news/plus-power-brings-largest-bess-on-iso-new-england-grid-online-in-maine/",
-      "date": "2026-02-16T14:28:43.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
