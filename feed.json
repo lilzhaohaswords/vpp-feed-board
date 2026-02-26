@@ -1,6 +1,55 @@
 {
-  "ts": 1772114422538,
+  "ts": 1772120405121,
   "items": [
+    {
+      "title": "The future of solar is unwritten",
+      "url": "https://www.pv-magazine.com/2026/02/26/the-future-of-solar-is-unwritten/",
+      "date": "2026-02-26T15:31:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Trina Storage to invest in Gore Street&#8217;s EU BESS fund, 12GWh targeted",
+      "url": "https://www.energy-storage.news/trina-storage-to-invest-in-gore-streets-eu-bess-fund-12gwh-targeted/",
+      "date": "2026-02-26T15:30:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "India installs 7.1 GW of rooftop solar in 2025, residential demand surges",
+      "url": "https://www.pv-magazine.com/2026/02/26/india-installs-7-1-gw-rooftop-solar-in-2025-residential-demand-surges/",
+      "date": "2026-02-26T15:05:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Recurrent Energy sells 200MWh Texas BESS to Hunt Energy Network",
+      "url": "https://www.energy-storage.news/recurrent-energy-sells-200mwh-texas-bess-to-hunt-energy-network/",
+      "date": "2026-02-26T14:22:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US DOE closes US$26.5 billion loan package to utility Southern Company for 16GW of capacity, including BESS",
+      "url": "https://www.energy-storage.news/us-doe-closes-us26-5-billion-loan-package-to-utility-southern-company-for-16gw-of-capacity-including-bess/",
+      "date": "2026-02-26T14:19:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "South Korean railway operator signs solar deal with Qcells",
+      "url": "https://www.pv-magazine.com/2026/02/26/south-korean-railway-operator-signs-solar-deal-with-qcells/",
+      "date": "2026-02-26T14:08:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Latvia deploys 258 MW of PV in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/26/latvia-deploys-258-mw-of-pv-in-2025/",
+      "date": "2026-02-26T14:00:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Ireland adds 1 GW of solar in 2025",
       "url": "https://www.pv-magazine.com/2026/02/26/ireland-adds-1-gw-of-solar-in-2025/",
@@ -219,13 +268,6 @@
       "bucket": "A"
     },
     {
-      "title": "Survey finds 85.8% of Canadians support agrivoltaics",
-      "url": "https://www.pv-magazine.com/2026/02/25/survey-finds-85-8-of-canadians-support-agrivoltaics/",
-      "date": "2026-02-25T09:27:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "RE Developments eyes 1GWh battery storage system in Western Australia",
       "url": "https://www.energy-storage.news/re-developments-eyes-1gwh-battery-storage-system-in-western-australia/",
       "date": "2026-02-25T09:24:34.000Z",
@@ -240,31 +282,10 @@
       "bucket": "A"
     },
     {
-      "title": "Australian state backs pumped hydro as long-duration energy storage",
-      "url": "https://www.pv-magazine.com/2026/02/25/australian-state-backs-pumped-hydro-as-ldes/",
-      "date": "2026-02-25T09:15:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Waratah Super Battery transformer replacement scheduled for Q3 2026 delivery in Australia",
       "url": "https://www.energy-storage.news/waratah-super-battery-transformer-replacement-scheduled-for-q3-2026-delivery-in-australia/",
       "date": "2026-02-25T09:14:13.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Phnix unveils indoor monobloc heat pump for space‑constrained urban retrofits",
-      "url": "https://www.pv-magazine.com/2026/02/25/phnix-unveils-indoor-monobloc-heat-pump-for-space%e2%80%91constrained-urban-retrofits/",
-      "date": "2026-02-25T09:10:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pakistan blocks retroactive export rate cut in net billing shift",
-      "url": "https://www.pv-magazine.com/2026/02/25/pakistan-blocks-retroactive-export-rate-cut-in-net-billing-shift/",
-      "date": "2026-02-25T08:30:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "KNESS and Hithium enter 2GWh Ukraine partnership, c.700MWh progressed elsewhere in Finland, Estonia and Southeast Europe",
       "url": "https://www.energy-storage.news/kness-hithium-2gwh-bess-ukraine-partnership-700mwh-progressed-elsewhere-finland-estonia-southeast-europe/",
       "date": "2026-02-17T12:22:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Caterpillar VC backs startup ElevenEs as it builds 1GWh LFP cell factory in Serbia",
-      "url": "https://www.energy-storage.news/caterpillar-vc-backs-startup-elevenes-as-it-builds-1gwh-lfp-cell-factory-in-serbia/",
-      "date": "2026-02-17T12:18:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Greater diversity reshapes expectations’: Women in Energy Storage Network on strengthening and empowering an inclusive industry",
-      "url": "https://www.energy-storage.news/greater-diversity-reshapes-expectations-women-in-energy-storage-network-on-strengthening-and-empowering-an-inclusive-industry/",
-      "date": "2026-02-17T11:40:49.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian Vanadium, Sumitomo Electric partner for bid in Western Australia&#8217;s 500MWh flow battery procurement",
-      "url": "https://www.energy-storage.news/australian-vanadium-sumitomo-electric-partner-for-bid-in-western-australias-500mwh-flow-battery-procurement/",
-      "date": "2026-02-17T08:56:25.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
