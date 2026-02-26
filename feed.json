@@ -1,6 +1,13 @@
 {
-  "ts": 1772109117115,
+  "ts": 1772114422538,
   "items": [
+    {
+      "title": "Ireland adds 1 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/26/ireland-adds-1-gw-of-solar-in-2025/",
+      "date": "2026-02-26T13:37:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Philippines Department of Energy instructs renewable energy plants to add energy storage",
       "url": "https://www.energy-storage.news/philippines-department-of-energy-instructs-renewable-energy-plants-to-add-energy-storage/",
@@ -257,13 +264,6 @@
       "title": "Pakistan blocks retroactive export rate cut in net billing shift",
       "url": "https://www.pv-magazine.com/2026/02/25/pakistan-blocks-retroactive-export-rate-cut-in-net-billing-shift/",
       "date": "2026-02-25T08:30:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japanese scientists build near-white heterojunction solar cell for BIPV applications",
-      "url": "https://www.pv-magazine.com/2026/02/25/japanese-scientists-build-near-white-heterojunction-solar-cell-for-bipv-applications/",
-      "date": "2026-02-25T08:21:57.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
