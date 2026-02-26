@@ -1,6 +1,20 @@
 {
-  "ts": 1772105383790,
+  "ts": 1772109117115,
   "items": [
+    {
+      "title": "Philippines Department of Energy instructs renewable energy plants to add energy storage",
+      "url": "https://www.energy-storage.news/philippines-department-of-energy-instructs-renewable-energy-plants-to-add-energy-storage/",
+      "date": "2026-02-26T12:12:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Engie to buy UK Power Networks in $14 billion deal",
+      "url": "https://www.pv-magazine.com/2026/02/26/engie-to-buy-uk-power-networks-in-14-billion-deal/",
+      "date": "2026-02-26T12:00:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Austria’s Salzstrom unveils sodium-ion storage system for commercial applications",
       "url": "https://www.pv-magazine.com/2026/02/26/austrias-salzstrom-unveils-sodium-ion-storage-system-for-commercial-applications/",
@@ -250,13 +264,6 @@
       "title": "Japanese scientists build near-white heterojunction solar cell for BIPV applications",
       "url": "https://www.pv-magazine.com/2026/02/25/japanese-scientists-build-near-white-heterojunction-solar-cell-for-bipv-applications/",
       "date": "2026-02-25T08:21:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Google to deploy world’s largest iron-air battery for US data center",
-      "url": "https://www.pv-magazine.com/2026/02/25/google-to-deploy-worlds-largest-iron-air-battery-for-us-data-center/",
-      "date": "2026-02-25T07:45:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Australian Vanadium, Sumitomo Electric partner for bid in Western Australia&#8217;s 500MWh flow battery procurement",
       "url": "https://www.energy-storage.news/australian-vanadium-sumitomo-electric-partner-for-bid-in-western-australias-500mwh-flow-battery-procurement/",
       "date": "2026-02-17T08:56:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NeoVolta raises US$23 million for Georgia battery pack and BESS manufacturing facility",
-      "url": "https://www.energy-storage.news/neovolta-raises-us23-million-for-georgia-battery-pack-and-bess-manufacturing-facility/",
-      "date": "2026-02-16T14:35:04.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
