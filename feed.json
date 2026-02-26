@@ -1,8 +1,36 @@
 {
-  "ts": 1772094625330,
+  "ts": 1772098493150,
   "items": [
     {
-      "title": "Xbattery launches 5 kWh scalable residential ESS in India",
+      "title": "Industry alliance calls for 100% renewables for Australian data centers",
+      "url": "https://www.pv-magazine.com/2026/02/26/industry-alliance-calls-for-100-renewables-for-australian-data-centers/",
+      "date": "2026-02-26T09:12:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Morocco installs 204 MW of utility-scale solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/02/26/morocco-installs-204-mw-of-utility-scale-solar-in-2025/",
+      "date": "2026-02-26T08:50:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New solar tracking strategies aim to maximize crop yield in agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/02/26/new-solar-tracking-strategies-aim-to-maximize-crop-yield-in-agrivoltaics/",
+      "date": "2026-02-26T08:45:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Google: Minnesota data centre energy deal includes 30GWh &#8216;multi-day&#8217; iron-air batteries from Form Energy",
+      "url": "https://www.energy-storage.news/google-minnesota-data-centre-energy-deal-includes-30gwh-multi-day-iron-air-batteries-from-form-energy/",
+      "date": "2026-02-26T08:36:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Xbattery launches 5 kWh scalable residential ESS",
       "url": "https://www.pv-magazine.com/2026/02/26/xbattery-launches-5-kwh-scalable-residential-ess-in-india/",
       "date": "2026-02-26T08:30:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -226,20 +254,6 @@
       "bucket": "A"
     },
     {
-      "title": "U.S government sets preliminary countervailing duties on solar imports from India, Indonesia and Laos",
-      "url": "https://www.pv-magazine.com/2026/02/25/u-s-government-sets-preliminary-countervailing-duties-on-solar-imports-from-india-indonesia-and-laos/",
-      "date": "2026-02-25T06:30:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "First Solar announces licensing agreement with Oxford PV, alleges new TOPCon patent infringements",
-      "url": "https://www.pv-magazine.com/2026/02/25/first-solar-announces-licensing-agreement-with-oxford-pv-alleges-new-topcon-patent-infringements/",
-      "date": "2026-02-25T05:50:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "How can batteries respond to energy price volatility in Europe?",
       "url": "https://www.energy-storage.news/how-can-batteries-respond-to-energy-price-volatility-in-europe/",
       "date": "2026-02-24T16:11:47.000Z",
@@ -258,13 +272,6 @@
       "url": "https://www.energy-storage.news/bess-continues-to-be-attractive-market-for-ma/",
       "date": "2026-02-24T14:59:42.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Vattenfall to combine wind and solar with new connection concept",
-      "url": "https://www.pv-magazine.com/2026/02/24/vattenfall-combines-wind-and-solar-with-new-connection-concept/",
-      "date": "2026-02-24T14:45:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Plus Power brings ‘largest BESS on ISO New England grid’ online, in Maine",
       "url": "https://www.energy-storage.news/plus-power-brings-largest-bess-on-iso-new-england-grid-online-in-maine/",
       "date": "2026-02-16T14:28:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Planning barriers ‘threaten to stall momentum’ in UK battery storage market",
-      "url": "https://www.energy-storage.news/planning-barriers-threaten-to-stall-momentum-in-uk-battery-storage-market/",
-      "date": "2026-02-16T14:05:51.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
