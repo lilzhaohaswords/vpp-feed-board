@@ -1,6 +1,13 @@
 {
-  "ts": 1772468833984,
+  "ts": 1772472808803,
   "items": [
+    {
+      "title": "High PV curtailment expected in Spain through 2027",
+      "url": "https://www.pv-magazine.com/2026/03/02/high-pv-curtailment-expected-in-spain-through-2027/",
+      "date": "2026-03-02T16:45:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US energy storage shatters records with 58 GWh installed in 2025",
       "url": "https://www.pv-magazine.com/2026/03/02/us-energy-storage-shatters-records-with-58-gwh-installed-in-2025/",
@@ -201,13 +208,6 @@
       "title": "Spain’s self-consumption solar boom leaves trail of technical faults in C&#038;I installations",
       "url": "https://www.pv-magazine.com/2026/02/27/spains-self-consumption-solar-boom-leaves-trail-of-technical-faults-in-ci-installations/",
       "date": "2026-02-27T12:12:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK solar hits 21.8 GW",
-      "url": "https://www.pv-magazine.com/2026/02/27/uk-solar-hits-21-8-gw/",
-      "date": "2026-02-27T12:00:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
