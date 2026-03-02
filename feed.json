@@ -1,6 +1,13 @@
 {
-  "ts": 1772461967933,
+  "ts": 1772465357567,
   "items": [
+    {
+      "title": "US energy storage shatters records with 58 GWh installed in 2025",
+      "url": "https://www.pv-magazine.com/2026/03/02/us-energy-storage-shatters-records-with-58-gwh-installed-in-2025/",
+      "date": "2026-03-02T15:15:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "CHN Energy switches on 2 GW solar plant at coal-mining subsidence area",
       "url": "https://www.pv-magazine.com/2026/03/02/chn-energy-switches-on-2-gw-solar-plant-at-coal-mining-subsidence-area/",
@@ -201,13 +208,6 @@
       "title": "UK solar hits 21.8 GW",
       "url": "https://www.pv-magazine.com/2026/02/27/uk-solar-hits-21-8-gw/",
       "date": "2026-02-27T12:00:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: Polysilicon prices slide amid low operating rates",
-      "url": "https://www.pv-magazine.com/2026/02/27/chinese-pv-industry-brief-polysilicon-prices-slide-amid-low-operating-rates/",
-      "date": "2026-02-27T10:45:59.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
