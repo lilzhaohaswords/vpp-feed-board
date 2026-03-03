@@ -1,6 +1,27 @@
 {
-  "ts": 1772526285381,
+  "ts": 1772530111036,
   "items": [
+    {
+      "title": "Australia&#8217;s Cheaper Home Batteries Program surpasses 6.3GWh installations",
+      "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-surpasses-6-3gwh-installations/",
+      "date": "2026-03-03T09:22:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Indian renewables gain 8.6 GW of relief after court delays on bird protections",
+      "url": "https://www.pv-magazine.com/2026/03/03/india-renewable-projects-gain-relief-on-8-6-gw-over-bustard-ruling-delays/",
+      "date": "2026-03-03T09:15:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "PV-powered refrigerated trailer completes long-distance Australian trial run",
+      "url": "https://www.pv-magazine.com/2026/03/03/pv-powered-refrigerated-trailer-completes-long-distance-australian-trial/",
+      "date": "2026-03-03T08:30:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "SERIS builds 22.1%-efficient perovskite-silicon tandem solar cell based on double-sided polysilicon layers",
       "url": "https://www.pv-magazine.com/2026/03/03/seris-builds-22-1-efficient-perovskite-silicon-tandem-solar-cell-based-on-double-sided-polysilicon-layers/",
@@ -194,20 +215,6 @@
       "title": "&#8216;Like many people, I’ve been the only woman in the room&#8217;",
       "url": "https://www.pv-magazine.com/2026/02/27/like-many-people-ive-been-the-only-woman-in-the-room/",
       "date": "2026-02-27T14:22:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tropical downpours cut northern irradiance as southern heat lifts sunshine in South America",
-      "url": "https://www.pv-magazine.com/2026/02/27/tropical-downpours-cut-northern-irradiance-as-southern-heat-lifts-sunshine-in-south-america/",
-      "date": "2026-02-27T13:26:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Greece to open applications for 130 MW agrivoltaics plan",
-      "url": "https://www.pv-magazine.com/2026/02/27/greece-to-open-applications-for-130-mw-agrivoltaics-plan/",
-      "date": "2026-02-27T13:05:05.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Interim FEOC guidance from US Treasury refers back to existing safe harbour guidelines",
       "url": "https://www.energy-storage.news/interim-feoc-guidance-from-us-treasury-refers-back-to-existing-safe-harbour-guidelines/",
       "date": "2026-02-18T12:38:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Slow start to global 2026 BESS deployments in January, China continues to dominate",
-      "url": "https://www.energy-storage.news/slow-start-to-global-2026-bess-deployments-in-january-china-continues-to-dominate/",
-      "date": "2026-02-18T12:25:54.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
