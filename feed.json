@@ -1,6 +1,13 @@
 {
-  "ts": 1772572842798,
+  "ts": 1772576105460,
   "items": [
+    {
+      "title": "Australia: Edify Energy secures EPC contractor for 3.6GWh of solar-plus-storage; Flow Power acquires 60MW hybrid project",
+      "url": "https://www.energy-storage.news/australia-edify-energy-secures-epc-contractor-for-3-6gwh-of-solar-plus-storage-flow-power-acquires-60mw-hybrid-project/",
+      "date": "2026-03-03T22:11:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Argentina tenders 700 MW of battery storage nationwide",
       "url": "https://www.pv-magazine.com/2026/03/03/argentina-tenders-700-mw-of-battery-storage-nationwide/",
@@ -516,13 +523,6 @@
       "title": "US Roundup: California CCAs secure LDES from Hydrostor, ESS Inc. iron-salt acquisition, PowerSecure microgrids enhance New Mexico grid",
       "url": "https://www.energy-storage.news/us-roundup-california-ccas-secure-ldes-from-hydrostor-ess-inc-iron-salt-acquisition-powersecure-microgrids-enhance-new-mexico-grid/",
       "date": "2026-02-19T13:58:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Moonwatt targets &#8216;same disruption string inverters had in solar&#8217; with distributed sodium-ion BESS architecture",
-      "url": "https://www.energy-storage.news/moonwatt-targets-same-disruption-string-inverters-had-in-solar-with-distributed-sodium-ion-bess-architecture/",
-      "date": "2026-02-19T13:42:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
