@@ -1,6 +1,27 @@
 {
-  "ts": 1772545729254,
+  "ts": 1772548407952,
   "items": [
+    {
+      "title": "Argentina tenders 700 MW of battery storage nationwide",
+      "url": "https://www.pv-magazine.com/2026/03/03/argentina-tenders-700-mw-of-battery-storage-nationwide/",
+      "date": "2026-03-03T14:30:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Utility Portland General Electric finalises agreements for 1GW renewables and BESS",
+      "url": "https://www.energy-storage.news/utility-portland-general-electric-finalises-agreements-for-1gw-renewables-and-bess/",
+      "date": "2026-03-03T14:19:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Puerto Rico: Polaris Renewable Energy receives approval for 71.4MW BESS projects",
+      "url": "https://www.energy-storage.news/puerto-rico-polaris-renewable-energy-receives-approval-for-71-4mw-bess-projects/",
+      "date": "2026-03-03T14:14:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "UK government issues open call for experts to shape AI energy policy",
       "url": "https://www.pv-magazine.com/2026/03/03/uk-government-open-call-for-evidence-ai-energy-policy-data/",
@@ -222,13 +243,6 @@
       "title": "Indian researchers build transparent perovskite-silicon tandem solar cell with 30.2% efficiency",
       "url": "https://www.pv-magazine.com/2026/03/02/indian-researchers-build-transparent-perovskite-silicon-tandem-solar-cell-with-30-2-efficiency/",
       "date": "2026-03-02T07:44:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Premier Energies unveils India’s first zero-busbar TOPCon solar cell",
-      "url": "https://www.pv-magazine.com/2026/03/02/premier-energies-unveils-indias-first-zero-busbar-topcon-solar-cell/",
-      "date": "2026-03-02T06:02:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Moonwatt targets &#8216;same disruption string inverters had in solar&#8217; with distributed sodium-ion BESS architecture",
       "url": "https://www.energy-storage.news/moonwatt-targets-same-disruption-string-inverters-had-in-solar-with-distributed-sodium-ion-bess-architecture/",
       "date": "2026-02-19T13:42:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The Energy Storage Report 2026 out now: grid-forming, fire safety, bankability and more",
-      "url": "https://www.energy-storage.news/the-energy-storage-report-2026-out-now-grid-forming-fire-safety-bankability-and-more/",
-      "date": "2026-02-19T12:00:09.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ukraine&#8217;s strategic need for energy storage",
-      "url": "https://www.energy-storage.news/ukraines-strategic-need-for-energy-storage/",
-      "date": "2026-02-19T11:03:24.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
