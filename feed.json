@@ -1,6 +1,34 @@
 {
-  "ts": 1772616395269,
+  "ts": 1772619738776,
   "items": [
+    {
+      "title": "Estonia deploys 105 MW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/03/04/estonia-deploys-105-mw-of-solar-in-2025/",
+      "date": "2026-03-04T10:02:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Europe and the US: Comparing and contrasting two maturing energy storage markets",
+      "url": "https://www.energy-storage.news/europe-and-the-us-comparing-and-contrasting-two-maturing-energy-storage-markets/",
+      "date": "2026-03-04T09:58:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Mitsubishi Electric Trane announces new heat pump line for hydronic heating",
+      "url": "https://www.pv-magazine.com/2026/03/04/mitsubishi-electric-trane-announces-new-heat-pump-line-for-hydronic-heating/",
+      "date": "2026-03-04T09:53:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Optimizing solar EV stations for maximum impact",
+      "url": "https://www.pv-magazine.com/2026/03/04/optimizing-solar-ev-stations-for-maximum-impact/",
+      "date": "2026-03-04T09:30:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Group Surya commissions 500 MW G12R module line in India",
       "url": "https://www.pv-magazine.com/2026/03/04/group-surya-commissions-500-mw-g12r-module-line-in-india/",
@@ -226,13 +254,6 @@
       "bucket": "A"
     },
     {
-      "title": "CHN Energy switches on 2 GW solar plant at coal-mining subsidence area",
-      "url": "https://www.pv-magazine.com/2026/03/02/chn-energy-switches-on-2-gw-solar-plant-at-coal-mining-subsidence-area/",
-      "date": "2026-03-02T14:00:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US zinc BESS manufacturer Eos hopeful about ability to grow despite widening 2025 losses",
       "url": "https://www.energy-storage.news/us-zinc-bess-manufacturer-eos-hopeful-about-ability-to-grow-despite-widening-2025-losses/",
       "date": "2026-03-02T12:50:37.000Z",
@@ -247,24 +268,10 @@
       "bucket": "A"
     },
     {
-      "title": "All European sodium-ion battery manufacturers at a glance",
-      "url": "https://www.pv-magazine.com/2026/03/02/all-european-sodium-ion-battery-manufacturers-at-a-glance/",
-      "date": "2026-03-02T12:17:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "What a history of Winter Storms teaches us about the future of energy storage in Texas",
       "url": "https://www.energy-storage.news/what-a-history-of-winter-storms-teaches-us-about-the-future-of-energy-storage-in-texas/",
       "date": "2026-03-02T12:13:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "PV-assisted heat pump prototype with dual condenser reaches 7.59 coefficient of performance",
-      "url": "https://www.pv-magazine.com/2026/03/02/pv-assisted-heat-pump-prototype-with-dual-condenser-reaches-7-59-coefficient-of-performance/",
-      "date": "2026-03-02T12:05:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Enable the next wave of applications and opportunity: Cubenergy’s FlexCombo 2.0 flexible energy storage AC block",
       "url": "https://www.energy-storage.news/enable-the-next-wave-of-applications-and-opportunity-cubenergys-flexcombo-2-0-flexible-energy-storage-ac-block/",
       "date": "2026-02-20T09:15:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Quinbrook advances Supernode BESS with 780MW stage two submitted to Australia’s EPBC Act",
-      "url": "https://www.energy-storage.news/quinbrook-advances-supernode-bess-with-780mw-stage-two-submitted-to-australias-epbc-act/",
-      "date": "2026-02-20T09:13:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
