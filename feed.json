@@ -1,6 +1,27 @@
 {
-  "ts": 1772634523928,
+  "ts": 1772637988726,
   "items": [
+    {
+      "title": "New providers, new structures drive evolution of BESS offtake in Europe",
+      "url": "https://www.energy-storage.news/new-providers-new-structures-drive-evolution-of-bess-offtake-in-europe/",
+      "date": "2026-03-04T14:56:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "TCL Sunpower presents shingle TOPCon solar panels for rooftop PV",
+      "url": "https://www.pv-magazine.com/2026/03/04/tcl-sunpower-presents-shingle-topcon-solar-panels-for-rooftop-pv/",
+      "date": "2026-03-04T14:41:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Jupiter Power receives approval for 2.8GWh Massachusetts BESS",
+      "url": "https://www.energy-storage.news/jupiter-power-receives-approval-for-2-8gwh-massachusetts-bess/",
+      "date": "2026-03-04T14:41:26.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Trina Solar unveils 485 W TOPCon PV panel with 24.3% efficiency",
       "url": "https://www.pv-magazine.com/2026/03/04/trina-solar-unveils-485-w-topcon-pv-panel-with-24-3-efficiency/",
@@ -215,13 +236,6 @@
       "title": "Austria’s Accupower launches residential sodium-ion battery",
       "url": "https://www.pv-magazine.com/2026/03/03/austrias-accupower-launches-residential-sodium-ion-battery/",
       "date": "2026-03-03T12:07:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korea eases solar siting rules to cut permitting delays for PV projects",
-      "url": "https://www.pv-magazine.com/2026/03/03/south-korea-eases-solar-siting-rules-to-cut-permitting-delays-for-pv-projects/",
-      "date": "2026-03-03T12:00:57.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "VIDEO: The application gap between BESS asset operation data and insights",
       "url": "https://www.energy-storage.news/video-the-application-gap-between-bess-asset-operation-data-and-insights/",
       "date": "2026-02-20T15:55:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India: Energy storage tech scope widens with 100MWh flow battery, 100GW pumped hydro and grid-forming BESS prospects",
-      "url": "https://www.energy-storage.news/india-energy-storage-tech-scope-widens-with-100mwh-flow-battery-100gw-pumped-hydro-and-grid-forming-bess-prospects/",
-      "date": "2026-02-20T15:13:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Enable the next wave of applications and opportunity: Cubenergy’s FlexCombo 2.0 flexible energy storage AC block",
-      "url": "https://www.energy-storage.news/enable-the-next-wave-of-applications-and-opportunity-cubenergys-flexcombo-2-0-flexible-energy-storage-ac-block/",
-      "date": "2026-02-20T09:15:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
