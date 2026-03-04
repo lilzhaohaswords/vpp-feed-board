@@ -1,6 +1,20 @@
 {
-  "ts": 1772619738776,
+  "ts": 1772623176949,
   "items": [
+    {
+      "title": "Germany’s Texxecure launches standardized quality rating for PV systems",
+      "url": "https://www.pv-magazine.com/2026/03/04/germanys-texxecure-launches-standardized-quality-rating-for-pv-systems/",
+      "date": "2026-03-04T10:30:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ecoflow debuts 5 kWh residential inverter battery with 100% depth of discharge",
+      "url": "https://www.pv-magazine.com/2026/03/04/ecoflow-launches-5-kwh-residential-inverter-battery-with-100-depth-of-discharge/",
+      "date": "2026-03-04T10:27:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Estonia deploys 105 MW of solar in 2025",
       "url": "https://www.pv-magazine.com/2026/03/04/estonia-deploys-105-mw-of-solar-in-2025/",
@@ -236,20 +250,6 @@
       "title": "Daikin launches new propane heat pumps for commercial, industrial applications",
       "url": "https://www.pv-magazine.com/2026/03/03/daikin-launches-new-propane-heat-pumps-for-commercial-industrial-applications/",
       "date": "2026-03-03T06:51:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "High PV curtailment expected in Spain through 2027",
-      "url": "https://www.pv-magazine.com/2026/03/02/high-pv-curtailment-expected-in-spain-through-2027/",
-      "date": "2026-03-02T16:45:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US energy storage shatters records with 58 GWh installed in 2025",
-      "url": "https://www.pv-magazine.com/2026/03/02/us-energy-storage-shatters-records-with-58-gwh-installed-in-2025/",
-      "date": "2026-03-02T15:15:48.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
