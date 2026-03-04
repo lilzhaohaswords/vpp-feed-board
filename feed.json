@@ -1,6 +1,20 @@
 {
-  "ts": 1772623176949,
+  "ts": 1772627163885,
   "items": [
+    {
+      "title": "Greece faces rising renewables curtailment, driving solar-plus-storage",
+      "url": "https://www.pv-magazine.com/2026/03/04/greek-pv-producers-fret-3-5-twh-of-curtailments-in-2026/",
+      "date": "2026-03-04T12:00:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Iraq’s largest solar project enters trial operation",
+      "url": "https://www.pv-magazine.com/2026/03/04/iraqs-largest-solar-project-enters-trial-operation/",
+      "date": "2026-03-04T11:57:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Germany’s Texxecure launches standardized quality rating for PV systems",
       "url": "https://www.pv-magazine.com/2026/03/04/germanys-texxecure-launches-standardized-quality-rating-for-pv-systems/",
@@ -236,20 +250,6 @@
       "title": "SERIS builds 22.1%-efficient perovskite-silicon tandem solar cell based on double-sided polysilicon layers",
       "url": "https://www.pv-magazine.com/2026/03/03/seris-builds-22-1-efficient-perovskite-silicon-tandem-solar-cell-based-on-double-sided-polysilicon-layers/",
       "date": "2026-03-03T08:21:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US solar-plus-storage M&#038;A heats up as AI data centers drive demand",
-      "url": "https://www.pv-magazine.com/2026/03/03/us-solar-plus-storage-ma-heats-up-as-ai-data-centers-drive-demand/",
-      "date": "2026-03-03T07:45:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Daikin launches new propane heat pumps for commercial, industrial applications",
-      "url": "https://www.pv-magazine.com/2026/03/03/daikin-launches-new-propane-heat-pumps-for-commercial-industrial-applications/",
-      "date": "2026-03-03T06:51:46.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
