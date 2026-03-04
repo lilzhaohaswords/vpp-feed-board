@@ -1,6 +1,20 @@
 {
-  "ts": 1772609341935,
+  "ts": 1772612550470,
   "items": [
+    {
+      "title": "How to address imbalance datasets in solar panel dust detection",
+      "url": "https://www.pv-magazine.com/2026/03/04/how-to-address-imbalance-datasets-in-solar-panel-dust-detection/",
+      "date": "2026-03-04T08:00:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fronius expands residential solar backup power with PV Point Comfort",
+      "url": "https://www.pv-magazine.com/2026/03/04/fronius-expands-residential-solar-backup-power-with-pv-point-comfort/",
+      "date": "2026-03-04T07:45:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Iraq slashes solar import tariffs to 5%",
       "url": "https://www.pv-magazine.com/2026/03/04/iraq-slashes-solar-import-tariffs-to-5/",
@@ -236,20 +250,6 @@
       "title": "RENA secures 1.2 GW TOPCon equipment order in India",
       "url": "https://www.pv-magazine.com/2026/03/02/rena-secures-1-2-gw-topcon-equipment-order-in-india/",
       "date": "2026-03-02T09:15:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian regulator ramps up battery inspections",
-      "url": "https://www.pv-magazine.com/2026/03/02/australian-regulator-ramps-up-battery-inspections/",
-      "date": "2026-03-02T08:30:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Expiring US tax credit drives record solar demand in H2 2025",
-      "url": "https://www.pv-magazine.com/2026/03/02/expiring-us-tax-credit-drives-record-solar-demand-in-h2-2025/",
-      "date": "2026-03-02T07:45:01.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
