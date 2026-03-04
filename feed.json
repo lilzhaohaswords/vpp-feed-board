@@ -1,6 +1,27 @@
 {
-  "ts": 1772627163885,
+  "ts": 1772631926618,
   "items": [
+    {
+      "title": "EU opens third cross-border solar tender",
+      "url": "https://www.pv-magazine.com/2026/03/04/eu-opens-third-cross-border-solar-tender/",
+      "date": "2026-03-04T13:38:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China’s 600 MW/2.4 GWh storage plant becomes world’s largest CAES site",
+      "url": "https://www.pv-magazine.com/2026/03/04/chinas-600-mw-2-4-gwh-caes-plant-becomes-worlds-largest/",
+      "date": "2026-03-04T13:09:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sigenergy unveils 2.68 kWh battery for balcony PV",
+      "url": "https://www.pv-magazine.com/2026/03/04/sigenergy-unveils-2-68-kwh-battery-for-balcony-pv/",
+      "date": "2026-03-04T12:37:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Greece faces rising renewables curtailment, driving solar-plus-storage",
       "url": "https://www.pv-magazine.com/2026/03/04/greek-pv-producers-fret-3-5-twh-of-curtailments-in-2026/",
@@ -230,27 +251,6 @@
       "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-surpasses-6-3gwh-installations/",
       "date": "2026-03-03T09:22:40.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Indian renewables gain 8.6 GW of relief after court delays on bird protections",
-      "url": "https://www.pv-magazine.com/2026/03/03/india-renewable-projects-gain-relief-on-8-6-gw-over-bustard-ruling-delays/",
-      "date": "2026-03-03T09:15:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "PV-powered refrigerated trailer completes long-distance Australian trial run",
-      "url": "https://www.pv-magazine.com/2026/03/03/pv-powered-refrigerated-trailer-completes-long-distance-australian-trial/",
-      "date": "2026-03-03T08:30:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "SERIS builds 22.1%-efficient perovskite-silicon tandem solar cell based on double-sided polysilicon layers",
-      "url": "https://www.pv-magazine.com/2026/03/03/seris-builds-22-1-efficient-perovskite-silicon-tandem-solar-cell-based-on-double-sided-polysilicon-layers/",
-      "date": "2026-03-03T08:21:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
