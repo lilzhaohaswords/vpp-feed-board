@@ -1,6 +1,41 @@
 {
-  "ts": 1772718714894,
+  "ts": 1772721285432,
   "items": [
+    {
+      "title": "Ground-mounted perovksite solar module testing field goes online in China",
+      "url": "https://www.pv-magazine.com/2026/03/05/ground-mounted-perovksite-solar-module-testing-field-goes-online-in-china/",
+      "date": "2026-03-05T14:31:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Avantus secures US$300 million for 400MWh Arizona solar-plus-storage project",
+      "url": "https://www.energy-storage.news/avantus-secures-us300-million-for-400mwh-arizona-solar-plus-storage-project/",
+      "date": "2026-03-05T14:22:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Redwood Energy positions second-life BESS as ‘essential infrastructure’ for US data centre load growth, domestic manufacturing needs",
+      "url": "https://www.energy-storage.news/redwood-energy-positions-second-life-bess-as-essential-infrastructure-for-us-data-centre-load-growth-domestic-manufacturing-needs/",
+      "date": "2026-03-05T14:22:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Bimergen acquires 79.2MW total of Texas BESS, Habitat advances Texas optimisation",
+      "url": "https://www.energy-storage.news/bimergen-acquires-79-2mw-total-of-texas-bess-habitat-advances-texas-optimisation/",
+      "date": "2026-03-05T14:22:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Alfa Laval to build South Korea’s first large-scale liquid air storage system",
+      "url": "https://www.pv-magazine.com/2026/03/05/alfa-laval-iae-plan-south-koreas-first-large-scale-liquid-air-storage/",
+      "date": "2026-03-05T14:00:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Enel Colombia’s 180 MW Atlántico solar park starts supplying national grid",
       "url": "https://www.pv-magazine.com/2026/03/05/enel-colombias-180-mw-atlantico-solar-park-begins-delivering-power-to-national-grid/",
@@ -208,20 +243,6 @@
       "title": "Optimizing solar EV stations for maximum impact",
       "url": "https://www.pv-magazine.com/2026/03/04/optimizing-solar-ev-stations-for-maximum-impact/",
       "date": "2026-03-04T09:30:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Group Surya commissions 500 MW G12R module line in India",
-      "url": "https://www.pv-magazine.com/2026/03/04/group-surya-commissions-500-mw-g12r-module-line-in-india/",
-      "date": "2026-03-04T09:15:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "CEA-Ines, 3Sun build heterojunction solar modules based on UV downshifting",
-      "url": "https://www.pv-magazine.com/2026/03/04/cea-ines-3sun-build-heterojunction-solar-modules-based-on-uv-downshifting/",
-      "date": "2026-03-04T09:00:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "Lightsource bp sells 800MWh of co-located battery storage in Australia to Aula Energy",
       "url": "https://www.energy-storage.news/lightsource-bp-sells-800mwh-of-co-located-battery-storage-in-australia-to-aula-energy/",
       "date": "2026-02-24T09:04:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Execution discipline redefines energy storage value in Europe, as investable projects become harder to secure",
-      "url": "https://www.energy-storage.news/execution-discipline-redefines-energy-storage-value-in-europe-as-investable-projects-become-harder-to-secure/",
-      "date": "2026-02-24T08:38:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "RES Australia joint venture bags EPBC Act approval for 3.6GWh solar-plus-storage project in Queensland",
-      "url": "https://www.energy-storage.news/res-australia-joint-venture-bags-epbc-act-approval-for-3-6gwh-solar-plus-storage-project-in-queensland/",
-      "date": "2026-02-24T08:30:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European Union members make mixed progress in implementing energy storage strategies",
-      "url": "https://www.energy-storage.news/european-union-members-make-mixed-progress-in-implementing-energy-storage-strategies/",
-      "date": "2026-02-23T12:23:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
