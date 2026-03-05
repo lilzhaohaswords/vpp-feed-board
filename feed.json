@@ -1,6 +1,13 @@
 {
-  "ts": 1772713758307,
+  "ts": 1772718714894,
   "items": [
+    {
+      "title": "Enel Colombia’s 180 MW Atlántico solar park starts supplying national grid",
+      "url": "https://www.pv-magazine.com/2026/03/05/enel-colombias-180-mw-atlantico-solar-park-begins-delivering-power-to-national-grid/",
+      "date": "2026-03-05T13:00:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Grid-scale activity in Romania ramps up with gigawatts of announcements, led by Enery&#8217;s 1GWh financing",
       "url": "https://www.energy-storage.news/grid-scale-activity-in-romania-ramps-up-with-gigawatts-of-announcements-led-by-enerys-1gwh-financing/",
@@ -230,13 +237,6 @@
       "url": "https://www.energy-storage.news/australias-act-government-completes-its-first-community-battery-network-with-new-450kwh-system/",
       "date": "2026-03-04T08:54:47.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s utility solar and wind output hits 5 TWh in February",
-      "url": "https://www.pv-magazine.com/2026/03/04/australias-utility-solar-and-wind-output-hits-5-twh-in-february/",
-      "date": "2026-03-04T08:30:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
