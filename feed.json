@@ -1,6 +1,20 @@
 {
-  "ts": 1772799871134,
+  "ts": 1772804621552,
   "items": [
+    {
+      "title": "The Hydrogen Stream: bp and Iberdrola set to commission Spain’s largest project",
+      "url": "https://www.pv-magazine.com/2026/03/06/the-hydrogen-stream-bp-and-iberdrola-set-to-commission-spains-largest-project/",
+      "date": "2026-03-06T13:31:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "French electricity posts first negative prices of 2026, battery storage gains",
+      "url": "https://www.pv-magazine.com/2026/03/06/french-electricity-posts-first-negative-prices-of-2026-battery-storage-gains/",
+      "date": "2026-03-06T13:00:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "ACME Solar signs 450 MW PPA in India, commissions new 38 MW/82 MWh BESS",
       "url": "https://www.pv-magazine.com/2026/03/06/acme-solar-signs-450-mw-ppa-in-india-commissions-new-38-mw-82-mwh-bess/",
@@ -236,20 +250,6 @@
       "title": "Photoncycle raises €15 million to launch seasonal hydrogen home storage",
       "url": "https://www.pv-magazine.com/2026/03/05/photoncycle-raises-e15-million-to-launch-seasonal-hydrogen-home-storage/",
       "date": "2026-03-05T08:30:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Korean researchers build back-contact perovskite solar cells with lower recombination losses",
-      "url": "https://www.pv-magazine.com/2026/03/05/korean-researchers-build-back-contact-perovskite-solar-cells-with-lower-recombination-losses/",
-      "date": "2026-03-05T08:30:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Oleic acid anti‑soiling coating for solar modules",
-      "url": "https://www.pv-magazine.com/2026/03/05/oleic-acid-anti%e2%80%91soiling-coating-for-solar-modules/",
-      "date": "2026-03-05T08:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
