@@ -1,6 +1,34 @@
 {
-  "ts": 1772792477089,
+  "ts": 1772795867043,
   "items": [
+    {
+      "title": "Freight costs increase following military strikes in the Middle East",
+      "url": "https://www.pv-magazine.com/2026/03/06/freight-costs-increase-following-military-strikes-in-the-middle-east/",
+      "date": "2026-03-06T11:17:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sungrow and Delta Capacity sign 1GWh European framework BESS supply deal",
+      "url": "https://www.energy-storage.news/sungrow-and-delta-capacity-sign-1gwh-european-framework-bess-supply-deal/",
+      "date": "2026-03-06T10:35:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solis launches new residential storage system portfolio",
+      "url": "https://www.pv-magazine.com/2026/03/06/solis-launches-new-residential-storage-system-portfolio/",
+      "date": "2026-03-06T10:30:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Battery storage awarded 576 MW in UK top-up capacity market auction",
+      "url": "https://www.pv-magazine.com/2026/03/06/battery-storage-awarded-576-mw-in-uk-top-up-capacity-market-auction/",
+      "date": "2026-03-06T10:30:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Tigo debuts 725 W optimizer for high-power solar modules",
       "url": "https://www.pv-magazine.com/2026/03/06/tigo-debuts-725-w-optimizer-for-high-power-solar-modules/",
@@ -233,31 +261,10 @@
       "bucket": "A"
     },
     {
-      "title": "TCL Sunpower presents shingle TOPCon solar panels for rooftop PV",
-      "url": "https://www.pv-magazine.com/2026/03/04/tcl-sunpower-presents-shingle-topcon-solar-panels-for-rooftop-pv/",
-      "date": "2026-03-04T14:41:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Jupiter Power receives approval for 2.8GWh Massachusetts BESS",
       "url": "https://www.energy-storage.news/jupiter-power-receives-approval-for-2-8gwh-massachusetts-bess/",
       "date": "2026-03-04T14:41:26.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Trina Solar unveils 485 W TOPCon PV panel with 24.3% efficiency",
-      "url": "https://www.pv-magazine.com/2026/03/04/trina-solar-unveils-485-w-topcon-pv-panel-with-24-3-efficiency/",
-      "date": "2026-03-04T14:07:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "London Underground inks private-wire solar deal with SSE Energy Solutions",
-      "url": "https://www.pv-magazine.com/2026/03/04/london-underground-inks-private-wire-solar-deal-with-sse-energy-solutions/",
-      "date": "2026-03-04T14:00:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "BESS continues to be attractive market for M&#038;A",
       "url": "https://www.energy-storage.news/bess-continues-to-be-attractive-market-for-ma/",
       "date": "2026-02-24T14:59:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "DESRI, Clearway move Texas BESS projects forward",
-      "url": "https://www.energy-storage.news/desri-clearway-move-texas-bess-projects-forward/",
-      "date": "2026-02-24T13:00:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
