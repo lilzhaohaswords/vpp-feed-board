@@ -1,6 +1,13 @@
 {
-  "ts": 1773070993152,
+  "ts": 1773074543516,
   "items": [
+    {
+      "title": "Japan’s 27th solar auction concludes with average final price of $0.029/kWh",
+      "url": "https://www.pv-magazine.com/2026/03/09/japans-27th-solar-auction-concludes-with-average-final-price-of-0-029-kwh/",
+      "date": "2026-03-09T15:56:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hanjung America to build ESS manufacturing facility in Indiana to support StarPlus Energy",
       "url": "https://www.energy-storage.news/hanjung-america-to-build-ess-manufacturing-facility-in-indiana-to-support-starplus-energy/",
@@ -194,13 +201,6 @@
       "title": "ACME Solar signs 450 MW PPA in India, commissions new 38 MW/82 MWh BESS",
       "url": "https://www.pv-magazine.com/2026/03/06/acme-solar-signs-450-mw-ppa-in-india-commissions-new-38-mw-82-mwh-bess/",
       "date": "2026-03-06T12:00:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Freight costs increase following military strikes in the Middle East",
-      "url": "https://www.pv-magazine.com/2026/03/06/freight-costs-increase-following-military-strikes-in-the-middle-east/",
-      "date": "2026-03-06T11:17:32.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
