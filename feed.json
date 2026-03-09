@@ -1,6 +1,41 @@
 {
-  "ts": 1773044931483,
+  "ts": 1773048826162,
   "items": [
+    {
+      "title": "Origin Energy&#8217;s 650MWh grid-forming BESS begins commissioning in Australia",
+      "url": "https://www.energy-storage.news/origin-energys-650mwh-grid-forming-bess-begins-commissioning-in-australia/",
+      "date": "2026-03-09T09:20:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Key takeaways from Italy&#8217;s Key Energy trade show",
+      "url": "https://www.pv-magazine.com/2026/03/09/key-takeaways-from-italys-key-energy-trade-show/",
+      "date": "2026-03-09T09:15:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Growing pains: Grid congestion as a renewables bottleneck",
+      "url": "https://www.pv-magazine.com/2026/03/09/growing-pains-grid-congestion-as-a-renewables-bottleneck/",
+      "date": "2026-03-09T09:00:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Why CIGS solar keeps lagging behind crystalline silicon",
+      "url": "https://www.pv-magazine.com/2026/03/09/why-cigs-solar-keeps-lagging-behind-crystalline-silicon/",
+      "date": "2026-03-09T08:30:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Photovoltaics reach 16.1% share of Germany’s electricity generation in 2025",
+      "url": "https://www.pv-magazine.com/2026/03/09/photovoltaics-reach-16-1-share-of-germanys-electricity-generation-in-2025/",
+      "date": "2026-03-09T08:30:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Photovoltaics for cattle dung gasification",
       "url": "https://www.pv-magazine.com/2026/03/09/photovoltaics-for-cattle-dung-gasification/",
@@ -173,34 +208,6 @@
       "title": "China’s polysilicon prices fall again amid 480,000 MT inventory buildup",
       "url": "https://www.pv-magazine.com/2026/03/06/chinas-polysilicon-prices-fall-again-as-inventory-hits-480000-mt/",
       "date": "2026-03-06T08:45:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Guidelines to assess three-terminal, four-terminal tandem solar cell performance",
-      "url": "https://www.pv-magazine.com/2026/03/06/guidelines-to-assess-three-terminal-four-terminal-tandem-solar-cell-performance/",
-      "date": "2026-03-06T08:30:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s Dinawan solar farm among 14 projects in state investment round",
-      "url": "https://www.pv-magazine.com/2026/03/06/australias-dinawan-solar-farm-among-14-projects-in-state-investment-round/",
-      "date": "2026-03-06T08:30:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New study challenges current narrative around EPE encapsulants",
-      "url": "https://www.pv-magazine.com/2026/03/06/new-study-challenges-current-narrative-around-epe-encapsulants/",
-      "date": "2026-03-06T08:16:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cold thermal storage crucial to boosting liquid-air energy storage efficiency",
-      "url": "https://www.pv-magazine.com/2026/03/06/cold-thermal-storage-crucial-to-boosting-liquid-air-energy-storage-efficiency/",
-      "date": "2026-03-06T08:00:56.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "‘Balance between profitability and predictability’: inside Europe’s shift towards tolling offtake agreements in battery storage",
       "url": "https://www.energy-storage.news/balance-between-profitability-predictability-europes-shift-tolling-offtake-agreements-battery-storage/",
       "date": "2026-02-24T15:13:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BESS continues to be attractive market for M&#038;A",
-      "url": "https://www.energy-storage.news/bess-continues-to-be-attractive-market-for-ma/",
-      "date": "2026-02-24T14:59:42.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
