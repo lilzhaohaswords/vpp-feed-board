@@ -1,6 +1,13 @@
 {
-  "ts": 1773059328536,
+  "ts": 1773064540933,
   "items": [
+    {
+      "title": "Midsummer secures second order for CIGS production line equipment",
+      "url": "https://www.pv-magazine.com/2026/03/09/midsummer-secures-second-order-at-cigs-production-line/",
+      "date": "2026-03-09T13:00:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Small 24/7 clean power commitments could cut costs for long-duration storage",
       "url": "https://www.pv-magazine.com/2026/03/09/small-24-7-clean-power-commitments-could-cut-costs-for-long-duration-storage/",
@@ -187,13 +194,6 @@
       "title": "Solis launches new residential storage system portfolio",
       "url": "https://www.pv-magazine.com/2026/03/06/solis-launches-new-residential-storage-system-portfolio/",
       "date": "2026-03-06T10:30:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery storage awarded 576 MW in UK top-up capacity market auction",
-      "url": "https://www.pv-magazine.com/2026/03/06/battery-storage-awarded-576-mw-in-uk-top-up-capacity-market-auction/",
-      "date": "2026-03-06T10:30:23.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
