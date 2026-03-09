@@ -1,6 +1,27 @@
 {
-  "ts": 1773067184849,
+  "ts": 1773070993152,
   "items": [
+    {
+      "title": "Hanjung America to build ESS manufacturing facility in Indiana to support StarPlus Energy",
+      "url": "https://www.energy-storage.news/hanjung-america-to-build-ess-manufacturing-facility-in-indiana-to-support-starplus-energy/",
+      "date": "2026-03-09T15:31:18.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US import tariffs ‘increase the policy risk’ for BESS",
+      "url": "https://www.energy-storage.news/us-import-tariffs-increase-the-policy-risk-for-bess/",
+      "date": "2026-03-09T14:50:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Battery Atlas 2026&#8217; maps Europe’s cell, pack and battery manufacturers",
+      "url": "https://www.pv-magazine.com/2026/03/09/battery-atlas-2026-maps-europes-cell-pack-and-battery-manufacturers/",
+      "date": "2026-03-09T14:45:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Midsummer secures second order for CIGS production line equipment",
       "url": "https://www.pv-magazine.com/2026/03/09/midsummer-secures-second-order-at-cigs-production-line/",
@@ -188,13 +209,6 @@
       "url": "https://www.energy-storage.news/sungrow-and-delta-capacity-sign-1gwh-european-framework-bess-supply-deal/",
       "date": "2026-03-06T10:35:40.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solis launches new residential storage system portfolio",
-      "url": "https://www.pv-magazine.com/2026/03/06/solis-launches-new-residential-storage-system-portfolio/",
-      "date": "2026-03-06T10:30:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "400MWh grid-forming New England BESS registered with Australia’s AEMO",
       "url": "https://www.energy-storage.news/400mwh-grid-forming-new-england-bess-registered-with-australias-aemo/",
       "date": "2026-02-25T09:20:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Waratah Super Battery transformer replacement scheduled for Q3 2026 delivery in Australia",
-      "url": "https://www.energy-storage.news/waratah-super-battery-transformer-replacement-scheduled-for-q3-2026-delivery-in-australia/",
-      "date": "2026-02-25T09:14:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How can batteries respond to energy price volatility in Europe?",
-      "url": "https://www.energy-storage.news/how-can-batteries-respond-to-energy-price-volatility-in-europe/",
-      "date": "2026-02-24T16:11:47.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
