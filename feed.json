@@ -1,6 +1,20 @@
 {
-  "ts": 1773055532200,
+  "ts": 1773059328536,
   "items": [
+    {
+      "title": "Small 24/7 clean power commitments could cut costs for long-duration storage",
+      "url": "https://www.pv-magazine.com/2026/03/09/small-24-7-clean-power-commitments-could-cut-costs-for-long-duration-storage/",
+      "date": "2026-03-09T12:00:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU &#8216;Made in Europe&#8217; regulation welcomed but ‘will not remove dependency on China’",
+      "url": "https://www.energy-storage.news/eu-made-in-europe-regulation-welcomed-but-will-not-remove-dependency-on-china/",
+      "date": "2026-03-09T11:58:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Thermocold debuts air-to-water heat pump for commercial buildings",
       "url": "https://www.pv-magazine.com/2026/03/09/thermocold-debuts-air-to-water-heat-pump-for-commercial-buildings/",
@@ -180,13 +194,6 @@
       "title": "Battery storage awarded 576 MW in UK top-up capacity market auction",
       "url": "https://www.pv-magazine.com/2026/03/06/battery-storage-awarded-576-mw-in-uk-top-up-capacity-market-auction/",
       "date": "2026-03-06T10:30:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tigo debuts 725 W optimizer for high-power solar modules",
-      "url": "https://www.pv-magazine.com/2026/03/06/tigo-debuts-725-w-optimizer-for-high-power-solar-modules/",
-      "date": "2026-03-06T10:10:40.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "How can batteries respond to energy price volatility in Europe?",
       "url": "https://www.energy-storage.news/how-can-batteries-respond-to-energy-price-volatility-in-europe/",
       "date": "2026-02-24T16:11:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Balance between profitability and predictability’: inside Europe’s shift towards tolling offtake agreements in battery storage",
-      "url": "https://www.energy-storage.news/balance-between-profitability-predictability-europes-shift-tolling-offtake-agreements-battery-storage/",
-      "date": "2026-02-24T15:13:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
