@@ -1,6 +1,20 @@
 {
-  "ts": 1773048826162,
+  "ts": 1773052319864,
   "items": [
+    {
+      "title": "Rooftop solar rebounds in Australia, home battery demand surges",
+      "url": "https://www.pv-magazine.com/2026/03/09/rooftop-solar-rebounds-in-australia-home-battery-demand-surges/",
+      "date": "2026-03-09T10:00:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Jackery introduces SolarVault 3 series of residential solar storage solutions in the Netherlands",
+      "url": "https://www.pv-magazine.com/2026/03/09/jackery-introduces-solarvault-3-series-of-residential-solar-storage-solutions-in-the-netherlands/",
+      "date": "2026-03-09T10:00:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Origin Energy&#8217;s 650MWh grid-forming BESS begins commissioning in Australia",
       "url": "https://www.energy-storage.news/origin-energys-650mwh-grid-forming-bess-begins-commissioning-in-australia/",
@@ -195,20 +209,6 @@
       "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-reportedly-under-review-as-government-seeks-budget-savings/",
       "date": "2026-03-06T09:29:18.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China TOPCon module prices edge higher as March cargoes clear",
-      "url": "https://www.pv-magazine.com/2026/03/06/china-topcon-module-prices-edge-higher-as-march-cargoes-clear/",
-      "date": "2026-03-06T09:00:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China’s polysilicon prices fall again amid 480,000 MT inventory buildup",
-      "url": "https://www.pv-magazine.com/2026/03/06/chinas-polysilicon-prices-fall-again-as-inventory-hits-480000-mt/",
-      "date": "2026-03-06T08:45:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
