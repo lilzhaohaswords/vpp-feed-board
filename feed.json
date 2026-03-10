@@ -1,6 +1,41 @@
 {
-  "ts": 1773131084526,
+  "ts": 1773135023474,
   "items": [
+    {
+      "title": "Involtics launches GTSI single-phase hybrid inverter for homes",
+      "url": "https://www.pv-magazine.com/2026/03/10/involtics-launches-gtsi-single-phase-hybrid-inverter-for-homes/",
+      "date": "2026-03-10T09:15:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "TOPCon solar modules show self-healing under UV stress",
+      "url": "https://www.pv-magazine.com/2026/03/10/topcon-solar-modules-show-uv-induced-degradation-recovery-study-finds/",
+      "date": "2026-03-10T09:00:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Octopus Australia breaks ground on 486MWh Blind Creek Solar Farm and Battery project",
+      "url": "https://www.energy-storage.news/octopus-australia-breaks-ground-on-486mwh-blind-creek-solar-farm-and-battery-project/",
+      "date": "2026-03-10T08:52:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia: NSW planners approve 400MWh Burroway solar-plus-storage despite community objections",
+      "url": "https://www.energy-storage.news/australia-nsw-planners-approve-400mwh-burroway-solar-plus-storage-despite-community-objections/",
+      "date": "2026-03-10T08:52:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia fast-tracks solar ingot, wafer plant with &#8216;major project&#8217; status",
+      "url": "https://www.pv-magazine.com/2026/03/10/australia-fast-tracks-solar-ingot-wafer-plant-with-major-project-status/",
+      "date": "2026-03-10T08:30:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "First attempt to build solar modules using polycarbonate encapsulant",
       "url": "https://www.pv-magazine.com/2026/03/10/first-attempt-to-build-solar-modules-using-polycarbonate-encapsulant/",
@@ -180,27 +215,6 @@
       "title": "Private wires legislation could slow Ireland&#8217;s residential rooftop PV progress",
       "url": "https://www.pv-magazine.com/2026/03/06/private-wires-legislation-could-slow-irelands-residential-rooftop-pv-progress/",
       "date": "2026-03-06T15:00:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Winter weather splits solar conditions across North America",
-      "url": "https://www.pv-magazine.com/2026/03/06/winter-weather-splits-solar-conditions-across-north-america/",
-      "date": "2026-03-06T15:00:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: Longi tops 800 MW Hexi solar module tender",
-      "url": "https://www.pv-magazine.com/2026/03/06/chinese-pv-industry-brief-longi-tops-800-mw-hexi-pv-module-tender-in-gansu/",
-      "date": "2026-03-06T14:00:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Beyond 10X: Rethinking Leadership Standards in the Solar+ Sector",
-      "url": "https://www.pv-magazine.com/2026/03/06/beyond-10x-rethinking-leadership-standards-in-the-solar-sector/",
-      "date": "2026-03-06T13:54:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Batteries provide ‘flexibility’ in the European renewable revenue stack",
       "url": "https://www.energy-storage.news/batteries-provide-flexibility-european-renewable-revenue-stack/",
       "date": "2026-02-25T10:12:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "RE Developments eyes 1GWh battery storage system in Western Australia",
-      "url": "https://www.energy-storage.news/re-developments-eyes-1gwh-battery-storage-system-in-western-australia/",
-      "date": "2026-02-25T09:24:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "400MWh grid-forming New England BESS registered with Australia’s AEMO",
-      "url": "https://www.energy-storage.news/400mwh-grid-forming-new-england-bess-registered-with-australias-aemo/",
-      "date": "2026-02-25T09:20:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
