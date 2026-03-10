@@ -1,6 +1,13 @@
 {
-  "ts": 1773124282650,
+  "ts": 1773127855051,
   "items": [
+    {
+      "title": "Water-spray cooling can improve PV module efficiency by 28% in arid environments",
+      "url": "https://www.pv-magazine.com/2026/03/10/water-spray-cooling-can-improve-pv-module-efficiency-by-28-in-arid-environments/",
+      "date": "2026-03-10T07:00:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Japan’s 27th solar auction concludes with average final price of $0.029/kWh",
       "url": "https://www.pv-magazine.com/2026/03/09/japans-27th-solar-auction-concludes-with-average-final-price-of-0-029-kwh/",
@@ -194,13 +201,6 @@
       "title": "French electricity posts first negative prices of 2026, battery storage gains",
       "url": "https://www.pv-magazine.com/2026/03/06/french-electricity-posts-first-negative-prices-of-2026-battery-storage-gains/",
       "date": "2026-03-06T13:00:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ACME Solar signs 450 MW PPA in India, commissions new 38 MW/82 MWh BESS",
-      "url": "https://www.pv-magazine.com/2026/03/06/acme-solar-signs-450-mw-ppa-in-india-commissions-new-38-mw-82-mwh-bess/",
-      "date": "2026-03-06T12:00:15.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
