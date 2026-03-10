@@ -1,6 +1,20 @@
 {
-  "ts": 1773157539082,
+  "ts": 1773160918608,
   "items": [
+    {
+      "title": "Wales first part of UK to mandate solar panels on new buildings",
+      "url": "https://www.pv-magazine.com/2026/03/10/wales-first-part-of-uk-to-mandate-solar-panels-on-new-buildings/",
+      "date": "2026-03-10T16:30:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VDE Americas upgrades hail risk model for utility-scale solar",
+      "url": "https://www.pv-magazine.com/2026/03/10/vde-americas-upgrades-hail-risk-model-for-utility-scale-solar/",
+      "date": "2026-03-10T15:45:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hizenergy launches four-product C&#038;I storage lineup with 300 kW PCS",
       "url": "https://www.pv-magazine.com/2026/03/10/hizenergy-launches-four-product-ci-storage-lineup-with-300-kw-pcs/",
@@ -236,20 +250,6 @@
       "title": "Why CIGS solar keeps lagging behind crystalline silicon",
       "url": "https://www.pv-magazine.com/2026/03/09/why-cigs-solar-keeps-lagging-behind-crystalline-silicon/",
       "date": "2026-03-09T08:30:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Photovoltaics reach 16.1% share of Germany’s electricity generation in 2025",
-      "url": "https://www.pv-magazine.com/2026/03/09/photovoltaics-reach-16-1-share-of-germanys-electricity-generation-in-2025/",
-      "date": "2026-03-09T08:30:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Photovoltaics for cattle dung gasification",
-      "url": "https://www.pv-magazine.com/2026/03/09/photovoltaics-for-cattle-dung-gasification/",
-      "date": "2026-03-09T08:00:37.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
