@@ -1,6 +1,13 @@
 {
-  "ts": 1773150723788,
+  "ts": 1773153393763,
   "items": [
+    {
+      "title": "Volkswagen launches first large-scale battery storage project in Germany",
+      "url": "https://www.pv-magazine.com/2026/03/10/volkswagen-launches-first-large-scale-battery-storage-project-in-germany/",
+      "date": "2026-03-10T14:00:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Long-duration tech still outcompeted by lithium, trade group advocates for &#8216;valuing diversity&#8217;",
       "url": "https://www.energy-storage.news/long-duration-tech-still-outcompeted-by-lithium-trade-group-advocates-for-valuing-diversity/",
@@ -236,13 +243,6 @@
       "title": "Qcells resumes US solar panel production after customs furlough",
       "url": "https://www.pv-magazine.com/2026/03/09/qcells-resumes-us-solar-panel-production-after-customs-related-furlough/",
       "date": "2026-03-09T07:45:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Air-based photovoltaic-thermal system can achieve significant energy savings in buildings",
-      "url": "https://www.pv-magazine.com/2026/03/09/air-based-photovoltaic-thermal-system-can-achieve-significant-energy-savings-in-nordic-buildings/",
-      "date": "2026-03-09T07:30:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
