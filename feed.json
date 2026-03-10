@@ -1,6 +1,20 @@
 {
-  "ts": 1773127855051,
+  "ts": 1773131084526,
   "items": [
+    {
+      "title": "First attempt to build solar modules using polycarbonate encapsulant",
+      "url": "https://www.pv-magazine.com/2026/03/10/first-attempt-to-build-solar-modules-using-polycarbonate-encapsulant/",
+      "date": "2026-03-10T08:00:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chemical incidents halt Silfab Solar factory as US probe begins",
+      "url": "https://www.pv-magazine.com/2026/03/10/chemical-incidents-halt-silfab-solar-factory-as-us-probe-begins/",
+      "date": "2026-03-10T07:45:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Water-spray cooling can improve PV module efficiency by 28% in arid environments",
       "url": "https://www.pv-magazine.com/2026/03/10/water-spray-cooling-can-improve-pv-module-efficiency-by-28-in-arid-environments/",
@@ -187,20 +201,6 @@
       "title": "Beyond 10X: Rethinking Leadership Standards in the Solar+ Sector",
       "url": "https://www.pv-magazine.com/2026/03/06/beyond-10x-rethinking-leadership-standards-in-the-solar-sector/",
       "date": "2026-03-06T13:54:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: BP and Iberdrola near Spain’s largest H₂ project",
-      "url": "https://www.pv-magazine.com/2026/03/06/the-hydrogen-stream-bp-and-iberdrola-set-to-commission-spains-largest-project/",
-      "date": "2026-03-06T13:31:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "French electricity posts first negative prices of 2026, battery storage gains",
-      "url": "https://www.pv-magazine.com/2026/03/06/french-electricity-posts-first-negative-prices-of-2026-battery-storage-gains/",
-      "date": "2026-03-06T13:00:42.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
