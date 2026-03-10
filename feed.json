@@ -1,6 +1,13 @@
 {
-  "ts": 1773141738534,
+  "ts": 1773145734330,
   "items": [
+    {
+      "title": "Gas-fired electricity two to three times costlier than renewable backups",
+      "url": "https://www.pv-magazine.com/2026/03/10/gas-fired-electricity-two-to-three-times-costlier-than-renewable-backups/",
+      "date": "2026-03-10T12:00:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Longi launches fire-resistant solar module for rooftop PV",
       "url": "https://www.pv-magazine.com/2026/03/10/longi-launches-fire-resistant-solar-module-for-rooftop-pv/",
@@ -219,13 +226,6 @@
       "bucket": "A"
     },
     {
-      "title": "Tunisia issues tender for 300 MW solar plant with 150 MW/540 MWh storage",
-      "url": "https://www.pv-magazine.com/2026/03/09/tunisia-ussues-tender-for-300-mw-solar-plant-with-150-mw-540-mwh-storage/",
-      "date": "2026-03-09T07:00:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Sungrow and Delta Capacity sign 1GWh European framework BESS supply deal",
       "url": "https://www.energy-storage.news/sungrow-and-delta-capacity-sign-1gwh-european-framework-bess-supply-deal/",
       "date": "2026-03-06T10:35:40.000Z",
@@ -422,7 +422,7 @@
       "bucket": "A"
     },
     {
-      "title": "BW ESS: &#8216;11.5-hour LDES win moves us into new space for batteries&#8217;",
+      "title": "VIDEO: &#8216;11.5-hour LDES win moves us into new space for batteries&#8217;, says BW ESS",
       "url": "https://www.energy-storage.news/bw-ess-11-5-hour-ldes-win-moves-us-into-new-space-for-batteries/",
       "date": "2026-02-27T14:39:14.000Z",
       "source": "Energy Storage News",
