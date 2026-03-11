@@ -1,6 +1,34 @@
 {
-  "ts": 1773239871385,
+  "ts": 1773243275662,
   "items": [
+    {
+      "title": "EU auditors warn energy community targets outpace reality",
+      "url": "https://www.pv-magazine.com/2026/03/11/eu-auditors-warn-energy-community-targets-outpace-reality/",
+      "date": "2026-03-11T15:30:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Aiko launches 545 W back-contact solar module with 25% efficiency",
+      "url": "https://www.pv-magazine.com/2026/03/11/aiko-launches-545-w-back-contact-solar-module-with-25-efficiency/",
+      "date": "2026-03-11T15:05:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BESS asset operation in CAISO is complex, but lean teams can leverage advanced analytics",
+      "url": "https://www.energy-storage.news/bess-asset-operation-in-caiso-is-complex-but-lean-teams-can-leverage-advanced-analytics/",
+      "date": "2026-03-11T14:48:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Sliding shutters integrate PV for building facades",
+      "url": "https://www.pv-magazine.com/2026/03/11/sliding-shutters-integrate-pv-for-building-facades/",
+      "date": "2026-03-11T14:45:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "RWE brings online four BESS projects in 13GW US clean energy portfolio",
       "url": "https://www.energy-storage.news/rwe-brings-online-four-bess-projects-in-13gw-us-clean-energy-portfolio/",
@@ -226,20 +254,6 @@
       "bucket": "A"
     },
     {
-      "title": "Involtics unveils GTSI single-phase hybrid inverter for homes",
-      "url": "https://www.pv-magazine.com/2026/03/10/involtics-launches-gtsi-single-phase-hybrid-inverter-for-homes/",
-      "date": "2026-03-10T09:15:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "TOPCon solar modules show self-healing under UV stress",
-      "url": "https://www.pv-magazine.com/2026/03/10/topcon-solar-modules-show-uv-induced-degradation-recovery-study-finds/",
-      "date": "2026-03-10T09:00:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Octopus Australia breaks ground on 486MWh Blind Creek Solar Farm and Battery project",
       "url": "https://www.energy-storage.news/octopus-australia-breaks-ground-on-486mwh-blind-creek-solar-farm-and-battery-project/",
       "date": "2026-03-10T08:52:59.000Z",
@@ -251,13 +265,6 @@
       "url": "https://www.energy-storage.news/australia-nsw-planners-approve-400mwh-burroway-solar-plus-storage-despite-community-objections/",
       "date": "2026-03-10T08:52:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia fast-tracks solar ingot, wafer plant with &#8216;major project&#8217; status",
-      "url": "https://www.pv-magazine.com/2026/03/10/australia-fast-tracks-solar-ingot-wafer-plant-with-major-project-status/",
-      "date": "2026-03-10T08:30:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Recurrent Energy sells 200MWh Texas BESS to Hunt Energy Network",
       "url": "https://www.energy-storage.news/recurrent-energy-sells-200mwh-texas-bess-to-hunt-energy-network/",
       "date": "2026-02-26T14:22:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US DOE closes US$26.5 billion loan package to utility Southern Company for 16GW of capacity, including BESS",
-      "url": "https://www.energy-storage.news/us-doe-closes-us26-5-billion-loan-package-to-utility-southern-company-for-16gw-of-capacity-including-bess/",
-      "date": "2026-02-26T14:19:48.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
