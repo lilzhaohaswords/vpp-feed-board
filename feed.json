@@ -1,6 +1,13 @@
 {
-  "ts": 1773210875636,
+  "ts": 1773214453211,
   "items": [
+    {
+      "title": "Transparent superhydrophobic self-cleaning coating increases solar cell efficiency by 4.75%",
+      "url": "https://www.pv-magazine.com/2026/03/11/transparent-superhydrophobic-self-cleaning-coating-increases-solar-cell-efficiency-by-4-75/",
+      "date": "2026-03-11T07:00:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "NanoMalaysia unveils sodium-ion prototype surpassing 300 Wh/kg",
       "url": "https://www.pv-magazine.com/2026/03/11/nanomalaysia-unveils-sodium-ion-prototype-surpassing-300-wh-kg/",
@@ -244,13 +251,6 @@
       "url": "https://www.energy-storage.news/origin-energys-650mwh-grid-forming-bess-begins-commissioning-in-australia/",
       "date": "2026-03-09T09:20:45.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Key takeaways from Italy&#8217;s Key Energy trade show",
-      "url": "https://www.pv-magazine.com/2026/03/09/key-takeaways-from-italys-key-energy-trade-show/",
-      "date": "2026-03-09T09:15:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
