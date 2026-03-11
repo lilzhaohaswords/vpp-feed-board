@@ -1,6 +1,41 @@
 {
-  "ts": 1773237331943,
+  "ts": 1773239871385,
   "items": [
+    {
+      "title": "RWE brings online four BESS projects in 13GW US clean energy portfolio",
+      "url": "https://www.energy-storage.news/rwe-brings-online-four-bess-projects-in-13gw-us-clean-energy-portfolio/",
+      "date": "2026-03-11T14:10:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Aypa Power closes US$512 million financing for two Ontario BESS projects",
+      "url": "https://www.energy-storage.news/aypa-power-closes-us512-million-financing-for-two-ontario-bess-projects/",
+      "date": "2026-03-11T14:06:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Google bets big on 30GWh of Form Energy&#8217;s iron-air battery storage despite efficiency trade-offs",
+      "url": "https://www.energy-storage.news/google-bets-big-on-30gwh-of-form-energys-iron-air-battery-storage-despite-efficiency-trade-offs/",
+      "date": "2026-03-11T14:04:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "FREE DOWNLOAD: Energy Storage Report 2026",
+      "url": "https://www.energy-storage.news/free-download-energy-storage-report-2026/",
+      "date": "2026-03-11T14:04:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EU solar auctions, corporate PPAs delivered 92 GW in 2022-25 period",
+      "url": "https://www.pv-magazine.com/2026/03/11/eu-solar-auctions-corporate-ppas-delivered-92-gw-in-2022-25-period/",
+      "date": "2026-03-11T14:00:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Setting the stage for US energy storage",
       "url": "https://www.pv-magazine.com/2026/03/11/setting-the-stage-for-us-energy-storage/",
@@ -222,13 +257,6 @@
       "title": "Australia fast-tracks solar ingot, wafer plant with &#8216;major project&#8217; status",
       "url": "https://www.pv-magazine.com/2026/03/10/australia-fast-tracks-solar-ingot-wafer-plant-with-major-project-status/",
       "date": "2026-03-10T08:30:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "First attempt to build solar modules using polycarbonate encapsulant",
-      "url": "https://www.pv-magazine.com/2026/03/10/first-attempt-to-build-solar-modules-using-polycarbonate-encapsulant/",
-      "date": "2026-03-10T08:00:49.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -495,34 +523,6 @@
       "title": "US DOE closes US$26.5 billion loan package to utility Southern Company for 16GW of capacity, including BESS",
       "url": "https://www.energy-storage.news/us-doe-closes-us26-5-billion-loan-package-to-utility-southern-company-for-16gw-of-capacity-including-bess/",
       "date": "2026-02-26T14:19:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Philippines Department of Energy instructs renewable energy plants to add energy storage",
-      "url": "https://www.energy-storage.news/philippines-department-of-energy-instructs-renewable-energy-plants-to-add-energy-storage/",
-      "date": "2026-02-26T12:12:31.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Where do I put my chips on the table?&#8217;: Long-term BESS revenue curves and uncertainty",
-      "url": "https://www.energy-storage.news/bess-revenues-thought-of-forecast-not-promised-financial-decision-making/",
-      "date": "2026-02-26T10:35:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Google: Minnesota data centre energy deal includes 30GWh &#8216;multi-day&#8217; iron-air batteries from Form Energy",
-      "url": "https://www.energy-storage.news/google-minnesota-data-centre-energy-deal-includes-30gwh-multi-day-iron-air-batteries-from-form-energy/",
-      "date": "2026-02-26T08:36:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "MGA Thermal secures AU$3.25 million ARENA funding for thermal energy storage FEED studies",
-      "url": "https://www.energy-storage.news/mga-thermal-secures-au3-25-million-arena-funding-for-thermal-energy-storage-feed-studies/",
-      "date": "2026-02-26T08:18:53.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
