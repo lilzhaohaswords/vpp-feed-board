@@ -1,6 +1,41 @@
 {
-  "ts": 1773314576760,
+  "ts": 1773318445169,
   "items": [
+    {
+      "title": "US Roundup: Over US$2 billion of financing updates from Arevon, Primergy and Gridstor",
+      "url": "https://www.energy-storage.news/us-roundup-over-us2-billion-of-financing-updates-from-arevon-primergy-and-gridstor/",
+      "date": "2026-03-12T12:21:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EU Roundup: 700MWh of BESS projects move forward in Germany, Belgium, France, Finland, Latvia and Portugal",
+      "url": "https://www.energy-storage.news/eu-roundup-700mwh-of-bess-projects-move-forward-in-germany-belgium-france-finland-latvia-and-portugal/",
+      "date": "2026-03-12T12:12:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "What makes a ‘priority market’ for scaling long-duration energy storage?",
+      "url": "https://www.energy-storage.news/what-makes-a-priority-market-for-scaling-long-duration-energy-storage/",
+      "date": "2026-03-12T12:04:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Research shows conventional solar arrays can support livestock grazing",
+      "url": "https://www.pv-magazine.com/2026/03/12/research-shows-conventional-solar-arrays-can-support-livestock-grazing/",
+      "date": "2026-03-12T12:00:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Russia adds around 100 MW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/03/12/russia-adds-around-100-mw-of-solar-in-2025/",
+      "date": "2026-03-12T11:34:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India launches tender for 1 GW round-the-clock renewable power",
       "url": "https://www.pv-magazine.com/2026/03/12/india-launches-tender-for-1-gw-round-the-clock-renewable-power/",
@@ -208,20 +243,6 @@
       "title": "NanoMalaysia unveils sodium-ion prototype surpassing 300 Wh/kg",
       "url": "https://www.pv-magazine.com/2026/03/11/nanomalaysia-unveils-sodium-ion-prototype-surpassing-300-wh-kg/",
       "date": "2026-03-11T06:15:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. court upholds California&#8217;s current net billing mechanism, dealing blow to rooftop solar",
-      "url": "https://www.pv-magazine.com/2026/03/11/u-s-court-upholds-current-net-billing-mechanism-dealing-blow-to-rooftop-solar-in-california/",
-      "date": "2026-03-11T06:09:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Wales first part of UK to mandate solar panels on new buildings",
-      "url": "https://www.pv-magazine.com/2026/03/10/wales-first-part-of-uk-to-mandate-solar-panels-on-new-buildings/",
-      "date": "2026-03-10T16:30:34.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "VIDEO: &#8216;11.5-hour LDES win moves us into new space for batteries&#8217;, says BW ESS",
       "url": "https://www.energy-storage.news/bw-ess-11-5-hour-ldes-win-moves-us-into-new-space-for-batteries/",
       "date": "2026-02-27T14:39:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Swiss data centre operator NTS Colocation pilots iron-sodium battery tech from US startup Inlyte",
-      "url": "https://www.energy-storage.news/swiss-data-centre-operator-nts-colocation-pilots-iron-sodium-battery-tech-from-us-startup-inlyte/",
-      "date": "2026-02-27T08:40:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy Storage Summit 2026 Day Two: LDES, co-location and revenue certainty among the big topics",
-      "url": "https://www.energy-storage.news/energy-storage-summit-2026-day-two-ldes-co-location-and-revenue-certainty-among-the-big-topics/",
-      "date": "2026-02-26T16:38:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Trina Storage to invest in Gore Street&#8217;s EU BESS fund, 12GWh targeted",
-      "url": "https://www.energy-storage.news/trina-storage-to-invest-in-gore-streets-eu-bess-fund-12gwh-targeted/",
-      "date": "2026-02-26T15:30:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
