@@ -1,6 +1,20 @@
 {
-  "ts": 1773326267466,
+  "ts": 1773330164108,
   "items": [
+    {
+      "title": "New Jersey state government advances 1GW of battery storage in energy affordability push",
+      "url": "https://www.energy-storage.news/new-jersey-state-government-advances-1gw-of-battery-storage-in-energy-affordability-push/",
+      "date": "2026-03-12T15:02:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Vikram Solar&#8217;s PowerHive unit launches VION lithium batteries in India",
+      "url": "https://www.pv-magazine.com/2026/03/12/vikram-solar-unit-powerhive-launches-vion-lithium-batteries-in-india/",
+      "date": "2026-03-12T14:50:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "GoodWe introduces low-noise all-in-one storage system for rooftop PV",
       "url": "https://www.pv-magazine.com/2026/03/12/goodwe-introduces-low-noise-all-in-one-storage-system-for-rooftop-pv/",
@@ -243,13 +257,6 @@
       "title": "Survey highlights technology shift in utility-scale solar",
       "url": "https://www.pv-magazine.com/2026/03/11/survey-highlights-technology-shift-in-utility-scale-solar/",
       "date": "2026-03-11T09:15:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Beazley to acquire kWh Analytics to expand renewable underwriting",
-      "url": "https://www.pv-magazine.com/2026/03/11/beazley-to-acquire-kwh-analytics-to-expand-renewable-underwriting/",
-      "date": "2026-03-11T08:30:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "What a history of Winter Storms teaches us about the future of energy storage in Texas",
       "url": "https://www.energy-storage.news/what-a-history-of-winter-storms-teaches-us-about-the-future-of-energy-storage-in-texas/",
       "date": "2026-03-02T12:13:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Northvolt’s resurrected factory in Sweden will supply BESS cells to new owner this year, add 1GW data centre development",
-      "url": "https://www.energy-storage.news/northvolts-resurrected-factory-in-sweden-will-supply-bess-cells-to-new-owner-this-year-add-1gw-data-centre-development/",
-      "date": "2026-02-27T15:45:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
