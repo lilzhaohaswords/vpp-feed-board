@@ -1,6 +1,27 @@
 {
-  "ts": 1773323554789,
+  "ts": 1773326267466,
   "items": [
+    {
+      "title": "GoodWe introduces low-noise all-in-one storage system for rooftop PV",
+      "url": "https://www.pv-magazine.com/2026/03/12/goodwe-introduces-low-noise-all-in-one-storage-system-for-rooftop-pv/",
+      "date": "2026-03-12T14:14:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Heat pumps are transforming domestic hot water production &#8211; How to avoid hygiene risks?",
+      "url": "https://www.pv-magazine.com/2026/03/12/heat-pumps-are-transforming-domestic-hot-water-production-how-to-avoid-hygiene-risks/",
+      "date": "2026-03-12T14:07:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US BESS industry is &#8216;primed for years of growth’: Enertis Applus+ on financing storage in the FEOC era",
+      "url": "https://www.energy-storage.news/us-bess-industry-is-primed-for-years-of-growth-enertis-applus-on-financing-storage-in-the-feoc-era/",
+      "date": "2026-03-12T13:53:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Toshiba rolls out AI-powered solar plant portfolio management platform",
       "url": "https://www.pv-magazine.com/2026/03/12/toshiba-rolls-out-ai-powered-solar-plant-portfolio-management-platform/",
@@ -229,20 +250,6 @@
       "title": "Beazley to acquire kWh Analytics to expand renewable underwriting",
       "url": "https://www.pv-magazine.com/2026/03/11/beazley-to-acquire-kwh-analytics-to-expand-renewable-underwriting/",
       "date": "2026-03-11T08:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Waaree Solar Americas invests $30 million in Omani polysilicon supplier",
-      "url": "https://www.pv-magazine.com/2026/03/11/waaree-solar-americas-invests-30-million-in-polysilicon-supplier/",
-      "date": "2026-03-11T07:45:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Transparent superhydrophobic self-cleaning coating increases solar cell efficiency by 4.75%",
-      "url": "https://www.pv-magazine.com/2026/03/11/transparent-superhydrophobic-self-cleaning-coating-increases-solar-cell-efficiency-by-4-75/",
-      "date": "2026-03-11T07:00:47.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Northvolt’s resurrected factory in Sweden will supply BESS cells to new owner this year, add 1GW data centre development",
       "url": "https://www.energy-storage.news/northvolts-resurrected-factory-in-sweden-will-supply-bess-cells-to-new-owner-this-year-add-1gw-data-centre-development/",
       "date": "2026-02-27T15:45:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: &#8216;11.5-hour LDES win moves us into new space for batteries&#8217;, says BW ESS",
-      "url": "https://www.energy-storage.news/bw-ess-11-5-hour-ldes-win-moves-us-into-new-space-for-batteries/",
-      "date": "2026-02-27T14:39:14.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
