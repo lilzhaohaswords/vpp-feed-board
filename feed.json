@@ -1,6 +1,34 @@
 {
-  "ts": 1773303997170,
+  "ts": 1773307804527,
   "items": [
+    {
+      "title": "Debt-laden South African municipalities may turn to solar-plus-battery backup solutions",
+      "url": "https://www.pv-magazine.com/2026/03/12/debt-laden-south-african-municipalities-may-turn-to-solar-plus-battery-backup-solutions/",
+      "date": "2026-03-12T09:19:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Graphene could improve durability of perovskite solar cells",
+      "url": "https://www.pv-magazine.com/2026/03/12/graphene-could-improve-durability-of-perovskite-solar-cells/",
+      "date": "2026-03-12T09:15:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "AGL&#8217;s Torrens Island BESS in South Australia hit by a second AEMO direction",
+      "url": "https://www.energy-storage.news/agls-torrens-island-bess-in-south-australia-hit-by-a-second-aemo-direction/",
+      "date": "2026-03-12T08:40:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Eastman launches 800 MW solar module plant in India",
+      "url": "https://www.pv-magazine.com/2026/03/12/eastman-launches-800-mw-solar-module-plant-in-india/",
+      "date": "2026-03-12T08:30:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US solar installations reach 43 GW in 2025 despite slowdown",
       "url": "https://www.pv-magazine.com/2026/03/12/us-solar-installations-reach-43-gw-in-2025-despite-slowdown/",
@@ -205,13 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "Volkswagen launches first large-scale battery storage project in Germany",
-      "url": "https://www.pv-magazine.com/2026/03/10/volkswagen-launches-first-large-scale-battery-storage-project-in-germany/",
-      "date": "2026-03-10T14:00:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Long-duration tech still outcompeted by lithium, trade group advocates for &#8216;valuing diversity&#8217;",
       "url": "https://www.energy-storage.news/long-duration-tech-still-outcompeted-by-lithium-trade-group-advocates-for-valuing-diversity/",
       "date": "2026-03-10T13:36:58.000Z",
@@ -230,20 +251,6 @@
       "url": "https://www.energy-storage.news/base-power-launches-100mw-vpp-programme-in-texas/",
       "date": "2026-03-10T13:26:16.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Netherlands hits record electricity production and exports in 2025",
-      "url": "https://www.pv-magazine.com/2026/03/10/netherlands-hits-record-electricity-production-and-exports-in-2025/",
-      "date": "2026-03-10T13:15:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Gas-fired electricity two to three times costlier than renewable backups",
-      "url": "https://www.pv-magazine.com/2026/03/10/gas-fired-electricity-two-to-three-times-costlier-than-renewable-backups/",
-      "date": "2026-03-10T12:00:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Trina Storage to invest in Gore Street&#8217;s EU BESS fund, 12GWh targeted",
       "url": "https://www.energy-storage.news/trina-storage-to-invest-in-gore-streets-eu-bess-fund-12gwh-targeted/",
       "date": "2026-02-26T15:30:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Recurrent Energy sells 200MWh Texas BESS to Hunt Energy Network",
-      "url": "https://www.energy-storage.news/recurrent-energy-sells-200mwh-texas-bess-to-hunt-energy-network/",
-      "date": "2026-02-26T14:22:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
