@@ -1,6 +1,27 @@
 {
-  "ts": 1773400827408,
+  "ts": 1773404816180,
   "items": [
+    {
+      "title": "Fire hits PV-equipped sport complex in Gibraltar",
+      "url": "https://www.pv-magazine.com/2026/03/13/fire-hits-pv-equipped-sport-complex-in-gibraltar/",
+      "date": "2026-03-13T12:25:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;You need a clear RFQ to get clear offers&#8217;: Procuring BESS at scale with European IPP R.Power",
+      "url": "https://www.energy-storage.news/you-need-a-clear-rfq-to-get-clear-offers-procuring-bess-at-scale-with-european-ipp-r-power/",
+      "date": "2026-03-13T11:46:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Increased spacing between solar module rows boosts agrivoltaics viability",
+      "url": "https://www.pv-magazine.com/2026/03/13/increased-spacing-between-solar-module-rows-boosts-agrivoltaics-viability/",
+      "date": "2026-03-13T11:21:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Albania adds over 180 MW of solar in 2025",
       "url": "https://www.pv-magazine.com/2026/03/13/albania-adds-over-180-mw-of-solar-in-2025/",
@@ -212,24 +233,10 @@
       "bucket": "A"
     },
     {
-      "title": "Aiko launches 545 W back-contact solar module with 25% efficiency",
-      "url": "https://www.pv-magazine.com/2026/03/11/aiko-launches-545-w-back-contact-solar-module-with-25-efficiency/",
-      "date": "2026-03-11T15:05:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "BESS asset operation in CAISO is complex, but lean teams can leverage advanced analytics",
       "url": "https://www.energy-storage.news/bess-asset-operation-in-caiso-is-complex-but-lean-teams-can-leverage-advanced-analytics/",
       "date": "2026-03-11T14:48:47.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sliding shutters integrate PV for building facades",
-      "url": "https://www.pv-magazine.com/2026/03/11/sliding-shutters-integrate-pv-for-building-facades/",
-      "date": "2026-03-11T14:45:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "US zinc BESS manufacturer Eos hopeful about ability to grow despite widening 2025 losses",
       "url": "https://www.energy-storage.news/us-zinc-bess-manufacturer-eos-hopeful-about-ability-to-grow-despite-widening-2025-losses/",
       "date": "2026-03-02T12:50:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Boralex commissions ‘Canada’s largest operating BESS’ in Ontario",
-      "url": "https://www.energy-storage.news/boralex-commissions-canadas-largest-operating-bess-in-ontario/",
-      "date": "2026-03-02T12:47:45.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
