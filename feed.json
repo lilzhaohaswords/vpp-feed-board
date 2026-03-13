@@ -1,6 +1,20 @@
 {
-  "ts": 1773412376521,
+  "ts": 1773415819723,
   "items": [
+    {
+      "title": "Google completes US$4.75 billion Intersect Power acquisition, initial focus on California &#038; Texas solar-plus-storage",
+      "url": "https://www.energy-storage.news/google-completes-us4-75-billion-intersect-power-acquisition-initial-focus-on-california-texas-solar-plus-storage/",
+      "date": "2026-03-13T15:16:39.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Even when I sensed bias, I focused on doing my job&#8217;",
+      "url": "https://www.pv-magazine.com/2026/03/13/even-when-i-sensed-bias-i-focused-on-doing-my-job/",
+      "date": "2026-03-13T14:48:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Cold, clear skies boost northeastern Europe’s solar while storms dim the west",
       "url": "https://www.pv-magazine.com/2026/03/13/cold-clear-skies-boost-northeastern-europes-solar-while-storms-dim-the-west/",
@@ -9,7 +23,7 @@
       "bucket": "A"
     },
     {
-      "title": "Global renewable capacity to reach 8.4 TW by 2031, says GlobalData",
+      "title": "Global solar capacity to reach 6 TW by 2031, says GlobalData",
       "url": "https://www.pv-magazine.com/2026/03/13/global-renewable-capacity-to-reach-8-4-tw-by-2031-says-globaldata/",
       "date": "2026-03-13T14:00:12.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -222,13 +236,6 @@
       "title": "Debt-laden South African municipalities may turn to solar-plus-battery backup solutions",
       "url": "https://www.pv-magazine.com/2026/03/12/debt-laden-south-african-municipalities-may-turn-to-solar-plus-battery-backup-solutions/",
       "date": "2026-03-12T09:19:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Graphene could improve durability of perovskite solar cells",
-      "url": "https://www.pv-magazine.com/2026/03/12/graphene-could-improve-durability-of-perovskite-solar-cells/",
-      "date": "2026-03-12T09:15:39.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "‘The market design must evolve’: Eku Energy on energy storage in Australia’s NEM",
       "url": "https://www.energy-storage.news/the-market-design-must-evolve-eku-energy-on-energy-storage-in-australias-nem/",
       "date": "2026-03-03T09:32:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s Cheaper Home Batteries Program surpasses 6.3GWh installations",
-      "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-surpasses-6-3gwh-installations/",
-      "date": "2026-03-03T09:22:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
