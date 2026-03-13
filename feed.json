@@ -1,6 +1,20 @@
 {
-  "ts": 1773409763637,
+  "ts": 1773412376521,
   "items": [
+    {
+      "title": "Cold, clear skies boost northeastern Europe’s solar while storms dim the west",
+      "url": "https://www.pv-magazine.com/2026/03/13/cold-clear-skies-boost-northeastern-europes-solar-while-storms-dim-the-west/",
+      "date": "2026-03-13T14:10:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Global renewable capacity to reach 8.4 TW by 2031, says GlobalData",
+      "url": "https://www.pv-magazine.com/2026/03/13/global-renewable-capacity-to-reach-8-4-tw-by-2031-says-globaldata/",
+      "date": "2026-03-13T14:00:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Flow battery startup ESS Tech Inc looks to acquisitions, big-name US partnerships for hope in future profitability",
       "url": "https://www.energy-storage.news/flow-battery-startup-ess-tech-inc-looks-to-acquisitions-big-name-us-partnerships-for-hope-in-future-profitability/",
@@ -223,20 +237,6 @@
       "url": "https://www.energy-storage.news/agls-torrens-island-bess-in-south-australia-hit-by-a-second-aemo-direction/",
       "date": "2026-03-12T08:40:59.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Eastman launches 800 MW solar module plant in India",
-      "url": "https://www.pv-magazine.com/2026/03/12/eastman-launches-800-mw-solar-module-plant-in-india/",
-      "date": "2026-03-12T08:30:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US solar installations reach 43 GW in 2025 despite slowdown",
-      "url": "https://www.pv-magazine.com/2026/03/12/us-solar-installations-reach-43-gw-in-2025-despite-slowdown/",
-      "date": "2026-03-12T07:45:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
