@@ -1,6 +1,13 @@
 {
-  "ts": 1773394001990,
+  "ts": 1773397318823,
   "items": [
+    {
+      "title": "All 2022–2024 cyberattacks on energy infrastructure at a glance",
+      "url": "https://www.pv-magazine.com/2026/03/13/all-2022-2024-cyberattacks-on-energy-infrastructure-at-a-glance/",
+      "date": "2026-03-13T10:18:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Clean industry push could unlock AUD 300 billion for Australia",
       "url": "https://www.pv-magazine.com/2026/03/13/clean-industry-push-could-unlock-aud-300-billion-for-australia/",
@@ -250,13 +257,6 @@
       "title": "EU solar auctions, corporate PPAs delivered 92 GW in 2022-25 period",
       "url": "https://www.pv-magazine.com/2026/03/11/eu-solar-auctions-corporate-ppas-delivered-92-gw-in-2022-25-period/",
       "date": "2026-03-11T14:00:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Setting the stage for US energy storage",
-      "url": "https://www.pv-magazine.com/2026/03/11/setting-the-stage-for-us-energy-storage/",
-      "date": "2026-03-11T13:00:39.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
