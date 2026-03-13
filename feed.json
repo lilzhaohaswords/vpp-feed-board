@@ -1,6 +1,41 @@
 {
-  "ts": 1773390255040,
+  "ts": 1773394001990,
   "items": [
+    {
+      "title": "Clean industry push could unlock AUD 300 billion for Australia",
+      "url": "https://www.pv-magazine.com/2026/03/13/clean-industry-push-could-unlock-aud-300-billion-for-australia/",
+      "date": "2026-03-13T09:15:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "MGA Thermal raises AU$17 million as thermal energy storage startup enters commercial scale-up phase",
+      "url": "https://www.energy-storage.news/mga-thermal-raises-au17-million-as-thermal-energy-storage-startup-enters-commercial-scale-up-phase/",
+      "date": "2026-03-13T08:59:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "China polysilicon prices fall over 13% year-to-date as below-cost selling persists",
+      "url": "https://www.pv-magazine.com/2026/03/13/china-polysilicon-prices-fall-over-13-year-to-date-as-below-cost-selling-persists/",
+      "date": "2026-03-13T08:58:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Japanese researchers achieve world record efficiency of 12.28% for copper gallium selenide solar cell",
+      "url": "https://www.pv-magazine.com/2026/03/13/japanese-researchers-achieve-world-record-efficiency-of-12-28-for-copper-gallium-selenide-solar-cell/",
+      "date": "2026-03-13T08:46:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Open access solar set to drive next phase of India’s C&#038;I growth",
+      "url": "https://www.pv-magazine.com/2026/03/13/open-access-solar-set-to-drive-next-phase-of-indias-ci-growth/",
+      "date": "2026-03-13T08:30:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US solar generation reaches 385 TWh in 2025 as power demand rises",
       "url": "https://www.pv-magazine.com/2026/03/13/us-solar-generation-reaches-385-twh-in-2025-as-power-demand-rises/",
@@ -226,38 +261,10 @@
       "bucket": "A"
     },
     {
-      "title": "China commissions first urban underground vanadium flow battery system",
-      "url": "https://www.pv-magazine.com/2026/03/11/china-commissions-first-urban-underground-vanadium-flow-battery-system/",
-      "date": "2026-03-11T12:00:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Price jump: Chinese firms&#8217; battery cell quotes approach 0.4 RMB/Wh, system prices follow suit",
       "url": "https://www.energy-storage.news/price-jump-chinese-firms-battery-cell-quotes-approach-0-4-rmb-wh-system-prices-follow-suit/",
       "date": "2026-03-11T10:55:20.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "InfinityPV releases new compact solar simulator",
-      "url": "https://www.pv-magazine.com/2026/03/11/infinitypv-releases-new-compact-solar-simulator/",
-      "date": "2026-03-11T10:46:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cubenergy launches FlexCombo 2.0 flexible energy storage block",
-      "url": "https://www.pv-magazine.com/2026/03/11/cubenergy-launches-flexcombo-2-0-flexible-energy-storage-block/",
-      "date": "2026-03-11T10:00:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Morocco begins construction on 305 MW Noor Atlas solar program",
-      "url": "https://www.pv-magazine.com/2026/03/11/morocco-begins-construction-on-305-mw-noor-atlas-solar-program/",
-      "date": "2026-03-11T10:00:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Boralex commissions ‘Canada’s largest operating BESS’ in Ontario",
       "url": "https://www.energy-storage.news/boralex-commissions-canadas-largest-operating-bess-in-ontario/",
       "date": "2026-03-02T12:47:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "What a history of Winter Storms teaches us about the future of energy storage in Texas",
-      "url": "https://www.energy-storage.news/what-a-history-of-winter-storms-teaches-us-about-the-future-of-energy-storage-in-texas/",
-      "date": "2026-03-02T12:13:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
