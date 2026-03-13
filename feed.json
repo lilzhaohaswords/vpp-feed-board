@@ -1,6 +1,27 @@
 {
-  "ts": 1773404816180,
+  "ts": 1773409763637,
   "items": [
+    {
+      "title": "Flow battery startup ESS Tech Inc looks to acquisitions, big-name US partnerships for hope in future profitability",
+      "url": "https://www.energy-storage.news/flow-battery-startup-ess-tech-inc-looks-to-acquisitions-big-name-us-partnerships-for-hope-in-future-profitability/",
+      "date": "2026-03-13T13:22:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Bahrain reveals qualified bidders for 100 MW BAJ Solar IPP project",
+      "url": "https://www.pv-magazine.com/2026/03/13/bahrain-reveals-qualified-bidders-for-100-mw-baj-solar-ipp-project/",
+      "date": "2026-03-13T13:12:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "RWE, Peak Energy to deploy first sodium-ion battery in US grid",
+      "url": "https://www.pv-magazine.com/2026/03/13/peak-energy-rwe-to-deploy-first-sodium-ion-battery-in-miso/",
+      "date": "2026-03-13T13:00:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Fire hits PV-equipped sport complex in Gibraltar",
       "url": "https://www.pv-magazine.com/2026/03/13/fire-hits-pv-equipped-sport-complex-in-gibraltar/",
@@ -215,20 +236,6 @@
       "title": "US solar installations reach 43 GW in 2025 despite slowdown",
       "url": "https://www.pv-magazine.com/2026/03/12/us-solar-installations-reach-43-gw-in-2025-despite-slowdown/",
       "date": "2026-03-12T07:45:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Antimony emerges as strong candidate dopant for Czochralski PV wafers",
-      "url": "https://www.pv-magazine.com/2026/03/12/antimony-emerges-as-strong-candidate-dopant-for-czochralski-pv-wafers/",
-      "date": "2026-03-12T07:34:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EU auditors warn energy community targets outpace reality",
-      "url": "https://www.pv-magazine.com/2026/03/11/eu-auditors-warn-energy-community-targets-outpace-reality/",
-      "date": "2026-03-11T15:30:37.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Australia&#8217;s Cheaper Home Batteries Program surpasses 6.3GWh installations",
       "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-surpasses-6-3gwh-installations/",
       "date": "2026-03-03T09:22:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US zinc BESS manufacturer Eos hopeful about ability to grow despite widening 2025 losses",
-      "url": "https://www.energy-storage.news/us-zinc-bess-manufacturer-eos-hopeful-about-ability-to-grow-despite-widening-2025-losses/",
-      "date": "2026-03-02T12:50:37.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
