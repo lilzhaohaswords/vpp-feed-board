@@ -1,6 +1,27 @@
 {
-  "ts": 1773418959910,
+  "ts": 1773422673846,
   "items": [
+    {
+      "title": "New York leads US in BESS moratoriums, recent data shows",
+      "url": "https://www.energy-storage.news/new-york-leads-us-in-bess-moratoriums-recent-data-shows/",
+      "date": "2026-03-13T17:14:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "The Hydrogen Stream: Atome secures $420 million debt for Paraguay plant",
+      "url": "https://www.pv-magazine.com/2026/03/13/the-hydrogen-stream-atome-signs-debt-agreements-for-650-million-project-in-paraguay/",
+      "date": "2026-03-13T16:45:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: Wafer prices fall on weak demand",
+      "url": "https://www.pv-magazine.com/2026/03/13/chinese-pv-industry-brief-wafer-prices-keep-decreasing/",
+      "date": "2026-03-13T16:40:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Sigenergy unveils 166 kW inverter for C&#038;I solar",
       "url": "https://www.pv-magazine.com/2026/03/13/sigenergy-unveils-166-kw-inverter-for-ci-solar/",
@@ -222,20 +243,6 @@
       "title": "Russia adds around 100 MW of solar in 2025",
       "url": "https://www.pv-magazine.com/2026/03/12/russia-adds-around-100-mw-of-solar-in-2025/",
       "date": "2026-03-12T11:34:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India launches tender for 1 GW round-the-clock renewable power",
-      "url": "https://www.pv-magazine.com/2026/03/12/india-launches-tender-for-1-gw-round-the-clock-renewable-power/",
-      "date": "2026-03-12T10:00:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New simulation platform lets energy operators train against realistic cyberattacks",
-      "url": "https://www.pv-magazine.com/2026/03/12/new-simulation-platform-lets-energy-operators-train-against-realistic-cyberattacks/",
-      "date": "2026-03-12T09:59:54.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Chinese energy storage players&#8217; 2025 earnings forecasts: High growth, turnarounds and profit declines",
       "url": "https://www.energy-storage.news/chinese-energy-storage-players-2025-earnings-forecasts-high-growth-turnarounds-and-profit-declines/",
       "date": "2026-03-03T11:41:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘The market design must evolve’: Eku Energy on energy storage in Australia’s NEM",
-      "url": "https://www.energy-storage.news/the-market-design-must-evolve-eku-energy-on-energy-storage-in-australias-nem/",
-      "date": "2026-03-03T09:32:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
