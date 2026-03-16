@@ -1,6 +1,20 @@
 {
-  "ts": 1773651139009,
+  "ts": 1773654636086,
   "items": [
+    {
+      "title": "Australia&#8217;s energy storage market faces a reckoning as rooftop solar threatens utility-scale economics",
+      "url": "https://www.energy-storage.news/australias-energy-storage-market-faces-a-reckoning-as-rooftop-solar-threatens-utility-scale-economics/",
+      "date": "2026-03-16T09:26:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia-backed rooftop solar to power remote Samoan communities",
+      "url": "https://www.pv-magazine.com/2026/03/16/australia-backed-rooftop-solar-to-power-remote-samoan-communities/",
+      "date": "2026-03-16T09:15:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Nanostructured silicon could push solar cells beyond Shockley–Queisser limit",
       "url": "https://www.pv-magazine.com/2026/03/16/nanostructured-silicon-could-push-solar-cells-beyond-shockley-queisser-limit/",
@@ -208,13 +222,6 @@
       "title": "GoodWe introduces low-noise all-in-one storage system for rooftop PV",
       "url": "https://www.pv-magazine.com/2026/03/12/goodwe-introduces-low-noise-all-in-one-storage-system-for-rooftop-pv/",
       "date": "2026-03-12T14:14:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Heat pumps are transforming domestic hot water production &#8211; How to avoid hygiene risks?",
-      "url": "https://www.pv-magazine.com/2026/03/12/heat-pumps-are-transforming-domestic-hot-water-production-how-to-avoid-hygiene-risks/",
-      "date": "2026-03-12T14:07:29.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Allianz GI, OX2, Luxcara, Return, Low Carbon, Cero, Revera invest in BESS across Europe, totalling 3.7GWh",
       "url": "https://www.energy-storage.news/allianz-gi-ox2-luxcara-return-low-carbon-cero-revera-invest-in-bess-across-europe-totalling-3-7gwh/",
       "date": "2026-03-03T11:42:05.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese energy storage players&#8217; 2025 earnings forecasts: High growth, turnarounds and profit declines",
-      "url": "https://www.energy-storage.news/chinese-energy-storage-players-2025-earnings-forecasts-high-growth-turnarounds-and-profit-declines/",
-      "date": "2026-03-03T11:41:14.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
