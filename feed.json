@@ -1,6 +1,48 @@
 {
-  "ts": 1773664685449,
+  "ts": 1773670174055,
   "items": [
+    {
+      "title": "Arctech presents dry cleaning robot weighing just 38 kg",
+      "url": "https://www.pv-magazine.com/2026/03/16/arctech-presents-dry-cleaning-robot-weighing-just-38-kg/",
+      "date": "2026-03-16T14:00:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ciemat unveils large-area multispectral solar simulator for PV module testing",
+      "url": "https://www.pv-magazine.com/2026/03/16/ciemat-unveils-large-area-multispectral-solar-simulator-for-pv-module-testing/",
+      "date": "2026-03-16T13:52:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ormat Technologies begins commercial operations at 320MWh California BESS",
+      "url": "https://www.energy-storage.news/ormat-technologies-begins-commercial-operations-at-320mwh-california-bess/",
+      "date": "2026-03-16T13:33:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US sodium-ion startup Peak Energy piloting 3.1MWh system at RWE Wisconsin lab",
+      "url": "https://www.energy-storage.news/us-sodium-ion-startup-peak-energy-piloting-3-1mwh-system-at-rwe-wisconsin-lab/",
+      "date": "2026-03-16T13:32:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Is Switzerland going back contact?",
+      "url": "https://www.pv-magazine.com/2026/03/16/is-switzerland-going-back-contact/",
+      "date": "2026-03-16T12:46:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Pii Energy unveils plug-in 1.2 kW solar, 2 kWh home system",
+      "url": "https://www.pv-magazine.com/2026/03/16/pii-energy-unveils-plug-in-1-2-kw-solar-2-kwh-home-system/",
+      "date": "2026-03-16T12:45:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "VIDEO: Europe’s first 100GW of energy storage and what&#8217;s next, with Energy Storage Europe",
       "url": "https://www.energy-storage.news/video-europes-first-100gw-of-energy-storage-and-whats-next-with-energy-storage-europe/",
@@ -202,34 +244,6 @@
       "url": "https://www.energy-storage.news/mga-thermal-raises-au17-million-as-thermal-energy-storage-startup-enters-commercial-scale-up-phase/",
       "date": "2026-03-13T08:59:36.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China polysilicon prices fall over 13% year-to-date as below-cost selling persists",
-      "url": "https://www.pv-magazine.com/2026/03/13/china-polysilicon-prices-fall-over-13-year-to-date-as-below-cost-selling-persists/",
-      "date": "2026-03-13T08:58:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japanese researchers achieve world record efficiency of 12.28% for copper gallium selenide solar cell",
-      "url": "https://www.pv-magazine.com/2026/03/13/japanese-researchers-achieve-world-record-efficiency-of-12-28-for-copper-gallium-selenide-solar-cell/",
-      "date": "2026-03-13T08:46:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Open access solar set to drive next phase of India’s C&#038;I growth",
-      "url": "https://www.pv-magazine.com/2026/03/13/open-access-solar-set-to-drive-next-phase-of-indias-ci-growth/",
-      "date": "2026-03-13T08:30:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US solar generation reaches 385 TWh in 2025 as power demand rises",
-      "url": "https://www.pv-magazine.com/2026/03/13/us-solar-generation-reaches-385-twh-in-2025-as-power-demand-rises/",
-      "date": "2026-03-13T07:45:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Australia: Edify Energy secures EPC contractor for 3.6GWh of solar-plus-storage; Flow Power acquires 60MW hybrid project",
       "url": "https://www.energy-storage.news/australia-edify-energy-secures-epc-contractor-for-3-6gwh-of-solar-plus-storage-flow-power-acquires-60mw-hybrid-project/",
       "date": "2026-03-03T22:11:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Utility Portland General Electric finalises agreements for 1GW renewables and BESS",
-      "url": "https://www.energy-storage.news/utility-portland-general-electric-finalises-agreements-for-1gw-renewables-and-bess/",
-      "date": "2026-03-03T14:19:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Puerto Rico: Polaris Renewable Energy receives approval for 71.4MW BESS projects",
-      "url": "https://www.energy-storage.news/puerto-rico-polaris-renewable-energy-receives-approval-for-71-4mw-bess-projects/",
-      "date": "2026-03-03T14:14:27.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
