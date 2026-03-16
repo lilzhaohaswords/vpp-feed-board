@@ -1,6 +1,20 @@
 {
-  "ts": 1773660978637,
+  "ts": 1773664685449,
   "items": [
+    {
+      "title": "VIDEO: Europe’s first 100GW of energy storage and what&#8217;s next, with Energy Storage Europe",
+      "url": "https://www.energy-storage.news/video-europes-first-100gw-of-energy-storage-and-whats-next-with-energy-storage-europe/",
+      "date": "2026-03-16T12:23:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "UK brings forward CfD auction, backs balcony solar in Middle East response",
+      "url": "https://www.pv-magazine.com/2026/03/16/uk-brings-forward-cfd-auction-commits-to-balcony-solar-in-response-to-middle-east-conflict/",
+      "date": "2026-03-16T12:00:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Cambodia welcomes ‘significant and historic achievement’ of 1GWh grid-forming battery storage project",
       "url": "https://www.energy-storage.news/cambodia-welcomes-significant-and-historic-achievement-of-1gwh-grid-forming-battery-storage-project/",
@@ -215,13 +229,6 @@
       "title": "US solar generation reaches 385 TWh in 2025 as power demand rises",
       "url": "https://www.pv-magazine.com/2026/03/13/us-solar-generation-reaches-385-twh-in-2025-as-power-demand-rises/",
       "date": "2026-03-13T07:45:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan establishes national benchmarks for agrivoltaics as sites expand",
-      "url": "https://www.pv-magazine.com/2026/03/12/japan-establishes-national-benchmarks-for-agrivoltaics-as-sites-expand/",
-      "date": "2026-03-12T16:15:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Puerto Rico: Polaris Renewable Energy receives approval for 71.4MW BESS projects",
       "url": "https://www.energy-storage.news/puerto-rico-polaris-renewable-energy-receives-approval-for-71-4mw-bess-projects/",
       "date": "2026-03-03T14:14:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UK: Grid-forming batteries miss out in system stability tender as synchronous condensers, gas get contracts",
-      "url": "https://www.energy-storage.news/uk-grid-forming-batteries-miss-out-in-system-stability-tender-as-synchronous-condensers-gas-get-contracts/",
-      "date": "2026-03-03T12:46:53.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
