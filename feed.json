@@ -1,6 +1,13 @@
 {
-  "ts": 1773641489862,
+  "ts": 1773647932231,
   "items": [
+    {
+      "title": "Lessons from the solar frontier",
+      "url": "https://www.pv-magazine.com/2026/03/16/lessons-from-the-solar-frontier/",
+      "date": "2026-03-16T07:45:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "New York leads US in BESS moratoriums, recent data shows",
       "url": "https://www.energy-storage.news/new-york-leads-us-in-bess-moratoriums-recent-data-shows/",
@@ -236,13 +243,6 @@
       "title": "Research shows conventional solar arrays can support livestock grazing",
       "url": "https://www.pv-magazine.com/2026/03/12/research-shows-conventional-solar-arrays-can-support-livestock-grazing/",
       "date": "2026-03-12T12:00:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Russia adds around 100 MW of solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/03/12/russia-adds-around-100-mw-of-solar-in-2025/",
-      "date": "2026-03-12T11:34:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
