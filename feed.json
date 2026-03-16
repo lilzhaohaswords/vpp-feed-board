@@ -1,6 +1,27 @@
 {
-  "ts": 1773657641096,
+  "ts": 1773660978637,
   "items": [
+    {
+      "title": "Cambodia welcomes ‘significant and historic achievement’ of 1GWh grid-forming battery storage project",
+      "url": "https://www.energy-storage.news/cambodia-welcomes-significant-and-historic-achievement-of-1gwh-grid-forming-battery-storage-project/",
+      "date": "2026-03-16T11:29:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ukraine prioritizes solar-plus-storage in renewables auctions",
+      "url": "https://www.pv-magazine.com/2026/03/16/ukraine-prioritizes-solar-plus-storage-in-renewables-auctions/",
+      "date": "2026-03-16T11:28:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Austria could harness 90 TWh of agrivoltaics using 5–16% of cropland",
+      "url": "https://www.pv-magazine.com/2026/03/16/austria-could-harness-90-twh-of-agrivoltaics-using-5-16-of-cropland/",
+      "date": "2026-03-16T11:24:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "New framework promises unprecedented level of cybersecurity for SCADA systems",
       "url": "https://www.pv-magazine.com/2026/03/16/new-framework-promises-unprecedented-level-of-cybersecurity-for-scada-systems/",
@@ -205,24 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "Swift Solar acquires Meyer Burger assets to scale U.S. HJT and perovskite production",
-      "url": "https://www.pv-magazine.com/2026/03/12/swift-solar-acquires-meyer-burger-assets-to-scale-u-s-hjt-and-perovskite-production/",
-      "date": "2026-03-12T15:59:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "New Jersey state government advances 1GW of battery storage in energy affordability push",
       "url": "https://www.energy-storage.news/new-jersey-state-government-advances-1gw-of-battery-storage-in-energy-affordability-push/",
       "date": "2026-03-12T15:02:03.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Vikram Solar&#8217;s PowerHive unit launches VION lithium batteries in India",
-      "url": "https://www.pv-magazine.com/2026/03/12/vikram-solar-unit-powerhive-launches-vion-lithium-batteries-in-india/",
-      "date": "2026-03-12T14:50:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "UK: Grid-forming batteries miss out in system stability tender as synchronous condensers, gas get contracts",
       "url": "https://www.energy-storage.news/uk-grid-forming-batteries-miss-out-in-system-stability-tender-as-synchronous-condensers-gas-get-contracts/",
       "date": "2026-03-03T12:46:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Allianz GI, OX2, Luxcara, Return, Low Carbon, Cero, Revera invest in BESS across Europe, totalling 3.7GWh",
-      "url": "https://www.energy-storage.news/allianz-gi-ox2-luxcara-return-low-carbon-cero-revera-invest-in-bess-across-europe-totalling-3-7gwh/",
-      "date": "2026-03-03T11:42:05.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
