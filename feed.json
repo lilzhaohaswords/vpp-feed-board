@@ -1,6 +1,34 @@
 {
-  "ts": 1773733425659,
+  "ts": 1773736527477,
   "items": [
+    {
+      "title": "RenewSys inaugurates 3 GW solar module plant in India",
+      "url": "https://www.pv-magazine.com/2026/03/17/renewsys-inaugurates-3-gw-solar-module-plant-in-india/",
+      "date": "2026-03-17T08:30:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "TotalEnergies JV plans 2.7GW solar-plus-storage project to power Northern Territory green hydrogen hub",
+      "url": "https://www.energy-storage.news/totalenergies-jv-plans-2-7gw-solar-plus-storage-project-to-power-northern-territory-green-hydrogen-hub/",
+      "date": "2026-03-17T08:10:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "DMEGC launches 475 W full-black solar module",
+      "url": "https://www.pv-magazine.com/2026/03/17/dmegc-launches-475-w-full-black-solar-module/",
+      "date": "2026-03-17T08:02:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Attorney sentenced to 11 years in $1 billion solar fraud scheme",
+      "url": "https://www.pv-magazine.com/2026/03/17/attorney-sentenced-to-11-years-in-1-billion-solar-fraud-scheme/",
+      "date": "2026-03-17T07:45:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "LG debuts new indoor air-to-water heat pumps",
       "url": "https://www.pv-magazine.com/2026/03/17/lg-debuts-new-indoor-air-to-water-heat-pumps/",
@@ -212,31 +240,10 @@
       "bucket": "A"
     },
     {
-      "title": "RWE, Peak Energy to deploy first sodium-ion battery in US grid",
-      "url": "https://www.pv-magazine.com/2026/03/13/peak-energy-rwe-to-deploy-first-sodium-ion-battery-in-miso/",
-      "date": "2026-03-13T13:00:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fire hits PV-equipped sport complex in Gibraltar",
-      "url": "https://www.pv-magazine.com/2026/03/13/fire-hits-pv-equipped-sport-complex-in-gibraltar/",
-      "date": "2026-03-13T12:25:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "&#8216;You need a clear RFQ to get clear offers&#8217;: Procuring BESS at scale with European IPP R.Power",
       "url": "https://www.energy-storage.news/you-need-a-clear-rfq-to-get-clear-offers-procuring-bess-at-scale-with-european-ipp-r-power/",
       "date": "2026-03-13T11:46:40.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Increased spacing between solar module rows boosts agrivoltaics viability",
-      "url": "https://www.pv-magazine.com/2026/03/13/increased-spacing-between-solar-module-rows-boosts-agrivoltaics-viability/",
-      "date": "2026-03-13T11:21:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Australia’s ACT government completes its first community battery network with new 450kWh system",
       "url": "https://www.energy-storage.news/australias-act-government-completes-its-first-community-battery-network-with-new-450kwh-system/",
       "date": "2026-03-04T08:54:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: Edify Energy secures EPC contractor for 3.6GWh of solar-plus-storage; Flow Power acquires 60MW hybrid project",
-      "url": "https://www.energy-storage.news/australia-edify-energy-secures-epc-contractor-for-3-6gwh-of-solar-plus-storage-flow-power-acquires-60mw-hybrid-project/",
-      "date": "2026-03-03T22:11:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
