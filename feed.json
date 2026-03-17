@@ -1,6 +1,20 @@
 {
-  "ts": 1773743802389,
+  "ts": 1773747200985,
   "items": [
+    {
+      "title": "Discovery of passivating pinholes in TOPCon solar cells paves the way for higher efficiencies",
+      "url": "https://www.pv-magazine.com/2026/03/17/discovery-of-passivating-pinholes-in-topcon-solar-cells-paves-the-way-for-higher-efficiencies/",
+      "date": "2026-03-17T11:28:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Ex-Wärtsilä storage chief Andy Tang on Western integrators&#8217; &#8216;squeezed&#8217; value-add",
+      "url": "https://www.energy-storage.news/video-ex-wartsila-storage-chief-andy-tang-on-western-integrators-squeezed-value-add/",
+      "date": "2026-03-17T11:26:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Icelandic utility commissions solar-plus-storage for EV charging",
       "url": "https://www.pv-magazine.com/2026/03/17/icelands-utility-commissions-solar-plus-storage-for-ev-charging/",
@@ -216,13 +230,6 @@
       "url": "https://www.energy-storage.news/new-york-leads-us-in-bess-moratoriums-recent-data-shows/",
       "date": "2026-03-13T17:14:40.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Atome secures $420 million debt for Paraguay plant",
-      "url": "https://www.pv-magazine.com/2026/03/13/the-hydrogen-stream-atome-signs-debt-agreements-for-650-million-project-in-paraguay/",
-      "date": "2026-03-13T16:45:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Australia&#8217;s NSW to unleash AU$34.4 billion energy investment blitz through fast-track authority",
       "url": "https://www.energy-storage.news/australias-nsw-to-unleash-au34-4-billion-energy-investment-blitz-through-fast-track-authority/",
       "date": "2026-03-04T08:57:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s ACT government completes its first community battery network with new 450kWh system",
-      "url": "https://www.energy-storage.news/australias-act-government-completes-its-first-community-battery-network-with-new-450kwh-system/",
-      "date": "2026-03-04T08:54:47.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
