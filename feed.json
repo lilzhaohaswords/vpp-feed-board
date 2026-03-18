@@ -1,6 +1,20 @@
 {
-  "ts": 1773837441635,
+  "ts": 1773843050156,
   "items": [
+    {
+      "title": "India&#8217;s PV module manufacturing capacity tops 210 GW",
+      "url": "https://www.pv-magazine.com/2026/03/18/indias-pv-module-manufacturing-capacity-tops-210-gw/",
+      "date": "2026-03-18T12:43:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "LG Energy Solution’s US$4.3 billion agreement with Tesla, and LFP manufacturing with GM",
+      "url": "https://www.energy-storage.news/lg-energy-solutions-us4-3-billion-agreement-with-tesla-and-lfp-manufacturing-with-gm/",
+      "date": "2026-03-18T12:39:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Ascend Analytics on combining AI trading with human insight to maximise US energy storage values",
       "url": "https://www.energy-storage.news/ascend-analytics-on-combining-ai-trading-with-human-insight-to-maximise-us-energy-storage-values/",
@@ -251,13 +265,6 @@
       "url": "https://www.energy-storage.news/totalenergies-jv-plans-2-7gw-solar-plus-storage-project-to-power-northern-territory-green-hydrogen-hub/",
       "date": "2026-03-17T08:10:46.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "DMEGC launches 475 W full-black solar module",
-      "url": "https://www.pv-magazine.com/2026/03/17/dmegc-launches-475-w-full-black-solar-module/",
-      "date": "2026-03-17T08:02:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Australia’s Cheaper Home Batteries Program reportedly under review as government seeks budget savings",
       "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-reportedly-under-review-as-government-seeks-budget-savings/",
       "date": "2026-03-06T09:29:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Avantus secures US$300 million for 400MWh Arizona solar-plus-storage project",
-      "url": "https://www.energy-storage.news/avantus-secures-us300-million-for-400mwh-arizona-solar-plus-storage-project/",
-      "date": "2026-03-05T14:22:58.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
