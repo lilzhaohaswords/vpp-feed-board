@@ -1,6 +1,34 @@
 {
-  "ts": 1773826729945,
+  "ts": 1773830246146,
   "items": [
+    {
+      "title": "Survey reveals PV systems in Germany outperform lifespan expectations",
+      "url": "https://www.pv-magazine.com/2026/03/18/survey-reveals-pv-systems-in-germany-outperform-lifespan-expectations/",
+      "date": "2026-03-18T10:32:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France selects six operators for PV module recycling capacity",
+      "url": "https://www.pv-magazine.com/2026/03/18/france-selects-six-operators-for-pv-module-recycling-capacity/",
+      "date": "2026-03-18T10:30:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Interviews with IPPs R.Power, BW ESS and Econergy at the Energy Storage Summit 2026",
+      "url": "https://www.energy-storage.news/video-interviews-with-ipps-r-power-bw-ess-and-econergy-at-the-energy-storage-summit-2026/",
+      "date": "2026-03-18T09:56:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Former NEM Review chair urges industry action as Australia shifts from fuel storage to energy storage",
+      "url": "https://www.energy-storage.news/former-nem-review-chair-urges-industry-action-as-australia-shifts-from-fuel-storage-to-energy-storage/",
+      "date": "2026-03-18T09:40:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Samduo launches residential AC-coupled plug-in storage systems",
       "url": "https://www.pv-magazine.com/2026/03/18/samduo-launches-residential-ac-coupled-plug-in-storage-systems/",
@@ -201,20 +229,6 @@
       "title": "Intertek forecasts higher US solar module prices through 2027",
       "url": "https://www.pv-magazine.com/2026/03/16/intertek-forecasts-higher-us-solar-module-prices-through-2027/",
       "date": "2026-03-16T15:00:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Dutch startup plans roll-to-roll factory for perovskite solar cells",
-      "url": "https://www.pv-magazine.com/2026/03/16/dutch-startup-plans-roll-to-roll-factory-for-perovskite-solar-cells/",
-      "date": "2026-03-16T14:14:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Arctech presents dry cleaning robot weighing just 38 kg",
-      "url": "https://www.pv-magazine.com/2026/03/16/arctech-presents-dry-cleaning-robot-weighing-just-38-kg/",
-      "date": "2026-03-16T14:00:57.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Policy and regulation risks are a common theme in Europe and US energy storage markets",
       "url": "https://www.energy-storage.news/policy-and-regulation-risks-are-a-common-theme-in-europe-and-us-energy-storage-markets/",
       "date": "2026-03-05T11:48:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How Australia can turn the data centre boom into a grid growth story",
-      "url": "https://www.energy-storage.news/how-australia-can-turn-the-data-centre-boom-into-a-grid-growth-story/",
-      "date": "2026-03-05T09:20:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fluence completes ahead-of-schedule delivery of all enclosures to 600MWh BESS in Australia",
-      "url": "https://www.energy-storage.news/fluence-completes-ahead-of-schedule-delivery-of-all-enclosures-to-600mwh-bess-in-australia/",
-      "date": "2026-03-05T09:08:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
