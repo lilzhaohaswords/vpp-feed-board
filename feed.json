@@ -1,6 +1,13 @@
 {
-  "ts": 1773816294948,
+  "ts": 1773819734573,
   "items": [
+    {
+      "title": "How EU NIS2 is reshaping physical and cybersecurity for PV plant operators",
+      "url": "https://www.pv-magazine.com/2026/03/18/how-eu-nis2-is-reshaping-cybersecurity-for-pv-plant-operators/",
+      "date": "2026-03-18T06:51:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "UL9540A: New edition of key BESS fire safety standard ‘establishes new precedent’",
       "url": "https://www.energy-storage.news/ul9540a-new-edition-of-key-bess-fire-safety-standard-establishes-new-precedent/",
@@ -236,13 +243,6 @@
       "title": "Austria could harness 90 TWh of agrivoltaics using 5–16% of cropland",
       "url": "https://www.pv-magazine.com/2026/03/16/austria-could-harness-90-twh-of-agrivoltaics-using-5-16-of-cropland/",
       "date": "2026-03-16T11:24:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New framework promises unprecedented level of cybersecurity for SCADA systems",
-      "url": "https://www.pv-magazine.com/2026/03/16/new-framework-promises-unprecedented-level-of-cybersecurity-for-scada-systems/",
-      "date": "2026-03-16T10:15:59.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
