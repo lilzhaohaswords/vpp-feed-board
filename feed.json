@@ -1,6 +1,13 @@
 {
-  "ts": 1773852604523,
+  "ts": 1773856174622,
   "items": [
+    {
+      "title": "Japan publishes new guidelines for flexible solar cell installations",
+      "url": "https://www.pv-magazine.com/2026/03/18/japan-publishes-new-guidelines-for-flexible-solar-cell-installations/",
+      "date": "2026-03-18T16:50:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "South Africa’s largest PV project reaches financial close",
       "url": "https://www.pv-magazine.com/2026/03/18/south-africas-largest-pv-project-reaches-financial-close/",
@@ -250,13 +257,6 @@
       "title": "Grid-forming BESS set to stabilize Australia’s hyperscale data centers",
       "url": "https://www.pv-magazine.com/2026/03/17/grid-forming-bess-set-to-stabilize-australias-hyperscale-data-centers/",
       "date": "2026-03-17T09:15:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fox ESS presents residential storage system line with 89.6% round-trip efficiency",
-      "url": "https://www.pv-magazine.com/2026/03/17/fox-ess-presents-residential-storage-system-line-with-89-6-round-trip-efficiency/",
-      "date": "2026-03-17T09:15:18.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
