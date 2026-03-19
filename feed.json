@@ -1,6 +1,27 @@
 {
-  "ts": 1773908815183,
+  "ts": 1773912628206,
   "items": [
+    {
+      "title": "Battery storage projects win 1.8GW in UK capacity market auctions",
+      "url": "https://www.energy-storage.news/battery-storage-projects-win-1-8gw-in-uk-capacity-market-auctions/",
+      "date": "2026-03-19T09:18:50.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "On-site batteries accelerate grid access for data center developers",
+      "url": "https://www.pv-magazine.com/2026/03/19/on-site-batteries-accelerate-grid-access-for-data-center-developers/",
+      "date": "2026-03-19T09:15:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Japanese firm GBP launches fencing for solar and BESS sites",
+      "url": "https://www.pv-magazine.com/2026/03/19/japanese-firm-gbp-launches-fencing-for-solar-and-bess-sites/",
+      "date": "2026-03-19T08:30:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Thermochromic bifacial PV glazing system for reducing building cooling loads",
       "url": "https://www.pv-magazine.com/2026/03/19/thermochromic-bifacial-pv-glazing-system-for-reducing-building-cooling-loads/",
@@ -254,20 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "Icelandic utility commissions solar-plus-storage for EV charging",
-      "url": "https://www.pv-magazine.com/2026/03/17/icelands-utility-commissions-solar-plus-storage-for-ev-charging/",
-      "date": "2026-03-17T10:28:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Atmoce launches backup box for three-phase emergency power retrofit",
-      "url": "https://www.pv-magazine.com/2026/03/17/atmoce-launches-backup-box-for-three-phase-emergency-power-retrofit/",
-      "date": "2026-03-17T10:00:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "TotalEnergies JV plans 2.7GW solar-plus-storage project to power Northern Territory green hydrogen hub",
       "url": "https://www.energy-storage.news/totalenergies-jv-plans-2-7gw-solar-plus-storage-project-to-power-northern-territory-green-hydrogen-hub/",
       "date": "2026-03-17T08:10:46.000Z",
@@ -516,13 +523,6 @@
       "title": "Thailand&#8217;s energy storage market lags despite renewable push and upstream manufacturing support",
       "url": "https://www.energy-storage.news/thailands-energy-storage-market-lags-despite-renewable-push-and-upstream-manufacturing-support/",
       "date": "2026-03-06T10:00:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: Construction starts on Hunter-Central Coast REZ in New South Wales",
-      "url": "https://www.energy-storage.news/australia-construction-starts-on-hunter-central-coast-rez-in-new-south-wales/",
-      "date": "2026-03-06T09:30:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
