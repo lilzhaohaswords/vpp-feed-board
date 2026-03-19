@@ -1,6 +1,13 @@
 {
-  "ts": 1773881971624,
+  "ts": 1773891506327,
   "items": [
+    {
+      "title": "NSW&#8217;s storage target jumps 40% to 56GWh as solar surge rewrites 2030 grid equation",
+      "url": "https://www.energy-storage.news/nsws-storage-target-jumps-40-to-56gwh-as-solar-surge-rewrites-2030-grid-equation/",
+      "date": "2026-03-19T01:01:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Japan publishes new guidelines for flexible solar cell installations",
       "url": "https://www.pv-magazine.com/2026/03/18/japan-publishes-new-guidelines-for-flexible-solar-cell-installations/",
@@ -516,13 +523,6 @@
       "title": "Australia: Construction starts on Hunter-Central Coast REZ in New South Wales",
       "url": "https://www.energy-storage.news/australia-construction-starts-on-hunter-central-coast-rez-in-new-south-wales/",
       "date": "2026-03-06T09:30:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s Cheaper Home Batteries Program reportedly under review as government seeks budget savings",
-      "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-reportedly-under-review-as-government-seeks-budget-savings/",
-      "date": "2026-03-06T09:29:18.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
