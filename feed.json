@@ -1,6 +1,27 @@
 {
-  "ts": 1773923454719,
+  "ts": 1773928759228,
   "items": [
+    {
+      "title": "‘No one cares about analytics. They care about outcomes.’: ACCURE on US BESS performance",
+      "url": "https://www.energy-storage.news/no-one-cares-about-analytics-they-care-about-outcomes-accure-on-us-bess-performance/",
+      "date": "2026-03-19T13:02:11.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Sigenergy&#8217;s Tony Xu: Defining the Next Chapter of Energy Storage with AI + Gigafactories",
+      "url": "https://www.energy-storage.news/sigenergys-tony-xu-defining-the-next-chapter-of-energy-storage-with-ai-gigafactories/",
+      "date": "2026-03-19T12:53:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Spanish researchers develop ultra-thin solar cells for any surface",
+      "url": "https://www.pv-magazine.com/2026/03/19/spanish-researchers-develop-ultra-thin-solar-cells-for-any-surface/",
+      "date": "2026-03-19T12:30:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US Roundup: solar-plus-storage projects advance across the country",
       "url": "https://www.energy-storage.news/us-roundup-solar-plus-storage-projects-advance-across-the-country/",
@@ -243,13 +264,6 @@
       "title": "French developer seeks approval for Australia’s largest solar BESS",
       "url": "https://www.pv-magazine.com/2026/03/18/french-developer-seeks-approval-for-major-australia-solar-bess/",
       "date": "2026-03-18T09:15:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Advait Greenergy opens 30 MW electrolyzer assembly facility in India",
-      "url": "https://www.pv-magazine.com/2026/03/18/advait-greenergy-opens-30-mw-electrolyzer-assembly-facility-in-india/",
-      "date": "2026-03-18T08:30:50.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "US import tariffs ‘increase the policy risk’ for BESS",
       "url": "https://www.energy-storage.news/us-import-tariffs-increase-the-policy-risk-for-bess/",
       "date": "2026-03-09T14:50:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU &#8216;Made in Europe&#8217; regulation welcomed but ‘will not remove dependency on China’",
-      "url": "https://www.energy-storage.news/eu-made-in-europe-regulation-welcomed-but-will-not-remove-dependency-on-china/",
-      "date": "2026-03-09T11:58:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Origin Energy&#8217;s 650MWh grid-forming BESS begins commissioning in Australia",
-      "url": "https://www.energy-storage.news/origin-energys-650mwh-grid-forming-bess-begins-commissioning-in-australia/",
-      "date": "2026-03-09T09:20:45.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
