@@ -1,6 +1,13 @@
 {
-  "ts": 1773958455837,
+  "ts": 1773962231260,
   "items": [
+    {
+      "title": "Island commissioning to battery oversizing: Key lessons from AGL&#8217;s 1GWh grid-forming Liddell BESS in Australia",
+      "url": "https://www.energy-storage.news/island-commissioning-to-battery-oversizing-key-lessons-from-agls-1gwh-grid-forming-liddell-bess-in-australia/",
+      "date": "2026-03-19T23:10:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Japan sets FIT terms for small PV, rooftop solar as large-scale auctions end",
       "url": "https://www.pv-magazine.com/2026/03/19/japan-sets-fit-terms-for-small-pv-rooftop-solar-as-large-scale-auctions-end/",
@@ -516,13 +523,6 @@
       "title": "Australia: NSW planners approve 400MWh Burroway solar-plus-storage despite community objections",
       "url": "https://www.energy-storage.news/australia-nsw-planners-approve-400mwh-burroway-solar-plus-storage-despite-community-objections/",
       "date": "2026-03-10T08:52:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hanjung America to build ESS manufacturing facility in Indiana to support StarPlus Energy",
-      "url": "https://www.energy-storage.news/hanjung-america-to-build-ess-manufacturing-facility-in-indiana-to-support-starplus-energy/",
-      "date": "2026-03-09T15:31:18.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
