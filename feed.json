@@ -1,6 +1,13 @@
 {
-  "ts": 1773902425227,
+  "ts": 1773905847450,
   "items": [
+    {
+      "title": "Ariston launches residential propane heat pump with built-in PV function",
+      "url": "https://www.pv-magazine.com/2026/03/19/ariston-launches-residential-propane-heat-pump-with-built-in-pv-function/",
+      "date": "2026-03-19T07:17:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "NSW&#8217;s storage target jumps 40% to 56GWh as solar surge rewrites 2030 grid equation",
       "url": "https://www.energy-storage.news/nsws-storage-target-jumps-40-to-56gwh-as-solar-surge-rewrites-2030-grid-equation/",
@@ -257,13 +264,6 @@
       "title": "Italian solar sector gears up for cybersecurity regulations on PV systems over 100 kW",
       "url": "https://www.pv-magazine.com/2026/03/17/italian-solar-sector-gears-up-for-cybersecurity-regulations-on-pv-systems-over-100-kw/",
       "date": "2026-03-17T09:43:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Grid-forming BESS set to stabilize Australia’s hyperscale data centers",
-      "url": "https://www.pv-magazine.com/2026/03/17/grid-forming-bess-set-to-stabilize-australias-hyperscale-data-centers/",
-      "date": "2026-03-17T09:15:28.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
