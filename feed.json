@@ -1,6 +1,55 @@
 {
-  "ts": 1773919487435,
+  "ts": 1773923454719,
   "items": [
+    {
+      "title": "US Roundup: solar-plus-storage projects advance across the country",
+      "url": "https://www.energy-storage.news/us-roundup-solar-plus-storage-projects-advance-across-the-country/",
+      "date": "2026-03-19T12:23:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Pakistan’s solar boom is bigger than official data shows",
+      "url": "https://www.pv-magazine.com/2026/03/19/pakistans-solar-boom-is-bigger-than-official-data-shows/",
+      "date": "2026-03-19T12:21:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BESS prices set to increase in short-term, but technology will &#8216;continue to move goal posts&#8217; long-term",
+      "url": "https://www.energy-storage.news/bess-prices-set-to-increase-in-short-term-but-technology-will-continue-to-move-goal-posts-long-term/",
+      "date": "2026-03-19T12:20:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Japan finances 130 MW solar project in Tunisia",
+      "url": "https://www.pv-magazine.com/2026/03/19/japan-finances-130-mw-solar-project-in-tunisia/",
+      "date": "2026-03-19T12:15:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New PV inverter efficiency metric reflects local solar conditions",
+      "url": "https://www.pv-magazine.com/2026/03/19/new-pv-inverter-efficiency-metric-reflects-local-solar-conditions/",
+      "date": "2026-03-19T12:07:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "What happens when malware hits PV systems",
+      "url": "https://www.pv-magazine.com/2026/03/19/what-happens-when-malware-hits-pv-systems-2/",
+      "date": "2026-03-19T12:00:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SolarEdge launches Nexis hybrid inverter and high-voltage battery for residential PV",
+      "url": "https://www.pv-magazine.com/2026/03/19/solaredge-launches-nexis-hybrid-inverter-and-high-voltage-battery-for-residential-pv/",
+      "date": "2026-03-19T11:35:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "India extends solar manufacturing mandate to wafers and ingots",
       "url": "https://www.pv-magazine.com/2026/03/19/india-extends-solar-manufacturing-mandate-to-wafers-and-ingots/",
@@ -205,45 +254,10 @@
       "bucket": "A"
     },
     {
-      "title": "2D carbon selenide offers route to competitive sodium-ion batteries",
-      "url": "https://www.pv-magazine.com/2026/03/18/2d-carbon-selenide-offers-route-to-competitive-sodium-ion-batteries/",
-      "date": "2026-03-18T08:30:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Refra debuts water-to-water heat pump for commercial, industrial use",
-      "url": "https://www.pv-magazine.com/2026/03/18/refra-debuts-water-to-water-heat-pump-for-commercial-industrial-use/",
-      "date": "2026-03-18T08:11:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US residential solar set for 33% decline in 2026, says Roth Capital Partners",
-      "url": "https://www.pv-magazine.com/2026/03/18/us-residential-solar-set-for-33-decline-in-2026-says-roth-capital-partners/",
-      "date": "2026-03-18T07:45:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How EU NIS2 is reshaping physical and cybersecurity for PV plant operators",
-      "url": "https://www.pv-magazine.com/2026/03/18/how-eu-nis2-is-reshaping-cybersecurity-for-pv-plant-operators/",
-      "date": "2026-03-18T06:51:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "UL9540A: New edition of key BESS fire safety standard ‘establishes new precedent’",
       "url": "https://www.energy-storage.news/ul9540a-new-edition-of-key-bess-fire-safety-standard-establishes-new-precedent/",
       "date": "2026-03-17T15:00:17.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US says China not undercutting domestic battery anode makers",
-      "url": "https://www.pv-magazine.com/2026/03/17/us-says-china-not-undercutting-domestic-battery-anode-makers/",
-      "date": "2026-03-17T15:00:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Origin Energy&#8217;s 650MWh grid-forming BESS begins commissioning in Australia",
       "url": "https://www.energy-storage.news/origin-energys-650mwh-grid-forming-bess-begins-commissioning-in-australia/",
       "date": "2026-03-09T09:20:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow and Delta Capacity sign 1GWh European framework BESS supply deal",
-      "url": "https://www.energy-storage.news/sungrow-and-delta-capacity-sign-1gwh-european-framework-bess-supply-deal/",
-      "date": "2026-03-06T10:35:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Thailand&#8217;s energy storage market lags despite renewable push and upstream manufacturing support",
-      "url": "https://www.energy-storage.news/thailands-energy-storage-market-lags-despite-renewable-push-and-upstream-manufacturing-support/",
-      "date": "2026-03-06T10:00:02.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
