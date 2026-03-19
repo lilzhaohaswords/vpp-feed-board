@@ -1,6 +1,20 @@
 {
-  "ts": 1773931402526,
+  "ts": 1773934735848,
   "items": [
+    {
+      "title": "Panasonic claims world’s first trial of cybersecurity monitoring for grid-scale BESS",
+      "url": "https://www.pv-magazine.com/2026/03/19/panasonic-claims-worlds-first-trial-of-cybersecurity-monitoring-for-grid-scale-bess/",
+      "date": "2026-03-19T15:28:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US 100-hour battery startup Form Energy’s first overseas deployment ‘set to fill a critical gap in Ireland’s power system’",
+      "url": "https://www.energy-storage.news/us-100-hour-battery-startup-form-energys-first-overseas-deployment-set-to-fill-a-critical-gap-in-irelands-power-system/",
+      "date": "2026-03-19T15:09:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "‘No one cares about analytics. They care about outcomes.’: ACCURE on US BESS performance",
       "url": "https://www.energy-storage.news/no-one-cares-about-analytics-they-care-about-outcomes-accure-on-us-bess-performance/",
@@ -261,13 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "French developer seeks approval for Australia’s largest solar BESS",
-      "url": "https://www.pv-magazine.com/2026/03/18/french-developer-seeks-approval-for-major-australia-solar-bess/",
-      "date": "2026-03-18T09:15:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "UL9540A: New edition of key BESS fire safety standard ‘establishes new precedent’",
       "url": "https://www.energy-storage.news/ul9540a-new-edition-of-key-bess-fire-safety-standard-establishes-new-precedent/",
       "date": "2026-03-17T15:00:17.000Z",
@@ -516,13 +523,6 @@
       "title": "Hanjung America to build ESS manufacturing facility in Indiana to support StarPlus Energy",
       "url": "https://www.energy-storage.news/hanjung-america-to-build-ess-manufacturing-facility-in-indiana-to-support-starplus-energy/",
       "date": "2026-03-09T15:31:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US import tariffs ‘increase the policy risk’ for BESS",
-      "url": "https://www.energy-storage.news/us-import-tariffs-increase-the-policy-risk-for-bess/",
-      "date": "2026-03-09T14:50:22.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
