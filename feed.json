@@ -1,6 +1,27 @@
 {
-  "ts": 1773992200708,
+  "ts": 1773995133865,
   "items": [
+    {
+      "title": "Sandia Labs benchmarks PV software providers in first ever blind comparison analysis",
+      "url": "https://www.pv-magazine.com/2026/03/20/sandia-labs-benchmarks-pv-software-providers-in-first-ever-blind-comparison-analysis/",
+      "date": "2026-03-20T07:49:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Low new module prices stall growth in secondary solar market",
+      "url": "https://www.pv-magazine.com/2026/03/20/low-new-module-prices-stall-growth-in-secondary-solar-market/",
+      "date": "2026-03-20T07:45:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Indian solar PV manufacturer Saatvik Green enters energy storage business with 20GW target",
+      "url": "https://www.energy-storage.news/indian-solar-pv-manufacturer-saatvik-green-enters-energy-storage-business-with-20gw-target/",
+      "date": "2026-03-20T07:42:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Vena Energy secures AU$200 million revenue share deal for 204MW battery storage site in Australia",
       "url": "https://www.energy-storage.news/vena-energy-secures-au200-million-revenue-share-deal-for-204mw-battery-storage-site-in-australia/",
@@ -268,20 +289,6 @@
       "bucket": "A"
     },
     {
-      "title": "Survey reveals PV systems in Germany outperform lifespan expectations",
-      "url": "https://www.pv-magazine.com/2026/03/18/survey-reveals-pv-systems-in-germany-outperform-lifespan-expectations/",
-      "date": "2026-03-18T10:32:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "France selects six operators for PV module recycling capacity",
-      "url": "https://www.pv-magazine.com/2026/03/18/france-selects-six-operators-for-pv-module-recycling-capacity/",
-      "date": "2026-03-18T10:30:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "VIDEO: Interviews with IPPs R.Power, BW ESS and Econergy at the Energy Storage Summit 2026",
       "url": "https://www.energy-storage.news/video-interviews-with-ipps-r-power-bw-ess-and-econergy-at-the-energy-storage-summit-2026/",
       "date": "2026-03-18T09:56:41.000Z",
@@ -516,13 +523,6 @@
       "title": "Base Power launches 100MW VPP programme in Texas",
       "url": "https://www.energy-storage.news/base-power-launches-100mw-vpp-programme-in-texas/",
       "date": "2026-03-10T13:26:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "From software to shareholder: Flower, Volkswagen&#8217;s Elli and Nuvve launch Germany &#038;  Sweden BESS projects",
-      "url": "https://www.energy-storage.news/from-software-to-shareholder-flower-volkswagens-elli-and-nuvve-launch-germany-sweden-bess-projects/",
-      "date": "2026-03-10T10:43:36.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
