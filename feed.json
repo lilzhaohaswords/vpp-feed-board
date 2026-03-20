@@ -1,6 +1,13 @@
 {
-  "ts": 1774017202000,
+  "ts": 1774020629943,
   "items": [
+    {
+      "title": "Why BESS insurers are sweating transformers and contractor errors over battery fires",
+      "url": "https://www.pv-magazine.com/2026/03/20/why-bess-insurers-are-sweating-transformers-and-contractor-errors-over-battery-fires/",
+      "date": "2026-03-20T14:39:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Ionautics advances catalyst toward production",
       "url": "https://www.pv-magazine.com/2026/03/20/the-hydrogen-stream-swedish-company-advances-catalyst-towards-full-scale-industrial-production/",
@@ -250,13 +257,6 @@
       "title": "New PV inverter efficiency metric reflects local solar conditions",
       "url": "https://www.pv-magazine.com/2026/03/19/new-pv-inverter-efficiency-metric-reflects-local-solar-conditions/",
       "date": "2026-03-19T12:07:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "What happens when malware hits PV systems",
-      "url": "https://www.pv-magazine.com/2026/03/19/what-happens-when-malware-hits-pv-systems-2/",
-      "date": "2026-03-19T12:00:12.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
