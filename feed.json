@@ -1,6 +1,13 @@
 {
-  "ts": 1774014653003,
+  "ts": 1774017202000,
   "items": [
+    {
+      "title": "The Hydrogen Stream: Ionautics advances catalyst toward production",
+      "url": "https://www.pv-magazine.com/2026/03/20/the-hydrogen-stream-swedish-company-advances-catalyst-towards-full-scale-industrial-production/",
+      "date": "2026-03-20T14:00:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Chinese PV Industry Brief: JinkoSolar appoints new CEO",
       "url": "https://www.pv-magazine.com/2026/03/20/chinese-pv-industry-brief-jinkosolar-appoints-new-ceo/",
@@ -250,13 +257,6 @@
       "title": "What happens when malware hits PV systems",
       "url": "https://www.pv-magazine.com/2026/03/19/what-happens-when-malware-hits-pv-systems-2/",
       "date": "2026-03-19T12:00:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "SolarEdge launches Nexis hybrid inverter and high-voltage battery for residential PV",
-      "url": "https://www.pv-magazine.com/2026/03/19/solaredge-launches-nexis-hybrid-inverter-and-high-voltage-battery-for-residential-pv/",
-      "date": "2026-03-19T11:35:18.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
