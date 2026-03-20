@@ -1,6 +1,34 @@
 {
-  "ts": 1774009641311,
+  "ts": 1774014653003,
   "items": [
+    {
+      "title": "Chinese PV Industry Brief: JinkoSolar appoints new CEO",
+      "url": "https://www.pv-magazine.com/2026/03/20/chinese-pv-industry-brief-jinkosolar-appoints-new-ceo/",
+      "date": "2026-03-20T13:45:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "‘US battery manufacturing will surpass 100% of demand’, US ESC report states",
+      "url": "https://www.energy-storage.news/us-battery-manufacturing-will-surpass-100-of-demand-us-esc-report-states/",
+      "date": "2026-03-20T13:15:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "The case for ground-level agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/03/20/the-case-for-ground-level-agrivoltaics/",
+      "date": "2026-03-20T13:11:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Energy Vault continues to diversify as it experiences Q4, full year 2025 growth",
+      "url": "https://www.energy-storage.news/energy-vault-continues-to-diversify-as-it-experiences-q4-full-year-2025-growth/",
+      "date": "2026-03-20T13:11:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Canadian startup unveils AI tool for solar panel cleaning optimization",
       "url": "https://www.pv-magazine.com/2026/03/20/canadian-startup-unveils-ai-tool-for-solar-panel-cleaning-optimization/",
@@ -229,20 +257,6 @@
       "title": "SolarEdge launches Nexis hybrid inverter and high-voltage battery for residential PV",
       "url": "https://www.pv-magazine.com/2026/03/19/solaredge-launches-nexis-hybrid-inverter-and-high-voltage-battery-for-residential-pv/",
       "date": "2026-03-19T11:35:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India extends solar manufacturing mandate to wafers and ingots",
-      "url": "https://www.pv-magazine.com/2026/03/19/india-extends-solar-manufacturing-mandate-to-wafers-and-ingots/",
-      "date": "2026-03-19T11:14:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EPFL, CSEM achieve world record efficiency of 30.02% in perovskite-silicon triple-junction solar cell",
-      "url": "https://www.pv-magazine.com/2026/03/19/epfl-csem-achieve-world-record-efficiency-of-30-02-in-perovskite-silicon-triple-junction-solar-cell/",
-      "date": "2026-03-19T09:47:53.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Argentina launches 700MW/2,800MWh BESS tender",
       "url": "https://www.energy-storage.news/argentina-launches-700mw-2800mwh-bess-tender/",
       "date": "2026-03-10T14:54:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Long-duration tech still outcompeted by lithium, trade group advocates for &#8216;valuing diversity&#8217;",
-      "url": "https://www.energy-storage.news/long-duration-tech-still-outcompeted-by-lithium-trade-group-advocates-for-valuing-diversity/",
-      "date": "2026-03-10T13:36:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "IPP Econergy&#8217;s head of energy storage talks pipeline, financing, Germany, procurement and pricing",
-      "url": "https://www.energy-storage.news/ipp-econergys-head-of-energy-storage-talks-pipeline-financing-germany-procurement-and-pricing/",
-      "date": "2026-03-10T13:34:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
