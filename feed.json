@@ -1,6 +1,41 @@
 {
-  "ts": 1774005638073,
+  "ts": 1774009641311,
   "items": [
+    {
+      "title": "Canadian startup unveils AI tool for solar panel cleaning optimization",
+      "url": "https://www.pv-magazine.com/2026/03/20/canadian-startup-unveils-ai-tool-for-solar-panel-cleaning-optimization/",
+      "date": "2026-03-20T12:27:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;The barriers I encountered were never dramatic, they were cumulative&#8217;",
+      "url": "https://www.pv-magazine.com/2026/03/20/the-barriers-i-encountered-were-never-dramatic-they-were-cumulative/",
+      "date": "2026-03-20T12:12:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Why technical due diligence is becoming the backbone of Europe’s solar-storage boom",
+      "url": "https://www.pv-magazine.com/2026/03/20/why-technical-due-diligence-is-becoming-the-backbone-of-europes-solar-storage-boom/",
+      "date": "2026-03-20T12:01:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Iran conflict stirs solar demand debate in Germany",
+      "url": "https://www.pv-magazine.com/2026/03/20/iran-conflict-stirs-solar-demand-debate-in-germany/",
+      "date": "2026-03-20T12:00:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Financial strategies for energy storage assets, beyond arbitrage",
+      "url": "https://www.energy-storage.news/video-financial-strategies-for-energy-storage-assets-beyond-arbitrage/",
+      "date": "2026-03-20T11:51:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Clean Winter air drives major irradiance surplus across China and Taiwan in February",
       "url": "https://www.pv-magazine.com/2026/03/20/clean-winter-air-drives-major-irradiance-surplus-across-china-and-taiwan-in-february/",
@@ -212,38 +247,10 @@
       "bucket": "A"
     },
     {
-      "title": "Scientists demonstrate quantum battery prototype with rapid charging",
-      "url": "https://www.pv-magazine.com/2026/03/19/researchers-demonstrate-proof-of-concept-quantum-battery-with-fast-charging/",
-      "date": "2026-03-19T09:45:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solarium commissions 1 GW solar module plant in India",
-      "url": "https://www.pv-magazine.com/2026/03/19/solarium-commissions-1-gw-solar-module-plant-in-india/",
-      "date": "2026-03-19T09:30:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Battery storage projects win 1.8GW in UK capacity market auctions",
       "url": "https://www.energy-storage.news/battery-storage-projects-win-1-8gw-in-uk-capacity-market-auctions/",
       "date": "2026-03-19T09:18:50.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "On-site batteries accelerate grid access for data center developers",
-      "url": "https://www.pv-magazine.com/2026/03/19/on-site-batteries-accelerate-grid-access-for-data-center-developers/",
-      "date": "2026-03-19T09:15:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japanese firm GBP launches fencing for solar and BESS sites",
-      "url": "https://www.pv-magazine.com/2026/03/19/japanese-firm-gbp-launches-fencing-for-solar-and-bess-sites/",
-      "date": "2026-03-19T08:30:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "IPP Econergy&#8217;s head of energy storage talks pipeline, financing, Germany, procurement and pricing",
       "url": "https://www.energy-storage.news/ipp-econergys-head-of-energy-storage-talks-pipeline-financing-germany-procurement-and-pricing/",
       "date": "2026-03-10T13:34:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Base Power launches 100MW VPP programme in Texas",
-      "url": "https://www.energy-storage.news/base-power-launches-100mw-vpp-programme-in-texas/",
-      "date": "2026-03-10T13:26:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
