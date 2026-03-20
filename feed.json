@@ -1,6 +1,13 @@
 {
-  "ts": 1773977122929,
+  "ts": 1773983344606,
   "items": [
+    {
+      "title": "Vena Energy secures AU$200 million revenue share deal for 204MW battery storage site in Australia",
+      "url": "https://www.energy-storage.news/vena-energy-secures-au200-million-revenue-share-deal-for-204mw-battery-storage-site-in-australia/",
+      "date": "2026-03-20T04:36:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Australia’s CSIRO demonstrates world&#8217;s first working quantum battery prototype",
       "url": "https://www.energy-storage.news/australias-csiro-demonstrates-worlds-first-working-quantum-battery-prototype/",
@@ -516,13 +523,6 @@
       "title": "From software to shareholder: Flower, Volkswagen&#8217;s Elli and Nuvve launch Germany &#038;  Sweden BESS projects",
       "url": "https://www.energy-storage.news/from-software-to-shareholder-flower-volkswagens-elli-and-nuvve-launch-germany-sweden-bess-projects/",
       "date": "2026-03-10T10:43:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Octopus Australia breaks ground on 486MWh Blind Creek Solar Farm and Battery project",
-      "url": "https://www.energy-storage.news/octopus-australia-breaks-ground-on-486mwh-blind-creek-solar-farm-and-battery-project/",
-      "date": "2026-03-10T08:52:59.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
