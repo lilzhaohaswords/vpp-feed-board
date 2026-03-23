@@ -1,6 +1,13 @@
 {
-  "ts": 1774304236190,
+  "ts": 1774307945026,
   "items": [
+    {
+      "title": "&#8216;Culture of collaboration needed&#8217;: Australia’s NSW pushes energy storage projects from ambition to operation",
+      "url": "https://www.energy-storage.news/culture-of-collaboration-needed-australias-nsw-pushes-energy-storage-projects-from-ambition-to-operation/",
+      "date": "2026-03-23T23:01:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Spain completes testing of Europe&#8217;s largest research vanadium BESS",
       "url": "https://www.pv-magazine.com/2026/03/23/spain-completes-testing-of-europes-largest-research-vanadium-bess/",
@@ -516,13 +523,6 @@
       "title": "What makes a ‘priority market’ for scaling long-duration energy storage?",
       "url": "https://www.energy-storage.news/what-makes-a-priority-market-for-scaling-long-duration-energy-storage/",
       "date": "2026-03-12T12:04:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AGL&#8217;s Torrens Island BESS in South Australia hit by a second AEMO direction",
-      "url": "https://www.energy-storage.news/agls-torrens-island-bess-in-south-australia-hit-by-a-second-aemo-direction/",
-      "date": "2026-03-12T08:40:59.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
