@@ -1,6 +1,27 @@
 {
-  "ts": 1774245698715,
+  "ts": 1774252342543,
   "items": [
+    {
+      "title": "SiteCapture launches AI tool to automate solar field documentation",
+      "url": "https://www.pv-magazine.com/2026/03/23/sitecapture-launches-ai-tool-to-automate-solar-field-documentation/",
+      "date": "2026-03-23T07:45:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fraunhofer CSP warns some cleaning agents may reduce PV module performance by up to 5.6%",
+      "url": "https://www.pv-magazine.com/2026/03/23/fraunhofer-csp-warns-some-cleaning-agents-may-reduce-pv-module-performance-by-up-to-5-6/",
+      "date": "2026-03-23T07:43:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Entso-E report finds systemic failures behind 2025 Iberian blackout",
+      "url": "https://www.pv-magazine.com/2026/03/23/entso-e-report-finds-systemic-failures-behind-2025-iberian-blackout/",
+      "date": "2026-03-23T07:03:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia: 1.6GWh Belah BESS submitted for approval as 590MWh Mornington project enters AEMO commissioning",
       "url": "https://www.energy-storage.news/australia-1-6gwh-belah-bess-submitted-for-approval-as-590mwh-mornington-project-enters-aemo-commissioning/",
@@ -254,31 +275,10 @@
       "bucket": "A"
     },
     {
-      "title": "Pakistan’s solar boom is bigger than official data shows",
-      "url": "https://www.pv-magazine.com/2026/03/19/pakistans-solar-boom-is-bigger-than-official-data-shows/",
-      "date": "2026-03-19T12:21:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "BESS prices set to increase in short-term, but technology will &#8216;continue to move goal posts&#8217; long-term",
       "url": "https://www.energy-storage.news/bess-prices-set-to-increase-in-short-term-but-technology-will-continue-to-move-goal-posts-long-term/",
       "date": "2026-03-19T12:20:52.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan finances 130 MW solar project in Tunisia",
-      "url": "https://www.pv-magazine.com/2026/03/19/japan-finances-130-mw-solar-project-in-tunisia/",
-      "date": "2026-03-19T12:15:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New PV inverter efficiency metric reflects local solar conditions",
-      "url": "https://www.pv-magazine.com/2026/03/19/new-pv-inverter-efficiency-metric-reflects-local-solar-conditions/",
-      "date": "2026-03-19T12:07:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
