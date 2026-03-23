@@ -1,6 +1,20 @@
 {
-  "ts": 1774269248585,
+  "ts": 1774274659939,
   "items": [
+    {
+      "title": "Ghana plans to procure 200 MW of battery storage",
+      "url": "https://www.pv-magazine.com/2026/03/23/ghana-plans-to-procure-200-mw-of-battery-storage/",
+      "date": "2026-03-23T13:00:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Exclusive interview: Argentina&#8217;s Energy Secretary on BESS tender and new era for country&#8217;s energy sector",
+      "url": "https://www.energy-storage.news/exclusive-interview-argentinas-energy-secretary-on-bess-tender-and-new-era-for-countrys-energy-sector/",
+      "date": "2026-03-23T12:40:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Brazil&#8217;s LRCAP battery auction demand estimated at nearly 3 GW",
       "url": "https://www.pv-magazine.com/2026/03/23/brazils-lrcap-battery-auction-demand-estimated-at-nearly-3-gw/",
@@ -215,13 +229,6 @@
       "title": "Edify Energy awards EPC contracts for 1.8 GW of solar and storage in Australia",
       "url": "https://www.pv-magazine.com/2026/03/20/edify-energy-awards-epc-contracts-for-1-8-gw-of-solar-and-storage-in-australia/",
       "date": "2026-03-20T09:15:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar and the cyber winter",
-      "url": "https://www.pv-magazine.com/2026/03/20/solar-and-the-cyber-winter/",
-      "date": "2026-03-20T09:00:11.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "RWE brings online four BESS projects in 13GW US clean energy portfolio",
       "url": "https://www.energy-storage.news/rwe-brings-online-four-bess-projects-in-13gw-us-clean-energy-portfolio/",
       "date": "2026-03-11T14:10:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Aypa Power closes US$512 million financing for two Ontario BESS projects",
-      "url": "https://www.energy-storage.news/aypa-power-closes-us512-million-financing-for-two-ontario-bess-projects/",
-      "date": "2026-03-11T14:06:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
