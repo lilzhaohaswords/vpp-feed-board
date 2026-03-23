@@ -1,6 +1,34 @@
 {
-  "ts": 1774255139955,
+  "ts": 1774259331669,
   "items": [
+    {
+      "title": "When tiny magnets attack PV systems",
+      "url": "https://www.pv-magazine.com/2026/03/23/when-tiny-magnets-attack-pv-systems/",
+      "date": "2026-03-23T09:45:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Indian industry body projects 346 GWh of BESS capacity by 2033",
+      "url": "https://www.pv-magazine.com/2026/03/23/indias-bess-capacity-to-reach-346-gwh-by-2033-white-paper-finds/",
+      "date": "2026-03-23T09:20:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Scientists build high temperature-resistant perovskite solar cell with 26% efficiency",
+      "url": "https://www.pv-magazine.com/2026/03/23/scientits-build-high-temperature-resistant-perovskite-solar-cell-with-26-efficiency/",
+      "date": "2026-03-23T09:16:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India: ACME Solar commissions 480MWh of BESS, readies for FDRE and peak supply deals",
+      "url": "https://www.energy-storage.news/india-acme-solar-commissions-480mwh-of-bess-readies-for-fdre-and-peak-supply-deals/",
+      "date": "2026-03-23T08:40:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Solar key to space-based AI",
       "url": "https://www.pv-magazine.com/2026/03/23/solar-key-to-space-based-ai/",
@@ -198,13 +226,6 @@
       "bucket": "A"
     },
     {
-      "title": "Low new module prices stall growth in secondary solar market",
-      "url": "https://www.pv-magazine.com/2026/03/20/low-new-module-prices-stall-growth-in-secondary-solar-market/",
-      "date": "2026-03-20T07:45:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Indian solar PV manufacturer Saatvik Green enters energy storage business with 20GW target",
       "url": "https://www.energy-storage.news/indian-solar-pv-manufacturer-saatvik-green-enters-energy-storage-business-with-20gw-target/",
       "date": "2026-03-20T07:42:38.000Z",
@@ -230,20 +251,6 @@
       "url": "https://www.energy-storage.news/island-commissioning-to-battery-oversizing-key-lessons-from-agls-1gwh-grid-forming-liddell-bess-in-australia/",
       "date": "2026-03-19T23:10:12.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan sets FIT terms for small PV, rooftop solar as large-scale auctions end",
-      "url": "https://www.pv-magazine.com/2026/03/19/japan-sets-fit-terms-for-small-pv-rooftop-solar-as-large-scale-auctions-end/",
-      "date": "2026-03-19T16:30:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Panasonic claims world’s first trial of cybersecurity monitoring for grid-scale BESS",
-      "url": "https://www.pv-magazine.com/2026/03/19/panasonic-claims-worlds-first-trial-of-cybersecurity-monitoring-for-grid-scale-bess/",
-      "date": "2026-03-19T15:28:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Aypa Power closes US$512 million financing for two Ontario BESS projects",
       "url": "https://www.energy-storage.news/aypa-power-closes-us512-million-financing-for-two-ontario-bess-projects/",
       "date": "2026-03-11T14:06:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Google bets big on 30GWh of Form Energy&#8217;s iron-air battery storage despite efficiency trade-offs",
-      "url": "https://www.energy-storage.news/google-bets-big-on-30gwh-of-form-energys-iron-air-battery-storage-despite-efficiency-trade-offs/",
-      "date": "2026-03-11T14:04:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
