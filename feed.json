@@ -1,6 +1,48 @@
 {
-  "ts": 1774274659939,
+  "ts": 1774280842545,
   "items": [
+    {
+      "title": "Spain completes testing of Europe&#8217;s largest research vanadium BESS",
+      "url": "https://www.pv-magazine.com/2026/03/23/spain-completes-testing-of-europes-largest-research-vanadium-bess/",
+      "date": "2026-03-23T15:45:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New solar window concept integrates polymer-dispersed liquid crystal to enable switchable transparency",
+      "url": "https://www.pv-magazine.com/2026/03/23/new-solar-window-concept-integrates-polymer-dispersed-liquid-crystal-to-enable-switchable-transparency/",
+      "date": "2026-03-23T14:31:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Stricter rules for energy retailers as UK smart meter deployment slows",
+      "url": "https://www.pv-magazine.com/2026/03/23/stricter-rules-for-energy-retailers-as-uk-smart-meter-deployment-slows/",
+      "date": "2026-03-23T14:25:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "European residential heat pump sales increased in 2025",
+      "url": "https://www.pv-magazine.com/2026/03/23/european-residential-heat-pump-sales-increased-in-2025/",
+      "date": "2026-03-23T14:20:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Elevate Renewables developing 600MWh New Jersey BESS through state&#8217;s energy storage programme",
+      "url": "https://www.energy-storage.news/elevate-renewables-developing-600mwh-new-jersey-bess-through-states-energy-storage-programme/",
+      "date": "2026-03-23T14:16:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Estonian state-owned firm Eesti Energia to add BESS totalling 184MWh to Lithuania wind farms",
+      "url": "https://www.energy-storage.news/estonian-state-owned-firm-eesti-energia-to-add-bess-totalling-184mwh-to-lithuania-wind-farms/",
+      "date": "2026-03-23T14:14:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Ghana plans to procure 200 MW of battery storage",
       "url": "https://www.pv-magazine.com/2026/03/23/ghana-plans-to-procure-200-mw-of-battery-storage/",
@@ -201,34 +243,6 @@
       "title": "Greece receives 12.2 GW of merchant battery applications for 4.7 GW program",
       "url": "https://www.pv-magazine.com/2026/03/20/greece-receives-12-2-gw-of-merchant-battery-applications-for-4-7-gw-program/",
       "date": "2026-03-20T10:18:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Key takeaways from Solar Solutions Amsterdam",
-      "url": "https://www.pv-magazine.com/2026/03/20/key-takeaways-from-solar-solutions-amsterdam-2/",
-      "date": "2026-03-20T10:00:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China wafer prices unchanged as resumed purchases fail to lift market",
-      "url": "https://www.pv-magazine.com/2026/03/20/china-wafer-prices-unchanged-as-resumed-purchases-fail-to-lift-market/",
-      "date": "2026-03-20T09:52:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Advansor unveils scalable CO2 heat pump for large-scale heating needs",
-      "url": "https://www.pv-magazine.com/2026/03/20/advansor-unveils-scalable-co2-heat-pump-for-large-scale-heating-needs/",
-      "date": "2026-03-20T09:24:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Edify Energy awards EPC contracts for 1.8 GW of solar and storage in Australia",
-      "url": "https://www.pv-magazine.com/2026/03/20/edify-energy-awards-epc-contracts-for-1-8-gw-of-solar-and-storage-in-australia/",
-      "date": "2026-03-20T09:15:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "AGL&#8217;s Torrens Island BESS in South Australia hit by a second AEMO direction",
       "url": "https://www.energy-storage.news/agls-torrens-island-bess-in-south-australia-hit-by-a-second-aemo-direction/",
       "date": "2026-03-12T08:40:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BESS asset operation in CAISO is complex, but lean teams can leverage advanced analytics",
-      "url": "https://www.energy-storage.news/bess-asset-operation-in-caiso-is-complex-but-lean-teams-can-leverage-advanced-analytics/",
-      "date": "2026-03-11T14:48:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "RWE brings online four BESS projects in 13GW US clean energy portfolio",
-      "url": "https://www.energy-storage.news/rwe-brings-online-four-bess-projects-in-13gw-us-clean-energy-portfolio/",
-      "date": "2026-03-11T14:10:45.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
