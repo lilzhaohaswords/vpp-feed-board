@@ -1,6 +1,13 @@
 {
-  "ts": 1774259331669,
+  "ts": 1774262381441,
   "items": [
+    {
+      "title": "Türkiye’s solar capacity surpasses 25 GW",
+      "url": "https://www.pv-magazine.com/2026/03/23/turkiyes-solar-capacity-surpasses-25-gw/",
+      "date": "2026-03-23T10:22:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "When tiny magnets attack PV systems",
       "url": "https://www.pv-magazine.com/2026/03/23/when-tiny-magnets-attack-pv-systems/",
@@ -215,13 +222,6 @@
       "title": "Morocco finally unlocks solar self‑consumption",
       "url": "https://www.pv-magazine.com/2026/03/20/morocco-finally-unlocks-solar-self%e2%80%91consumption/",
       "date": "2026-03-20T08:25:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sandia Labs benchmarks PV software providers in first ever blind comparison analysis",
-      "url": "https://www.pv-magazine.com/2026/03/20/sandia-labs-benchmarks-pv-software-providers-in-first-ever-blind-comparison-analysis/",
-      "date": "2026-03-20T07:49:38.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
