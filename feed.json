@@ -1,6 +1,13 @@
 {
-  "ts": 1774370724152,
+  "ts": 1774374230689,
   "items": [
+    {
+      "title": "Arevon starts building 1GWh California BESS; BPP and Energy Vault buy Texas projects",
+      "url": "https://www.energy-storage.news/arevon-starts-building-1gwh-california-bess-bpp-and-energy-vault-buy-texas-projects/",
+      "date": "2026-03-24T17:10:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "France proposes linking solar subsidies to storage as prices turn negative",
       "url": "https://www.pv-magazine.com/2026/03/24/france-proposes-linking-solar-subsidies-to-storage-as-prices-turn-negative/",
@@ -516,13 +523,6 @@
       "title": "Flow battery startup ESS Tech Inc looks to acquisitions, big-name US partnerships for hope in future profitability",
       "url": "https://www.energy-storage.news/flow-battery-startup-ess-tech-inc-looks-to-acquisitions-big-name-us-partnerships-for-hope-in-future-profitability/",
       "date": "2026-03-13T13:22:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;You need a clear RFQ to get clear offers&#8217;: Procuring BESS at scale with European IPP R.Power",
-      "url": "https://www.energy-storage.news/you-need-a-clear-rfq-to-get-clear-offers-procuring-bess-at-scale-with-european-ipp-r-power/",
-      "date": "2026-03-13T11:46:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
