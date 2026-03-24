@@ -1,6 +1,20 @@
 {
-  "ts": 1774341305001,
+  "ts": 1774345279117,
   "items": [
+    {
+      "title": "When battery imbalance turns 11% of capacity into stranded energy",
+      "url": "https://www.pv-magazine.com/2026/03/24/when-battery-imbalance-turns-11-of-capacity-into-stranded-energy/",
+      "date": "2026-03-24T09:15:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Munch Energie connects 500MWh German BESS cluster to the grid",
+      "url": "https://www.energy-storage.news/munch-energie-connects-500mwh-german-bess-cluster-to-the-grid/",
+      "date": "2026-03-24T09:06:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Enervest begins building Australia&#8217;s largest floating solar array",
       "url": "https://www.pv-magazine.com/2026/03/24/enervest-begins-building-australias-largest-floating-solar-array/",
@@ -243,13 +257,6 @@
       "title": "&#8216;The barriers I encountered were never dramatic, they were cumulative&#8217;",
       "url": "https://www.pv-magazine.com/2026/03/20/the-barriers-i-encountered-were-never-dramatic-they-were-cumulative/",
       "date": "2026-03-20T12:12:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Why technical due diligence is becoming the backbone of Europe’s solar-storage boom",
-      "url": "https://www.pv-magazine.com/2026/03/20/why-technical-due-diligence-is-becoming-the-backbone-of-europes-solar-storage-boom/",
-      "date": "2026-03-20T12:01:56.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "US Roundup: Over US$2 billion of financing updates from Arevon, Primergy and Gridstor",
       "url": "https://www.energy-storage.news/us-roundup-over-us2-billion-of-financing-updates-from-arevon-primergy-and-gridstor/",
       "date": "2026-03-12T12:21:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU Roundup: 700MWh of BESS projects move forward in Germany, Belgium, France, Finland, Latvia and Portugal",
-      "url": "https://www.energy-storage.news/eu-roundup-700mwh-of-bess-projects-move-forward-in-germany-belgium-france-finland-latvia-and-portugal/",
-      "date": "2026-03-12T12:12:21.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
