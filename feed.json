@@ -1,6 +1,13 @@
 {
-  "ts": 1774307945026,
+  "ts": 1774313633000,
   "items": [
+    {
+      "title": "Australia&#8217;s EPBC Act pipeline swells with 5.5GWh of battery storage across three states",
+      "url": "https://www.energy-storage.news/australias-epbc-act-pipeline-swells-with-5-5gwh-of-battery-storage-across-three-states/",
+      "date": "2026-03-23T23:51:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "&#8216;Culture of collaboration needed&#8217;: Australia’s NSW pushes energy storage projects from ambition to operation",
       "url": "https://www.energy-storage.news/culture-of-collaboration-needed-australias-nsw-pushes-energy-storage-projects-from-ambition-to-operation/",
@@ -516,13 +523,6 @@
       "title": "EU Roundup: 700MWh of BESS projects move forward in Germany, Belgium, France, Finland, Latvia and Portugal",
       "url": "https://www.energy-storage.news/eu-roundup-700mwh-of-bess-projects-move-forward-in-germany-belgium-france-finland-latvia-and-portugal/",
       "date": "2026-03-12T12:12:21.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "What makes a ‘priority market’ for scaling long-duration energy storage?",
-      "url": "https://www.energy-storage.news/what-makes-a-priority-market-for-scaling-long-duration-energy-storage/",
-      "date": "2026-03-12T12:04:23.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
