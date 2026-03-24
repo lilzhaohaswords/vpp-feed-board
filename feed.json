@@ -1,6 +1,27 @@
 {
-  "ts": 1774352089055,
+  "ts": 1774355839417,
   "items": [
+    {
+      "title": "Slovakia deploys 243 MW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/03/24/slovakia-deploys-243-mw-of-solar-in-2025/",
+      "date": "2026-03-24T12:14:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Molecular solar battery stores energy for days, yields hydrogen on demand",
+      "url": "https://www.pv-magazine.com/2026/03/24/molecular-solar-battery-stores-energy-for-days-yields-hydrogen-on-demand/",
+      "date": "2026-03-24T12:00:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Nebraska advances energy storage and data centre-focused bill",
+      "url": "https://www.energy-storage.news/nebraska-advances-energy-storage-and-data-centre-focused-bill/",
+      "date": "2026-03-24T11:34:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Energy Storage Awards 2026 opens for entries: It’s time to shine and show the world",
       "url": "https://www.energy-storage.news/energy-storage-awards-2026-opens-for-entries-its-time-to-shine-and-show-the-world/",
@@ -254,20 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "Why BESS insurers are sweating transformers and contractor errors over battery fires",
-      "url": "https://www.pv-magazine.com/2026/03/20/why-bess-insurers-are-sweating-transformers-and-contractor-errors-over-battery-fires/",
-      "date": "2026-03-20T14:39:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Ionautics advances catalyst toward production",
-      "url": "https://www.pv-magazine.com/2026/03/20/the-hydrogen-stream-swedish-company-advances-catalyst-towards-full-scale-industrial-production/",
-      "date": "2026-03-20T14:00:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "‘US battery manufacturing will surpass 100% of demand’, US ESC report states",
       "url": "https://www.energy-storage.news/us-battery-manufacturing-will-surpass-100-of-demand-us-esc-report-states/",
       "date": "2026-03-20T13:15:15.000Z",
@@ -516,13 +523,6 @@
       "title": "&#8216;You need a clear RFQ to get clear offers&#8217;: Procuring BESS at scale with European IPP R.Power",
       "url": "https://www.energy-storage.news/you-need-a-clear-rfq-to-get-clear-offers-procuring-bess-at-scale-with-european-ipp-r-power/",
       "date": "2026-03-13T11:46:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "MGA Thermal raises AU$17 million as thermal energy storage startup enters commercial scale-up phase",
-      "url": "https://www.energy-storage.news/mga-thermal-raises-au17-million-as-thermal-energy-storage-startup-enters-commercial-scale-up-phase/",
-      "date": "2026-03-13T08:59:36.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
