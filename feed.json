@@ -1,6 +1,41 @@
 {
-  "ts": 1774345279117,
+  "ts": 1774348626755,
   "items": [
+    {
+      "title": "PVT-driven tower heat pump for building retrofits",
+      "url": "https://www.pv-magazine.com/2026/03/24/pvt-driven-tower-heat-pump-for-building-retrofits/",
+      "date": "2026-03-24T10:19:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar panels and low-carbon heating mandated for new homes in England",
+      "url": "https://www.pv-magazine.com/2026/03/24/solar-panels-and-low-carbon-heating-mandated-for-new-homes-in-england/",
+      "date": "2026-03-24T10:13:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Grid-forming, LDES and solar hybrids in Europe, with Envision Energy&#8217;s Michael Koller",
+      "url": "https://www.energy-storage.news/video-grid-forming-ldes-and-solar-hybrids-in-europe-with-envision-energys-michael-koller/",
+      "date": "2026-03-24T10:12:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "SolaX Power validates system level safety through extreme testing",
+      "url": "https://www.pv-magazine.com/2026/03/24/solax-power-validates-system-level-safety-through-extreme-testing/",
+      "date": "2026-03-24T10:00:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar cyber threats expand, but inverters still stay in the crosshairs",
+      "url": "https://www.pv-magazine.com/2026/03/24/solar-cyber-threats-expand-but-inverters-still-stay-in-the-crosshairs/",
+      "date": "2026-03-24T09:42:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "When battery imbalance turns 11% of capacity into stranded energy",
       "url": "https://www.pv-magazine.com/2026/03/24/when-battery-imbalance-turns-11-of-capacity-into-stranded-energy/",
@@ -219,13 +254,6 @@
       "bucket": "A"
     },
     {
-      "title": "Chinese PV Industry Brief: JinkoSolar appoints new CEO",
-      "url": "https://www.pv-magazine.com/2026/03/20/chinese-pv-industry-brief-jinkosolar-appoints-new-ceo/",
-      "date": "2026-03-20T13:45:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "‘US battery manufacturing will surpass 100% of demand’, US ESC report states",
       "url": "https://www.energy-storage.news/us-battery-manufacturing-will-surpass-100-of-demand-us-esc-report-states/",
       "date": "2026-03-20T13:15:15.000Z",
@@ -233,31 +261,10 @@
       "bucket": "A"
     },
     {
-      "title": "The case for ground-level agrivoltaics",
-      "url": "https://www.pv-magazine.com/2026/03/20/the-case-for-ground-level-agrivoltaics/",
-      "date": "2026-03-20T13:11:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Energy Vault continues to diversify as it experiences Q4, full year 2025 growth",
       "url": "https://www.energy-storage.news/energy-vault-continues-to-diversify-as-it-experiences-q4-full-year-2025-growth/",
       "date": "2026-03-20T13:11:40.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Canadian startup unveils AI tool for solar panel cleaning optimization",
-      "url": "https://www.pv-magazine.com/2026/03/20/canadian-startup-unveils-ai-tool-for-solar-panel-cleaning-optimization/",
-      "date": "2026-03-20T12:27:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;The barriers I encountered were never dramatic, they were cumulative&#8217;",
-      "url": "https://www.pv-magazine.com/2026/03/20/the-barriers-i-encountered-were-never-dramatic-they-were-cumulative/",
-      "date": "2026-03-20T12:12:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "US BESS industry is &#8216;primed for years of growth’: Enertis Applus+ on financing storage in the FEOC era",
       "url": "https://www.energy-storage.news/us-bess-industry-is-primed-for-years-of-growth-enertis-applus-on-financing-storage-in-the-feoc-era/",
       "date": "2026-03-12T13:53:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US Roundup: Over US$2 billion of financing updates from Arevon, Primergy and Gridstor",
-      "url": "https://www.energy-storage.news/us-roundup-over-us2-billion-of-financing-updates-from-arevon-primergy-and-gridstor/",
-      "date": "2026-03-12T12:21:14.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
