@@ -1,6 +1,20 @@
 {
-  "ts": 1774361335611,
+  "ts": 1774367544272,
   "items": [
+    {
+      "title": "Solar curtailment reaches Tokyo, Japan&#8217;s last holdout grid area",
+      "url": "https://www.pv-magazine.com/2026/03/24/solar-curtailment-reaches-tokyo-japans-last-holdout-grid-area/",
+      "date": "2026-03-24T15:45:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tesla advances plan to build 100 GW of U.S. PV manufacturing capacity by 2028",
+      "url": "https://www.pv-magazine.com/2026/03/24/tesla-moves-ahead-with-plan-for-100-gw-of-u-s-pv-manufacturing-capacity-by-2028/",
+      "date": "2026-03-24T14:22:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "GCL Optoelectronics wins China’s first commercial perovskite-silicon tandem PV module order",
       "url": "https://www.pv-magazine.com/2026/03/24/gcl-optoelectronics-wins-chinas-first-commercial-perovskite-silicon-tandem-pv-module-order/",
@@ -237,20 +251,6 @@
       "url": "https://www.energy-storage.news/india-acme-solar-commissions-480mwh-of-bess-readies-for-fdre-and-peak-supply-deals/",
       "date": "2026-03-23T08:40:56.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar key to space-based AI",
-      "url": "https://www.pv-magazine.com/2026/03/23/solar-key-to-space-based-ai/",
-      "date": "2026-03-23T08:30:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "SiteCapture launches AI tool to automate solar field documentation",
-      "url": "https://www.pv-magazine.com/2026/03/23/sitecapture-launches-ai-tool-to-automate-solar-field-documentation/",
-      "date": "2026-03-23T07:45:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
