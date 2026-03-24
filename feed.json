@@ -1,6 +1,13 @@
 {
-  "ts": 1774367544272,
+  "ts": 1774370724152,
   "items": [
+    {
+      "title": "France proposes linking solar subsidies to storage as prices turn negative",
+      "url": "https://www.pv-magazine.com/2026/03/24/france-proposes-linking-solar-subsidies-to-storage-as-prices-turn-negative/",
+      "date": "2026-03-24T16:30:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar curtailment reaches Tokyo, Japan&#8217;s last holdout grid area",
       "url": "https://www.pv-magazine.com/2026/03/24/solar-curtailment-reaches-tokyo-japans-last-holdout-grid-area/",
@@ -236,13 +243,6 @@
       "title": "Indian industry body projects 346 GWh of BESS capacity by 2033",
       "url": "https://www.pv-magazine.com/2026/03/23/indias-bess-capacity-to-reach-346-gwh-by-2033-white-paper-finds/",
       "date": "2026-03-23T09:20:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Scientists build high temperature-resistant perovskite solar cell with 26% efficiency",
-      "url": "https://www.pv-magazine.com/2026/03/23/scientits-build-high-temperature-resistant-perovskite-solar-cell-with-26-efficiency/",
-      "date": "2026-03-23T09:16:52.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
