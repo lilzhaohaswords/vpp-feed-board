@@ -1,6 +1,13 @@
 {
-  "ts": 1774434895224,
+  "ts": 1774438278614,
   "items": [
+    {
+      "title": "Saudi Arabia adds around 7.8 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/03/25/saudi-arabia-adds-around-7-8-gw-of-solar-in-2025/",
+      "date": "2026-03-25T11:02:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "South Korea targets 2,500 community solar cooperatives by 2030",
       "url": "https://www.pv-magazine.com/2026/03/25/south-korea-targets-2500-community-solar-cooperatives-by-2030/",
@@ -250,13 +257,6 @@
       "title": "Stricter rules for energy retailers as UK smart meter deployment slows",
       "url": "https://www.pv-magazine.com/2026/03/23/stricter-rules-for-energy-retailers-as-uk-smart-meter-deployment-slows/",
       "date": "2026-03-23T14:25:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "European residential heat pump sales increased in 2025",
-      "url": "https://www.pv-magazine.com/2026/03/23/european-residential-heat-pump-sales-increased-in-2025/",
-      "date": "2026-03-23T14:20:53.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
