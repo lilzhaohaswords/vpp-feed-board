@@ -1,6 +1,13 @@
 {
-  "ts": 1774438278614,
+  "ts": 1774442087792,
   "items": [
+    {
+      "title": "How many solar projects have been backed by the UK government?",
+      "url": "https://www.pv-magazine.com/2026/03/25/how-many-solar-projects-have-been-backed-by-the-uk-government/",
+      "date": "2026-03-25T12:15:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Saudi Arabia adds around 7.8 GW of solar in 2025",
       "url": "https://www.pv-magazine.com/2026/03/25/saudi-arabia-adds-around-7-8-gw-of-solar-in-2025/",
@@ -250,13 +257,6 @@
       "title": "New solar window concept integrates polymer-dispersed liquid crystal to enable switchable transparency",
       "url": "https://www.pv-magazine.com/2026/03/23/new-solar-window-concept-integrates-polymer-dispersed-liquid-crystal-to-enable-switchable-transparency/",
       "date": "2026-03-23T14:31:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Stricter rules for energy retailers as UK smart meter deployment slows",
-      "url": "https://www.pv-magazine.com/2026/03/23/stricter-rules-for-energy-retailers-as-uk-smart-meter-deployment-slows/",
-      "date": "2026-03-23T14:25:21.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
