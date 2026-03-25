@@ -1,6 +1,27 @@
 {
-  "ts": 1774431536384,
+  "ts": 1774434895224,
   "items": [
+    {
+      "title": "South Korea targets 2,500 community solar cooperatives by 2030",
+      "url": "https://www.pv-magazine.com/2026/03/25/south-korea-targets-2500-community-solar-cooperatives-by-2030/",
+      "date": "2026-03-25T10:30:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Belgium: IPP Storm raises €330 million, starts building 1.2GWh battery storage projects",
+      "url": "https://www.energy-storage.news/belgium-ipp-storm-raises-e330-million-starts-building-1-2gwh-battery-storage-projects/",
+      "date": "2026-03-25T10:28:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US will install 500GWh of new energy storage by 2031, Wood Mackenzie predicts",
+      "url": "https://www.energy-storage.news/us-will-install-500gwh-of-new-energy-storage-by-2031-wood-mackenzie-predicts/",
+      "date": "2026-03-25T10:20:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Australian science agency trials AI robots for solar farms",
       "url": "https://www.pv-magazine.com/2026/03/25/australian-science-agency-trials-ai-robots-for-solar-farms/",
@@ -254,13 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "Ghana plans to procure 200 MW of battery storage",
-      "url": "https://www.pv-magazine.com/2026/03/23/ghana-plans-to-procure-200-mw-of-battery-storage/",
-      "date": "2026-03-23T13:00:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Exclusive interview: Argentina&#8217;s Energy Secretary on BESS tender and new era for country&#8217;s energy sector",
       "url": "https://www.energy-storage.news/exclusive-interview-argentinas-energy-secretary-on-bess-tender-and-new-era-for-countrys-energy-sector/",
       "date": "2026-03-23T12:40:42.000Z",
@@ -509,20 +523,6 @@
       "title": "Cambodia welcomes ‘significant and historic achievement’ of 1GWh grid-forming battery storage project",
       "url": "https://www.energy-storage.news/cambodia-welcomes-significant-and-historic-achievement-of-1gwh-grid-forming-battery-storage-project/",
       "date": "2026-03-16T11:29:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s energy storage market faces a reckoning as rooftop solar threatens utility-scale economics",
-      "url": "https://www.energy-storage.news/australias-energy-storage-market-faces-a-reckoning-as-rooftop-solar-threatens-utility-scale-economics/",
-      "date": "2026-03-16T09:26:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New York leads US in BESS moratoriums, recent data shows",
-      "url": "https://www.energy-storage.news/new-york-leads-us-in-bess-moratoriums-recent-data-shows/",
-      "date": "2026-03-13T17:14:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
