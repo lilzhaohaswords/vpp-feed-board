@@ -1,6 +1,13 @@
 {
-  "ts": 1774454144001,
+  "ts": 1774457472689,
   "items": [
+    {
+      "title": "Second-life EV batteries approved for data center microgrid expansion",
+      "url": "https://www.pv-magazine.com/2026/03/25/second-life-ev-batteries-approved-for-data-center-microgrid-expansion/",
+      "date": "2026-03-25T16:00:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "France lowers PV feed-in tariffs for systems up to 100 kW",
       "url": "https://www.pv-magazine.com/2026/03/25/france-lowers-pv-feed-in-tariffs-for-systems-up-to-100-kw/",
@@ -258,13 +265,6 @@
       "url": "https://www.energy-storage.news/munch-energie-connects-500mwh-german-bess-cluster-to-the-grid/",
       "date": "2026-03-24T09:06:35.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Enervest begins building Australia&#8217;s largest floating solar array",
-      "url": "https://www.pv-magazine.com/2026/03/24/enervest-begins-building-australias-largest-floating-solar-array/",
-      "date": "2026-03-24T08:30:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
