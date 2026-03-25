@@ -1,6 +1,13 @@
 {
-  "ts": 1774415839690,
+  "ts": 1774421116262,
   "items": [
+    {
+      "title": "Perovskite solar cells can be made without expensive cleanrooms",
+      "url": "https://www.pv-magazine.com/2026/03/25/perovskite-solar-cells-can-be-made-without-expensive-cleanrooms/",
+      "date": "2026-03-25T06:11:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Storage-firmed renewables: Rio Tinto and Australian governments commit AU$2 billion to future-proof Boyne smelter",
       "url": "https://www.energy-storage.news/storage-firmed-renewables-rio-tinto-and-australian-governments-commit-au2-billion-to-future-proof-boyne-smelter/",
@@ -257,13 +264,6 @@
       "title": "When tiny magnets attack PV systems",
       "url": "https://www.pv-magazine.com/2026/03/23/when-tiny-magnets-attack-pv-systems/",
       "date": "2026-03-23T09:45:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Indian industry body projects 346 GWh of BESS capacity by 2033",
-      "url": "https://www.pv-magazine.com/2026/03/23/indias-bess-capacity-to-reach-346-gwh-by-2033-white-paper-finds/",
-      "date": "2026-03-23T09:20:34.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
