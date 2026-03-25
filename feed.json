@@ -1,6 +1,20 @@
 {
-  "ts": 1774447611436,
+  "ts": 1774454144001,
   "items": [
+    {
+      "title": "France lowers PV feed-in tariffs for systems up to 100 kW",
+      "url": "https://www.pv-magazine.com/2026/03/25/france-lowers-pv-feed-in-tariffs-for-systems-up-to-100-kw/",
+      "date": "2026-03-25T14:30:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "American Battery Factory secures 4.5GWh offtake agreements for Arizona LFP gigafactory",
+      "url": "https://www.energy-storage.news/american-battery-factory-secures-4-5gwh-offtake-agreements-for-arizona-lfp-gigafactory/",
+      "date": "2026-03-25T14:26:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Spain enables 50-plus renewable plants for real-time voltage control",
       "url": "https://www.pv-magazine.com/2026/03/25/spain-enables-50-plus-renewable-plants-for-real-time-voltage-control/",
@@ -250,13 +264,6 @@
       "title": "Enervest begins building Australia&#8217;s largest floating solar array",
       "url": "https://www.pv-magazine.com/2026/03/24/enervest-begins-building-australias-largest-floating-solar-array/",
       "date": "2026-03-24T08:30:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Silver prices find new floor around $70 an ounce",
-      "url": "https://www.pv-magazine.com/2026/03/24/silver-prices-find-new-floor-around-70-an-ounce/",
-      "date": "2026-03-24T08:29:33.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Ormat Technologies begins commercial operations at 320MWh California BESS",
       "url": "https://www.energy-storage.news/ormat-technologies-begins-commercial-operations-at-320mwh-california-bess/",
       "date": "2026-03-16T13:33:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US sodium-ion startup Peak Energy piloting 3.1MWh system at RWE Wisconsin lab",
-      "url": "https://www.energy-storage.news/us-sodium-ion-startup-peak-energy-piloting-3-1mwh-system-at-rwe-wisconsin-lab/",
-      "date": "2026-03-16T13:32:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
