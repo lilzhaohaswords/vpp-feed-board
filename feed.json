@@ -1,6 +1,13 @@
 {
-  "ts": 1774427619109,
+  "ts": 1774431536384,
   "items": [
+    {
+      "title": "Australian science agency trials AI robots for solar farms",
+      "url": "https://www.pv-magazine.com/2026/03/25/australian-science-agency-trials-ai-robots-for-solar-farms/",
+      "date": "2026-03-25T09:15:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US installs record 18.9 GW of energy storage in 2025",
       "url": "https://www.pv-magazine.com/2026/03/25/us-installs-record-18-9-gw-of-energy-storage-in-2025/",
@@ -258,13 +265,6 @@
       "url": "https://www.energy-storage.news/exclusive-interview-argentinas-energy-secretary-on-bess-tender-and-new-era-for-countrys-energy-sector/",
       "date": "2026-03-23T12:40:42.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil&#8217;s LRCAP battery auction demand estimated at nearly 3 GW",
-      "url": "https://www.pv-magazine.com/2026/03/23/brazils-lrcap-battery-auction-demand-estimated-at-nearly-3-gw/",
-      "date": "2026-03-23T12:08:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
