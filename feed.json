@@ -1,6 +1,41 @@
 {
-  "ts": 1774442087792,
+  "ts": 1774447611436,
   "items": [
+    {
+      "title": "Spain enables 50-plus renewable plants for real-time voltage control",
+      "url": "https://www.pv-magazine.com/2026/03/25/spain-enables-50-plus-renewable-plants-for-real-time-voltage-control/",
+      "date": "2026-03-25T13:45:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Global PV equipment market to reach 2.6 times current size by 2035",
+      "url": "https://www.pv-magazine.com/2026/03/25/global-pv-equipment-market-to-reach-2-6-times-current-size-by-2035/",
+      "date": "2026-03-25T13:00:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: BESS technology trends with Marek Kubik",
+      "url": "https://www.energy-storage.news/video-bess-technology-trends-with-marek-kubik/",
+      "date": "2026-03-25T12:58:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘It&#8217;s all about oil, isn&#8217;t it?’: BESS and EV expansion in the US vs Europe",
+      "url": "https://www.energy-storage.news/its-all-about-oil-isnt-it-bess-and-ev-expansion-in-the-us-vs-europe/",
+      "date": "2026-03-25T12:57:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Sekisui-led consortium testing film-type perovskite solar for agrivolatics",
+      "url": "https://www.pv-magazine.com/2026/03/25/sekisui-led-consortium-testing-film-type-perovskite-solar-for-agrivolatics/",
+      "date": "2026-03-25T12:47:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "How many solar projects have been backed by the UK government?",
       "url": "https://www.pv-magazine.com/2026/03/25/how-many-solar-projects-have-been-backed-by-the-uk-government/",
@@ -226,13 +261,6 @@
       "bucket": "A"
     },
     {
-      "title": "Solar and wind reach record 17% of US power generation",
-      "url": "https://www.pv-magazine.com/2026/03/24/solar-and-wind-reach-record-17-of-us-power-generation/",
-      "date": "2026-03-24T07:45:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Australia&#8217;s EPBC Act pipeline swells with 5.5GWh of battery storage across three states",
       "url": "https://www.energy-storage.news/australias-epbc-act-pipeline-swells-with-5-5gwh-of-battery-storage-across-three-states/",
       "date": "2026-03-23T23:51:44.000Z",
@@ -244,20 +272,6 @@
       "url": "https://www.energy-storage.news/culture-of-collaboration-needed-australias-nsw-pushes-energy-storage-projects-from-ambition-to-operation/",
       "date": "2026-03-23T23:01:22.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain completes testing of Europe&#8217;s largest research vanadium BESS",
-      "url": "https://www.pv-magazine.com/2026/03/23/spain-completes-testing-of-europes-largest-research-vanadium-bess/",
-      "date": "2026-03-23T15:45:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New solar window concept integrates polymer-dispersed liquid crystal to enable switchable transparency",
-      "url": "https://www.pv-magazine.com/2026/03/23/new-solar-window-concept-integrates-polymer-dispersed-liquid-crystal-to-enable-switchable-transparency/",
-      "date": "2026-03-23T14:31:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "US sodium-ion startup Peak Energy piloting 3.1MWh system at RWE Wisconsin lab",
       "url": "https://www.energy-storage.news/us-sodium-ion-startup-peak-energy-piloting-3-1mwh-system-at-rwe-wisconsin-lab/",
       "date": "2026-03-16T13:32:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Europe’s first 100GW of energy storage and what&#8217;s next, with Energy Storage Europe",
-      "url": "https://www.energy-storage.news/video-europes-first-100gw-of-energy-storage-and-whats-next-with-energy-storage-europe/",
-      "date": "2026-03-16T12:23:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Cambodia welcomes ‘significant and historic achievement’ of 1GWh grid-forming battery storage project",
-      "url": "https://www.energy-storage.news/cambodia-welcomes-significant-and-historic-achievement-of-1gwh-grid-forming-battery-storage-project/",
-      "date": "2026-03-16T11:29:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
