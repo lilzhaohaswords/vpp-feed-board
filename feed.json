@@ -1,6 +1,41 @@
 {
-  "ts": 1774528883846,
+  "ts": 1774534588649,
   "items": [
+    {
+      "title": "esVolta secures US$140 million financing for 300MWh Texas battery storage project",
+      "url": "https://www.energy-storage.news/esvolta-secures-us140-million-financing-for-300mwh-texas-battery-storage-project/",
+      "date": "2026-03-26T14:10:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Do not overlook it at pre-construction&#8217;: Gore Street Capital&#8217;s head of asset management on BESS data",
+      "url": "https://www.energy-storage.news/do-not-overlook-it-at-pre-construction-gore-street-capitals-head-of-asset-management-on-bess-data/",
+      "date": "2026-03-26T13:39:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "German pilot shows 700 EVs can provide redispatch services",
+      "url": "https://www.pv-magazine.com/2026/03/26/german-pilot-shows-700-evs-can-provide-redispatch-services/",
+      "date": "2026-03-26T13:30:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hysolar moves to take control of Suntech",
+      "url": "https://www.pv-magazine.com/2026/03/26/hysolar-moves-to-take-control-of-suntech/",
+      "date": "2026-03-26T12:45:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Agrivoltaics for turnips",
+      "url": "https://www.pv-magazine.com/2026/03/26/agrivoltaics-for-turnips/",
+      "date": "2026-03-26T12:45:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "UK solar deployment hits 22 GW as more large projects commissioned",
       "url": "https://www.pv-magazine.com/2026/03/26/uk-solar-deployment-hits-22-gw-as-more-large-projects-commissioned/",
@@ -237,27 +272,6 @@
       "url": "https://www.energy-storage.news/arevon-starts-building-1gwh-california-bess-bpp-and-energy-vault-buy-texas-projects/",
       "date": "2026-03-24T17:10:54.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "France proposes linking solar subsidies to storage as prices turn negative",
-      "url": "https://www.pv-magazine.com/2026/03/24/france-proposes-linking-solar-subsidies-to-storage-as-prices-turn-negative/",
-      "date": "2026-03-24T16:30:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar curtailment reaches Tokyo, Japan&#8217;s last holdout grid area",
-      "url": "https://www.pv-magazine.com/2026/03/24/solar-curtailment-reaches-tokyo-japans-last-holdout-grid-area/",
-      "date": "2026-03-24T15:45:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tesla advances plan to build 100 GW of U.S. PV manufacturing capacity by 2028",
-      "url": "https://www.pv-magazine.com/2026/03/24/tesla-moves-ahead-with-plan-for-100-gw-of-u-s-pv-manufacturing-capacity-by-2028/",
-      "date": "2026-03-24T14:22:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "UL9540A: New edition of key BESS fire safety standard ‘establishes new precedent’",
       "url": "https://www.energy-storage.news/ul9540a-new-edition-of-key-bess-fire-safety-standard-establishes-new-precedent/",
       "date": "2026-03-17T15:00:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Stabilisation Speed: A Key Differentiator in Utility-Scale BESS Performance",
-      "url": "https://www.energy-storage.news/stabilisation-speed-a-differentiator-in-grid-scale-bess-performance/",
-      "date": "2026-03-17T13:53:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Samsung SDI secures US$1 billion US ESS cell supply deal, USITC says China AAM imports do not hinder US industry growth",
-      "url": "https://www.energy-storage.news/samsung-sdi-secures-us1-billion-us-ess-cell-supply-deal-usitc-says-china-aam-imports-do-not-hinder-us-industry-growth/",
-      "date": "2026-03-17T13:46:57.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
