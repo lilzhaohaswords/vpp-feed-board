@@ -1,6 +1,13 @@
 {
-  "ts": 1774480891082,
+  "ts": 1774487021394,
   "items": [
+    {
+      "title": "New Zealand port demonstrates battery storage potential amid complex tariff landscape",
+      "url": "https://www.energy-storage.news/new-zealand-port-demonstrates-battery-storage-potential-amid-complex-tariff-landscape/",
+      "date": "2026-03-26T00:02:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Second-life EV batteries approved for data center microgrid expansion",
       "url": "https://www.pv-magazine.com/2026/03/25/second-life-ev-batteries-approved-for-data-center-microgrid-expansion/",
@@ -516,13 +523,6 @@
       "title": "TotalEnergies JV plans 2.7GW solar-plus-storage project to power Northern Territory green hydrogen hub",
       "url": "https://www.energy-storage.news/totalenergies-jv-plans-2-7gw-solar-plus-storage-project-to-power-northern-territory-green-hydrogen-hub/",
       "date": "2026-03-17T08:10:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ormat Technologies begins commercial operations at 320MWh California BESS",
-      "url": "https://www.energy-storage.news/ormat-technologies-begins-commercial-operations-at-320mwh-california-bess/",
-      "date": "2026-03-16T13:33:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
