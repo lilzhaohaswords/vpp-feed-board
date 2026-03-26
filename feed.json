@@ -1,6 +1,13 @@
 {
-  "ts": 1774518420519,
+  "ts": 1774521540193,
   "items": [
+    {
+      "title": "Energy transitions continue to produce spillover effects despite geopolitical tensions",
+      "url": "https://www.pv-magazine.com/2026/03/26/energy-transitions-continue-to-produce-spillover-effects-despite-geopolitical-tensions/",
+      "date": "2026-03-26T10:16:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Bluetti owner PowerOak files for Hong Kong IPO: the fourth major player in global portable energy storage",
       "url": "https://www.energy-storage.news/poweroak-files-for-hong-kong-ipo-the-fourth-major-player-in-global-portable-energy-storage/",
@@ -250,13 +257,6 @@
       "title": "Slovakia deploys 243 MW of solar in 2025",
       "url": "https://www.pv-magazine.com/2026/03/24/slovakia-deploys-243-mw-of-solar-in-2025/",
       "date": "2026-03-24T12:14:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Molecular solar battery stores energy for days, yields hydrogen on demand",
-      "url": "https://www.pv-magazine.com/2026/03/24/molecular-solar-battery-stores-energy-for-days-yields-hydrogen-on-demand/",
-      "date": "2026-03-24T12:00:54.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
