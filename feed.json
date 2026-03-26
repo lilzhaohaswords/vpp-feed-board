@@ -1,6 +1,13 @@
 {
-  "ts": 1774525109298,
+  "ts": 1774528883846,
   "items": [
+    {
+      "title": "UK solar deployment hits 22 GW as more large projects commissioned",
+      "url": "https://www.pv-magazine.com/2026/03/26/uk-solar-deployment-hits-22-gw-as-more-large-projects-commissioned/",
+      "date": "2026-03-26T12:06:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Croatia to invest €40 million in household solar, batteries, heat pumps",
       "url": "https://www.pv-magazine.com/2026/03/26/croatia-to-invest-e40-million-in-household-solar-batteries-heat-pumps/",
@@ -250,13 +257,6 @@
       "title": "Tesla advances plan to build 100 GW of U.S. PV manufacturing capacity by 2028",
       "url": "https://www.pv-magazine.com/2026/03/24/tesla-moves-ahead-with-plan-for-100-gw-of-u-s-pv-manufacturing-capacity-by-2028/",
       "date": "2026-03-24T14:22:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "GCL Optoelectronics wins China’s first commercial perovskite-silicon tandem PV module order",
-      "url": "https://www.pv-magazine.com/2026/03/24/gcl-optoelectronics-wins-chinas-first-commercial-perovskite-silicon-tandem-pv-module-order/",
-      "date": "2026-03-24T13:10:53.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
