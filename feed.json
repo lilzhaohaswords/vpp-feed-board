@@ -1,6 +1,76 @@
 {
-  "ts": 1774600515743,
+  "ts": 1774604422254,
   "items": [
+    {
+      "title": "What are the selling points of marine energy?",
+      "url": "https://www.pv-magazine.com/2026/03/27/what-are-the-selling-points-of-marine-energy/",
+      "date": "2026-03-27T09:30:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK’s first community-owned solar battery seeks investors",
+      "url": "https://www.pv-magazine.com/2026/03/27/uks-first-community-owned-solar-battery-seeks-investors/",
+      "date": "2026-03-27T09:15:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar generation performance with regional weather conditions deviating from long-term averages",
+      "url": "https://www.pv-magazine.com/2026/03/27/solar-generation-performance-with-regional-weather-conditions-deviating-from-long-term-averages/",
+      "date": "2026-03-27T09:00:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Wettest February since 2011 cuts irradiance across most of Australia",
+      "url": "https://www.pv-magazine.com/2026/03/27/wettest-february-since-2011-cuts-irradiance-across-most-of-australia/",
+      "date": "2026-03-27T09:00:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Panasonic debuts propane heat pump for light industrial, multi-residential buildings",
+      "url": "https://www.pv-magazine.com/2026/03/27/panasonic-debuts-propane-heat-pump-for-light-industrial-multi-residential-buildings/",
+      "date": "2026-03-27T08:59:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sungrow bags 1GWh BESS supply deal with ENEVO Group in Romania",
+      "url": "https://www.energy-storage.news/sungrow-bags-1gwh-bess-supply-deal-with-enevo-group-in-romania/",
+      "date": "2026-03-27T08:42:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Enphase launches AI home energy management system",
+      "url": "https://www.pv-magazine.com/2026/03/27/enphase-launches-ai-home-energy-management-system/",
+      "date": "2026-03-27T08:30:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Industry 4.0 technologies raise cyber risks for smart renewables grids",
+      "url": "https://www.pv-magazine.com/2026/03/27/industry-4-0-technologies-raise-cyber-risks-for-smart-renewable-energy-grids/",
+      "date": "2026-03-27T08:30:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Swedish scientists build bifacial chalcogenide solar cell with 15.1% efficiency",
+      "url": "https://www.pv-magazine.com/2026/03/27/swedish-scientists-build-bifacial-chalcogenide-solar-cell-with-15-1-efficiency/",
+      "date": "2026-03-27T08:00:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "California bill targets DER access to resource adequacy market",
+      "url": "https://www.pv-magazine.com/2026/03/27/california-bill-targets-der-access-to-resource-adequacy-market/",
+      "date": "2026-03-27T07:46:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Electrospray cooling can boost PV panel performance with minimal water use",
       "url": "https://www.pv-magazine.com/2026/03/27/electrospray-cooling-can-boosts-pv-panel-performance-with-minimal-water-use/",
@@ -170,38 +240,10 @@
       "bucket": "A"
     },
     {
-      "title": "Second-life EV batteries approved for data center microgrid expansion",
-      "url": "https://www.pv-magazine.com/2026/03/25/second-life-ev-batteries-approved-for-data-center-microgrid-expansion/",
-      "date": "2026-03-25T16:00:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "France lowers PV feed-in tariffs for systems up to 100 kW",
-      "url": "https://www.pv-magazine.com/2026/03/25/france-lowers-pv-feed-in-tariffs-for-systems-up-to-100-kw/",
-      "date": "2026-03-25T14:30:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "American Battery Factory secures 4.5GWh offtake agreements for Arizona LFP gigafactory",
       "url": "https://www.energy-storage.news/american-battery-factory-secures-4-5gwh-offtake-agreements-for-arizona-lfp-gigafactory/",
       "date": "2026-03-25T14:26:28.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain enables 50-plus renewable plants for real-time voltage control",
-      "url": "https://www.pv-magazine.com/2026/03/25/spain-enables-50-plus-renewable-plants-for-real-time-voltage-control/",
-      "date": "2026-03-25T13:45:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Global PV equipment market to reach 2.6 times current size by 2035",
-      "url": "https://www.pv-magazine.com/2026/03/25/global-pv-equipment-market-to-reach-2-6-times-current-size-by-2035/",
-      "date": "2026-03-25T13:00:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -219,34 +261,6 @@
       "bucket": "A"
     },
     {
-      "title": "Sekisui-led consortium testing film-type perovskite solar for agrivolatics",
-      "url": "https://www.pv-magazine.com/2026/03/25/sekisui-led-consortium-testing-film-type-perovskite-solar-for-agrivolatics/",
-      "date": "2026-03-25T12:47:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How many solar projects have been backed by the UK government?",
-      "url": "https://www.pv-magazine.com/2026/03/25/how-many-solar-projects-have-been-backed-by-the-uk-government/",
-      "date": "2026-03-25T12:15:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Saudi Arabia adds around 7.8 GW of solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/03/25/saudi-arabia-adds-around-7-8-gw-of-solar-in-2025/",
-      "date": "2026-03-25T11:02:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korea targets 2,500 community solar cooperatives by 2030",
-      "url": "https://www.pv-magazine.com/2026/03/25/south-korea-targets-2500-community-solar-cooperatives-by-2030/",
-      "date": "2026-03-25T10:30:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Belgium: IPP Storm raises €330 million, starts building 1.2GWh battery storage projects",
       "url": "https://www.energy-storage.news/belgium-ipp-storm-raises-e330-million-starts-building-1-2gwh-battery-storage-projects/",
       "date": "2026-03-25T10:28:27.000Z",
@@ -258,13 +272,6 @@
       "url": "https://www.energy-storage.news/us-will-install-500gwh-of-new-energy-storage-by-2031-wood-mackenzie-predicts/",
       "date": "2026-03-25T10:20:15.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian science agency trials AI robots for solar farms",
-      "url": "https://www.pv-magazine.com/2026/03/25/australian-science-agency-trials-ai-robots-for-solar-farms/",
-      "date": "2026-03-25T09:15:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Italy&#8217;s Terna approves 3GWh BESS; project progress elsewhere in Europe",
       "url": "https://www.energy-storage.news/italys-terna-approves-3gwh-bess-project-progress-elsewhere-in-europe/",
       "date": "2026-03-18T11:44:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Interviews with IPPs R.Power, BW ESS and Econergy at the Energy Storage Summit 2026",
-      "url": "https://www.energy-storage.news/video-interviews-with-ipps-r-power-bw-ess-and-econergy-at-the-energy-storage-summit-2026/",
-      "date": "2026-03-18T09:56:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
