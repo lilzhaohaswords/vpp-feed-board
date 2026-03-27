@@ -1,6 +1,13 @@
 {
-  "ts": 1774573423140,
+  "ts": 1774585266881,
   "items": [
+    {
+      "title": "Iberdrola Australia&#8217;s 360MWh Broadsound BESS begins commissioning in Queensland",
+      "url": "https://www.energy-storage.news/iberdrola-australias-360mwh-broadsound-bess-begins-commissioning-in-queensland/",
+      "date": "2026-03-27T01:30:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Germany classifies cybersecurity threats for energy infrastructure",
       "url": "https://www.pv-magazine.com/2026/03/26/germany-classifies-cybersecurity-threats-for-energy-infrastructure/",
@@ -516,13 +523,6 @@
       "title": "Former NEM Review chair urges industry action as Australia shifts from fuel storage to energy storage",
       "url": "https://www.energy-storage.news/former-nem-review-chair-urges-industry-action-as-australia-shifts-from-fuel-storage-to-energy-storage/",
       "date": "2026-03-18T09:40:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UL9540A: New edition of key BESS fire safety standard ‘establishes new precedent’",
-      "url": "https://www.energy-storage.news/ul9540a-new-edition-of-key-bess-fire-safety-standard-establishes-new-precedent/",
-      "date": "2026-03-17T15:00:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
