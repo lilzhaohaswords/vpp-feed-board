@@ -1,6 +1,20 @@
 {
-  "ts": 1774629520360,
+  "ts": 1774633155402,
   "items": [
+    {
+      "title": "The Hydrogen Stream: Capacity outlook grows, deals shift",
+      "url": "https://www.pv-magazine.com/2026/03/27/the-hydrogen-stream-global-hydrogen-production-capacity-could-reach-82-3-mtpa-by-2030/",
+      "date": "2026-03-27T16:50:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China PV Industry Brief: China adds 32.48 GW solar as polysilicon prices fall",
+      "url": "https://www.pv-magazine.com/2026/03/27/china-pv-industry-brief-china-adds-32-48-gw-solar-as-polysilicon-prices-fall/",
+      "date": "2026-03-27T16:40:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Agrivoltaics with trackers, vertical systems offer economic upside",
       "url": "https://www.pv-magazine.com/2026/03/27/agrivoltaics-with-trackers-vertical-systems-offer-economic-upside/",
@@ -201,20 +215,6 @@
       "title": "Agrivoltaics for turnips",
       "url": "https://www.pv-magazine.com/2026/03/26/agrivoltaics-for-turnips/",
       "date": "2026-03-26T12:45:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK solar deployment hits 22 GW as more large projects commissioned",
-      "url": "https://www.pv-magazine.com/2026/03/26/uk-solar-deployment-hits-22-gw-as-more-large-projects-commissioned/",
-      "date": "2026-03-26T12:06:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Croatia to invest €40 million in household solar, batteries, heat pumps",
-      "url": "https://www.pv-magazine.com/2026/03/26/croatia-to-invest-e40-million-in-household-solar-batteries-heat-pumps/",
-      "date": "2026-03-26T11:17:23.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
