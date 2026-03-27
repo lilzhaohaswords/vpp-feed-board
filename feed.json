@@ -1,6 +1,27 @@
 {
-  "ts": 1774591464110,
+  "ts": 1774597761558,
   "items": [
+    {
+      "title": "Electrospray cooling can boost PV panel performance with minimal water use",
+      "url": "https://www.pv-magazine.com/2026/03/27/electrospray-cooling-can-boosts-pv-panel-performance-with-minimal-water-use/",
+      "date": "2026-03-27T07:30:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China solar cell prices fall for third consecutive week as upstream costs ease",
+      "url": "https://www.pv-magazine.com/2026/03/27/china-solar-cell-prices-fall-for-third-consecutive-week-as-upstream-costs-ease/",
+      "date": "2026-03-27T06:53:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Akuo building 80MW/220MWh Portugal BESS for 2027 completion",
+      "url": "https://www.energy-storage.news/akuo-building-80mw-220mwh-portugal-bess-for-2027-completion/",
+      "date": "2026-03-27T06:18:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Iberdrola Australia&#8217;s 360MWh Broadsound BESS begins commissioning in Queensland",
       "url": "https://www.energy-storage.news/iberdrola-australias-360mwh-broadsound-bess-begins-commissioning-in-queensland/",
@@ -243,20 +264,6 @@
       "title": "Australian science agency trials AI robots for solar farms",
       "url": "https://www.pv-magazine.com/2026/03/25/australian-science-agency-trials-ai-robots-for-solar-farms/",
       "date": "2026-03-25T09:15:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US installs record 18.9 GW of energy storage in 2025",
-      "url": "https://www.pv-magazine.com/2026/03/25/us-installs-record-18-9-gw-of-energy-storage-in-2025/",
-      "date": "2026-03-25T08:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Smart meters are vulnerable gateways to cyberattacks",
-      "url": "https://www.pv-magazine.com/2026/03/25/smart-meters-are-vulnerable-gateways-to-cyberattacks/",
-      "date": "2026-03-25T07:58:30.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "VIDEO: Interviews with IPPs R.Power, BW ESS and Econergy at the Energy Storage Summit 2026",
       "url": "https://www.energy-storage.news/video-interviews-with-ipps-r-power-bw-ess-and-econergy-at-the-energy-storage-summit-2026/",
       "date": "2026-03-18T09:56:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Former NEM Review chair urges industry action as Australia shifts from fuel storage to energy storage",
-      "url": "https://www.energy-storage.news/former-nem-review-chair-urges-industry-action-as-australia-shifts-from-fuel-storage-to-energy-storage/",
-      "date": "2026-03-18T09:40:51.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
