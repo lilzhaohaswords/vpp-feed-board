@@ -1,6 +1,20 @@
 {
-  "ts": 1774604422254,
+  "ts": 1774607656064,
   "items": [
+    {
+      "title": "Form Energy signs 12GWh agreement to supply multi-day iron-air batteries to new US AI data centres",
+      "url": "https://www.energy-storage.news/form-energy-signs-12gwh-agreement-to-supply-multi-day-iron-air-batteries-to-new-us-ai-data-centres/",
+      "date": "2026-03-27T10:23:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Inland Rail deploys solar-powered level crossings in Australia",
+      "url": "https://www.pv-magazine.com/2026/03/27/inland-rail-deploys-solar-powered-level-crossings-in-australia/",
+      "date": "2026-03-27T10:00:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "What are the selling points of marine energy?",
       "url": "https://www.pv-magazine.com/2026/03/27/what-are-the-selling-points-of-marine-energy/",
@@ -215,13 +229,6 @@
       "title": "Solar sheep grazing delivers margins up to 40% in new study",
       "url": "https://www.pv-magazine.com/2026/03/26/solar-sheep-grazing-delivers-margins-up-to-40-in-new-study/",
       "date": "2026-03-26T07:45:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Nulite launches PV-driven residential heat pump",
-      "url": "https://www.pv-magazine.com/2026/03/26/nulite-launches-pv-driven-residential-heat-pump/",
-      "date": "2026-03-26T07:34:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "US renewables and battery storage are poised for sustained growth as data centre demand accelerates",
       "url": "https://www.energy-storage.news/us-renewables-and-battery-storage-are-poised-for-sustained-growth-as-data-centre-demand-accelerates/",
       "date": "2026-03-18T12:26:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy&#8217;s Terna approves 3GWh BESS; project progress elsewhere in Europe",
-      "url": "https://www.energy-storage.news/italys-terna-approves-3gwh-bess-project-progress-elsewhere-in-europe/",
-      "date": "2026-03-18T11:44:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
