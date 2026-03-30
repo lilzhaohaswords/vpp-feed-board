@@ -1,6 +1,48 @@
 {
-  "ts": 1774851694438,
+  "ts": 1774858363997,
   "items": [
+    {
+      "title": "Pushing perovskite solar cells to the ultimate thickness limit",
+      "url": "https://www.pv-magazine.com/2026/03/30/pushing-perovskite-solar-cells-to-the-ultimate-thickness-limit/",
+      "date": "2026-03-30T08:09:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Grid-forming technology, from niche application to standard requirement",
+      "url": "https://www.energy-storage.news/video-grid-forming-technology-from-niche-application-to-standard-requirement/",
+      "date": "2026-03-30T07:40:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Indonesia’s path to 100 GW of solar",
+      "url": "https://www.pv-magazine.com/2026/03/30/indonesias-path-to-100-gw-of-solar/",
+      "date": "2026-03-30T07:30:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tongwei moves into hybrid heterojunction back contact solar cell technology",
+      "url": "https://www.pv-magazine.com/2026/03/30/tongwei-moves-into-hybrid-heterojunction-back-contact-solar-cell-technology/",
+      "date": "2026-03-30T07:10:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Beware of cleaning photovoltaic panels with dishwashing detergent",
+      "url": "https://www.pv-magazine.com/2026/03/30/beware-of-cleaning-photovoltaic-panels-with-dishwashing-detergent/",
+      "date": "2026-03-30T06:50:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "DIY plug-in solar shows $0.65/W potential in US market",
+      "url": "https://www.pv-magazine.com/2026/03/30/diy-plug-in-solar-shows-0-65-w-potential-in-us-market/",
+      "date": "2026-03-30T06:45:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "1.6GWh grid-forming Rutherglen Battery receives EPBC Act approval in Australia",
       "url": "https://www.energy-storage.news/1-6gwh-grid-forming-rutherglen-battery-receives-epbc-act-approval-in-australia/",
@@ -177,20 +219,6 @@
       "bucket": "A"
     },
     {
-      "title": "Germany classifies cybersecurity threats for energy infrastructure",
-      "url": "https://www.pv-magazine.com/2026/03/26/germany-classifies-cybersecurity-threats-for-energy-infrastructure/",
-      "date": "2026-03-26T15:45:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Austria deploys 1.63 GW of solar in 2025",
-      "url": "https://www.pv-magazine.com/2026/03/26/austria-deploys-1-63-gw-of-solar-in-2025/",
-      "date": "2026-03-26T15:18:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "esVolta secures US$140 million financing for 300MWh Texas battery storage project",
       "url": "https://www.energy-storage.news/esvolta-secures-us140-million-financing-for-300mwh-texas-battery-storage-project/",
       "date": "2026-03-26T14:10:52.000Z",
@@ -202,27 +230,6 @@
       "url": "https://www.energy-storage.news/do-not-overlook-it-at-pre-construction-gore-street-capitals-head-of-asset-management-on-bess-data/",
       "date": "2026-03-26T13:39:02.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "German pilot shows 700 EVs can provide redispatch services",
-      "url": "https://www.pv-magazine.com/2026/03/26/german-pilot-shows-700-evs-can-provide-redispatch-services/",
-      "date": "2026-03-26T13:30:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hysolar moves to take control of Suntech",
-      "url": "https://www.pv-magazine.com/2026/03/26/hysolar-moves-to-take-control-of-suntech/",
-      "date": "2026-03-26T12:45:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Agrivoltaics for turnips",
-      "url": "https://www.pv-magazine.com/2026/03/26/agrivoltaics-for-turnips/",
-      "date": "2026-03-26T12:45:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Ascend Analytics on combining AI trading with human insight to maximise US energy storage values",
       "url": "https://www.energy-storage.news/ascend-analytics-on-combining-ai-trading-with-human-insight-to-maximise-us-energy-storage-values/",
       "date": "2026-03-18T12:32:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Over 17GWh of BESS deployed globally in February 2026",
-      "url": "https://www.energy-storage.news/over-17gwh-of-bess-deployed-globally-in-february-2026/",
-      "date": "2026-03-18T12:27:55.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
