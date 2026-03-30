@@ -1,6 +1,13 @@
 {
-  "ts": 1774870989929,
+  "ts": 1774874616255,
   "items": [
+    {
+      "title": "Multi-year field study finds that agrivoltaics can support healthy potato yields",
+      "url": "https://www.pv-magazine.com/2026/03/30/multi-year-field-study-suggest-that-agrivoltaics-can-support-healthy-potato-yields/",
+      "date": "2026-03-30T12:00:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "UK defining stronger energy cybersecurity rules after Poland attack",
       "url": "https://www.pv-magazine.com/2026/03/30/uk-defining-stronger-energy-cybersecurity-rules-after-poland-attack/",
@@ -194,13 +201,6 @@
       "title": "Solar generation performance with regional weather conditions deviating from long-term averages",
       "url": "https://www.pv-magazine.com/2026/03/27/solar-generation-performance-with-regional-weather-conditions-deviating-from-long-term-averages/",
       "date": "2026-03-27T09:00:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Wettest February since 2011 cuts irradiance across most of Australia",
-      "url": "https://www.pv-magazine.com/2026/03/27/wettest-february-since-2011-cuts-irradiance-across-most-of-australia/",
-      "date": "2026-03-27T09:00:34.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
