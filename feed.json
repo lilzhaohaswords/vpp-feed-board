@@ -1,18 +1,11 @@
 {
-  "ts": 1774943896661,
+  "ts": 1774947126099,
   "items": [
     {
-      "title": "A Bug’s Life Under Solar Farms",
-      "url": "https://www.pv-magazine.com/2026/03/31/bug-life-under-solar-farms/",
-      "date": "2026-03-31T07:30:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "RayGen rolls out 1 MW ‘solar hydro’ power plant in Brazil",
-      "url": "https://www.pv-magazine.com/2026/03/31/raygen-rolls-out-1-mw-solar-hydro-power-plant-in-brazil/",
-      "date": "2026-03-31T07:30:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
+      "title": "What end-to-end visibility reveals about hidden BESS safety risks",
+      "url": "https://www.energy-storage.news/what-end-to-end-visibility-reveals-about-hidden-bess-safety-risks/",
+      "date": "2026-03-31T08:21:29.000Z",
+      "source": "Energy Storage News",
       "bucket": "A"
     },
     {
@@ -23,59 +16,10 @@
       "bucket": "A"
     },
     {
-      "title": "UNSW unveils new ageing method to assess TOPCon solar module degradation",
-      "url": "https://www.pv-magazine.com/2026/03/31/unsw-unveils-new-ageing-method-to-assess-topcon-solar-module-degradation/",
-      "date": "2026-03-31T07:00:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Hithium signs 3GWh long-duration BESS agreement with APAC investor Brawn Capital",
       "url": "https://www.energy-storage.news/hithium-signs-3gwh-long-duration-bess-agreement-with-apac-investor-brawn-capital/",
       "date": "2026-03-31T06:53:59.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy targets 16 GWh storage auction under MACSE scheme",
-      "url": "https://www.pv-magazine.com/2026/03/31/italy-targets-16-gwh-storage-auction-under-macse-scheme/",
-      "date": "2026-03-31T06:45:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Extensive testing validates reuse of 23-year-old second-life polycrystalline solar modules",
-      "url": "https://www.pv-magazine.com/2026/03/31/extensive-testing-validates-reuse-of-23-year-old-second-life-polycrystalline-solar-modules/",
-      "date": "2026-03-31T06:30:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bhutan opens rooftop, ground-mounted solar tender",
-      "url": "https://www.pv-magazine.com/2026/03/31/bhutan-opens-rooftop-ground-mounted-solar-tender/",
-      "date": "2026-03-31T06:00:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "JinkoSolar drops Vietnam solar manufacturing project",
-      "url": "https://www.pv-magazine.com/2026/03/31/jinkosolar-abandons-plans-to-build-solar-manufacturing-complex-in-vietnam/",
-      "date": "2026-03-31T05:30:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. national laboratories lead multi-agency push for solar cybersecurity standards",
-      "url": "https://www.pv-magazine.com/2026/03/31/u-s-national-laboratories-lead-multi-agency-push-for-solar-cybersecurity-standards/",
-      "date": "2026-03-31T05:00:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Premier Energies commissions 5.6 GW solar module facility in India",
-      "url": "https://www.pv-magazine.com/2026/03/31/premier-energies-commissions-5-6-gw-solar-module-facility-in-india/",
-      "date": "2026-03-31T04:30:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -93,55 +37,6 @@
       "bucket": "A"
     },
     {
-      "title": "IFC loans $125 million for polysilicon factory in Malaysia",
-      "url": "https://www.pv-magazine.com/2026/03/30/ifc-loans-125-million-for-polysilicon-factory-in-malaysia/",
-      "date": "2026-03-30T13:54:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How perovskite solar cells age under temperature stress",
-      "url": "https://www.pv-magazine.com/2026/03/30/how-perovskite-cells-age-under-temperature-stress/",
-      "date": "2026-03-30T13:30:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US startup begins manufacturing grid-scale flywheel ESS",
-      "url": "https://www.pv-magazine.com/2026/03/30/us-startup-begins-manufacturing-grid-scale-flywheel-ess/",
-      "date": "2026-03-30T13:21:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Multi-year field study finds that agrivoltaics can support healthy potato yields",
-      "url": "https://www.pv-magazine.com/2026/03/30/multi-year-field-study-suggest-that-agrivoltaics-can-support-healthy-potato-yields/",
-      "date": "2026-03-30T12:00:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK defining stronger energy cybersecurity rules after Poland attack",
-      "url": "https://www.pv-magazine.com/2026/03/30/uk-defining-stronger-energy-cybersecurity-rules-after-poland-attack/",
-      "date": "2026-03-30T11:01:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Adani Green commissions 951 MW solar, hybrid capacity in India",
-      "url": "https://www.pv-magazine.com/2026/03/30/adani-green-commissions-951-mw-solar-hybrid-capacity-in-india/",
-      "date": "2026-03-30T11:00:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sodium-ion cells launched for energy storage by another Chinese mid-tier battery company",
-      "url": "https://www.pv-magazine.com/2026/03/30/sodium-ion-cells-launched-for-energy-storage-by-another-chinese-mid-tier-battery-company/",
-      "date": "2026-03-30T09:55:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "European BESS route-to-market optimisers Entrix, GridBeyond raise €55 million",
       "url": "https://www.energy-storage.news/european-bess-route-to-market-optimisers-entrix-gridbeyond-raise-e55-million/",
       "date": "2026-03-30T09:48:36.000Z",
@@ -149,73 +44,10 @@
       "bucket": "A"
     },
     {
-      "title": "Lithuania’s solar capacity surpasses 3 GW",
-      "url": "https://www.pv-magazine.com/2026/03/30/lithuanias-solar-capacity-surpasses-3-gw/",
-      "date": "2026-03-30T09:18:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "PV, storage to anchor Ireland’s first co-located data center campus",
-      "url": "https://www.pv-magazine.com/2026/03/30/pv-and-storage-will-be-central-to-irelands-first-co-located-data-center-and-renewables-campus/",
-      "date": "2026-03-30T09:15:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Portable data centers target curtailment, grid constraints",
-      "url": "https://www.pv-magazine.com/2026/03/30/portable-data-centers-target-curtailment-grid-constraints/",
-      "date": "2026-03-30T08:15:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan’s Kyocera, Cosmo Energy units enter solar, wind PPAs",
-      "url": "https://www.pv-magazine.com/2026/03/30/japans-kyocera-cosmo-energy-units-enter-solar-wind-ppas/",
-      "date": "2026-03-30T08:14:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pushing perovskite solar cells to the ultimate thickness limit",
-      "url": "https://www.pv-magazine.com/2026/03/30/pushing-perovskite-solar-cells-to-the-ultimate-thickness-limit/",
-      "date": "2026-03-30T08:09:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "VIDEO: Grid-forming technology, from niche application to standard requirement",
       "url": "https://www.energy-storage.news/video-grid-forming-technology-from-niche-application-to-standard-requirement/",
       "date": "2026-03-30T07:40:28.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Indonesia’s path to 100 GW of solar",
-      "url": "https://www.pv-magazine.com/2026/03/30/indonesias-path-to-100-gw-of-solar/",
-      "date": "2026-03-30T07:30:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tongwei moves into hybrid heterojunction back contact solar cell technology",
-      "url": "https://www.pv-magazine.com/2026/03/30/tongwei-moves-into-hybrid-heterojunction-back-contact-solar-cell-technology/",
-      "date": "2026-03-30T07:10:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Beware of cleaning photovoltaic panels with dishwashing detergent",
-      "url": "https://www.pv-magazine.com/2026/03/30/beware-of-cleaning-photovoltaic-panels-with-dishwashing-detergent/",
-      "date": "2026-03-30T06:50:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "DIY plug-in solar shows $0.65/W potential in US market",
-      "url": "https://www.pv-magazine.com/2026/03/30/diy-plug-in-solar-shows-0-65-w-potential-in-us-market/",
-      "date": "2026-03-30T06:45:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +348,6 @@
       "title": "Sigenergy&#8217;s Tony Xu: Defining the Next Chapter of Energy Storage with AI + Gigafactories",
       "url": "https://www.energy-storage.news/sigenergys-tony-xu-defining-the-next-chapter-of-energy-storage-with-ai-gigafactories/",
       "date": "2026-03-19T12:53:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US Roundup: solar-plus-storage projects advance across the country",
-      "url": "https://www.energy-storage.news/us-roundup-solar-plus-storage-projects-advance-across-the-country/",
-      "date": "2026-03-19T12:23:20.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
