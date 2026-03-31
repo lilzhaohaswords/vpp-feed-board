@@ -1,6 +1,20 @@
 {
-  "ts": 1774957042853,
+  "ts": 1774960952151,
   "items": [
+    {
+      "title": "TerraSpark, Dcubed to test space solar on SpaceX 2027 mission",
+      "url": "https://www.pv-magazine.com/2026/03/31/space-based-solar-startup-terraspark-to-join-spacex-and-dcubed-on-solar-array-demo-mission/",
+      "date": "2026-03-31T12:30:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Michigan approves 1,332MW of BESS with 332MW supporting Oracle data centre",
+      "url": "https://www.energy-storage.news/michigan-approves-1332mw-of-bess-with-332mw-supporting-oracle-data-centre/",
+      "date": "2026-03-31T11:58:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "100-hour LDES battery technologies from Form, Noon and Ore: how do they compare?",
       "url": "https://www.energy-storage.news/100-hour-ldes-battery-technologies-from-form-noon-and-ore-how-do-they-compare/",
@@ -58,7 +72,7 @@
       "bucket": "A"
     },
     {
-      "title": "A Bug’s Life Under Solar Farms",
+      "title": "Solar parks reshape soil biodiversity, plant traits",
       "url": "https://www.pv-magazine.com/2026/03/31/bug-life-under-solar-farms/",
       "date": "2026-03-31T07:30:28.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -222,13 +236,6 @@
       "title": "Portable data centers target curtailment, grid constraints",
       "url": "https://www.pv-magazine.com/2026/03/30/portable-data-centers-target-curtailment-grid-constraints/",
       "date": "2026-03-30T08:15:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan’s Kyocera, Cosmo Energy units enter solar, wind PPAs",
-      "url": "https://www.pv-magazine.com/2026/03/30/japans-kyocera-cosmo-energy-units-enter-solar-wind-ppas/",
-      "date": "2026-03-30T08:14:53.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Island commissioning to battery oversizing: Key lessons from AGL&#8217;s 1GWh grid-forming Liddell BESS in Australia",
       "url": "https://www.energy-storage.news/island-commissioning-to-battery-oversizing-key-lessons-from-agls-1gwh-grid-forming-liddell-bess-in-australia/",
       "date": "2026-03-19T23:10:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US 100-hour battery startup Form Energy’s first overseas deployment ‘set to fill a critical gap in Ireland’s power system’",
-      "url": "https://www.energy-storage.news/us-100-hour-battery-startup-form-energys-first-overseas-deployment-set-to-fill-a-critical-gap-in-irelands-power-system/",
-      "date": "2026-03-19T15:09:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
