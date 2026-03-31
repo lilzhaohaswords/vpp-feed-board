@@ -1,6 +1,20 @@
 {
-  "ts": 1774960952151,
+  "ts": 1774966764074,
   "items": [
+    {
+      "title": "Azerbaijan commissions 500 MWh battery storage project",
+      "url": "https://www.pv-magazine.com/2026/03/31/azerbaijan-commissions-500-mwh-battery-storage-project/",
+      "date": "2026-03-31T14:00:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BBDF 2026 opening session: optimism, caution, and grid fees",
+      "url": "https://www.pv-magazine.com/2026/03/31/bbdf-2026-opening-session-optimism-caution-and-grid-fees/",
+      "date": "2026-03-31T13:01:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "TerraSpark, Dcubed to test space solar on SpaceX 2027 mission",
       "url": "https://www.pv-magazine.com/2026/03/31/space-based-solar-startup-terraspark-to-join-spacex-and-dcubed-on-solar-array-demo-mission/",
@@ -222,20 +236,6 @@
       "title": "Lithuania’s solar capacity surpasses 3 GW",
       "url": "https://www.pv-magazine.com/2026/03/30/lithuanias-solar-capacity-surpasses-3-gw/",
       "date": "2026-03-30T09:18:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "PV, storage to anchor Ireland’s first co-located data center campus",
-      "url": "https://www.pv-magazine.com/2026/03/30/pv-and-storage-will-be-central-to-irelands-first-co-located-data-center-and-renewables-campus/",
-      "date": "2026-03-30T09:15:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Portable data centers target curtailment, grid constraints",
-      "url": "https://www.pv-magazine.com/2026/03/30/portable-data-centers-target-curtailment-grid-constraints/",
-      "date": "2026-03-30T08:15:16.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
