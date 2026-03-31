@@ -1,6 +1,55 @@
 {
-  "ts": 1774937246543,
+  "ts": 1774943896661,
   "items": [
+    {
+      "title": "A Bug’s Life Under Solar Farms",
+      "url": "https://www.pv-magazine.com/2026/03/31/bug-life-under-solar-farms/",
+      "date": "2026-03-31T07:30:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "RayGen rolls out 1 MW ‘solar hydro’ power plant in Brazil",
+      "url": "https://www.pv-magazine.com/2026/03/31/raygen-rolls-out-1-mw-solar-hydro-power-plant-in-brazil/",
+      "date": "2026-03-31T07:30:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "ROUNDUP: Non-lithium energy storage system technology advances in US, Spain, and Scotland",
+      "url": "https://www.energy-storage.news/roundup-non-lithium-energy-storage-system-technology-advances-in-us-spain-and-scotland/",
+      "date": "2026-03-31T07:01:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "UNSW unveils new ageing method to assess TOPCon solar module degradation",
+      "url": "https://www.pv-magazine.com/2026/03/31/unsw-unveils-new-ageing-method-to-assess-topcon-solar-module-degradation/",
+      "date": "2026-03-31T07:00:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hithium signs 3GWh long-duration BESS agreement with APAC investor Brawn Capital",
+      "url": "https://www.energy-storage.news/hithium-signs-3gwh-long-duration-bess-agreement-with-apac-investor-brawn-capital/",
+      "date": "2026-03-31T06:53:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy targets 16 GWh storage auction under MACSE scheme",
+      "url": "https://www.pv-magazine.com/2026/03/31/italy-targets-16-gwh-storage-auction-under-macse-scheme/",
+      "date": "2026-03-31T06:45:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Extensive testing validates reuse of 23-year-old second-life polycrystalline solar modules",
+      "url": "https://www.pv-magazine.com/2026/03/31/extensive-testing-validates-reuse-of-23-year-old-second-life-polycrystalline-solar-modules/",
+      "date": "2026-03-31T06:30:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Bhutan opens rooftop, ground-mounted solar tender",
       "url": "https://www.pv-magazine.com/2026/03/31/bhutan-opens-rooftop-ground-mounted-solar-tender/",
@@ -174,41 +223,6 @@
       "url": "https://www.energy-storage.news/1-6gwh-grid-forming-rutherglen-battery-receives-epbc-act-approval-in-australia/",
       "date": "2026-03-30T01:30:14.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Capacity outlook grows, deals shift",
-      "url": "https://www.pv-magazine.com/2026/03/27/the-hydrogen-stream-global-hydrogen-production-capacity-could-reach-82-3-mtpa-by-2030/",
-      "date": "2026-03-27T16:50:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China PV Industry Brief: China adds 32.48 GW solar as polysilicon prices fall",
-      "url": "https://www.pv-magazine.com/2026/03/27/china-pv-industry-brief-china-adds-32-48-gw-solar-as-polysilicon-prices-fall/",
-      "date": "2026-03-27T16:40:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Agrivoltaics with trackers, vertical systems offer economic upside",
-      "url": "https://www.pv-magazine.com/2026/03/27/agrivoltaics-with-trackers-vertical-systems-offer-economic-upside/",
-      "date": "2026-03-27T16:00:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bluetti targets home backup with fridge-focused battery system",
-      "url": "https://www.pv-magazine.com/2026/03/27/bluetti-targets-home-backup-with-fridge-focused-battery-system/",
-      "date": "2026-03-27T15:13:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Be kind to yourself and patient with your journey&#8217;",
-      "url": "https://www.pv-magazine.com/2026/03/27/be-kind-to-yourself-and-patient-with-your-journey/",
-      "date": "2026-03-27T14:22:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "US Roundup: solar-plus-storage projects advance across the country",
       "url": "https://www.energy-storage.news/us-roundup-solar-plus-storage-projects-advance-across-the-country/",
       "date": "2026-03-19T12:23:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BESS prices set to increase in short-term, but technology will &#8216;continue to move goal posts&#8217; long-term",
-      "url": "https://www.energy-storage.news/bess-prices-set-to-increase-in-short-term-but-technology-will-continue-to-move-goal-posts-long-term/",
-      "date": "2026-03-19T12:20:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery storage projects win 1.8GW in UK capacity market auctions",
-      "url": "https://www.energy-storage.news/battery-storage-projects-win-1-8gw-in-uk-capacity-market-auctions/",
-      "date": "2026-03-19T09:18:50.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
