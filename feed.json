@@ -1,6 +1,27 @@
 {
-  "ts": 1774953659682,
+  "ts": 1774957042853,
   "items": [
+    {
+      "title": "100-hour LDES battery technologies from Form, Noon and Ore: how do they compare?",
+      "url": "https://www.energy-storage.news/100-hour-ldes-battery-technologies-from-form-noon-and-ore-how-do-they-compare/",
+      "date": "2026-03-31T11:15:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "German rooftop PV tender undersubscribed as prices hold",
+      "url": "https://www.pv-magazine.com/2026/03/31/german-rooftop-pv-tender-undersubscribed-as-prices-hold/",
+      "date": "2026-03-31T11:05:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU energy regulator opens consultation into PPA market",
+      "url": "https://www.pv-magazine.com/2026/03/31/eu-energy-regulator-opens-consultation-into-ppa-market/",
+      "date": "2026-03-31T11:00:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Philippines accelerates grid entry for 1.28 GW of solar",
       "url": "https://www.pv-magazine.com/2026/03/31/philippines-accelerates-grid-entry-for-1-28-gw-of-solar/",
@@ -212,24 +233,10 @@
       "bucket": "A"
     },
     {
-      "title": "Pushing perovskite solar cells to the ultimate thickness limit",
-      "url": "https://www.pv-magazine.com/2026/03/30/pushing-perovskite-solar-cells-to-the-ultimate-thickness-limit/",
-      "date": "2026-03-30T08:09:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "VIDEO: Grid-forming technology, from niche application to standard requirement",
       "url": "https://www.energy-storage.news/video-grid-forming-technology-from-niche-application-to-standard-requirement/",
       "date": "2026-03-30T07:40:28.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Indonesia’s path to 100 GW of solar",
-      "url": "https://www.pv-magazine.com/2026/03/30/indonesias-path-to-100-gw-of-solar/",
-      "date": "2026-03-30T07:30:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "US 100-hour battery startup Form Energy’s first overseas deployment ‘set to fill a critical gap in Ireland’s power system’",
       "url": "https://www.energy-storage.news/us-100-hour-battery-startup-form-energys-first-overseas-deployment-set-to-fill-a-critical-gap-in-irelands-power-system/",
       "date": "2026-03-19T15:09:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘No one cares about analytics. They care about outcomes.’: ACCURE on US BESS performance",
-      "url": "https://www.energy-storage.news/no-one-cares-about-analytics-they-care-about-outcomes-accure-on-us-bess-performance/",
-      "date": "2026-03-19T13:02:11.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
