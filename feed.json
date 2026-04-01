@@ -1,6 +1,27 @@
 {
-  "ts": 1775047449281,
+  "ts": 1775053333082,
   "items": [
+    {
+      "title": "Germany’s heat pump public discourse is positive but volatile",
+      "url": "https://www.pv-magazine.com/2026/04/01/germanys-heat-pump-public-discourse-is-positive-but-volatile/",
+      "date": "2026-04-01T13:18:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO – Energy Storage Summit 2026: What does life after MACSE look like in Italy?",
+      "url": "https://www.energy-storage.news/video-ess-2026-what-does-life-after-macse-look-like-in-italy/",
+      "date": "2026-04-01T13:18:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EnerVenue closes US$300 million Series B for 30,000-cycle nickel-hydrogen battery manufacturing",
+      "url": "https://www.energy-storage.news/enervenue-closes-us300-million-series-b-for-30000-cycle-nickel-hydrogen-battery-manufacturing/",
+      "date": "2026-04-01T12:53:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Solar Fabrik launches 400 W red-brown module for heritage roofs",
       "url": "https://www.pv-magazine.com/2026/04/01/solar-fabrik-launches-400-w-red-brown-module-for-heritage-roofs/",
@@ -230,13 +251,6 @@
       "url": "https://www.energy-storage.news/roundup-non-lithium-energy-storage-system-technology-advances-in-us-spain-and-scotland/",
       "date": "2026-03-31T07:01:20.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UNSW unveils new ageing method to assess TOPCon solar module degradation",
-      "url": "https://www.pv-magazine.com/2026/03/31/unsw-unveils-new-ageing-method-to-assess-topcon-solar-module-degradation/",
-      "date": "2026-03-31T07:00:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "‘US battery manufacturing will surpass 100% of demand’, US ESC report states",
       "url": "https://www.energy-storage.news/us-battery-manufacturing-will-surpass-100-of-demand-us-esc-report-states/",
       "date": "2026-03-20T13:15:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy Vault continues to diversify as it experiences Q4, full year 2025 growth",
-      "url": "https://www.energy-storage.news/energy-vault-continues-to-diversify-as-it-experiences-q4-full-year-2025-growth/",
-      "date": "2026-03-20T13:11:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Financial strategies for energy storage assets, beyond arbitrage",
-      "url": "https://www.energy-storage.news/video-financial-strategies-for-energy-storage-assets-beyond-arbitrage/",
-      "date": "2026-03-20T11:51:28.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
