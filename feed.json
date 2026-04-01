@@ -1,6 +1,13 @@
 {
-  "ts": 1774999258069,
+  "ts": 1775005896729,
   "items": [
+    {
+      "title": "&#8216;We learned more in the past six months than the past six years&#8217;: Australian battery storage lenders navigate merchant risk",
+      "url": "https://www.energy-storage.news/we-learned-more-in-the-past-six-months-than-the-past-six-years-australian-battery-storage-lenders-navigate-merchant-risk/",
+      "date": "2026-04-01T01:00:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "BBDF 2026: Finance, tolling, and getting the merchant balance right",
       "url": "https://www.pv-magazine.com/2026/03/31/bbdf-2026-finance-tolling-and-getting-the-merchant-balance-right/",
@@ -516,13 +523,6 @@
       "title": "Australia’s CSIRO demonstrates world&#8217;s first working quantum battery prototype",
       "url": "https://www.energy-storage.news/australias-csiro-demonstrates-worlds-first-working-quantum-battery-prototype/",
       "date": "2026-03-20T00:28:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Island commissioning to battery oversizing: Key lessons from AGL&#8217;s 1GWh grid-forming Liddell BESS in Australia",
-      "url": "https://www.energy-storage.news/island-commissioning-to-battery-oversizing-key-lessons-from-agls-1gwh-grid-forming-liddell-bess-in-australia/",
-      "date": "2026-03-19T23:10:12.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
