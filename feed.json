@@ -1,6 +1,13 @@
 {
-  "ts": 1775043604279,
+  "ts": 1775047449281,
   "items": [
+    {
+      "title": "Solar Fabrik launches 400 W red-brown module for heritage roofs",
+      "url": "https://www.pv-magazine.com/2026/04/01/solar-fabrik-launches-400-w-red-brown-module-for-heritage-roofs/",
+      "date": "2026-04-01T12:00:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "BBDF: German network agency to release BESS grid fee framework soon",
       "url": "https://www.pv-magazine.com/2026/04/01/bbdf-german-network-agency-to-release-bess-grid-fee-framework-soon/",
@@ -237,13 +244,6 @@
       "url": "https://www.energy-storage.news/hithium-signs-3gwh-long-duration-bess-agreement-with-apac-investor-brawn-capital/",
       "date": "2026-03-31T06:53:59.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy targets 16 GWh storage auction under MACSE scheme",
-      "url": "https://www.pv-magazine.com/2026/03/31/italy-targets-16-gwh-storage-auction-under-macse-scheme/",
-      "date": "2026-03-31T06:45:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
