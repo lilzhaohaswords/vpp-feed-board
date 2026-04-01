@@ -1,6 +1,41 @@
 {
-  "ts": 1775024306337,
+  "ts": 1775030749017,
   "items": [
+    {
+      "title": "Grid bottlenecks threaten 120 GW of planned renewables in Europe",
+      "url": "https://www.pv-magazine.com/2026/04/01/grid-bottlenecks-threaten-120-gw-of-planned-renewables-in-europe/",
+      "date": "2026-04-01T07:43:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tracker-based agrivoltaics turn fields into wind-safe zones",
+      "url": "https://www.pv-magazine.com/2026/04/01/tracker-based-agrivoltaics-turn-fields-into-wind-safe-zones/",
+      "date": "2026-04-01T07:32:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "ClearVue secures IEC certification for metal-backed solar panels",
+      "url": "https://www.pv-magazine.com/2026/04/01/clearvue-secures-iec-certification-for-metal-backed-solar-panels/",
+      "date": "2026-04-01T07:30:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US small-scale solar hits record 1.9 GW in Q4 2025",
+      "url": "https://www.pv-magazine.com/2026/04/01/us-small-scale-solar-hits-record-1-9-gw-in-q4-2025/",
+      "date": "2026-04-01T06:45:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ion beam technology offers pathway to low-defect silicon solar cells",
+      "url": "https://www.pv-magazine.com/2026/04/01/ion-beam-technology-offers-pathway-to-low-defect-silicon-solar-cells/",
+      "date": "2026-04-01T06:39:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Japan’s first capacity market-contracted BESS brought online by Hexa Energy",
       "url": "https://www.energy-storage.news/japans-first-capacity-market-contracted-bess-brought-online-by-hexa-energy/",
@@ -208,41 +243,6 @@
       "title": "IFC loans $125 million for polysilicon factory in Malaysia",
       "url": "https://www.pv-magazine.com/2026/03/30/ifc-loans-125-million-for-polysilicon-factory-in-malaysia/",
       "date": "2026-03-30T13:54:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How perovskite solar cells age under temperature stress",
-      "url": "https://www.pv-magazine.com/2026/03/30/how-perovskite-cells-age-under-temperature-stress/",
-      "date": "2026-03-30T13:30:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US startup begins manufacturing grid-scale flywheel ESS",
-      "url": "https://www.pv-magazine.com/2026/03/30/us-startup-begins-manufacturing-grid-scale-flywheel-ess/",
-      "date": "2026-03-30T13:21:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Multi-year field study finds that agrivoltaics can support healthy potato yields",
-      "url": "https://www.pv-magazine.com/2026/03/30/multi-year-field-study-suggest-that-agrivoltaics-can-support-healthy-potato-yields/",
-      "date": "2026-03-30T12:00:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK defining stronger energy cybersecurity rules after Poland attack",
-      "url": "https://www.pv-magazine.com/2026/03/30/uk-defining-stronger-energy-cybersecurity-rules-after-poland-attack/",
-      "date": "2026-03-30T11:01:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Adani Green commissions 951 MW solar, hybrid capacity in India",
-      "url": "https://www.pv-magazine.com/2026/03/30/adani-green-commissions-951-mw-solar-hybrid-capacity-in-india/",
-      "date": "2026-03-30T11:00:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
