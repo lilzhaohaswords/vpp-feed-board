@@ -1,6 +1,20 @@
 {
-  "ts": 1775129699958,
+  "ts": 1775133576784,
   "items": [
+    {
+      "title": "US solar faces 53,000-worker gap ahead of 2026 deadline",
+      "url": "https://www.pv-magazine.com/2026/04/02/us-solar-faces-53000-worker-gap-ahead-of-2026-deadline/",
+      "date": "2026-04-02T12:00:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "ROUNDUP: Aypa’s US$500 million credit facility upsizing, Georgia Power begins construction on 260MW BESS, Eolus sells 506MWh BESS to DESRI",
+      "url": "https://www.energy-storage.news/roundup-aypas-us500-million-credit-facility-upsizing-georgia-power-begins-construction-on-260mw-bess-eolus-sells-506mwh-bess-to-desri/",
+      "date": "2026-04-02T11:35:18.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sonnen cuts prices for large residential battery products",
       "url": "https://www.pv-magazine.com/2026/04/02/sonnen-cuts-prices-for-large-residential-battery-products/",
@@ -229,13 +243,6 @@
       "title": "US small-scale solar hits record 1.9 GW in Q4 2025",
       "url": "https://www.pv-magazine.com/2026/04/01/us-small-scale-solar-hits-record-1-9-gw-in-q4-2025/",
       "date": "2026-04-01T06:45:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ion beam technology offers pathway to low-defect silicon solar cells",
-      "url": "https://www.pv-magazine.com/2026/04/01/ion-beam-technology-offers-pathway-to-low-defect-silicon-solar-cells/",
-      "date": "2026-04-01T06:39:49.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Estonian state-owned firm Eesti Energia to add BESS totalling 184MWh to Lithuania wind farms",
       "url": "https://www.energy-storage.news/estonian-state-owned-firm-eesti-energia-to-add-bess-totalling-184mwh-to-lithuania-wind-farms/",
       "date": "2026-03-23T14:14:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Exclusive interview: Argentina&#8217;s Energy Secretary on BESS tender and new era for country&#8217;s energy sector",
-      "url": "https://www.energy-storage.news/exclusive-interview-argentinas-energy-secretary-on-bess-tender-and-new-era-for-countrys-energy-sector/",
-      "date": "2026-03-23T12:40:42.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
