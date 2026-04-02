@@ -1,6 +1,27 @@
 {
-  "ts": 1775123223310,
+  "ts": 1775126325830,
   "items": [
+    {
+      "title": "Global solar additions reached record 511 GW in 2025, says IRENA",
+      "url": "https://www.pv-magazine.com/2026/04/02/global-solar-additions-reached-record-511-gw-in-2025-says-irena/",
+      "date": "2026-04-02T10:37:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO – Energy Storage Summit 2026: Assessing Germany&#8217;s unique merchant opportunities",
+      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-assessing-germanys-unique-merchant-opportunities/",
+      "date": "2026-04-02T10:35:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Romanian investment platform looks to open up BESS project financing to retail investors",
+      "url": "https://www.energy-storage.news/romanian-investment-platform-looks-to-open-up-bess-project-financing-to-retail-investors/",
+      "date": "2026-04-02T09:46:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "UK BESS ROUNDUP: SSE commissions 300MWh unit, Matrix, Drax and Voltaria progress projects",
       "url": "https://www.energy-storage.news/uk-bess-roundup-sse-commissions-300mwh-unit-matrix-drax-and-voltaria-progress-projects/",
@@ -229,13 +250,6 @@
       "title": "BBDF 2026: Finance, tolling, and getting the merchant balance right",
       "url": "https://www.pv-magazine.com/2026/03/31/bbdf-2026-finance-tolling-and-getting-the-merchant-balance-right/",
       "date": "2026-03-31T16:53:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Middle East conflict lifting PPA valuations, says Pexapark",
-      "url": "https://www.pv-magazine.com/2026/03/31/middle-east-conflict-lifting-ppa-valuations-says-pexapark/",
-      "date": "2026-03-31T15:00:06.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Exclusive interview: Argentina&#8217;s Energy Secretary on BESS tender and new era for country&#8217;s energy sector",
       "url": "https://www.energy-storage.news/exclusive-interview-argentinas-energy-secretary-on-bess-tender-and-new-era-for-countrys-energy-sector/",
       "date": "2026-03-23T12:40:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India: ACME Solar commissions 480MWh of BESS, readies for FDRE and peak supply deals",
-      "url": "https://www.energy-storage.news/india-acme-solar-commissions-480mwh-of-bess-readies-for-fdre-and-peak-supply-deals/",
-      "date": "2026-03-23T08:40:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: 1.6GWh Belah BESS submitted for approval as 590MWh Mornington project enters AEMO commissioning",
-      "url": "https://www.energy-storage.news/australia-1-6gwh-belah-bess-submitted-for-approval-as-590mwh-mornington-project-enters-aemo-commissioning/",
-      "date": "2026-03-23T03:54:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
