@@ -1,6 +1,13 @@
 {
-  "ts": 1775091720262,
+  "ts": 1775103279709,
   "items": [
+    {
+      "title": "New vanadium flow battery player Eora Energy launches in Australia with mining and date centre focus",
+      "url": "https://www.energy-storage.news/new-vanadium-flow-battery-player-eora-energy-launches-in-australia-with-mining-and-date-centre-focus/",
+      "date": "2026-04-02T01:57:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Key takeaways from Chile&#8217;s Re+ Cono sur",
       "url": "https://www.pv-magazine.com/2026/04/01/key-takeaways-from-chiles-re-cono-sur/",
@@ -516,13 +523,6 @@
       "title": "Quinbrook bags EPBC Act approval for 780MW Supernode North BESS in Australia",
       "url": "https://www.energy-storage.news/quinbrook-bags-epbc-act-approval-for-780mw-supernode-north-bess-in-australia/",
       "date": "2026-03-23T03:48:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘US battery manufacturing will surpass 100% of demand’, US ESC report states",
-      "url": "https://www.energy-storage.news/us-battery-manufacturing-will-surpass-100-of-demand-us-esc-report-states/",
-      "date": "2026-03-20T13:15:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
