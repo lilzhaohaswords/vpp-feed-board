@@ -1,6 +1,20 @@
 {
-  "ts": 1775116516632,
+  "ts": 1775119293419,
   "items": [
+    {
+      "title": "Australia’s Transgrid shortlists 2 GW of batteries for NSW grid",
+      "url": "https://www.pv-magazine.com/2026/04/02/australias-transgrid-shortlists-2-gw-of-batteries-for-nsw-grid/",
+      "date": "2026-04-02T08:30:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Amid Europe&#8217;s energy storage boom, residential batteries offer new trading potential",
+      "url": "https://www.energy-storage.news/amid-europes-energy-storage-boom-residential-batteries-offer-new-trading-potential/",
+      "date": "2026-04-02T08:29:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "TotalEnergies, Masdar to merge renewables activities in nine Asian countries",
       "url": "https://www.pv-magazine.com/2026/04/02/totalenergies-masdar-to-merge-renewables-activities-in-nine-asian-countries/",
@@ -215,13 +229,6 @@
       "title": "BBDF 2026 Opening Session: Optimism, caution, and grid fees",
       "url": "https://www.pv-magazine.com/2026/03/31/bbdf-2026-opening-session-optimism-caution-and-grid-fees/",
       "date": "2026-03-31T13:01:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "TerraSpark, Dcubed to test space solar on SpaceX 2027 mission",
-      "url": "https://www.pv-magazine.com/2026/03/31/space-based-solar-startup-terraspark-to-join-spacex-and-dcubed-on-solar-array-demo-mission/",
-      "date": "2026-03-31T12:30:08.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "AGL commissioning &#8216;ambitious&#8217; 1,000MWh Liddell grid-forming BESS in Australia",
       "url": "https://www.energy-storage.news/agl-commissioning-ambitious-1000mwh-liddell-grid-forming-bess-in-australia/",
       "date": "2026-03-23T03:51:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Quinbrook bags EPBC Act approval for 780MW Supernode North BESS in Australia",
-      "url": "https://www.energy-storage.news/quinbrook-bags-epbc-act-approval-for-780mw-supernode-north-bess-in-australia/",
-      "date": "2026-03-23T03:48:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
