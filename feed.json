@@ -1,6 +1,20 @@
 {
-  "ts": 1775139154614,
+  "ts": 1775144717998,
   "items": [
+    {
+      "title": "TNO unveils 12.4%-efficient perovksite solar tile",
+      "url": "https://www.pv-magazine.com/2026/04/02/tno-unveils-12-4-efficient-perovksite-solar-tile/",
+      "date": "2026-04-02T15:16:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France introduces cybersecurity, sustainability requirements in solar tenders",
+      "url": "https://www.pv-magazine.com/2026/04/02/france-introduces-cybersecurity-sustainability-requirements-in-solar-tenders/",
+      "date": "2026-04-02T15:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Reno planning commission approves permit for 200MW Trego Grid BESS project",
       "url": "https://www.energy-storage.news/reno-planning-commission-approves-permit-for-200mw-trego-grid-bess-project/",
@@ -236,20 +250,6 @@
       "title": "Grid bottlenecks threaten 120 GW of planned renewables in Europe",
       "url": "https://www.pv-magazine.com/2026/04/01/grid-bottlenecks-threaten-120-gw-of-planned-renewables-in-europe/",
       "date": "2026-04-01T07:43:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tracker-based agrivoltaics turn fields into wind-safe zones",
-      "url": "https://www.pv-magazine.com/2026/04/01/tracker-based-agrivoltaics-turn-fields-into-wind-safe-zones/",
-      "date": "2026-04-01T07:32:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ClearVue secures IEC certification for metal-backed solar panels",
-      "url": "https://www.pv-magazine.com/2026/04/01/clearvue-secures-iec-certification-for-metal-backed-solar-panels/",
-      "date": "2026-04-01T07:30:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
