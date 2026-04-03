@@ -1,6 +1,20 @@
 {
-  "ts": 1775224375113,
+  "ts": 1775226782929,
   "items": [
+    {
+      "title": "TCL Zhonghuan to acquire control of DAS Solar in consolidation move",
+      "url": "https://www.pv-magazine.com/2026/04/03/tcl-zhonghuan-to-acquire-control-of-das-solar-in-consolidation-move/",
+      "date": "2026-04-03T14:15:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO – Energy Storage Summit 2026: How can you ensure quality and performance when buying BESS?",
+      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-how-can-you-ensure-quality-and-performance-when-buying-bess/",
+      "date": "2026-04-03T14:02:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Malaysia&#8217;s solar capacity surpasses 5.7 GW",
       "url": "https://www.pv-magazine.com/2026/04/03/malaysias-solar-capacity-surpasses-5-7-gw/",
@@ -209,13 +223,6 @@
       "url": "https://www.energy-storage.news/amid-europes-energy-storage-boom-residential-batteries-offer-new-trading-potential/",
       "date": "2026-04-02T08:29:14.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "TotalEnergies, Masdar to merge renewables activities in nine Asian countries",
-      "url": "https://www.pv-magazine.com/2026/04/02/totalenergies-masdar-to-merge-renewables-activities-in-nine-asian-countries/",
-      "date": "2026-04-02T07:44:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "&#8216;Culture of collaboration needed&#8217;: Australia’s NSW pushes energy storage projects from ambition to operation",
       "url": "https://www.energy-storage.news/culture-of-collaboration-needed-australias-nsw-pushes-energy-storage-projects-from-ambition-to-operation/",
       "date": "2026-03-23T23:01:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Elevate Renewables developing 600MWh New Jersey BESS through state&#8217;s energy storage programme",
-      "url": "https://www.energy-storage.news/elevate-renewables-developing-600mwh-new-jersey-bess-through-states-energy-storage-programme/",
-      "date": "2026-03-23T14:16:28.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
