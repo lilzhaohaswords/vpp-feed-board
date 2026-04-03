@@ -1,6 +1,20 @@
 {
-  "ts": 1775215659104,
+  "ts": 1775219532719,
   "items": [
+    {
+      "title": "Hydro-Québec launches grant for residential, commercial solar",
+      "url": "https://www.pv-magazine.com/2026/04/03/hydro-quebec-launches-grant-for-residential-commercial-solar/",
+      "date": "2026-04-03T12:30:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Heat dome and high pressure boost southern US solar as polar vortex clouds the north",
+      "url": "https://www.pv-magazine.com/2026/04/03/heat-dome-and-high-pressure-boost-southern-us-solar-as-polar-vortex-clouds-the-north/",
+      "date": "2026-04-03T12:00:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Agratas advances 20 GWh battery plant in western India",
       "url": "https://www.pv-magazine.com/2026/04/03/agratas-advances-20-gwh-battery-plant-in-western-india/",
@@ -201,20 +215,6 @@
       "title": "Longi launches integrated solar-plus-storage platform strategy",
       "url": "https://www.pv-magazine.com/2026/04/02/longi-launches-integrated-solar-plus-storage-platform-strategy/",
       "date": "2026-04-02T07:31:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UNSW study finds tracker-based PV systems experience higher UV degradation than fixed-tilt arrays",
-      "url": "https://www.pv-magazine.com/2026/04/02/unsw-study-finds-tracker-based-pv-systems-experience-higher-uv-degradation-than-fixed-tilt-arrays/",
-      "date": "2026-04-02T07:28:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US adds 26.6 GW of solar in 2025 as renewables dominate",
-      "url": "https://www.pv-magazine.com/2026/04/02/us-adds-26-6-gw-of-solar-in-2025-as-renewables-dominate/",
-      "date": "2026-04-02T06:45:21.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
