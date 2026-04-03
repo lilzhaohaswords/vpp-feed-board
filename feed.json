@@ -1,6 +1,13 @@
 {
-  "ts": 1775209255262,
+  "ts": 1775212230173,
   "items": [
+    {
+      "title": "Zambia tenders 300 MW of solar",
+      "url": "https://www.pv-magazine.com/2026/04/03/zambia-tenders-300-mw-of-solar-under-feed-in-premium-program/",
+      "date": "2026-04-03T10:00:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Rooftop solar now accounts for one-fifth of Puerto Rico’s generation capacity",
       "url": "https://www.pv-magazine.com/2026/04/03/rooftop-solar-now-accounts-for-one-fifth-of-puerto-ricos-generation-capacity/",
@@ -216,13 +223,6 @@
       "url": "https://www.energy-storage.news/new-vanadium-flow-battery-player-eora-energy-launches-in-australia-with-mining-and-date-centre-focus/",
       "date": "2026-04-02T01:57:38.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Key takeaways from Chile&#8217;s Re+ Cono sur",
-      "url": "https://www.pv-magazine.com/2026/04/01/key-takeaways-from-chiles-re-cono-sur/",
-      "date": "2026-04-01T15:50:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
