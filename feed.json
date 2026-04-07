@@ -1,6 +1,13 @@
 {
-  "ts": 1775571758789,
+  "ts": 1775577659283,
   "items": [
+    {
+      "title": "AI-enabled hacks expose remote shutdown risk in microinverters",
+      "url": "https://www.pv-magazine.com/2026/04/07/microinverters-hacked-with-ai-coordinated-remote-shutdown-possible/",
+      "date": "2026-04-07T15:50:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Greek utility completes 2.13 GW solar cluster at former coal mine",
       "url": "https://www.pv-magazine.com/2026/04/07/greek-utility-completes-2-13-gw-solar-cluster-at-former-coal-mine/",
@@ -215,13 +222,6 @@
       "title": "New Time targets large-scale perovskite production in Italy",
       "url": "https://www.pv-magazine.com/2026/04/06/new-time-targets-large-scale-perovskite-production-in-italy/",
       "date": "2026-04-06T07:30:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How much agrivoltaic shading is enough",
-      "url": "https://www.pv-magazine.com/2026/04/06/how-much-shading-do-agrivoltaics-really-need/",
-      "date": "2026-04-06T07:00:56.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
