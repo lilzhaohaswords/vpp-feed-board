@@ -1,6 +1,41 @@
 {
-  "ts": 1775562092747,
+  "ts": 1775566019169,
   "items": [
+    {
+      "title": "Aroma Solar launches 1.2 GW module factory in India",
+      "url": "https://www.pv-magazine.com/2026/04/07/aroma-solar-launches-1-2-gw-module-factory-in-india/",
+      "date": "2026-04-07T12:30:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "CO2 battery startup Energy Dome signs MOU to deploy technology at Texas data centre",
+      "url": "https://www.energy-storage.news/co2-battery-startup-energy-dome-signs-mou-to-deploy-technology-at-texas-data-centre/",
+      "date": "2026-04-07T12:19:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Boralex, Six Nations of the Grand River secure US$145 million financing for 500MWh Ontario BESS",
+      "url": "https://www.energy-storage.news/boralex-six-nations-of-the-grand-river-secure-us145-million-financing-for-500mwh-ontario-bess/",
+      "date": "2026-04-07T11:59:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "North Dakota approves certificate of site compatibility for 400MWh BESS from NextEra Energy Resources",
+      "url": "https://www.energy-storage.news/north-dakota-approves-certificate-of-site-compatibility-for-400mwh-bess-from-nextera-energy-resources/",
+      "date": "2026-04-07T11:51:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "CATL, Envision sodium-ion BESS cells among next-gen tech and solutions showcased at Beijing expo ESIE 2026",
+      "url": "https://www.energy-storage.news/catl-envision-sodium-ion-bess-cells-among-next-gen-tech-and-solutions-showcased-at-beijing-expo-esie-2026/",
+      "date": "2026-04-07T11:45:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Cornex unveils new 165 Ah sodium-ion prismatic cell for stationary energy storage",
       "url": "https://www.pv-magazine.com/2026/04/07/cornex-unveils-new-165-ah-sodium-ion-prismatic-cell-for-stationary-energy-storage/",
@@ -187,13 +222,6 @@
       "title": "Chinese PV Industry Brief: Sungrow storage overtakes inverters in 2025",
       "url": "https://www.pv-magazine.com/2026/04/03/chinese-pv-industry-brief-sungrow-revenue-up-15-as-storage-surpasses-inverters/",
       "date": "2026-04-03T15:30:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "TCL Zhonghuan to acquire control of DAS Solar in consolidation move",
-      "url": "https://www.pv-magazine.com/2026/04/03/tcl-zhonghuan-to-acquire-control-of-das-solar-in-consolidation-move/",
-      "date": "2026-04-03T14:15:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -495,34 +523,6 @@
       "title": "Arevon starts building 1GWh California BESS; BPP and Energy Vault buy Texas projects",
       "url": "https://www.energy-storage.news/arevon-starts-building-1gwh-california-bess-bpp-and-energy-vault-buy-texas-projects/",
       "date": "2026-03-24T17:10:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Nebraska advances energy storage and data centre-focused bill",
-      "url": "https://www.energy-storage.news/nebraska-advances-energy-storage-and-data-centre-focused-bill/",
-      "date": "2026-03-24T11:34:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy Storage Awards 2026 opens for entries: It’s time to shine and show the world",
-      "url": "https://www.energy-storage.news/energy-storage-awards-2026-opens-for-entries-its-time-to-shine-and-show-the-world/",
-      "date": "2026-03-24T11:20:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ERCOT after RTC+B: How real-time optimisation is reshaping battery storage economics",
-      "url": "https://www.energy-storage.news/ercot-after-rtcb-how-real-time-optimisation-is-reshaping-battery-storage-economics/",
-      "date": "2026-03-24T11:18:09.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Grid-forming, LDES and solar hybrids in Europe, with Envision Energy&#8217;s Michael Koller",
-      "url": "https://www.energy-storage.news/video-grid-forming-ldes-and-solar-hybrids-in-europe-with-envision-energys-michael-koller/",
-      "date": "2026-03-24T10:12:42.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
