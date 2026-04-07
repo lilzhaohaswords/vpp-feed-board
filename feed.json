@@ -1,6 +1,13 @@
 {
-  "ts": 1775597504496,
+  "ts": 1775600655588,
   "items": [
+    {
+      "title": "VIDEO: Extracting more value from battery storage assets in Australia’s NEM",
+      "url": "https://www.energy-storage.news/video-extracting-more-value-from-battery-storage-assets-in-australias-nem/",
+      "date": "2026-04-07T22:11:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "AI-enabled hacks expose remote shutdown risk in microinverters",
       "url": "https://www.pv-magazine.com/2026/04/07/microinverters-hacked-with-ai-coordinated-remote-shutdown-possible/",
@@ -516,13 +523,6 @@
       "title": "Ausgrid&#8217;s 400MWh Steel River East BESS clears NSW planning hurdle despite community opposition",
       "url": "https://www.energy-storage.news/ausgrids-400mwh-steel-river-east-bess-clears-nsw-planning-hurdle-despite-community-opposition/",
       "date": "2026-03-25T01:44:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Arevon starts building 1GWh California BESS; BPP and Energy Vault buy Texas projects",
-      "url": "https://www.energy-storage.news/arevon-starts-building-1gwh-california-bess-bpp-and-energy-vault-buy-texas-projects/",
-      "date": "2026-03-24T17:10:54.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
