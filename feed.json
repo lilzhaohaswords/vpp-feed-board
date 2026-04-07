@@ -1,6 +1,20 @@
 {
-  "ts": 1775555667010,
+  "ts": 1775558609895,
   "items": [
+    {
+      "title": "Neoen enlists Nidec for 496MWh France BESS, launches Japan project",
+      "url": "https://www.energy-storage.news/neoen-enlists-nidec-for-496mwh-france-bess-launches-japan-project/",
+      "date": "2026-04-07T10:04:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "FlexGen acquires US battery storage and solar commissioning services provider CES",
+      "url": "https://www.energy-storage.news/flexgen-acquires-us-battery-storage-and-solar-commissioning-services-provider-ces/",
+      "date": "2026-04-07T09:56:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Austrian manufacturer offers modular air-to-water propane heat pumps",
       "url": "https://www.pv-magazine.com/2026/04/07/austrian-manufacturer-debuts-air-to-water-propane-heat-pump-series/",
@@ -509,20 +523,6 @@
       "title": "VIDEO: Grid-forming, LDES and solar hybrids in Europe, with Envision Energy&#8217;s Michael Koller",
       "url": "https://www.energy-storage.news/video-grid-forming-ldes-and-solar-hybrids-in-europe-with-envision-energys-michael-koller/",
       "date": "2026-03-24T10:12:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Munch Energie connects 500MWh German BESS cluster to the grid",
-      "url": "https://www.energy-storage.news/munch-energie-connects-500mwh-german-bess-cluster-to-the-grid/",
-      "date": "2026-03-24T09:06:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s EPBC Act pipeline swells with 5.5GWh of battery storage across three states",
-      "url": "https://www.energy-storage.news/australias-epbc-act-pipeline-swells-with-5-5gwh-of-battery-storage-across-three-states/",
-      "date": "2026-03-23T23:51:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
