@@ -1,6 +1,27 @@
 {
-  "ts": 1775642076886,
+  "ts": 1775645083716,
   "items": [
+    {
+      "title": "Vertical rooftop PV debuts in the U.S.",
+      "url": "https://www.pv-magazine.com/2026/04/08/vertical-rooftop-pv-debuts-in-the-u-s/",
+      "date": "2026-04-08T10:38:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Canada&#8217;s smallest province, Prince Edward Island, issues REOI for up to 50MW of BESS",
+      "url": "https://www.energy-storage.news/canadas-smallest-province-prince-edward-island-issues-reoi-for-up-to-50mw-of-bess/",
+      "date": "2026-04-08T10:18:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "IPPs Zelestra, BNZ adding BESS to solar PV plants in Southern Europe",
+      "url": "https://www.energy-storage.news/ipps-zelestra-bnz-adding-bess-to-solar-pv-plants-in-southern-europe/",
+      "date": "2026-04-08T10:10:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Which power markets are most impacted by the Middle East conflict?",
       "url": "https://www.pv-magazine.com/2026/04/08/which-power-markets-are-most-impacted-by-the-middle-east-conflict/",
@@ -222,13 +243,6 @@
       "title": "TBEA unveils grid-forming converter for large-scale storage, renewables",
       "url": "https://www.pv-magazine.com/2026/04/07/tbea-unveils-grid-forming-converter-for-large-scale-storage-renewables/",
       "date": "2026-04-07T06:02:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tigo releases modular battery for residential PV",
-      "url": "https://www.pv-magazine.com/2026/04/07/tigo-launches-modular-battery-for-residential-pv/",
-      "date": "2026-04-07T05:51:50.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Belgium: IPP Storm raises €330 million, starts building 1.2GWh battery storage projects",
       "url": "https://www.energy-storage.news/belgium-ipp-storm-raises-e330-million-starts-building-1-2gwh-battery-storage-projects/",
       "date": "2026-03-25T10:28:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US will install 500GWh of new energy storage by 2031, Wood Mackenzie predicts",
-      "url": "https://www.energy-storage.news/us-will-install-500gwh-of-new-energy-storage-by-2031-wood-mackenzie-predicts/",
-      "date": "2026-03-25T10:20:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Storage-firmed renewables: Rio Tinto and Australian governments commit AU$2 billion to future-proof Boyne smelter",
-      "url": "https://www.energy-storage.news/storage-firmed-renewables-rio-tinto-and-australian-governments-commit-au2-billion-to-future-proof-boyne-smelter/",
-      "date": "2026-03-25T01:47:39.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
