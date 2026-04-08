@@ -1,6 +1,55 @@
 {
-  "ts": 1775628736524,
+  "ts": 1775635406919,
   "items": [
+    {
+      "title": "Titanium emerges as a vanadium alternative for redox flow batteries",
+      "url": "https://www.pv-magazine.com/2026/04/08/titanium-emerges-as-a-vanadium-alternative-in-redox-flow-batteries/",
+      "date": "2026-04-08T08:00:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Japanese business heavyweights in Tokyu Land’s US$190 million BESS investment consortium",
+      "url": "https://www.energy-storage.news/japanese-business-heavyweights-in-tokyu-lands-us190-million-bess-investment-consortium/",
+      "date": "2026-04-08T07:45:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Bangladesh plans 442 MW solar facility near coal power plant",
+      "url": "https://www.pv-magazine.com/2026/04/08/bangladesh-plans-442-mw-solar-facility-near-coal-power-plant/",
+      "date": "2026-04-08T07:30:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spark secures Australian approval for massive solar and battery project",
+      "url": "https://www.pv-magazine.com/2026/04/08/spark-secures-australian-approval-for-massive-solar-and-battery-project/",
+      "date": "2026-04-08T07:30:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar keeps slimming down while power rises",
+      "url": "https://www.pv-magazine.com/2026/04/08/solar-keep-slimming-down-while-power-rises/",
+      "date": "2026-04-08T07:00:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Inverter-based resource performance history leads to US regulatory change",
+      "url": "https://www.pv-magazine.com/2026/04/08/inverter-based-resource-performance-history-leads-to-us-regulatory-change/",
+      "date": "2026-04-08T06:45:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Switzerland deploys 1.52 GW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/04/08/switzerland-deploys-1-52-gw-of-solar-in-2025/",
+      "date": "2026-04-08T06:30:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Inpow unveils 587 Ah semi-solid-state storage cell",
       "url": "https://www.pv-magazine.com/2026/04/08/inpow-unveils-587-ah-semi-solid-state-storage-cell/",
@@ -187,48 +236,6 @@
       "title": "Solar, mining groups partner to improve mineral traceability",
       "url": "https://www.pv-magazine.com/2026/04/06/solar-mining-groups-partner-to-improve-mineral-traceability/",
       "date": "2026-04-06T11:00:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Photovoltaics are, first and foremost, about energy security&#8217;",
-      "url": "https://www.pv-magazine.com/2026/04/06/photovoltaics-are-first-and-foremost-about-energy-security/",
-      "date": "2026-04-06T09:30:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US solar module prices face upward pressure",
-      "url": "https://www.pv-magazine.com/2026/04/06/u-s-solar-module-prices-face-upward-pressure/",
-      "date": "2026-04-06T09:00:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Conductive smart hydrogels as battery electrolytes: Promising for lithium, sodium, and zinc-ion chemistries",
-      "url": "https://www.pv-magazine.com/2026/04/06/conductive-smart-hydrogels-as-battery-electrolytes-promising-for-lithium-sodium-and-zinc-ion-chemistries/",
-      "date": "2026-04-06T08:30:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Electrification alone may not shield firms from gas-linked prices",
-      "url": "https://www.pv-magazine.com/2026/04/06/electrification-alone-may-not-shield-firms-from-gas-linked-prices/",
-      "date": "2026-04-06T08:15:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "All emerging cyber threats targeting power infrastructure at a glance",
-      "url": "https://www.pv-magazine.com/2026/04/06/all-emerging-cyber-threats-targeting-power-infrastructure-at-a-glance/",
-      "date": "2026-04-06T08:00:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The impact of annealing on copper-plated heterojunction solar cells",
-      "url": "https://www.pv-magazine.com/2026/04/06/the-impact-of-annealing-on-copper-plated-contacts-in-heterojunction-solar-cells/",
-      "date": "2026-04-06T07:30:54.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Storage-firmed renewables: Rio Tinto and Australian governments commit AU$2 billion to future-proof Boyne smelter",
       "url": "https://www.energy-storage.news/storage-firmed-renewables-rio-tinto-and-australian-governments-commit-au2-billion-to-future-proof-boyne-smelter/",
       "date": "2026-03-25T01:47:39.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ausgrid&#8217;s 400MWh Steel River East BESS clears NSW planning hurdle despite community opposition",
-      "url": "https://www.energy-storage.news/ausgrids-400mwh-steel-river-east-bess-clears-nsw-planning-hurdle-despite-community-opposition/",
-      "date": "2026-03-25T01:44:25.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
