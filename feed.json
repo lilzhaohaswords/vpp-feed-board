@@ -1,6 +1,13 @@
 {
-  "ts": 1775622230869,
+  "ts": 1775628736524,
   "items": [
+    {
+      "title": "Inpow unveils 587 Ah semi-solid-state storage cell",
+      "url": "https://www.pv-magazine.com/2026/04/08/inpow-unveils-587-ah-semi-solid-state-storage-cell/",
+      "date": "2026-04-08T06:00:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "VIDEO: Extracting more value from battery storage assets in Australia’s NEM",
       "url": "https://www.energy-storage.news/video-extracting-more-value-from-battery-storage-assets-in-australias-nem/",
@@ -222,13 +229,6 @@
       "title": "The impact of annealing on copper-plated heterojunction solar cells",
       "url": "https://www.pv-magazine.com/2026/04/06/the-impact-of-annealing-on-copper-plated-contacts-in-heterojunction-solar-cells/",
       "date": "2026-04-06T07:30:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New Time targets large-scale perovskite production in Italy",
-      "url": "https://www.pv-magazine.com/2026/04/06/new-time-targets-large-scale-perovskite-production-in-italy/",
-      "date": "2026-04-06T07:30:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
