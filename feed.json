@@ -1,6 +1,27 @@
 {
-  "ts": 1775739089871,
+  "ts": 1775745927076,
   "items": [
+    {
+      "title": "Anker Solix launches 7 kWh plug-in battery targeting rooftop solar retrofits",
+      "url": "https://www.pv-magazine.com/2026/04/09/anker-solix-launches-7-kwh-plug-in-battery-targeting-rooftop-solar-retrofits/",
+      "date": "2026-04-09T14:32:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO &#8211; Energy Storage Summit 2026: What is the outlook for BESS Capex this year?",
+      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-what-is-the-outlook-for-bess-capex-this-year/",
+      "date": "2026-04-09T13:42:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Data center energy spend rivals global solar investment",
+      "url": "https://www.pv-magazine.com/2026/04/09/data-center-energy-spend-rivals-global-solar-investment/",
+      "date": "2026-04-09T13:15:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "How to delaminate end-of-life solar modules with ultrasonic cavitation",
       "url": "https://www.pv-magazine.com/2026/04/09/how-to-delaminate-end-of-life-solar-modules-with-ultrasonic-cavitation/",
@@ -226,24 +247,10 @@
       "bucket": "A"
     },
     {
-      "title": "Titanium emerges as a vanadium alternative for redox flow batteries",
-      "url": "https://www.pv-magazine.com/2026/04/08/titanium-emerges-as-a-vanadium-alternative-in-redox-flow-batteries/",
-      "date": "2026-04-08T08:00:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Japanese business heavyweights in Tokyu Land’s US$190 million BESS investment consortium",
       "url": "https://www.energy-storage.news/japanese-business-heavyweights-in-tokyu-lands-us190-million-bess-investment-consortium/",
       "date": "2026-04-08T07:45:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Bangladesh plans 442 MW solar facility near coal power plant",
-      "url": "https://www.pv-magazine.com/2026/04/08/bangladesh-plans-442-mw-solar-facility-near-coal-power-plant/",
-      "date": "2026-04-08T07:30:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "&#8216;Do not overlook it at pre-construction&#8217;: Gore Street Capital&#8217;s head of asset management on BESS data",
       "url": "https://www.energy-storage.news/do-not-overlook-it-at-pre-construction-gore-street-capitals-head-of-asset-management-on-bess-data/",
       "date": "2026-03-26T13:39:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Bluetti owner PowerOak files for Hong Kong IPO: the fourth major player in global portable energy storage",
-      "url": "https://www.energy-storage.news/poweroak-files-for-hong-kong-ipo-the-fourth-major-player-in-global-portable-energy-storage/",
-      "date": "2026-03-26T09:01:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
