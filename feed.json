@@ -1,6 +1,27 @@
 {
-  "ts": 1775734869744,
+  "ts": 1775739089871,
   "items": [
+    {
+      "title": "How to delaminate end-of-life solar modules with ultrasonic cavitation",
+      "url": "https://www.pv-magazine.com/2026/04/09/how-to-delaminate-end-of-life-solar-modules-with-ultrasonic-cavitation/",
+      "date": "2026-04-09T12:19:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Aggreko to deliver ‘Australia’s largest’ off-grid renewable hybrid power plant",
+      "url": "https://www.pv-magazine.com/2026/04/09/aggreko-to-deliver-australias-largest-off-grid-renewable-hybrid-power-plant/",
+      "date": "2026-04-09T12:19:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "GridStor, Axpo execute energy storage revenue swap agreement for 440MWh Texas BESS",
+      "url": "https://www.energy-storage.news/gridstor-axpo-execute-energy-storage-revenue-swap-agreement-for-440mwh-texas-bess/",
+      "date": "2026-04-09T12:10:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "How LECO process could push TOPCon solar cell efficiency beyond 26%",
       "url": "https://www.pv-magazine.com/2026/04/09/how-leco-process-could-push-topcon-solar-cell-efficiency-beyond-26/",
@@ -222,20 +243,6 @@
       "title": "Bangladesh plans 442 MW solar facility near coal power plant",
       "url": "https://www.pv-magazine.com/2026/04/08/bangladesh-plans-442-mw-solar-facility-near-coal-power-plant/",
       "date": "2026-04-08T07:30:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spark secures Australian approval for massive solar and battery project",
-      "url": "https://www.pv-magazine.com/2026/04/08/spark-secures-australian-approval-for-massive-solar-and-battery-project/",
-      "date": "2026-04-08T07:30:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar keeps slimming down while power rises",
-      "url": "https://www.pv-magazine.com/2026/04/08/solar-keep-slimming-down-while-power-rises/",
-      "date": "2026-04-08T07:00:49.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Bluetti owner PowerOak files for Hong Kong IPO: the fourth major player in global portable energy storage",
       "url": "https://www.energy-storage.news/poweroak-files-for-hong-kong-ipo-the-fourth-major-player-in-global-portable-energy-storage/",
       "date": "2026-03-26T09:01:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Absolutely bright’ future for battery storage in Ukraine",
-      "url": "https://www.energy-storage.news/absolutely-bright-future-for-battery-storage-in-ukraine/",
-      "date": "2026-03-26T09:01:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
