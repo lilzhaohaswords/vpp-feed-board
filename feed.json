@@ -1,6 +1,27 @@
 {
-  "ts": 1775724937142,
+  "ts": 1775728835634,
   "items": [
+    {
+      "title": "VIDEO: European BESS integration with Chinese cells can be competitive, says Maxxen&#8217;s Ruben Valiente",
+      "url": "https://www.energy-storage.news/video-european-bess-integration-with-chinese-cells-can-be-competitive-says-maxxens-ruben-valiente/",
+      "date": "2026-04-09T09:39:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "UK government approves record 800 MW solar plant over local opposition",
+      "url": "https://www.pv-magazine.com/2026/04/09/uk-government-approves-record-800-mw-solar-plant-over-local-opposition/",
+      "date": "2026-04-09T09:31:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Beyond 314Ah: A comparison of large-format LFP battery cells for BESS",
+      "url": "https://www.energy-storage.news/beyond-314ah-a-comparison-of-large-format-lfp-battery-cells-for-bess/",
+      "date": "2026-04-09T08:56:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Negative electricity prices return to France, Germany",
       "url": "https://www.pv-magazine.com/2026/04/09/negative-electricity-prices-return-to-france-germany/",
@@ -215,13 +236,6 @@
       "title": "Switzerland deploys 1.52 GW of solar in 2025",
       "url": "https://www.pv-magazine.com/2026/04/08/switzerland-deploys-1-52-gw-of-solar-in-2025/",
       "date": "2026-04-08T06:30:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Inpow unveils 587 Ah semi-solid-state storage cell",
-      "url": "https://www.pv-magazine.com/2026/04/08/inpow-unveils-587-ah-semi-solid-state-storage-cell/",
-      "date": "2026-04-08T06:00:56.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "‘Absolutely bright’ future for battery storage in Ukraine",
       "url": "https://www.energy-storage.news/absolutely-bright-future-for-battery-storage-in-ukraine/",
       "date": "2026-03-26T09:01:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s Transgrid shortlists 2GW of grid battery storage to replace coal&#8217;s system strength in NSW",
-      "url": "https://www.energy-storage.news/australias-transgrid-shortlists-2gw-of-grid-battery-storage-to-replace-coals-system-strength-in-nsw/",
-      "date": "2026-03-26T02:36:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New Zealand port demonstrates battery storage potential amid complex tariff landscape",
-      "url": "https://www.energy-storage.news/new-zealand-port-demonstrates-battery-storage-potential-amid-complex-tariff-landscape/",
-      "date": "2026-03-26T00:02:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
