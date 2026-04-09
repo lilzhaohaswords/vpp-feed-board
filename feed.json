@@ -1,6 +1,20 @@
 {
-  "ts": 1775713315674,
+  "ts": 1775718335129,
   "items": [
+    {
+      "title": "New Zealand sets 10 kW default export limit for rooftop solar",
+      "url": "https://www.pv-magazine.com/2026/04/09/new-zealand-sets-10-kw-default-export-limit-for-rooftop-solar/",
+      "date": "2026-04-09T06:45:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU-India trade agreement will propel innovation in energy storage",
+      "url": "https://www.energy-storage.news/eu-india-trade-agreement-will-propel-innovation-in-energy-storage/",
+      "date": "2026-04-09T05:45:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Private Energy Partners submits 780MW battery storage project to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/private-energy-partners-submits-780mw-battery-storage-project-to-australias-epbc-act/",
@@ -236,13 +250,6 @@
       "title": "Cornex unveils new 165 Ah sodium-ion prismatic cell for stationary energy storage",
       "url": "https://www.pv-magazine.com/2026/04/07/cornex-unveils-new-165-ah-sodium-ion-prismatic-cell-for-stationary-energy-storage/",
       "date": "2026-04-07T11:24:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Dutch electrolyzer merger forms Alquion",
-      "url": "https://www.pv-magazine.com/2026/04/07/the-hydrogen-stream-dutch-electrolyzer-merger-forms-alquion/",
-      "date": "2026-04-07T11:00:35.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "American Battery Factory secures 4.5GWh offtake agreements for Arizona LFP gigafactory",
       "url": "https://www.energy-storage.news/american-battery-factory-secures-4-5gwh-offtake-agreements-for-arizona-lfp-gigafactory/",
       "date": "2026-03-25T14:26:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: BESS technology trends with Marek Kubik",
-      "url": "https://www.energy-storage.news/video-bess-technology-trends-with-marek-kubik/",
-      "date": "2026-03-25T12:58:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
