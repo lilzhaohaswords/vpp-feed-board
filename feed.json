@@ -1,6 +1,13 @@
 {
-  "ts": 1775696214050,
+  "ts": 1775706147885,
   "items": [
+    {
+      "title": "Private Energy Partners submits 780MW battery storage project to Australia&#8217;s EPBC Act",
+      "url": "https://www.energy-storage.news/private-energy-partners-submits-780mw-battery-storage-project-to-australias-epbc-act/",
+      "date": "2026-04-09T02:19:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sigenergy launches Hong Kong IPO",
       "url": "https://www.pv-magazine.com/2026/04/08/sigenergy-launches-hong-kong-ipo/",
@@ -516,13 +523,6 @@
       "title": "VIDEO: BESS technology trends with Marek Kubik",
       "url": "https://www.energy-storage.news/video-bess-technology-trends-with-marek-kubik/",
       "date": "2026-03-25T12:58:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘It&#8217;s all about oil, isn&#8217;t it?’: BESS and EV expansion in the US vs Europe",
-      "url": "https://www.energy-storage.news/its-all-about-oil-isnt-it-bess-and-ev-expansion-in-the-us-vs-europe/",
-      "date": "2026-03-25T12:57:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
