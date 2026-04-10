@@ -1,6 +1,55 @@
 {
-  "ts": 1775802186939,
+  "ts": 1775808730590,
   "items": [
+    {
+      "title": "Solar PV Capex could fall to $192/kW by 2050",
+      "url": "https://www.pv-magazine.com/2026/04/10/pv-capex/",
+      "date": "2026-04-10T08:00:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Dust, storms drag southern European solar as central regions outperform in March",
+      "url": "https://www.pv-magazine.com/2026/04/10/dust-storms-drag-southern-european-solar-as-central-regions-outperform-in-march/",
+      "date": "2026-04-10T07:45:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solarport launches modular PV carport series",
+      "url": "https://www.pv-magazine.com/2026/04/10/solarport-launches-modular-pv-carport-series/",
+      "date": "2026-04-10T07:30:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Kosol Energie airlifts solar cells to avoid delays",
+      "url": "https://www.pv-magazine.com/2026/04/10/kosol-energie-airlifts-solar-cells-to-avoid-delays/",
+      "date": "2026-04-10T07:30:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How Switzerland plans to integrate 40 GW of solar by 2050",
+      "url": "https://www.pv-magazine.com/2026/04/10/how-switzerland-plans-to-integrate-40-gw-of-solar-by-2050/",
+      "date": "2026-04-10T07:00:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "California community solar proposal ‘virtually ensures’ no new projects",
+      "url": "https://www.pv-magazine.com/2026/04/10/california-community-solar-proposal-virtually-ensures-no-new-projects/",
+      "date": "2026-04-10T06:45:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Internet-of-Things could bring solar module water cooling closer to commercial viability",
+      "url": "https://www.pv-magazine.com/2026/04/10/internet-of-things-could-bring-solar-module-water-cooling-closer-to-commercial-viability/",
+      "date": "2026-04-10T06:30:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia: Battery storage cushions AU$1 billion fuel shock as Climate Council demands May budget action",
       "url": "https://www.energy-storage.news/australia-battery-storage-cushions-au1-billion-fuel-shock-as-climate-council-demands-may-budget-action/",
@@ -198,59 +247,10 @@
       "bucket": "A"
     },
     {
-      "title": "New German rule allows larger plug-in PV without electrician",
-      "url": "https://www.pv-magazine.com/2026/04/08/new-german-rule-allows-larger-plug-in-pv-without-electrician/",
-      "date": "2026-04-08T15:31:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Large-scale solar surpasses 1 TWac worldwide",
-      "url": "https://www.pv-magazine.com/2026/04/08/large-scale-solar-surpasses-1-twac-worldwide/",
-      "date": "2026-04-08T14:55:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil approves first co-located solar and battery project",
-      "url": "https://www.pv-magazine.com/2026/04/08/brazil-approves-first-co-located-solar-and-battery-project/",
-      "date": "2026-04-08T14:48:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Blackstone and Sunotec enter €250 million partnership",
-      "url": "https://www.pv-magazine.com/2026/04/08/blackstone-and-sunotec-enter-e250-million-partnership/",
-      "date": "2026-04-08T13:15:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US battery storage developers get creative as pure merchant model fades",
       "url": "https://www.energy-storage.news/us-battery-storage-developers-get-creative-as-pure-merchant-model-fades/",
       "date": "2026-04-08T12:17:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Utility-scale sodium-ion arrives in Romania",
-      "url": "https://www.pv-magazine.com/2026/04/08/renalfa-targets-3-6-gwh-hybrid-bess-cluster-in-romania/",
-      "date": "2026-04-08T12:00:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Voltalia secures €100 million financing amid restructuring",
-      "url": "https://www.pv-magazine.com/2026/04/08/voltalia-secures-e100-million-financing-amid-restructuring/",
-      "date": "2026-04-08T11:00:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Vertical rooftop PV debuts in the U.S.",
-      "url": "https://www.pv-magazine.com/2026/04/08/vertical-rooftop-pv-debuts-in-the-u-s/",
-      "date": "2026-04-08T10:38:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
