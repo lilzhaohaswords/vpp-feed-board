@@ -1,6 +1,13 @@
 {
-  "ts": 1775815013608,
+  "ts": 1775817819074,
   "items": [
+    {
+      "title": "Chinese module trading slows after export tax rebate cancellation",
+      "url": "https://www.pv-magazine.com/2026/04/10/chinese-module-trading-slows-after-export-tax-rebate-cancellation/",
+      "date": "2026-04-10T10:03:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "TenneT signs contract with developer for &#8216;first controllable congestion mitigator&#8217; BESS project in Netherlands",
       "url": "https://www.energy-storage.news/tennet-signs-contract-with-developer-for-first-controllable-congestion-mitigator-bess-project-in-netherlands/",
@@ -229,13 +236,6 @@
       "title": "UK opens door to plug-in solar boom",
       "url": "https://www.pv-magazine.com/2026/04/09/uk-opens-door-to-plug-in-solar-boom/",
       "date": "2026-04-09T08:00:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Polysilicon prices sliding toward historical lows",
-      "url": "https://www.pv-magazine.com/2026/04/09/polysilicon-prices-sliding-toward-historical-lows/",
-      "date": "2026-04-09T07:30:49.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
