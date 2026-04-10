@@ -1,6 +1,27 @@
 {
-  "ts": 1775821019132,
+  "ts": 1775824658502,
   "items": [
+    {
+      "title": "Minnesota regulator approves Xcel&#8217;s controversial utility-owned virtual power plant",
+      "url": "https://www.energy-storage.news/minnesota-regulator-approves-xcels-controversial-utility-owned-virtual-power-plant/",
+      "date": "2026-04-10T12:20:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "American Battery Factory, Lion Energy form partnership for US-made LFP BESS equipment",
+      "url": "https://www.energy-storage.news/american-battery-factory-lion-energy-form-partnership-for-us-made-lfp-bess-equipment/",
+      "date": "2026-04-10T12:08:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;I joined the management team the day after returning from maternity leave&#8217;",
+      "url": "https://www.pv-magazine.com/2026/04/10/i-joined-the-management-team-the-day-after-returning-from-maternity-leave/",
+      "date": "2026-04-10T12:00:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Sodium-ion battery study claims zero thermal runaway breakthrough",
       "url": "https://www.pv-magazine.com/2026/04/10/sodium-ion-battery-study-claims-zero-thermal-runaway-breakthrough/",
@@ -223,13 +244,6 @@
       "url": "https://www.energy-storage.news/beyond-314ah-a-comparison-of-large-format-lfp-battery-cells-for-bess/",
       "date": "2026-04-09T08:56:40.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Negative electricity prices return to France, Germany",
-      "url": "https://www.pv-magazine.com/2026/04/09/negative-electricity-prices-return-to-france-germany/",
-      "date": "2026-04-09T08:30:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "1.6GWh grid-forming Rutherglen Battery receives EPBC Act approval in Australia",
       "url": "https://www.energy-storage.news/1-6gwh-grid-forming-rutherglen-battery-receives-epbc-act-approval-in-australia/",
       "date": "2026-03-30T01:30:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Form Energy signs 12GWh agreement to supply multi-day iron-air batteries to new US AI data centres",
-      "url": "https://www.energy-storage.news/form-energy-signs-12gwh-agreement-to-supply-multi-day-iron-air-batteries-to-new-us-ai-data-centres/",
-      "date": "2026-03-27T10:23:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow bags 1GWh BESS supply deal with ENEVO Group in Romania",
-      "url": "https://www.energy-storage.news/sungrow-bags-1gwh-bess-supply-deal-with-enevo-group-in-romania/",
-      "date": "2026-03-27T08:42:58.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
