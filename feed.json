@@ -1,6 +1,41 @@
 {
-  "ts": 1775808730590,
+  "ts": 1775815013608,
   "items": [
+    {
+      "title": "TenneT signs contract with developer for &#8216;first controllable congestion mitigator&#8217; BESS project in Netherlands",
+      "url": "https://www.energy-storage.news/tennet-signs-contract-with-developer-for-first-controllable-congestion-mitigator-bess-project-in-netherlands/",
+      "date": "2026-04-10T09:55:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Sweden connects 21,600 solar plants in 2025",
+      "url": "https://www.pv-magazine.com/2026/04/10/sweden-connects-21600-solar-plants-in-2025/",
+      "date": "2026-04-10T09:32:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Search4Solar provides platform to bolster the secondary market for used PV modules",
+      "url": "https://www.pv-magazine.com/2026/04/10/search4solar-provides-platform-to-bolster-the-secondary-market-for-used-pv-modules/",
+      "date": "2026-04-10T09:00:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar PV, geothermal hybrid systems are more than niche solutions",
+      "url": "https://www.pv-magazine.com/2026/04/10/solar-pv-geothermal-hybrid-systems-are-more-than-niche-solutions/",
+      "date": "2026-04-10T08:30:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ontario backs 12 solar projects totaling 915 MW",
+      "url": "https://www.pv-magazine.com/2026/04/10/ontario-backs-12-solar-projects-totaling-915-mw/",
+      "date": "2026-04-10T08:20:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar PV Capex could fall to $192/kW by 2050",
       "url": "https://www.pv-magazine.com/2026/04/10/pv-capex/",
@@ -205,20 +240,6 @@
       "bucket": "A"
     },
     {
-      "title": "Australia rooftop PV hits record as battery rush accelerates",
-      "url": "https://www.pv-magazine.com/2026/04/09/australia-rooftop-pv-hits-record-as-battery-rush-accelerates/",
-      "date": "2026-04-09T07:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New Zealand sets 10 kW default export limit for rooftop solar",
-      "url": "https://www.pv-magazine.com/2026/04/09/new-zealand-sets-10-kw-default-export-limit-for-rooftop-solar/",
-      "date": "2026-04-09T06:45:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "EU-India trade agreement will propel innovation in energy storage",
       "url": "https://www.energy-storage.news/eu-india-trade-agreement-will-propel-innovation-in-energy-storage/",
       "date": "2026-04-09T05:45:23.000Z",
@@ -230,20 +251,6 @@
       "url": "https://www.energy-storage.news/private-energy-partners-submits-780mw-battery-storage-project-to-australias-epbc-act/",
       "date": "2026-04-09T02:19:13.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sigenergy launches Hong Kong IPO",
-      "url": "https://www.pv-magazine.com/2026/04/08/sigenergy-launches-hong-kong-ipo/",
-      "date": "2026-04-08T15:51:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil adds 2.3 GW of solar in first two months of 2026",
-      "url": "https://www.pv-magazine.com/2026/04/08/brazil-adds-2-3-gw-of-solar-in-first-two-months-of-2026/",
-      "date": "2026-04-08T15:48:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Sungrow bags 1GWh BESS supply deal with ENEVO Group in Romania",
       "url": "https://www.energy-storage.news/sungrow-bags-1gwh-bess-supply-deal-with-enevo-group-in-romania/",
       "date": "2026-03-27T08:42:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Akuo building 80MW/220MWh Portugal BESS for 2027 completion",
-      "url": "https://www.energy-storage.news/akuo-building-80mw-220mwh-portugal-bess-for-2027-completion/",
-      "date": "2026-03-27T06:18:37.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
