@@ -1,6 +1,13 @@
 {
-  "ts": 1776042776921,
+  "ts": 1776055551811,
   "items": [
+    {
+      "title": "NSW planners approve Foresight&#8217;s 150MWh BESS; Banpu submits 1GWh development to Australia’s EPBC Act",
+      "url": "https://www.energy-storage.news/nsw-planners-approve-foresights-150mwh-bess-banpu-submits-1gwh-development-to-australias-epbc-act/",
+      "date": "2026-04-13T01:56:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Powering Australia’s next phase of decarbonisation: Why long-duration storage must lead",
       "url": "https://www.energy-storage.news/powering-australias-next-phase-of-decarbonisation-why-long-duration-storage-must-lead/",
@@ -516,13 +523,6 @@
       "title": "European BESS route-to-market optimisers Entrix, GridBeyond raise €55 million",
       "url": "https://www.energy-storage.news/european-bess-route-to-market-optimisers-entrix-gridbeyond-raise-e55-million/",
       "date": "2026-03-30T09:48:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Grid-forming technology, from niche application to standard requirement",
-      "url": "https://www.energy-storage.news/video-grid-forming-technology-from-niche-application-to-standard-requirement/",
-      "date": "2026-03-30T07:40:28.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
