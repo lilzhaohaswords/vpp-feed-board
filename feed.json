@@ -1,6 +1,13 @@
 {
-  "ts": 1776036090039,
+  "ts": 1776042776921,
   "items": [
+    {
+      "title": "Powering Australia’s next phase of decarbonisation: Why long-duration storage must lead",
+      "url": "https://www.energy-storage.news/powering-australias-next-phase-of-decarbonisation-why-long-duration-storage-must-lead/",
+      "date": "2026-04-12T23:33:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: BMW unveils tank for iX5 Hydrogen",
       "url": "https://www.pv-magazine.com/2026/04/10/the-hydrogen-stream-bmw-unveils-tank-for-ix5-hydrogen/",
@@ -516,13 +523,6 @@
       "title": "VIDEO: Grid-forming technology, from niche application to standard requirement",
       "url": "https://www.energy-storage.news/video-grid-forming-technology-from-niche-application-to-standard-requirement/",
       "date": "2026-03-30T07:40:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "1.6GWh grid-forming Rutherglen Battery receives EPBC Act approval in Australia",
-      "url": "https://www.energy-storage.news/1-6gwh-grid-forming-rutherglen-battery-receives-epbc-act-approval-in-australia/",
-      "date": "2026-03-30T01:30:14.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
