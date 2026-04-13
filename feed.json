@@ -1,6 +1,20 @@
 {
-  "ts": 1776078316314,
+  "ts": 1776084741019,
   "items": [
+    {
+      "title": "Managing cyber risks in the era of decentralized energy",
+      "url": "https://www.pv-magazine.com/2026/04/13/managing-cyber-risks-in-the-era-of-decentralized-energy/",
+      "date": "2026-04-13T11:37:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;We&#8217;ll never be the cheapest&#8217;: Wärtsilä&#8217;s head of energy storage on company strategy",
+      "url": "https://www.energy-storage.news/well-never-be-the-cheapest-wartsilas-head-of-energy-storage-on-company-strategy/",
+      "date": "2026-04-13T11:33:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "St. Kitts and Nevis tenders major solar-storage project",
       "url": "https://www.pv-magazine.com/2026/04/13/st-kitts-and-nevis-tenders-major-solar-storage-project/",
@@ -215,13 +229,6 @@
       "title": "Solar PV, geothermal hybrid systems are more than niche solutions",
       "url": "https://www.pv-magazine.com/2026/04/10/solar-pv-geothermal-hybrid-systems-are-more-than-niche-solutions/",
       "date": "2026-04-10T08:30:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ontario backs 12 solar projects totaling 915 MW",
-      "url": "https://www.pv-magazine.com/2026/04/10/ontario-backs-12-solar-projects-totaling-915-mw/",
-      "date": "2026-04-10T08:20:54.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Hithium signs 3GWh long-duration BESS agreement with APAC investor Brawn Capital",
       "url": "https://www.energy-storage.news/hithium-signs-3gwh-long-duration-bess-agreement-with-apac-investor-brawn-capital/",
       "date": "2026-03-31T06:53:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Massive reminder of geopolitical risk&#8217;: Australia positioned to capture fleeing battery storage investment amid Middle East tension",
-      "url": "https://www.energy-storage.news/massive-reminder-of-geopolitical-risk-australia-positioned-to-capture-fleeing-battery-storage-investment-amid-middle-east-tension/",
-      "date": "2026-03-31T00:59:23.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
