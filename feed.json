@@ -1,6 +1,13 @@
 {
-  "ts": 1776116143858,
+  "ts": 1776119526632,
   "items": [
+    {
+      "title": "VIDEO: &#8216;Storage must come first&#8217;: Why Australia mandates parallel solar-plus-storage development but sequential commissioning",
+      "url": "https://www.energy-storage.news/video-storage-must-come-first-why-australia-mandates-parallel-solar-plus-storage-development-but-sequential-commissioning/",
+      "date": "2026-04-13T22:14:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Halocell Energy, Sofab Inks advance perovskite collaboration",
       "url": "https://www.pv-magazine.com/2026/04/13/halocell-energy-sofab-inks-advance-perovskite-collaboration/",
@@ -516,13 +523,6 @@
       "title": "ROUNDUP: Non-lithium energy storage system technology advances in US, Spain, and Scotland",
       "url": "https://www.energy-storage.news/roundup-non-lithium-energy-storage-system-technology-advances-in-us-spain-and-scotland/",
       "date": "2026-03-31T07:01:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hithium signs 3GWh long-duration BESS agreement with APAC investor Brawn Capital",
-      "url": "https://www.energy-storage.news/hithium-signs-3gwh-long-duration-bess-agreement-with-apac-investor-brawn-capital/",
-      "date": "2026-03-31T06:53:59.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
