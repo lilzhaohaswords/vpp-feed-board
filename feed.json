@@ -1,6 +1,55 @@
 {
-  "ts": 1776160999141,
+  "ts": 1776167117895,
   "items": [
+    {
+      "title": "How to generate hydrogen at home with recycled solar panels",
+      "url": "https://www.pv-magazine.com/2026/04/14/how-to-generate-hydrogen-at-home-with-recycled-solar-panels/",
+      "date": "2026-04-14T11:14:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Europe deploys 3.4GWh of BESS in March, 19% of global total",
+      "url": "https://www.energy-storage.news/europe-deploys-3-4gwh-of-bess-in-march-19-of-global-total/",
+      "date": "2026-04-14T11:11:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Omani company to build 500 MW of solar in Botswana",
+      "url": "https://www.pv-magazine.com/2026/04/14/omani-company-to-build-500-mw-of-solar-in-botswana/",
+      "date": "2026-04-14T11:05:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Dominican Republic opens bids for 600 MW renewables tender",
+      "url": "https://www.pv-magazine.com/2026/04/14/dominican-republic-opens-bids-for-600-mw-renewables-tender/",
+      "date": "2026-04-14T10:58:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Household solar is easier said than installed",
+      "url": "https://www.pv-magazine.com/2026/04/14/easier-said-than-installed/",
+      "date": "2026-04-14T10:30:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany: NGEN starts building 100MWh BESS, Harmony Energy secures 3GWh pipeline financing",
+      "url": "https://www.energy-storage.news/germany-ngen-starts-building-100mwh-bess-harmony-energy-secures-3gwh-pipeline-financing/",
+      "date": "2026-04-14T10:16:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Experts weigh in on navigating supply chain bottlenecks in US energy storage",
+      "url": "https://www.energy-storage.news/experts-weigh-in-on-navigating-supply-chain-bottlenecks-in-us-energy-storage/",
+      "date": "2026-04-14T10:12:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Vietnam&#8217;s GG Power opens 5GWh BESS factory, government emphasises support for local supply chain",
       "url": "https://www.energy-storage.news/vietnams-gg-power-opens-5gwh-bess-factory-government-emphasises-support-for-local-supply-chain/",
@@ -202,34 +251,6 @@
       "url": "https://www.energy-storage.news/powering-australias-next-phase-of-decarbonisation-why-long-duration-storage-must-lead/",
       "date": "2026-04-12T23:33:22.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: BMW unveils tank for iX5 Hydrogen",
-      "url": "https://www.pv-magazine.com/2026/04/10/the-hydrogen-stream-bmw-unveils-tank-for-ix5-hydrogen/",
-      "date": "2026-04-10T15:50:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: Polysilicon prices extend decline",
-      "url": "https://www.pv-magazine.com/2026/04/10/chinese-pv-industry-brief-polysilicon-prices-extend-decline/",
-      "date": "2026-04-10T15:40:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India hits 150 GW solar milestone",
-      "url": "https://www.pv-magazine.com/2026/04/10/india-hits-150-gw-solar-milestone/",
-      "date": "2026-04-10T14:09:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Key takeaways from SolarEx Istanbul",
-      "url": "https://www.pv-magazine.com/2026/04/10/key-takeaways-from-solarex-istanbul-3/",
-      "date": "2026-04-10T14:00:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "&#8216;We learned more in the past six months than the past six years&#8217;: Australian battery storage lenders navigate merchant risk",
       "url": "https://www.energy-storage.news/we-learned-more-in-the-past-six-months-than-the-past-six-years-australian-battery-storage-lenders-navigate-merchant-risk/",
       "date": "2026-04-01T01:00:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Michigan approves 1,332MW of BESS with 332MW supporting Oracle data centre",
-      "url": "https://www.energy-storage.news/michigan-approves-1332mw-of-bess-with-332mw-supporting-oracle-data-centre/",
-      "date": "2026-03-31T11:58:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "100-hour LDES battery technologies from Form, Noon and Ore: how do they compare?",
-      "url": "https://www.energy-storage.news/100-hour-ldes-battery-technologies-from-form-noon-and-ore-how-do-they-compare/",
-      "date": "2026-03-31T11:15:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NGEN building 170MWh Austria BESS; Foresight and EBRD invest in Germany, Lithuania developers",
-      "url": "https://www.energy-storage.news/ngen-building-170mwh-austria-bess-foresight-and-ebrd-invest-in-germany-lithuania-developers/",
-      "date": "2026-03-31T09:38:43.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
