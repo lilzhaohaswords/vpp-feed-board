@@ -1,6 +1,20 @@
 {
-  "ts": 1776141201058,
+  "ts": 1776147754751,
   "items": [
+    {
+      "title": "How solar farms shape local climate and vegetation in arid regions",
+      "url": "https://www.pv-magazine.com/2026/04/14/how-solar-farms-shape-local-climate-and-vegetation-in-arid-regions/",
+      "date": "2026-04-14T06:00:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Reduced graphene oxide boosts stability in perovskite solar modules",
+      "url": "https://www.pv-magazine.com/2026/04/14/reduced-graphene-oxide-boosts-stability-in-perovskite-solar-modules/",
+      "date": "2026-04-14T05:46:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Copenhagen Infrastructure Partners sells 960MWh Summerfield Battery to Palisade in South Australia",
       "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-sells-960mwh-summerfield-battery-to-palisade-in-south-australia/",
@@ -230,20 +244,6 @@
       "url": "https://www.energy-storage.news/tennet-signs-contract-with-developer-for-first-controllable-congestion-mitigator-bess-project-in-netherlands/",
       "date": "2026-04-10T09:55:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sweden connects 21,600 solar plants in 2025",
-      "url": "https://www.pv-magazine.com/2026/04/10/sweden-connects-21600-solar-plants-in-2025/",
-      "date": "2026-04-10T09:32:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Search4Solar provides platform to bolster the secondary market for used PV modules",
-      "url": "https://www.pv-magazine.com/2026/04/10/search4solar-provides-platform-to-bolster-the-secondary-market-for-used-pv-modules/",
-      "date": "2026-04-10T09:00:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
