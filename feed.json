@@ -1,6 +1,27 @@
 {
-  "ts": 1776154617889,
+  "ts": 1776160999141,
   "items": [
+    {
+      "title": "Vietnam&#8217;s GG Power opens 5GWh BESS factory, government emphasises support for local supply chain",
+      "url": "https://www.energy-storage.news/vietnams-gg-power-opens-5gwh-bess-factory-government-emphasises-support-for-local-supply-chain/",
+      "date": "2026-04-14T09:35:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "JA Solar responds to changing market needs with DeepBlue 4.0 Pro and 5.0 modules",
+      "url": "https://www.pv-magazine.com/2026/04/14/ja-solar-responds-to-changing-market-needs-with-deepblue-4-0-pro-and-5-0-modules/",
+      "date": "2026-04-14T09:00:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Atmoce debuts microinverter connecting two solar modules",
+      "url": "https://www.pv-magazine.com/2026/04/14/atmoce-debuts-microinverter-connecting-two-solar-modules/",
+      "date": "2026-04-14T08:39:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Mexico updates distributed generation rules to formally integrate energy storage",
       "url": "https://www.pv-magazine.com/2026/04/14/mexico-updates-distributed-generation-rules-to-formally-integrate-energy-storage/",
@@ -208,20 +229,6 @@
       "title": "Key takeaways from SolarEx Istanbul",
       "url": "https://www.pv-magazine.com/2026/04/10/key-takeaways-from-solarex-istanbul-3/",
       "date": "2026-04-10T14:00:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S.-Israeli conflict with Iran tests solar supply",
-      "url": "https://www.pv-magazine.com/2026/04/10/u-s-israeli-conflict-with-iran-tests-solar-supply/",
-      "date": "2026-04-10T13:59:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Turkish manufacturer presents photovoltaic water heater",
-      "url": "https://www.pv-magazine.com/2026/04/10/turkish-manufacturer-presents-photovoltaic-water-heater/",
-      "date": "2026-04-10T13:55:38.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "NGEN building 170MWh Austria BESS; Foresight and EBRD invest in Germany, Lithuania developers",
       "url": "https://www.energy-storage.news/ngen-building-170mwh-austria-bess-foresight-and-ebrd-invest-in-germany-lithuania-developers/",
       "date": "2026-03-31T09:38:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "What end-to-end visibility reveals about hidden BESS safety risks",
-      "url": "https://www.energy-storage.news/what-end-to-end-visibility-reveals-about-hidden-bess-safety-risks/",
-      "date": "2026-03-31T08:21:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
