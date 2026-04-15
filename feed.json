@@ -1,6 +1,20 @@
 {
-  "ts": 1776241117384,
+  "ts": 1776247418243,
   "items": [
+    {
+      "title": "Varta launches all-in-one residential inverter and modular battery",
+      "url": "https://www.pv-magazine.com/2026/04/15/varta-launches-all-in-one-residential-inverter-and-modular-battery/",
+      "date": "2026-04-15T09:29:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO – Energy Storage Summit 2026: Battery recycling, lifecycle data and sustainability",
+      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-battery-recycling-lifecycle-data-and-sustainability/",
+      "date": "2026-04-15T08:39:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "France, Germany set daily solar records for April",
       "url": "https://www.pv-magazine.com/2026/04/15/france-germany-set-daily-solar-records-for-april/",
@@ -251,13 +265,6 @@
       "url": "https://www.energy-storage.news/well-never-be-the-cheapest-wartsilas-head-of-energy-storage-on-company-strategy/",
       "date": "2026-04-13T11:33:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "St. Kitts and Nevis tenders major solar-storage project",
-      "url": "https://www.pv-magazine.com/2026/04/13/st-kitts-and-nevis-tenders-major-solar-storage-project/",
-      "date": "2026-04-13T10:45:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "New vanadium flow battery player Eora Energy launches in Australia with mining and date centre focus",
       "url": "https://www.energy-storage.news/new-vanadium-flow-battery-player-eora-energy-launches-in-australia-with-mining-and-date-centre-focus/",
       "date": "2026-04-02T01:57:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO – Energy Storage Summit 2026: What does life after MACSE look like in Italy?",
-      "url": "https://www.energy-storage.news/video-ess-2026-what-does-life-after-macse-look-like-in-italy/",
-      "date": "2026-04-01T13:18:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
