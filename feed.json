@@ -1,6 +1,34 @@
 {
-  "ts": 1776215403185,
+  "ts": 1776227610192,
   "items": [
+    {
+      "title": "Fortescue fast-tracks &#8216;world&#8217;s largest off-grid system&#8217; with 4-5GWh battery storage in Australia",
+      "url": "https://www.energy-storage.news/fortescue-fast-tracks-worlds-largest-off-grid-system-with-4-5gwh-battery-storage-in-australia/",
+      "date": "2026-04-15T03:48:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian developer moves ahead with modular green hydrogen production plant",
+      "url": "https://www.pv-magazine.com/2026/04/15/australian-developer-moves-ahead-with-modular-green-hydrogen-production-plant/",
+      "date": "2026-04-15T03:31:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Suniva to build 4.5 GW solar cell factory in South Carolina",
+      "url": "https://www.pv-magazine.com/2026/04/15/suniva-to-build-4-5-gw-solar-cell-factory-in-south-carolina/",
+      "date": "2026-04-15T03:26:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UGL advances construction on 2.1GWh of battery storage for Neoen across two Australian states",
+      "url": "https://www.energy-storage.news/ugl-advances-construction-on-2-1gwh-of-battery-storage-for-neoen-across-two-australian-states/",
+      "date": "2026-04-15T01:19:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Informa Markets brings Battery Asset Management Summit to Canada as energy storage market reaches critical deployment phase",
       "url": "https://www.energy-storage.news/informa-markets-brings-battery-asset-management-summit-to-canada-as-energy-storage-market-reaches-critical-deployment-phase/",
@@ -229,20 +257,6 @@
       "title": "Solar leads global additions in 2025 as wind growth accelerates",
       "url": "https://www.pv-magazine.com/2026/04/13/solar-leads-global-additions-in-2025-as-wind-growth-accelerates/",
       "date": "2026-04-13T06:45:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "World&#8217;s largest PV-CSP plant under construction in China",
-      "url": "https://www.pv-magazine.com/2026/04/13/worlds-largest-pv-csp-plant-under-construction-in-china/",
-      "date": "2026-04-13T05:55:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. startup debuts low-cost, plug-and-play indoor heat pump for residential use",
-      "url": "https://www.pv-magazine.com/2026/04/13/u-s-startup-debuts-low-cost-plug-and-play-indoor-heat-pump-for-residential-use/",
-      "date": "2026-04-13T05:23:52.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Harmony starts building third 100MW/200MWh French BESS",
       "url": "https://www.energy-storage.news/harmony-starts-building-third-100mw-200mwh-french-bess/",
       "date": "2026-04-01T09:30:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UL9540A: Shift to system-level testing defines new edition of key BESS safety standard",
-      "url": "https://www.energy-storage.news/ul9540a-shift-to-system-level-testing-defines-new-edition-of-key-bess-safety-standard/",
-      "date": "2026-04-01T09:10:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan’s first capacity market-contracted BESS brought online by Hexa Energy",
-      "url": "https://www.energy-storage.news/japans-first-capacity-market-contracted-bess-brought-online-by-hexa-energy/",
-      "date": "2026-04-01T05:06:18.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
