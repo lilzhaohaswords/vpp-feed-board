@@ -1,6 +1,27 @@
 {
-  "ts": 1776227610192,
+  "ts": 1776234249494,
   "items": [
+    {
+      "title": "Vertical bifacial PV outperforms tilted PV systems in the UK",
+      "url": "https://www.pv-magazine.com/2026/04/15/vertical-bifacial-pv-outperforms-tilted-pv-systems-in-the-uk/",
+      "date": "2026-04-15T06:05:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Vaillant launches space-saving residential heat pump",
+      "url": "https://www.pv-magazine.com/2026/04/15/vaillant-launches-space-saving-residential-heat-pump/",
+      "date": "2026-04-15T05:54:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "From ‘refrigerators in the desert’ to resilient, thermally passive BESS assets",
+      "url": "https://www.energy-storage.news/from-refrigerators-in-the-desert-to-resilient-thermally-passive-bess-assets/",
+      "date": "2026-04-15T05:05:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Fortescue fast-tracks &#8216;world&#8217;s largest off-grid system&#8217; with 4-5GWh battery storage in Australia",
       "url": "https://www.energy-storage.news/fortescue-fast-tracks-worlds-largest-off-grid-system-with-4-5gwh-battery-storage-in-australia/",
@@ -243,20 +264,6 @@
       "title": "Cyber threats for PV: What are man-in-the-middle attacks and how do they work",
       "url": "https://www.pv-magazine.com/2026/04/13/cyber-threats-for-pv-what-are-man-in-the-middle-attacks-and-how-do-they-work/",
       "date": "2026-04-13T08:00:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Jupiter, AMPIN open 1.3 GW solar factory in India",
-      "url": "https://www.pv-magazine.com/2026/04/13/jupiter-ampin-open-1-3-gw-solar-factory-in-india/",
-      "date": "2026-04-13T07:30:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar leads global additions in 2025 as wind growth accelerates",
-      "url": "https://www.pv-magazine.com/2026/04/13/solar-leads-global-additions-in-2025-as-wind-growth-accelerates/",
-      "date": "2026-04-13T06:45:08.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "EnerVenue closes US$300 million Series B for 30,000-cycle nickel-hydrogen battery manufacturing",
       "url": "https://www.energy-storage.news/enervenue-closes-us300-million-series-b-for-30000-cycle-nickel-hydrogen-battery-manufacturing/",
       "date": "2026-04-01T12:53:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Harmony starts building third 100MW/200MWh French BESS",
-      "url": "https://www.energy-storage.news/harmony-starts-building-third-100mw-200mwh-french-bess/",
-      "date": "2026-04-01T09:30:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
