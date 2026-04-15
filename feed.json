@@ -1,6 +1,55 @@
 {
-  "ts": 1776234249494,
+  "ts": 1776241117384,
   "items": [
+    {
+      "title": "France, Germany set daily solar records for April",
+      "url": "https://www.pv-magazine.com/2026/04/15/france-germany-set-daily-solar-records-for-april/",
+      "date": "2026-04-15T08:12:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "British Gas owner Centrica activates 40MW BESS projects in Sweden, subsidiary to optimise",
+      "url": "https://www.energy-storage.news/british-gas-owner-centrica-activates-40mw-bess-projects-in-sweden-subsidiary-to-optimise/",
+      "date": "2026-04-15T08:12:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Porous silica-based anti-reflective coating increases PV glass optical transmission by 5.2%",
+      "url": "https://www.pv-magazine.com/2026/04/15/porous-silica-based-anti-reflective-coating-increases-pv-glass-optical-transmission-by-5-2/",
+      "date": "2026-04-15T07:31:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Cyber threats for PV: What are credential compromise attacks and how do they work",
+      "url": "https://www.pv-magazine.com/2026/04/15/cyber-threats-for-pv-what-are-credential-compromise-attacks-and-how-do-they-work/",
+      "date": "2026-04-15T07:09:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Free midday electricity key to drive consumer demand to match excess PV generation",
+      "url": "https://www.pv-magazine.com/2026/04/15/free-midday-electricity-key-to-drive-consumer-demand-to-match-excess-pv-generation/",
+      "date": "2026-04-15T07:05:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Mova unveils all-in-one plug-in solar and storage solutions",
+      "url": "https://www.pv-magazine.com/2026/04/15/mova-unveils-all-in-one-plug-in-solar-and-storage-solutions/",
+      "date": "2026-04-15T06:48:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tunisia launches 200 MW call for PV projects under new licensing scheme",
+      "url": "https://www.pv-magazine.com/2026/04/15/tunisia-launches-200-mw-call-for-pv-projects-under-new-licensing-scheme/",
+      "date": "2026-04-15T06:37:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Vertical bifacial PV outperforms tilted PV systems in the UK",
       "url": "https://www.pv-magazine.com/2026/04/15/vertical-bifacial-pv-outperforms-tilted-pv-systems-in-the-uk/",
@@ -212,27 +261,6 @@
       "bucket": "A"
     },
     {
-      "title": "Dismantled 28-year-old PV system reveals wasps nest in junction box",
-      "url": "https://www.pv-magazine.com/2026/04/13/dismantled-28-year-old-pv-system-reveals-wasps-nest-in-junction-box/",
-      "date": "2026-04-13T10:44:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fortescue fast-tracks delivery of ‘world first’ off-grid project combining solar, wind, up to 5 GWh of BESS",
-      "url": "https://www.pv-magazine.com/2026/04/13/fortescue-fast-tracks-delivery-of-world-first-off-grid-project-combining-solar-wind-up-to-5-gwh-of-bess/",
-      "date": "2026-04-13T09:27:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "First solar project backed by EU’s cross-border tender starts operating",
-      "url": "https://www.pv-magazine.com/2026/04/13/first-solar-project-backed-by-eus-cross-border-tender-starts-operating/",
-      "date": "2026-04-13T09:25:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Brazil’s electricity regulator ANEEL delays energy storage rulemaking, approves hybrid solar-BESS",
       "url": "https://www.energy-storage.news/brazils-electricity-regulator-aneel-delays-energy-storage-rulemaking-approves-hybrid-solar-bess/",
       "date": "2026-04-13T09:10:39.000Z",
@@ -240,31 +268,10 @@
       "bucket": "A"
     },
     {
-      "title": "Cooling solar modules with nanofluids based on graphene oxide, Mxene",
-      "url": "https://www.pv-magazine.com/2026/04/13/cooling-solar-modules-with-nanofluids-based-on-graphene-oxide-mxene/",
-      "date": "2026-04-13T08:32:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "System integrator Guoxia&#8217;s revenue and profits surge over 100% amidst shift to utility-scale",
       "url": "https://www.energy-storage.news/system-integrator-guoxias-revenue-and-profits-surge-over-100-amidst-shift-to-utility-scale/",
       "date": "2026-04-13T08:26:49.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "MyNu Energy launches mobile solar and battery energy storage system",
-      "url": "https://www.pv-magazine.com/2026/04/13/mynu-energy-launches-mobile-solar-and-battery-energy-storage-system/",
-      "date": "2026-04-13T08:15:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cyber threats for PV: What are man-in-the-middle attacks and how do they work",
-      "url": "https://www.pv-magazine.com/2026/04/13/cyber-threats-for-pv-what-are-man-in-the-middle-attacks-and-how-do-they-work/",
-      "date": "2026-04-13T08:00:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "VIDEO – Energy Storage Summit 2026: What does life after MACSE look like in Italy?",
       "url": "https://www.energy-storage.news/video-ess-2026-what-does-life-after-macse-look-like-in-italy/",
       "date": "2026-04-01T13:18:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EnerVenue closes US$300 million Series B for 30,000-cycle nickel-hydrogen battery manufacturing",
-      "url": "https://www.energy-storage.news/enervenue-closes-us300-million-series-b-for-30000-cycle-nickel-hydrogen-battery-manufacturing/",
-      "date": "2026-04-01T12:53:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
