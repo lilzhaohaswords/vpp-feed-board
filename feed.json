@@ -1,6 +1,13 @@
 {
-  "ts": 1776289140834,
+  "ts": 1776292207657,
   "items": [
+    {
+      "title": "VIDEO: &#8216;It&#8217;s going to massively scale here&#8217;: Fluence chief predicts data centre battery storage slingshot in Australia",
+      "url": "https://www.energy-storage.news/video-its-going-to-massively-scale-here-fluence-chief-predicts-data-centre-battery-storage-slingshot-in-australia/",
+      "date": "2026-04-15T22:25:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "RWE drops 99.9 MW solar project in Wales on grid constraints",
       "url": "https://www.pv-magazine.com/2026/04/15/rwe-drops-99-9-mw-solar-project-in-wales-on-grid-constraints/",
@@ -516,13 +523,6 @@
       "title": "Romanian investment platform looks to open up BESS project financing to retail investors",
       "url": "https://www.energy-storage.news/romanian-investment-platform-looks-to-open-up-bess-project-financing-to-retail-investors/",
       "date": "2026-04-02T09:46:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UK BESS ROUNDUP: SSE commissions 300MWh unit, Matrix, Drax and Voltaria progress projects",
-      "url": "https://www.energy-storage.news/uk-bess-roundup-sse-commissions-300mwh-unit-matrix-drax-and-voltaria-progress-projects/",
-      "date": "2026-04-02T09:32:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
