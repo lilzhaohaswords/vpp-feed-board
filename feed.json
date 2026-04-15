@@ -1,6 +1,20 @@
 {
-  "ts": 1776247418243,
+  "ts": 1776253411768,
   "items": [
+    {
+      "title": "‘Unfettered optimism’ on US BESS degradation hits wall of operational reality",
+      "url": "https://www.energy-storage.news/unfettered-optimism-on-us-bess-degradation-hits-wall-of-operational-reality/",
+      "date": "2026-04-15T10:58:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Rye Development advances 2,128MWh pumped hydro project at former Kentucky coal mine",
+      "url": "https://www.energy-storage.news/rye-development-advances-2128mwh-pumped-hydro-project-at-former-kentucky-coal-mine/",
+      "date": "2026-04-15T10:48:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Varta launches all-in-one residential inverter and modular battery",
       "url": "https://www.pv-magazine.com/2026/04/15/varta-launches-all-in-one-residential-inverter-and-modular-battery/",
@@ -509,20 +523,6 @@
       "title": "UK BESS ROUNDUP: SSE commissions 300MWh unit, Matrix, Drax and Voltaria progress projects",
       "url": "https://www.energy-storage.news/uk-bess-roundup-sse-commissions-300mwh-unit-matrix-drax-and-voltaria-progress-projects/",
       "date": "2026-04-02T09:32:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Amid Europe&#8217;s energy storage boom, residential batteries offer new trading potential",
-      "url": "https://www.energy-storage.news/amid-europes-energy-storage-boom-residential-batteries-offer-new-trading-potential/",
-      "date": "2026-04-02T08:29:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New vanadium flow battery player Eora Energy launches in Australia with mining and date centre focus",
-      "url": "https://www.energy-storage.news/new-vanadium-flow-battery-player-eora-energy-launches-in-australia-with-mining-and-date-centre-focus/",
-      "date": "2026-04-02T01:57:38.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
