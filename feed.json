@@ -1,6 +1,34 @@
 {
-  "ts": 1776320736400,
+  "ts": 1776327531724,
   "items": [
+    {
+      "title": "Investor Wood &#038; Co engages partners to put 145MW of BESS into Nordic electricity markets",
+      "url": "https://www.energy-storage.news/investor-wood-co-engages-partners-to-put-145mw-of-bess-into-nordic-electricity-markets/",
+      "date": "2026-04-16T08:01:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy PV grid connection requests reach 144 GW as ready-to-build pipeline grows to 9.34 GW",
+      "url": "https://www.pv-magazine.com/2026/04/16/italy-has-now-a-9-34-gw-pipeline-of-ready-to-build-pv-projects/",
+      "date": "2026-04-16T07:15:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO – Energy Storage Summit 2026: How attractive is BESS for M&#038;A?",
+      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-how-attractive-is-bess-for-ma/",
+      "date": "2026-04-16T06:43:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Scientists identify new loss factor in tracker-based PV plants on slightly undulating terrain",
+      "url": "https://www.pv-magazine.com/2026/04/16/scientists-identify-new-loss-factor-in-tracker-based-pv-plants-on-slightly-undulating-terrain/",
+      "date": "2026-04-16T06:32:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "U.S. community solar passes 10 GW milestone despite market contraction",
       "url": "https://www.pv-magazine.com/2026/04/16/u-s-community-solar-passes-10-gw-milestone-despite-market-contraction/",
@@ -275,20 +303,6 @@
       "bucket": "A"
     },
     {
-      "title": "Atmoce debuts microinverter connecting two solar modules",
-      "url": "https://www.pv-magazine.com/2026/04/14/atmoce-debuts-microinverter-connecting-two-solar-modules/",
-      "date": "2026-04-14T08:39:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Mexico updates distributed generation rules to formally integrate energy storage",
-      "url": "https://www.pv-magazine.com/2026/04/14/mexico-updates-distributed-generation-rules-to-formally-integrate-energy-storage/",
-      "date": "2026-04-14T07:35:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Copenhagen Infrastructure Partners sells 960MWh Summerfield Battery to Palisade in South Australia",
       "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-sells-960mwh-summerfield-battery-to-palisade-in-south-australia/",
       "date": "2026-04-14T01:47:38.000Z",
@@ -509,20 +523,6 @@
       "title": "NSW IPC approves 1.5GWh solar-plus-storage project in Australia",
       "url": "https://www.energy-storage.news/nsw-ipc-approves-1-5gwh-solar-plus-storage-project-in-australia/",
       "date": "2026-04-07T03:43:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO – Energy Storage Summit 2026: How can you ensure quality and performance when buying BESS?",
-      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-how-can-you-ensure-quality-and-performance-when-buying-bess/",
-      "date": "2026-04-03T14:02:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Reno planning commission approves permit for 200MW Trego Grid BESS project",
-      "url": "https://www.energy-storage.news/reno-planning-commission-approves-permit-for-200mw-trego-grid-bess-project/",
-      "date": "2026-04-02T13:54:28.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
