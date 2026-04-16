@@ -1,6 +1,20 @@
 {
-  "ts": 1776314365619,
+  "ts": 1776320736400,
   "items": [
+    {
+      "title": "U.S. community solar passes 10 GW milestone despite market contraction",
+      "url": "https://www.pv-magazine.com/2026/04/16/u-s-community-solar-passes-10-gw-milestone-despite-market-contraction/",
+      "date": "2026-04-16T06:19:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Microbial biofilms can reduce solar module yield by up to 30% in arid zones",
+      "url": "https://www.pv-magazine.com/2026/04/16/microbial-biofilms-can-reduce-solar-module-yield-by-up-to-30-in-arid-zones/",
+      "date": "2026-04-16T06:14:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Neoen Australia submits 3.2GWh Bondo wind-plus-storage project to the EPBC Act",
       "url": "https://www.energy-storage.news/neoen-australia-submits-3-2gwh-bondo-wind-plus-storage-project-to-the-epbc-act/",
@@ -271,20 +285,6 @@
       "title": "Mexico updates distributed generation rules to formally integrate energy storage",
       "url": "https://www.pv-magazine.com/2026/04/14/mexico-updates-distributed-generation-rules-to-formally-integrate-energy-storage/",
       "date": "2026-04-14T07:35:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cyber threats for PV: What are ransomware attacks and how do they work",
-      "url": "https://www.pv-magazine.com/2026/04/14/cyber-threats-for-pv-what-are-ransomware-attacks-and-how-do-they-work/",
-      "date": "2026-04-14T06:54:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India adds heterojunction cell tech to approved solar manufacturers list",
-      "url": "https://www.pv-magazine.com/2026/04/14/india-adds-heterojunction-cell-tech-to-approved-solar-manufacturers-list/",
-      "date": "2026-04-14T06:37:22.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
