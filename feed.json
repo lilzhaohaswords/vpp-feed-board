@@ -1,6 +1,55 @@
 {
-  "ts": 1776333779575,
+  "ts": 1776340006023,
   "items": [
+    {
+      "title": "Attracting infrastructure capital into large-scale battery storage: Eku Energy CEO Daniel Burrows",
+      "url": "https://www.energy-storage.news/attracting-infrastructure-capital-into-large-scale-battery-storage-eku-energy-ceo-daniel-burrows/",
+      "date": "2026-04-16T11:37:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar self-generation could outperform PPAs in Brazil, delivering up to 32.9% savings",
+      "url": "https://www.pv-magazine.com/2026/04/16/solar-self-generation-could-outperform-ppas-in-brazil-delivering-up-to-32-9-savings/",
+      "date": "2026-04-16T11:32:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Strait of Hormuz closure creates complexity for global energy storage markets",
+      "url": "https://www.energy-storage.news/strait-of-hormuz-closure-creates-complexity-for-global-energy-storage-markets/",
+      "date": "2026-04-16T11:23:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "The solar support gap: Why do pro-solar citizens reject local projects?",
+      "url": "https://www.pv-magazine.com/2026/04/16/the-solar-support-gap-why-do-pro-solar-citizens-reject-local-projects/",
+      "date": "2026-04-16T11:20:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Virginia Governor Abigail Spanberger signs legislation mandating 20.78GW of energy storage",
+      "url": "https://www.energy-storage.news/virginia-governor-abigail-spanberger-signs-legislation-mandating-20-78gw-of-energy-storage/",
+      "date": "2026-04-16T11:18:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Colombia approves guidelines for integrating energy storage into electricity system",
+      "url": "https://www.pv-magazine.com/2026/04/16/colombia-approves-guidelines-for-integrating-energy-storage-into-electricity-system/",
+      "date": "2026-04-16T11:14:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "PV module prices continue to rise unabated",
+      "url": "https://www.pv-magazine.com/2026/04/16/pv-module-prices-continue-to-rise-unabated/",
+      "date": "2026-04-16T10:56:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Philippines registers solar module maker targeting EU export market",
       "url": "https://www.pv-magazine.com/2026/04/16/philippines-registers-solar-module-maker-targeting-eu-export-market/",
@@ -219,13 +268,6 @@
       "bucket": "A"
     },
     {
-      "title": "Vaillant launches space-saving residential heat pump",
-      "url": "https://www.pv-magazine.com/2026/04/15/vaillant-launches-space-saving-residential-heat-pump/",
-      "date": "2026-04-15T05:54:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "From ‘refrigerators in the desert’ to resilient, thermally passive BESS assets",
       "url": "https://www.energy-storage.news/from-refrigerators-in-the-desert-to-resilient-thermally-passive-bess-assets/",
       "date": "2026-04-15T05:05:03.000Z",
@@ -240,20 +282,6 @@
       "bucket": "A"
     },
     {
-      "title": "Australian developer moves ahead with modular green hydrogen production plant",
-      "url": "https://www.pv-magazine.com/2026/04/15/australian-developer-moves-ahead-with-modular-green-hydrogen-production-plant/",
-      "date": "2026-04-15T03:31:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Suniva to build 4.5 GW solar cell factory in South Carolina",
-      "url": "https://www.pv-magazine.com/2026/04/15/suniva-to-build-4-5-gw-solar-cell-factory-in-south-carolina/",
-      "date": "2026-04-15T03:26:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "UGL advances construction on 2.1GWh of battery storage for Neoen across two Australian states",
       "url": "https://www.energy-storage.news/ugl-advances-construction-on-2-1gwh-of-battery-storage-for-neoen-across-two-australian-states/",
       "date": "2026-04-15T01:19:30.000Z",
@@ -265,13 +293,6 @@
       "url": "https://www.energy-storage.news/informa-markets-brings-battery-asset-management-summit-to-canada-as-energy-storage-market-reaches-critical-deployment-phase/",
       "date": "2026-04-14T15:08:04.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How to generate hydrogen at home with recycled solar panels",
-      "url": "https://www.pv-magazine.com/2026/04/14/how-to-generate-hydrogen-at-home-with-recycled-solar-panels/",
-      "date": "2026-04-14T11:14:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "CATL, Envision sodium-ion BESS cells among next-gen tech and solutions showcased at Beijing expo ESIE 2026",
       "url": "https://www.energy-storage.news/catl-envision-sodium-ion-bess-cells-among-next-gen-tech-and-solutions-showcased-at-beijing-expo-esie-2026/",
       "date": "2026-04-07T11:45:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Neoen enlists Nidec for 496MWh France BESS, launches Japan project",
-      "url": "https://www.energy-storage.news/neoen-enlists-nidec-for-496mwh-france-bess-launches-japan-project/",
-      "date": "2026-04-07T10:04:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "FlexGen acquires US battery storage and solar commissioning services provider CES",
-      "url": "https://www.energy-storage.news/flexgen-acquires-us-battery-storage-and-solar-commissioning-services-provider-ces/",
-      "date": "2026-04-07T09:56:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NSW IPC approves 1.5GWh solar-plus-storage project in Australia",
-      "url": "https://www.energy-storage.news/nsw-ipc-approves-1-5gwh-solar-plus-storage-project-in-australia/",
-      "date": "2026-04-07T03:43:45.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
