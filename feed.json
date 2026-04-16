@@ -1,6 +1,41 @@
 {
-  "ts": 1776344124330,
+  "ts": 1776350784068,
   "items": [
+    {
+      "title": "Puerto Rico approves aggregated residential energy storage motion from Tesla, Sunrun, and SunStrong",
+      "url": "https://www.energy-storage.news/puerto-rico-approves-aggregated-residential-energy-storage-motion-from-tesla-sunrun-and-sunstrong/",
+      "date": "2026-04-16T14:19:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Vietnam’s solar capacity surpasses 19 GW",
+      "url": "https://www.pv-magazine.com/2026/04/16/vietnams-solar-capacity-surpasses-19-gw/",
+      "date": "2026-04-16T14:01:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BMW targets 2028 hydrogen car launch, cites infrastructure and cost hurdles",
+      "url": "https://www.pv-magazine.com/2026/04/16/bmw-targets-2028-hydrogen-car-launch-cites-infrastructure-and-cost-hurdles/",
+      "date": "2026-04-16T13:59:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Agrivoltaics maintain or enhanche forage quality, study finds",
+      "url": "https://www.pv-magazine.com/2026/04/16/agrivoltaics-maintain-or-enhanche-forage-quality-study-finds/",
+      "date": "2026-04-16T13:40:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany adds record 1 GWh of battery storage in March",
+      "url": "https://www.pv-magazine.com/2026/04/16/germany-adds-record-1-gwh-of-battery-storage-in-march/",
+      "date": "2026-04-16T13:03:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Heat pumps may help boost residential solar in France",
       "url": "https://www.pv-magazine.com/2026/04/16/heat-pumps-may-help-boost-residential-solar-in-france/",
@@ -236,34 +271,6 @@
       "title": "Porous silica-based anti-reflective coating increases PV glass optical transmission by 5.2%",
       "url": "https://www.pv-magazine.com/2026/04/15/porous-silica-based-anti-reflective-coating-increases-pv-glass-optical-transmission-by-5-2/",
       "date": "2026-04-15T07:31:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cyber threats for PV: What are credential compromise attacks and how do they work",
-      "url": "https://www.pv-magazine.com/2026/04/15/cyber-threats-for-pv-what-are-credential-compromise-attacks-and-how-do-they-work/",
-      "date": "2026-04-15T07:09:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Free midday electricity key to drive consumer demand to match excess PV generation",
-      "url": "https://www.pv-magazine.com/2026/04/15/free-midday-electricity-key-to-drive-consumer-demand-to-match-excess-pv-generation/",
-      "date": "2026-04-15T07:05:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Mova unveils all-in-one plug-in solar and storage solutions",
-      "url": "https://www.pv-magazine.com/2026/04/15/mova-unveils-all-in-one-plug-in-solar-and-storage-solutions/",
-      "date": "2026-04-15T06:48:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tunisia launches 200 MW call for PV projects under new licensing scheme",
-      "url": "https://www.pv-magazine.com/2026/04/15/tunisia-launches-200-mw-call-for-pv-projects-under-new-licensing-scheme/",
-      "date": "2026-04-15T06:37:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "North Dakota approves certificate of site compatibility for 400MWh BESS from NextEra Energy Resources",
       "url": "https://www.energy-storage.news/north-dakota-approves-certificate-of-site-compatibility-for-400mwh-bess-from-nextera-energy-resources/",
       "date": "2026-04-07T11:51:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CATL, Envision sodium-ion BESS cells among next-gen tech and solutions showcased at Beijing expo ESIE 2026",
-      "url": "https://www.energy-storage.news/catl-envision-sodium-ion-bess-cells-among-next-gen-tech-and-solutions-showcased-at-beijing-expo-esie-2026/",
-      "date": "2026-04-07T11:45:24.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
