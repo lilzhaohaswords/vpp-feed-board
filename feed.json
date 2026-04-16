@@ -1,6 +1,13 @@
 {
-  "ts": 1776340006023,
+  "ts": 1776344124330,
   "items": [
+    {
+      "title": "Heat pumps may help boost residential solar in France",
+      "url": "https://www.pv-magazine.com/2026/04/16/heat-pumps-may-help-boost-residential-solar-in-france/",
+      "date": "2026-04-16T12:03:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Attracting infrastructure capital into large-scale battery storage: Eku Energy CEO Daniel Burrows",
       "url": "https://www.energy-storage.news/attracting-infrastructure-capital-into-large-scale-battery-storage-eku-energy-ceo-daniel-burrows/",
@@ -257,13 +264,6 @@
       "title": "Tunisia launches 200 MW call for PV projects under new licensing scheme",
       "url": "https://www.pv-magazine.com/2026/04/15/tunisia-launches-200-mw-call-for-pv-projects-under-new-licensing-scheme/",
       "date": "2026-04-15T06:37:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Vertical bifacial PV outperforms tilted PV systems in the UK",
-      "url": "https://www.pv-magazine.com/2026/04/15/vertical-bifacial-pv-outperforms-tilted-pv-systems-in-the-uk/",
-      "date": "2026-04-15T06:05:26.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
