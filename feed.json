@@ -1,6 +1,69 @@
 {
-  "ts": 1776407137587,
+  "ts": 1776413867350,
   "items": [
+    {
+      "title": "Switzerland to fund research on PV module, battery, heat pump recycling",
+      "url": "https://www.pv-magazine.com/2026/04/17/switzerland-to-fund-research-on-pv-module-battery-heat-pump-recycling/",
+      "date": "2026-04-17T08:03:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Cyclones and unseasonal polar winds shape Australia’s solar resource in March",
+      "url": "https://www.pv-magazine.com/2026/04/17/cyclones-and-unseasonal-polar-winds-shape-australias-solar-resource-in-march/",
+      "date": "2026-04-17T08:00:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sigenergy lists on Hong Kong Stock Exchange, raises HK$4.4 billion",
+      "url": "https://www.energy-storage.news/sigenergy-lists-on-hong-kong-stock-exchange-raises-hk4-4-billion/",
+      "date": "2026-04-17T07:50:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "China polysilicon hits cost floor as producers curb output amid weak demand",
+      "url": "https://www.pv-magazine.com/2026/04/17/china-polysilicon-hits-cost-floor-as-producers-curb-output-amid-weak-demand/",
+      "date": "2026-04-17T07:32:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spray cooling for floating PV",
+      "url": "https://www.pv-magazine.com/2026/04/17/spray-cooling-for-floating-pv/",
+      "date": "2026-04-17T07:25:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Thermostatic radiator valves can reduce energy consumption in air-source heat pumps by 6-8%",
+      "url": "https://www.pv-magazine.com/2026/04/17/thermostatic-radiator-valves-can-reduce-energy-consumption-in-air-source-heat-pumps-by-6-8/",
+      "date": "2026-04-17T07:14:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hithium signs €400 million Spain battery gigafactory investment agreement after two-year courtship",
+      "url": "https://www.energy-storage.news/hithium-signs-e400-million-spain-battery-gigafactory-investment-agreement-after-two-year-courtship/",
+      "date": "2026-04-17T07:12:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Akaysha inks deal with Copenhagen Energy for ‘mega-scale’ battery storage projects in Germany",
+      "url": "https://www.energy-storage.news/akaysha-inks-deal-with-copenhagen-energy-for-mega-scale-battery-storage-projects-in-germany/",
+      "date": "2026-04-17T06:53:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Pur Energy launches all-in-one battery–based home backup power solution",
+      "url": "https://www.pv-magazine.com/2026/04/17/pur-energy-launches-all-in-one-battery-based-home-backup-power-solution/",
+      "date": "2026-04-17T06:29:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "U.S. startup aims to make signing up for solar as easy as signing up for cell phone service",
       "url": "https://www.pv-magazine.com/2026/04/17/u-s-startup-aims-to-make-signing-up-for-solar-as-easy-as-signing-up-for-cell-phone-service/",
@@ -212,34 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "Span and Nvidia to develop AI data centers in your backyard, lowering electric bills",
-      "url": "https://www.pv-magazine.com/2026/04/15/span-and-nvidia-to-develop-ai-data-centers-in-your-backyard-lowering-electric-bills/",
-      "date": "2026-04-15T12:42:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Silver demand from PV industry expected to drop 19% this year",
-      "url": "https://www.pv-magazine.com/2026/04/15/silver-demand-from-pv-industry-expected-to-drop-19-this-year/",
-      "date": "2026-04-15T12:15:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "European power grid investment set to rise sharply by 2027",
-      "url": "https://www.pv-magazine.com/2026/04/15/european-grid-investment-to-nearly-double-by-2027-says-acer/",
-      "date": "2026-04-15T12:06:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Togo opens solar minigrid tender",
-      "url": "https://www.pv-magazine.com/2026/04/15/togo-opens-solar-minigrid-tender/",
-      "date": "2026-04-15T12:00:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "‘Unfettered optimism’ on US BESS degradation hits wall of operational reality",
       "url": "https://www.energy-storage.news/unfettered-optimism-on-us-bess-degradation-hits-wall-of-operational-reality/",
       "date": "2026-04-15T10:58:48.000Z",
@@ -254,24 +289,10 @@
       "bucket": "A"
     },
     {
-      "title": "Varta launches all-in-one residential inverter and modular battery",
-      "url": "https://www.pv-magazine.com/2026/04/15/varta-launches-all-in-one-residential-inverter-and-modular-battery/",
-      "date": "2026-04-15T09:29:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "VIDEO – Energy Storage Summit 2026: Battery recycling, lifecycle data and sustainability",
       "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-battery-recycling-lifecycle-data-and-sustainability/",
       "date": "2026-04-15T08:39:38.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "France, Germany set daily solar records for April",
-      "url": "https://www.pv-magazine.com/2026/04/15/france-germany-set-daily-solar-records-for-april/",
-      "date": "2026-04-15T08:12:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "Japanese business heavyweights in Tokyu Land’s US$190 million BESS investment consortium",
       "url": "https://www.energy-storage.news/japanese-business-heavyweights-in-tokyu-lands-us190-million-bess-investment-consortium/",
       "date": "2026-04-08T07:45:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Extracting more value from battery storage assets in Australia’s NEM",
-      "url": "https://www.energy-storage.news/video-extracting-more-value-from-battery-storage-assets-in-australias-nem/",
-      "date": "2026-04-07T22:11:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CO2 battery startup Energy Dome signs MOU to deploy technology at Texas data centre",
-      "url": "https://www.energy-storage.news/co2-battery-startup-energy-dome-signs-mou-to-deploy-technology-at-texas-data-centre/",
-      "date": "2026-04-07T12:19:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Boralex, Six Nations of the Grand River secure US$145 million financing for 500MWh Ontario BESS",
-      "url": "https://www.energy-storage.news/boralex-six-nations-of-the-grand-river-secure-us145-million-financing-for-500mwh-ontario-bess/",
-      "date": "2026-04-07T11:59:03.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
