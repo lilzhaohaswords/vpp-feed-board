@@ -1,6 +1,41 @@
 {
-  "ts": 1776413867350,
+  "ts": 1776420076350,
   "items": [
+    {
+      "title": "Hydro-Quebec’s 300 MW solar tender oversubscribed",
+      "url": "https://www.pv-magazine.com/2026/04/17/hydro-quebecs-300-mw-solar-tender-oversubscribed/",
+      "date": "2026-04-17T09:30:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New metric shows renewables are 53% cheaper than nuclear power",
+      "url": "https://www.pv-magazine.com/2026/04/17/new-metric-shows-renewables-are-53-cheaper-than-nuclear-power/",
+      "date": "2026-04-17T09:20:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Perovskite–silicon tandem solar cells using zinc-doped tin oxide achieve comparable performance to indium tin oxide counterparts",
+      "url": "https://www.pv-magazine.com/2026/04/17/perovskite-silicon-tandem-solar-cells-using-zinc-doped-tin-oxide-achieve-comparable-performance-to-indium-tin-oxide-counterparts/",
+      "date": "2026-04-17T09:18:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: Hoshine Silicon posts $411 million loss for 2025",
+      "url": "https://www.pv-magazine.com/2026/04/17/chinese-pv-industry-brief-hoshine-silicon-posts-411-million-loss-for-2025/",
+      "date": "2026-04-17T08:29:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO – Energy Storage Summit 2026: Lessons learned from BESS construction projects",
+      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-lessons-learned-from-bess-construction-projects/",
+      "date": "2026-04-17T08:19:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Switzerland to fund research on PV module, battery, heat pump recycling",
       "url": "https://www.pv-magazine.com/2026/04/17/switzerland-to-fund-research-on-pv-module-battery-heat-pump-recycling/",
@@ -219,27 +254,6 @@
       "bucket": "A"
     },
     {
-      "title": "Scientists identify new loss factor in tracker-based PV plants on slightly undulating terrain",
-      "url": "https://www.pv-magazine.com/2026/04/16/scientists-identify-new-loss-factor-in-tracker-based-pv-plants-on-slightly-undulating-terrain/",
-      "date": "2026-04-16T06:32:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. community solar passes 10 GW milestone despite market contraction",
-      "url": "https://www.pv-magazine.com/2026/04/16/u-s-community-solar-passes-10-gw-milestone-despite-market-contraction/",
-      "date": "2026-04-16T06:19:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Microbial biofilms can reduce solar module yield by up to 30% in arid zones",
-      "url": "https://www.pv-magazine.com/2026/04/16/microbial-biofilms-can-reduce-solar-module-yield-by-up-to-30-in-arid-zones/",
-      "date": "2026-04-16T06:14:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Neoen Australia submits 3.2GWh Bondo wind-plus-storage project to the EPBC Act",
       "url": "https://www.energy-storage.news/neoen-australia-submits-3-2gwh-bondo-wind-plus-storage-project-to-the-epbc-act/",
       "date": "2026-04-16T02:08:04.000Z",
@@ -265,13 +279,6 @@
       "url": "https://www.energy-storage.news/video-its-going-to-massively-scale-here-fluence-chief-predicts-data-centre-battery-storage-slingshot-in-australia/",
       "date": "2026-04-15T22:25:24.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "RWE drops 99.9 MW solar project in Wales on grid constraints",
-      "url": "https://www.pv-magazine.com/2026/04/15/rwe-drops-99-9-mw-solar-project-in-wales-on-grid-constraints/",
-      "date": "2026-04-15T15:45:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "IPPs Zelestra, BNZ adding BESS to solar PV plants in Southern Europe",
       "url": "https://www.energy-storage.news/ipps-zelestra-bnz-adding-bess-to-solar-pv-plants-in-southern-europe/",
       "date": "2026-04-08T10:10:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Japanese business heavyweights in Tokyu Land’s US$190 million BESS investment consortium",
-      "url": "https://www.energy-storage.news/japanese-business-heavyweights-in-tokyu-lands-us190-million-bess-investment-consortium/",
-      "date": "2026-04-08T07:45:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
