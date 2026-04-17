@@ -1,6 +1,41 @@
 {
-  "ts": 1776420076350,
+  "ts": 1776425971169,
   "items": [
+    {
+      "title": "Philippines announces 7th renewables auction",
+      "url": "https://www.pv-magazine.com/2026/04/17/philippines-announces-7th-renewables-auction/",
+      "date": "2026-04-17T11:30:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Trina Solar TOPCon patents invalidated in US ruling involving Canadian Solar",
+      "url": "https://www.pv-magazine.com/2026/04/17/trina-solar-topcon-patents-invalidated-in-us-ruling-involving-canadian-solar/",
+      "date": "2026-04-17T11:24:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy installs 1.43 GW of PV in Q1",
+      "url": "https://www.pv-magazine.com/2026/04/17/italy-installs-1-43-gw-of-pv-in-q1/",
+      "date": "2026-04-17T10:36:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Cyber threats for PV: What are supply chain attacks and how do they work",
+      "url": "https://www.pv-magazine.com/2026/04/17/cyber-threats-for-pv-what-are-supply-chain-attacks-and-how-do-they-work/",
+      "date": "2026-04-17T10:23:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France deploys 1.41 GW of solar in Q1",
+      "url": "https://www.pv-magazine.com/2026/04/17/france-deploys-1-41-gw-of-solar-in-q1/",
+      "date": "2026-04-17T10:12:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hydro-Quebec’s 300 MW solar tender oversubscribed",
       "url": "https://www.pv-magazine.com/2026/04/17/hydro-quebecs-300-mw-solar-tender-oversubscribed/",
@@ -205,45 +240,10 @@
       "bucket": "A"
     },
     {
-      "title": "Philippines registers solar module maker targeting EU export market",
-      "url": "https://www.pv-magazine.com/2026/04/16/philippines-registers-solar-module-maker-targeting-eu-export-market/",
-      "date": "2026-04-16T10:01:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korea widens tax credits for low-carbon solar manufacturing",
-      "url": "https://www.pv-magazine.com/2026/04/16/south-korea-widens-tax-credits-for-low-carbon-solar-manufacturing/",
-      "date": "2026-04-16T09:37:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "OCI in talks with SpaceX for polysilicon supply",
-      "url": "https://www.pv-magazine.com/2026/04/16/oci-in-talks-with-spacex-for-polysilicon-supply/",
-      "date": "2026-04-16T08:47:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cyber threats for PV: What are distributed denial-of-service attacks and how do they work",
-      "url": "https://www.pv-magazine.com/2026/04/16/cyber-threats-for-pv-what-are-distributed-denial-of-service-attacks-and-how-do-they-work/",
-      "date": "2026-04-16T08:47:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Investor Wood &#038; Co engages partners to put 145MW of BESS into Nordic electricity markets",
       "url": "https://www.energy-storage.news/investor-wood-co-engages-partners-to-put-145mw-of-bess-into-nordic-electricity-markets/",
       "date": "2026-04-16T08:01:44.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy PV grid connection requests reach 144 GW as ready-to-build pipeline grows to 9.34 GW",
-      "url": "https://www.pv-magazine.com/2026/04/16/italy-has-now-a-9-34-gw-pipeline-of-ready-to-build-pv-projects/",
-      "date": "2026-04-16T07:15:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
