@@ -1,6 +1,41 @@
 {
-  "ts": 1776689799938,
+  "ts": 1776695263303,
   "items": [
+    {
+      "title": "Philippines adds 899 MW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/04/20/philippines-adds-899-mw-of-solar-in-2025/",
+      "date": "2026-04-20T14:18:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Jinko Power enters data center business with 1 GW project in China",
+      "url": "https://www.pv-magazine.com/2026/04/20/jinko-power-enters-data-center-business-with-1-gw-project-in-china/",
+      "date": "2026-04-20T14:17:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US ROUNDUP: BESS developers highlight &#8216;bring your own capacity’ model in data centre announcements",
+      "url": "https://www.energy-storage.news/us-roundup-bess-developers-highlight-bring-your-own-capacity-model-in-data-centre-announcements/",
+      "date": "2026-04-20T13:58:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy launches tender for 30 MW of floating PV",
+      "url": "https://www.pv-magazine.com/2026/04/20/italy-launches-tender-for-30-mw-of-floating-pv/",
+      "date": "2026-04-20T13:54:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Negative power prices reach all-time high on the Iberian Peninsula in Q1",
+      "url": "https://www.pv-magazine.com/2026/04/20/negative-power-prices-all-time-high-on-the-iberian-peninsula-in-q1/",
+      "date": "2026-04-20T13:30:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "A closer look at CATL’s new sodium-ion battery",
       "url": "https://www.pv-magazine.com/2026/04/20/a-closer-look-at-catls-new-sodium-ion-battery/",
@@ -184,13 +219,6 @@
       "bucket": "A"
     },
     {
-      "title": "Chinese PV Industry Brief: JinkoSolar, Hoshine Silicon posts significant losses for 2025",
-      "url": "https://www.pv-magazine.com/2026/04/17/chinese-pv-industry-brief-hoshine-silicon-posts-411-million-loss-for-2025/",
-      "date": "2026-04-17T08:29:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "VIDEO – Energy Storage Summit 2026: Lessons learned from BESS construction projects",
       "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-lessons-learned-from-bess-construction-projects/",
       "date": "2026-04-17T08:19:32.000Z",
@@ -198,31 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "Switzerland to fund research on PV module, battery, heat pump recycling",
-      "url": "https://www.pv-magazine.com/2026/04/17/switzerland-to-fund-research-on-pv-module-battery-heat-pump-recycling/",
-      "date": "2026-04-17T08:03:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cyclones and unseasonal polar winds shape Australia’s solar resource in March",
-      "url": "https://www.pv-magazine.com/2026/04/17/cyclones-and-unseasonal-polar-winds-shape-australias-solar-resource-in-march/",
-      "date": "2026-04-17T08:00:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Sigenergy lists on Hong Kong Stock Exchange, raises HK$4.4 billion",
       "url": "https://www.energy-storage.news/sigenergy-lists-on-hong-kong-stock-exchange-raises-hk4-4-billion/",
       "date": "2026-04-17T07:50:25.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China polysilicon hits cost floor as producers curb output amid weak demand",
-      "url": "https://www.pv-magazine.com/2026/04/17/china-polysilicon-hits-cost-floor-as-producers-curb-output-amid-weak-demand/",
-      "date": "2026-04-17T07:32:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Beyond 314Ah: A comparison of large-format LFP battery cells for BESS",
       "url": "https://www.energy-storage.news/beyond-314ah-a-comparison-of-large-format-lfp-battery-cells-for-bess/",
       "date": "2026-04-09T08:56:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Engie buys 1.1GWh of synchronous condenser-paired BESS in Spain, starts building 220MWh France project",
-      "url": "https://www.energy-storage.news/engie-buys-1-1gwh-of-synchronous-condenser-paired-bess-in-spain-starts-building-220mwh-france-project/",
-      "date": "2026-04-09T08:21:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
