@@ -1,6 +1,20 @@
 {
-  "ts": 1776677302110,
+  "ts": 1776683245861,
   "items": [
+    {
+      "title": "Solar rebound effect could raise Europe’s electricity demand 5% by 2050",
+      "url": "https://www.pv-magazine.com/2026/04/20/solar-rebound-effect-could-raise-europes-electricity-demand-5-by-2050/",
+      "date": "2026-04-20T10:56:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Cyber threats for PV: What are cloud platform and software-as-a-service exploitation attacks and how do they work",
+      "url": "https://www.pv-magazine.com/2026/04/20/cyber-threats-for-pv-what-are-cloud-platform-and-software-as-a-service-exploitation-attacks-and-how-do-they-work/",
+      "date": "2026-04-20T10:02:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Low-pressure hydrogen bridges seasonal gaps in solar-powered Japanese building",
       "url": "https://www.pv-magazine.com/2026/04/20/low-pressure-hydrogen-bridges-seasonal-gaps-in-solar-powered-japanese-building/",
@@ -219,13 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "U.S. startup aims to make signing up for solar as easy as signing up for cell phone service",
-      "url": "https://www.pv-magazine.com/2026/04/17/u-s-startup-aims-to-make-signing-up-for-solar-as-easy-as-signing-up-for-cell-phone-service/",
-      "date": "2026-04-17T06:21:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Synergy submits 1GW Tathra Wind Farm with 500MW BESS to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/synergy-submits-1gw-tathra-wind-farm-with-500mw-bess-to-australias-epbc-act/",
       "date": "2026-04-17T02:09:01.000Z",
@@ -237,13 +244,6 @@
       "url": "https://www.energy-storage.news/puerto-rico-approves-aggregated-residential-energy-storage-motion-from-tesla-sunrun-and-sunstrong/",
       "date": "2026-04-16T14:19:31.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Vietnam’s solar capacity surpasses 19 GW",
-      "url": "https://www.pv-magazine.com/2026/04/16/vietnams-solar-capacity-surpasses-19-gw/",
-      "date": "2026-04-16T14:01:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
