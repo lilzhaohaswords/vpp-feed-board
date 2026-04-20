@@ -1,6 +1,34 @@
 {
-  "ts": 1776683245861,
+  "ts": 1776689799938,
   "items": [
+    {
+      "title": "A closer look at CATL’s new sodium-ion battery",
+      "url": "https://www.pv-magazine.com/2026/04/20/a-closer-look-at-catls-new-sodium-ion-battery/",
+      "date": "2026-04-20T12:51:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Samsung launches residential air-to-water heat pump reaching SCOP of up to 4.9",
+      "url": "https://www.pv-magazine.com/2026/04/20/samsung-launches-residential-air-to-water-heat-pump-reaching-scop-of-up-to-4-9/",
+      "date": "2026-04-20T12:00:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BESS analytics &#8216;bridge the gap between technical performance and commercial outcomes&#8217;",
+      "url": "https://www.energy-storage.news/bess-analytics-bridge-the-gap-between-technical-performance-and-commercial-outcomes/",
+      "date": "2026-04-20T11:48:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Could global warming improve heat pump efficiency in Alpine regions?",
+      "url": "https://www.pv-magazine.com/2026/04/20/could-global-warming-improve-heat-pump-efficiency-in-alpine-regions/",
+      "date": "2026-04-20T11:14:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar rebound effect could raise Europe’s electricity demand 5% by 2050",
       "url": "https://www.pv-magazine.com/2026/04/20/solar-rebound-effect-could-raise-europes-electricity-demand-5-by-2050/",
@@ -198,20 +226,6 @@
       "bucket": "A"
     },
     {
-      "title": "Spray cooling for floating PV",
-      "url": "https://www.pv-magazine.com/2026/04/17/spray-cooling-for-floating-pv/",
-      "date": "2026-04-17T07:25:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Thermostatic radiator valves can reduce energy consumption in air-source heat pumps by 6-8%",
-      "url": "https://www.pv-magazine.com/2026/04/17/thermostatic-radiator-valves-can-reduce-energy-consumption-in-air-source-heat-pumps-by-6-8/",
-      "date": "2026-04-17T07:14:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Hithium signs €400 million Spain battery gigafactory investment agreement after two-year courtship",
       "url": "https://www.energy-storage.news/hithium-signs-e400-million-spain-battery-gigafactory-investment-agreement-after-two-year-courtship/",
       "date": "2026-04-17T07:12:00.000Z",
@@ -223,13 +237,6 @@
       "url": "https://www.energy-storage.news/akaysha-inks-deal-with-copenhagen-energy-for-mega-scale-battery-storage-projects-in-germany/",
       "date": "2026-04-17T06:53:38.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Pur Energy launches all-in-one battery–based home backup power solution",
-      "url": "https://www.pv-magazine.com/2026/04/17/pur-energy-launches-all-in-one-battery-based-home-backup-power-solution/",
-      "date": "2026-04-17T06:29:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Engie buys 1.1GWh of synchronous condenser-paired BESS in Spain, starts building 220MWh France project",
       "url": "https://www.energy-storage.news/engie-buys-1-1gwh-of-synchronous-condenser-paired-bess-in-spain-starts-building-220mwh-france-project/",
       "date": "2026-04-09T08:21:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU-India trade agreement will propel innovation in energy storage",
-      "url": "https://www.energy-storage.news/eu-india-trade-agreement-will-propel-innovation-in-energy-storage/",
-      "date": "2026-04-09T05:45:23.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
