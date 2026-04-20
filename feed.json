@@ -1,6 +1,27 @@
 {
-  "ts": 1776647630838,
+  "ts": 1776660338398,
   "items": [
+    {
+      "title": "Pacific Energy to deliver 81MWh battery storage systems to Australia’s Northern Territory",
+      "url": "https://www.energy-storage.news/pacific-energy-to-deliver-81mwh-battery-storage-systems-to-australias-northern-territory/",
+      "date": "2026-04-20T02:57:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "CleanPeak acquires sub-5MW solar and battery storage specialist Sustainable Energy Infrastructure in Australia",
+      "url": "https://www.energy-storage.news/cleanpeak-acquires-sub-5mw-solar-and-battery-storage-specialist-sustainable-energy-infrastructure-in-australia/",
+      "date": "2026-04-20T02:54:50.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Recurrent Energy&#8217;s 600MWh Sundown Energy Park clears Australia&#8217;s rigorous grid connection process",
+      "url": "https://www.energy-storage.news/recurrent-energys-600mwh-sundown-energy-park-clears-australias-rigorous-grid-connection-process/",
+      "date": "2026-04-20T02:46:11.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Levelized cost of hydrogen at Mediterranean ports can be as low as €2.5/kg for hybrid systems",
       "url": "https://www.pv-magazine.com/2026/04/17/the-hydrogen-stream-levelized-cost-of-hydrogen-at-mediterranean-ports-can-be-as-low-as-e2-5-kg-for-hybrid-systems/",
@@ -502,27 +523,6 @@
       "title": "Private Energy Partners submits 780MW battery storage project to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/private-energy-partners-submits-780mw-battery-storage-project-to-australias-epbc-act/",
       "date": "2026-04-09T02:19:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US battery storage developers get creative as pure merchant model fades",
-      "url": "https://www.energy-storage.news/us-battery-storage-developers-get-creative-as-pure-merchant-model-fades/",
-      "date": "2026-04-08T12:17:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Canada&#8217;s smallest province, Prince Edward Island, issues REOI for up to 50MW of BESS",
-      "url": "https://www.energy-storage.news/canadas-smallest-province-prince-edward-island-issues-reoi-for-up-to-50mw-of-bess/",
-      "date": "2026-04-08T10:18:55.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "IPPs Zelestra, BNZ adding BESS to solar PV plants in Southern Europe",
-      "url": "https://www.energy-storage.news/ipps-zelestra-bnz-adding-bess-to-solar-pv-plants-in-southern-europe/",
-      "date": "2026-04-08T10:10:42.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
