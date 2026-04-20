@@ -1,6 +1,41 @@
 {
-  "ts": 1776668812643,
+  "ts": 1776677302110,
   "items": [
+    {
+      "title": "Low-pressure hydrogen bridges seasonal gaps in solar-powered Japanese building",
+      "url": "https://www.pv-magazine.com/2026/04/20/low-pressure-hydrogen-bridges-seasonal-gaps-in-solar-powered-japanese-building/",
+      "date": "2026-04-20T08:57:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "TBEA launches 500 kW string inverter",
+      "url": "https://www.pv-magazine.com/2026/04/20/tbea-launches-500-kw-string-inverter/",
+      "date": "2026-04-20T07:52:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "JinkoSolar debuts rooftop PV module weighing 7 kg/m2",
+      "url": "https://www.pv-magazine.com/2026/04/20/jinkosolar-debuts-rooftop-pv-module-weighing-7-kg-m2/",
+      "date": "2026-04-20T07:35:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Community-scale solar offers $6.5 billion in savings, bypassing California gridlocks",
+      "url": "https://www.pv-magazine.com/2026/04/20/community-scale-solar-offers-6-5-billion-in-savings-bypassing-california-gridlocks/",
+      "date": "2026-04-20T07:12:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "HDRE, Tokyo Gas sign 150MW BESS deal in Japan as trading, curtailment and disaster relief drive use cases in growing market",
+      "url": "https://www.energy-storage.news/hdre-tokyo-gas-sign-150mw-bess-deal-in-japan-as-trading-curtailment-and-disaster-relief-drive-use-cases-in-growing-market/",
+      "date": "2026-04-20T07:07:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Pacific Energy to deliver 81MWh battery storage systems to Australia’s Northern Territory",
       "url": "https://www.energy-storage.news/pacific-energy-to-deliver-81mwh-battery-storage-systems-to-australias-northern-territory/",
@@ -208,34 +243,6 @@
       "title": "Vietnam’s solar capacity surpasses 19 GW",
       "url": "https://www.pv-magazine.com/2026/04/16/vietnams-solar-capacity-surpasses-19-gw/",
       "date": "2026-04-16T14:01:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "BMW targets 2028 hydrogen car launch, cites infrastructure and cost hurdles",
-      "url": "https://www.pv-magazine.com/2026/04/16/bmw-targets-2028-hydrogen-car-launch-cites-infrastructure-and-cost-hurdles/",
-      "date": "2026-04-16T13:59:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Agrivoltaics maintain or enhance forage quality, study finds",
-      "url": "https://www.pv-magazine.com/2026/04/16/agrivoltaics-maintain-or-enhanche-forage-quality-study-finds/",
-      "date": "2026-04-16T13:40:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany adds record 1 GWh of battery storage in March",
-      "url": "https://www.pv-magazine.com/2026/04/16/germany-adds-record-1-gwh-of-battery-storage-in-march/",
-      "date": "2026-04-16T13:03:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Heat pumps may help boost residential solar in France",
-      "url": "https://www.pv-magazine.com/2026/04/16/heat-pumps-may-help-boost-residential-solar-in-france/",
-      "date": "2026-04-16T12:03:20.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "EU-India trade agreement will propel innovation in energy storage",
       "url": "https://www.energy-storage.news/eu-india-trade-agreement-will-propel-innovation-in-energy-storage/",
       "date": "2026-04-09T05:45:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Private Energy Partners submits 780MW battery storage project to Australia&#8217;s EPBC Act",
-      "url": "https://www.energy-storage.news/private-energy-partners-submits-780mw-battery-storage-project-to-australias-epbc-act/",
-      "date": "2026-04-09T02:19:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
