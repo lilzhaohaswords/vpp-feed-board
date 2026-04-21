@@ -1,6 +1,27 @@
 {
-  "ts": 1776765992804,
+  "ts": 1776772208439,
   "items": [
+    {
+      "title": "Inside PV Manufacturing: United Solar&#8217;s polysilicon factory in Oman",
+      "url": "https://www.pv-magazine.com/2026/04/21/inside-pv-manufacturing-united-solars-polysilicon-factory-in-oman/",
+      "date": "2026-04-21T11:39:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bangladesh opens public land to utility-scale solar under PPP model",
+      "url": "https://www.pv-magazine.com/2026/04/21/bangladesh-opens-public-land-to-utility-scale-solar-under-ppp-model/",
+      "date": "2026-04-21T10:51:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ingrid Capacity launching 600MWh of new Sweden projects, including first 4-hour system",
+      "url": "https://www.energy-storage.news/ingrid-capacity-launching-600mwh-of-new-sweden-projects-including-first-4-hour-system/",
+      "date": "2026-04-21T10:16:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "European electricity prices increase despite falling gas prices",
       "url": "https://www.pv-magazine.com/2026/04/21/european-electricity-prices-increase-despite-falling-gas-prices/",
@@ -205,13 +226,6 @@
       "bucket": "A"
     },
     {
-      "title": "Community-scale solar offers $6.5 billion in savings, bypassing California gridlocks",
-      "url": "https://www.pv-magazine.com/2026/04/20/community-scale-solar-offers-6-5-billion-in-savings-bypassing-california-gridlocks/",
-      "date": "2026-04-20T07:12:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "HDRE, Tokyo Gas sign 150MW BESS deal in Japan as trading, curtailment and disaster relief drive use cases in growing market",
       "url": "https://www.energy-storage.news/hdre-tokyo-gas-sign-150mw-bess-deal-in-japan-as-trading-curtailment-and-disaster-relief-drive-use-cases-in-growing-market/",
       "date": "2026-04-20T07:07:47.000Z",
@@ -237,13 +251,6 @@
       "url": "https://www.energy-storage.news/recurrent-energys-600mwh-sundown-energy-park-clears-australias-rigorous-grid-connection-process/",
       "date": "2026-04-20T02:46:11.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Levelized cost of hydrogen at Mediterranean ports can be as low as €2.5/kg for hybrid systems",
-      "url": "https://www.pv-magazine.com/2026/04/17/the-hydrogen-stream-levelized-cost-of-hydrogen-at-mediterranean-ports-can-be-as-low-as-e2-5-kg-for-hybrid-systems/",
-      "date": "2026-04-17T13:35:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "‘75% of what we need is not there’: Australian states race to deploy gigawatts of battery storage",
       "url": "https://www.energy-storage.news/75-of-what-we-need-is-not-there-australian-states-race-to-deploy-gigawatts-of-battery-storage/",
       "date": "2026-04-10T05:15:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy Vault the latest international player to tap Japan’s BESS market potential",
-      "url": "https://www.energy-storage.news/energy-vault-the-latest-international-player-to-tap-japans-bess-market-potential/",
-      "date": "2026-04-10T04:37:24.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
