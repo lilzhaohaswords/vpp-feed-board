@@ -1,6 +1,20 @@
 {
-  "ts": 1776733873030,
+  "ts": 1776746178254,
   "items": [
+    {
+      "title": "Australia’s PowerPlus Energy to triple battery module production capacity to 150MWh with ARENA funding",
+      "url": "https://www.energy-storage.news/australias-powerplus-energy-to-triple-battery-module-production-capacity-to-150mwh-with-arena-funding/",
+      "date": "2026-04-21T02:55:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Genesis Energy greenlights &#8216;lowest cost&#8217; grid-scale BESS in New Zealand",
+      "url": "https://www.energy-storage.news/genesis-energy-greenlights-lowest-cost-grid-scale-bess-in-new-zealand/",
+      "date": "2026-04-21T01:29:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "California powers its massive water pumps with 105 MW solar project",
       "url": "https://www.pv-magazine.com/2026/04/20/california-powers-its-massive-water-pumps-with-105-solar-project/",
@@ -509,20 +523,6 @@
       "title": "GridStor, Axpo execute energy storage revenue swap agreement for 440MWh Texas BESS",
       "url": "https://www.energy-storage.news/gridstor-axpo-execute-energy-storage-revenue-swap-agreement-for-440mwh-texas-bess/",
       "date": "2026-04-09T12:10:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: European BESS integration with Chinese cells can be competitive, says Maxxen&#8217;s Ruben Valiente",
-      "url": "https://www.energy-storage.news/video-european-bess-integration-with-chinese-cells-can-be-competitive-says-maxxens-ruben-valiente/",
-      "date": "2026-04-09T09:39:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Beyond 314Ah: A comparison of large-format LFP battery cells for BESS",
-      "url": "https://www.energy-storage.news/beyond-314ah-a-comparison-of-large-format-lfp-battery-cells-for-bess/",
-      "date": "2026-04-09T08:56:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
