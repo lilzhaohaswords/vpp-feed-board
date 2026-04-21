@@ -1,6 +1,55 @@
 {
-  "ts": 1776759773815,
+  "ts": 1776765992804,
   "items": [
+    {
+      "title": "European electricity prices increase despite falling gas prices",
+      "url": "https://www.pv-magazine.com/2026/04/21/european-electricity-prices-increase-despite-falling-gas-prices/",
+      "date": "2026-04-21T10:04:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How to operate PV-driven residential heat pumps under time-varying tariffs",
+      "url": "https://www.pv-magazine.com/2026/04/21/how-to-operate-pv-driven-residential-heat-pumps-under-time-varying-tariffs/",
+      "date": "2026-04-21T09:28:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Copenhagen Infrastructure Partners begins construction on 1,500MWh Chile BESS",
+      "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-begins-construction-on-1500mwh-chile-bess/",
+      "date": "2026-04-21T09:23:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Patent disputes in ESS are on the rise: Here&#8217;s how developers can prepare",
+      "url": "https://www.energy-storage.news/patent-disputes-in-ess-are-on-the-rise-heres-how-developers-can-prepare/",
+      "date": "2026-04-21T09:03:50.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "The world added 605 GW of new PV capacity in 2025, says IEA",
+      "url": "https://www.pv-magazine.com/2026/04/21/the-world-added-605-gw-of-new-pv-capacity-in-2025-says-iea/",
+      "date": "2026-04-21T08:55:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK tries to break gas link with voluntary long-term fixed price contracts for all renewables",
+      "url": "https://www.pv-magazine.com/2026/04/21/uk-tries-to-break-gas-link-with-voluntary-long-term-fixed-price-contracts-for-all-renewables/",
+      "date": "2026-04-21T08:43:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Rongke Power debuts 2 MW/8 MWh vanadium flow battery storage system",
+      "url": "https://www.pv-magazine.com/2026/04/21/rongke-power-debuts-2-mw-8-mwh-vanadium-flow-battery-storage-system/",
+      "date": "2026-04-21T08:35:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Fabricating perovskite solar cells with robotic boxes",
       "url": "https://www.pv-magazine.com/2026/04/21/fabricating-perovskite-solar-cells-with-robotic-boxes/",
@@ -194,41 +243,6 @@
       "title": "The Hydrogen Stream: Levelized cost of hydrogen at Mediterranean ports can be as low as €2.5/kg for hybrid systems",
       "url": "https://www.pv-magazine.com/2026/04/17/the-hydrogen-stream-levelized-cost-of-hydrogen-at-mediterranean-ports-can-be-as-low-as-e2-5-kg-for-hybrid-systems/",
       "date": "2026-04-17T13:35:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;I approach inclusion from a perspective of fairness and performance&#8217;",
-      "url": "https://www.pv-magazine.com/2026/04/17/i-approach-inclusion-from-a-perspective-of-fairness-and-performance/",
-      "date": "2026-04-17T13:16:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Will we finally buy European PV modules?",
-      "url": "https://www.pv-magazine.com/2026/04/17/will-we-finally-buy-european-pv-modules/",
-      "date": "2026-04-17T12:15:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Inside the financing of Egypt’s largest solar‑plus‑storage project",
-      "url": "https://www.pv-magazine.com/2026/04/17/the-financial-strategy-behind-egypts-largest-solar-plus-storage-project/",
-      "date": "2026-04-17T11:57:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Philippines announces 7th renewables auction",
-      "url": "https://www.pv-magazine.com/2026/04/17/philippines-announces-7th-renewables-auction/",
-      "date": "2026-04-17T11:30:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Trina Solar TOPCon patents invalidated in US ruling involving Canadian Solar",
-      "url": "https://www.pv-magazine.com/2026/04/17/trina-solar-topcon-patents-invalidated-in-us-ruling-involving-canadian-solar/",
-      "date": "2026-04-17T11:24:02.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Energy Vault the latest international player to tap Japan’s BESS market potential",
       "url": "https://www.energy-storage.news/energy-vault-the-latest-international-player-to-tap-japans-bess-market-potential/",
       "date": "2026-04-10T04:37:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO &#8211; Energy Storage Summit 2026: What is the outlook for BESS Capex this year?",
-      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-what-is-the-outlook-for-bess-capex-this-year/",
-      "date": "2026-04-09T13:42:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "GridStor, Axpo execute energy storage revenue swap agreement for 440MWh Texas BESS",
-      "url": "https://www.energy-storage.news/gridstor-axpo-execute-energy-storage-revenue-swap-agreement-for-440mwh-texas-bess/",
-      "date": "2026-04-09T12:10:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
