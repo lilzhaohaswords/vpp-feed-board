@@ -1,6 +1,20 @@
 {
-  "ts": 1776781560125,
+  "ts": 1776787176307,
   "items": [
+    {
+      "title": "Meta reserves up to 100GWh of US ‘multi-day’ energy storage startup Noon Energy’s technology",
+      "url": "https://www.energy-storage.news/meta-reserves-up-to-100gwh-of-us-multi-day-energy-storage-startup-noon-energys-technology/",
+      "date": "2026-04-21T15:31:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "A closer look at EcoFlow’s three-phase Ocean 2 storage solution",
+      "url": "https://www.pv-magazine.com/2026/04/21/a-closer-look-at-ecoflows-three-phase-ocean-2-storage-solution/",
+      "date": "2026-04-21T14:51:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Treating batteries ‘like infrastructure’: EnerVenue CEO on its nickel-hydrogen energy storage vessels",
       "url": "https://www.energy-storage.news/treating-batteries-like-infrastructure-enervenue-ceo-on-its-nickel-hydrogen-energy-storage-vessels/",
@@ -229,13 +243,6 @@
       "title": "TBEA launches 500 kW string inverter",
       "url": "https://www.pv-magazine.com/2026/04/20/tbea-launches-500-kw-string-inverter/",
       "date": "2026-04-20T07:52:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "JinkoSolar debuts rooftop PV module weighing 7 kg/m2",
-      "url": "https://www.pv-magazine.com/2026/04/20/jinkosolar-debuts-rooftop-pv-module-weighing-7-kg-m2/",
-      "date": "2026-04-20T07:35:54.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "American Battery Factory, Lion Energy form partnership for US-made LFP BESS equipment",
       "url": "https://www.energy-storage.news/american-battery-factory-lion-energy-form-partnership-for-us-made-lfp-bess-equipment/",
       "date": "2026-04-10T12:08:49.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "TenneT signs contract with developer for &#8216;first controllable congestion mitigator&#8217; BESS project in Netherlands",
-      "url": "https://www.energy-storage.news/tennet-signs-contract-with-developer-for-first-controllable-congestion-mitigator-bess-project-in-netherlands/",
-      "date": "2026-04-10T09:55:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
