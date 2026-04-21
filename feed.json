@@ -1,6 +1,20 @@
 {
-  "ts": 1776752758916,
+  "ts": 1776759773815,
   "items": [
+    {
+      "title": "Fabricating perovskite solar cells with robotic boxes",
+      "url": "https://www.pv-magazine.com/2026/04/21/fabricating-perovskite-solar-cells-with-robotic-boxes/",
+      "date": "2026-04-21T07:57:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Control, not capacity, could be the next driver of US residential storage investment",
+      "url": "https://www.pv-magazine.com/2026/04/21/control-not-capacity-could-be-the-next-driver-of-us-residential-storage-investment/",
+      "date": "2026-04-21T06:45:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Insurance premiums trending down despite severe weather threat for solar",
       "url": "https://www.pv-magazine.com/2026/04/21/insurance-premiums-trending-down-despite-severe-weather-threat-for-solar/",
@@ -215,20 +229,6 @@
       "title": "Trina Solar TOPCon patents invalidated in US ruling involving Canadian Solar",
       "url": "https://www.pv-magazine.com/2026/04/17/trina-solar-topcon-patents-invalidated-in-us-ruling-involving-canadian-solar/",
       "date": "2026-04-17T11:24:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy installs 1.43 GW of PV in Q1",
-      "url": "https://www.pv-magazine.com/2026/04/17/italy-installs-1-43-gw-of-pv-in-q1/",
-      "date": "2026-04-17T10:36:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cyber threats for PV: What are supply chain attacks and how do they work",
-      "url": "https://www.pv-magazine.com/2026/04/17/cyber-threats-for-pv-what-are-supply-chain-attacks-and-how-do-they-work/",
-      "date": "2026-04-17T10:23:20.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
