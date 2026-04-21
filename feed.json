@@ -1,6 +1,20 @@
 {
-  "ts": 1776775902948,
+  "ts": 1776781560125,
   "items": [
+    {
+      "title": "Treating batteries ‘like infrastructure’: EnerVenue CEO on its nickel-hydrogen energy storage vessels",
+      "url": "https://www.energy-storage.news/treating-batteries-like-infrastructure-enervenue-ceo-on-its-nickel-hydrogen-energy-storage-vessels/",
+      "date": "2026-04-21T13:52:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘It depends’: Designing battery storage for AI data centre co-location is a moving target",
+      "url": "https://www.energy-storage.news/it-depends-designing-battery-storage-for-ai-data-centre-co-location-is-a-moving-target/",
+      "date": "2026-04-21T13:37:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Inside PV Manufacturing: United Solar&#8217;s polysilicon factory in Oman",
       "url": "https://www.pv-magazine.com/2026/04/21/inside-pv-manufacturing-united-solars-polysilicon-factory-in-oman/",
@@ -509,20 +523,6 @@
       "title": "TenneT signs contract with developer for &#8216;first controllable congestion mitigator&#8217; BESS project in Netherlands",
       "url": "https://www.energy-storage.news/tennet-signs-contract-with-developer-for-first-controllable-congestion-mitigator-bess-project-in-netherlands/",
       "date": "2026-04-10T09:55:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: Battery storage cushions AU$1 billion fuel shock as Climate Council demands May budget action",
-      "url": "https://www.energy-storage.news/australia-battery-storage-cushions-au1-billion-fuel-shock-as-climate-council-demands-may-budget-action/",
-      "date": "2026-04-10T06:02:31.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘75% of what we need is not there’: Australian states race to deploy gigawatts of battery storage",
-      "url": "https://www.energy-storage.news/75-of-what-we-need-is-not-there-australian-states-race-to-deploy-gigawatts-of-battery-storage/",
-      "date": "2026-04-10T05:15:58.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
