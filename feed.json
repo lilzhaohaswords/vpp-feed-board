@@ -1,6 +1,13 @@
 {
-  "ts": 1776858483385,
+  "ts": 1776862294923,
   "items": [
+    {
+      "title": "Solar leads Ireland’s home energy upgrade grant scheme in 2026",
+      "url": "https://www.pv-magazine.com/2026/04/22/solar-leads-irelands-home-energy-upgrade-grant-scheme-in-2026/",
+      "date": "2026-04-22T12:05:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "German utility deploying 30 MW heat pump for district heating",
       "url": "https://www.pv-magazine.com/2026/04/22/german-utility-deploying-30-mw-heat-pump-for-district-heating/",
@@ -250,13 +257,6 @@
       "title": "Fabricating perovskite solar cells with robotic boxes",
       "url": "https://www.pv-magazine.com/2026/04/21/fabricating-perovskite-solar-cells-with-robotic-boxes/",
       "date": "2026-04-21T07:57:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Control, not capacity, could be the next driver of US residential storage investment",
-      "url": "https://www.pv-magazine.com/2026/04/21/control-not-capacity-could-be-the-next-driver-of-us-residential-storage-investment/",
-      "date": "2026-04-21T06:45:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
