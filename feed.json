@@ -1,6 +1,62 @@
 {
-  "ts": 1776846069170,
+  "ts": 1776852416156,
   "items": [
+    {
+      "title": "&#8216;Great news for Irish energy storage industry&#8217; as regulator cuts grid fees",
+      "url": "https://www.energy-storage.news/great-news-for-irish-energy-storage-industry-as-regulator-cuts-grid-fees/",
+      "date": "2026-04-22T09:47:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Zambia’s president launches country’s largest hybrid solar-plus-storage project",
+      "url": "https://www.energy-storage.news/zambias-president-launches-countrys-largest-hybrid-solar-plus-storage-project/",
+      "date": "2026-04-22T09:42:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "SK considers ‘various strategic options’ to raise financing for BESS developer Key Capture Energy",
+      "url": "https://www.energy-storage.news/sk-considers-various-strategic-options-to-raise-financing-for-bess-developer-key-capture-energy/",
+      "date": "2026-04-22T09:40:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "SolarEdge targets C&#038;I with new all-in-one battery",
+      "url": "https://www.pv-magazine.com/2026/04/22/solaredge-targets-ci-with-new-all-in-one-battery/",
+      "date": "2026-04-22T09:21:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Repowering key for Japanese solar assets approaching feed-in tariff expiry",
+      "url": "https://www.pv-magazine.com/2026/04/22/repowering-key-for-japanese-solar-assets-approaching-feed-in-tariff-expiry/",
+      "date": "2026-04-22T08:59:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "First PV plant operating in Poland’s balancing market",
+      "url": "https://www.pv-magazine.com/2026/04/22/first-pv-plant-operating-in-polands-balancing-market/",
+      "date": "2026-04-22T08:47:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Abaxx Exchange lists world&#8217;s first solar irradiance futures contract",
+      "url": "https://www.pv-magazine.com/2026/04/22/abaxx-exchange-lists-worlds-first-solar-irradiance-futures-contract/",
+      "date": "2026-04-22T08:46:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Rethinking silver paste design for TOPCon, LECO solar cells",
+      "url": "https://www.pv-magazine.com/2026/04/22/rethinking-silver-paste-design-for-topcon-leco-solar-cells/",
+      "date": "2026-04-22T08:34:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Maldives&#8217; largest floating solar array goes online",
       "url": "https://www.pv-magazine.com/2026/04/22/maldives-largest-floating-solar-array-goes-online/",
@@ -198,45 +254,10 @@
       "bucket": "A"
     },
     {
-      "title": "Jinko Power enters data center business with 1 GW project in China",
-      "url": "https://www.pv-magazine.com/2026/04/20/jinko-power-enters-data-center-business-with-1-gw-project-in-china/",
-      "date": "2026-04-20T14:17:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US ROUNDUP: BESS developers highlight &#8216;bring your own capacity’ model in data centre announcements",
       "url": "https://www.energy-storage.news/us-roundup-bess-developers-highlight-bring-your-own-capacity-model-in-data-centre-announcements/",
       "date": "2026-04-20T13:58:01.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy launches tender for 30 MW of floating PV",
-      "url": "https://www.pv-magazine.com/2026/04/20/italy-launches-tender-for-30-mw-of-floating-pv/",
-      "date": "2026-04-20T13:54:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Negative power prices reach all-time high on the Iberian Peninsula in Q1",
-      "url": "https://www.pv-magazine.com/2026/04/20/negative-power-prices-all-time-high-on-the-iberian-peninsula-in-q1/",
-      "date": "2026-04-20T13:30:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "A closer look at CATL’s new sodium-ion battery",
-      "url": "https://www.pv-magazine.com/2026/04/20/a-closer-look-at-catls-new-sodium-ion-battery/",
-      "date": "2026-04-20T12:51:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Samsung launches residential air-to-water heat pump reaching SCOP of up to 4.9",
-      "url": "https://www.pv-magazine.com/2026/04/20/samsung-launches-residential-air-to-water-heat-pump-reaching-scop-of-up-to-4-9/",
-      "date": "2026-04-20T12:00:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "NSW planners approve Foresight&#8217;s 150MWh BESS; Banpu submits 1GWh development to Australia’s EPBC Act",
       "url": "https://www.energy-storage.news/nsw-planners-approve-foresights-150mwh-bess-banpu-submits-1gwh-development-to-australias-epbc-act/",
       "date": "2026-04-13T01:56:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Powering Australia’s next phase of decarbonisation: Why long-duration storage must lead",
-      "url": "https://www.energy-storage.news/powering-australias-next-phase-of-decarbonisation-why-long-duration-storage-must-lead/",
-      "date": "2026-04-12T23:33:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Minnesota regulator approves Xcel&#8217;s controversial utility-owned virtual power plant",
-      "url": "https://www.energy-storage.news/minnesota-regulator-approves-xcels-controversial-utility-owned-virtual-power-plant/",
-      "date": "2026-04-10T12:20:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "American Battery Factory, Lion Energy form partnership for US-made LFP BESS equipment",
-      "url": "https://www.energy-storage.news/american-battery-factory-lion-energy-form-partnership-for-us-made-lfp-bess-equipment/",
-      "date": "2026-04-10T12:08:49.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
