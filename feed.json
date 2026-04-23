@@ -1,6 +1,34 @@
 {
-  "ts": 1776925774043,
+  "ts": 1776932711682,
   "items": [
+    {
+      "title": "Multi-pyranometer tech improves solar irradiance measurements in the Arctic",
+      "url": "https://www.pv-magazine.com/2026/04/23/multi-pyranometer-tech-improves-solar-irradiance-measurements-in-the-arctic/",
+      "date": "2026-04-23T08:24:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Inside PV Manufacturing: Belga Solar’s module factory in Belgium",
+      "url": "https://www.pv-magazine.com/2026/04/23/inside-pv-manufacturing-belga-solars-module-factory-in-belgium/",
+      "date": "2026-04-23T08:00:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Dutch buildings could host 36 GW of façade solar capacity",
+      "url": "https://www.pv-magazine.com/2026/04/23/dutch-buildings-could-host-36-gw-of-facade-solar-capacity/",
+      "date": "2026-04-23T07:16:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "AccelerateEU ‘emergency toolbox’ policy on fossil fuel dependence falls short on energy storage, trade groups say",
+      "url": "https://www.energy-storage.news/accelerateeu-emergency-toolbox-policy-on-fossil-fuel-dependence-falls-short-on-energy-storage-trade-groups-say/",
+      "date": "2026-04-23T07:06:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "EU responds to energy price shocks with ‘homegrown’ clean energy push",
       "url": "https://www.pv-magazine.com/2026/04/23/eu-responds-to-energy-price-shocks-with-homegrown-clean-energy-push/",
@@ -233,13 +261,6 @@
       "bucket": "A"
     },
     {
-      "title": "How to operate PV-driven residential heat pumps under time-varying tariffs",
-      "url": "https://www.pv-magazine.com/2026/04/21/how-to-operate-pv-driven-residential-heat-pumps-under-time-varying-tariffs/",
-      "date": "2026-04-21T09:28:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Copenhagen Infrastructure Partners begins construction on 1,500MWh Chile BESS",
       "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-begins-construction-on-1500mwh-chile-bess/",
       "date": "2026-04-21T09:23:55.000Z",
@@ -251,20 +272,6 @@
       "url": "https://www.energy-storage.news/patent-disputes-in-ess-are-on-the-rise-heres-how-developers-can-prepare/",
       "date": "2026-04-21T09:03:50.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The world added 605 GW of new PV capacity in 2025, says IEA",
-      "url": "https://www.pv-magazine.com/2026/04/21/the-world-added-605-gw-of-new-pv-capacity-in-2025-says-iea/",
-      "date": "2026-04-21T08:55:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK tries to break gas link with voluntary long-term fixed price contracts for all renewables",
-      "url": "https://www.pv-magazine.com/2026/04/21/uk-tries-to-break-gas-link-with-voluntary-long-term-fixed-price-contracts-for-all-renewables/",
-      "date": "2026-04-21T08:43:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Copenhagen Infrastructure Partners sells 960MWh Summerfield Battery to Palisade in South Australia",
       "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-sells-960mwh-summerfield-battery-to-palisade-in-south-australia/",
       "date": "2026-04-14T01:47:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: &#8216;Storage must come first&#8217;: Why Australia mandates parallel solar-plus-storage development but sequential commissioning",
-      "url": "https://www.energy-storage.news/video-storage-must-come-first-why-australia-mandates-parallel-solar-plus-storage-development-but-sequential-commissioning/",
-      "date": "2026-04-13T22:14:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
