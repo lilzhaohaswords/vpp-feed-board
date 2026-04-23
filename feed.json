@@ -1,6 +1,20 @@
 {
-  "ts": 1776956595973,
+  "ts": 1776963894518,
   "items": [
+    {
+      "title": "EU moves to restrict funding for projects using inverters from high-risk suppliers",
+      "url": "https://www.pv-magazine.com/2026/04/23/eu-moves-to-restrict-funding-for-projects-using-inverters-from-high-risk-suppliers/",
+      "date": "2026-04-23T16:13:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tesla launches three-phase Powerwall 3P",
+      "url": "https://www.pv-magazine.com/2026/04/23/tesla-launches-three-phase-powerwall-3p/",
+      "date": "2026-04-23T15:35:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Fraunhofer ISE develops colored film tech for patterned solar modules",
       "url": "https://www.pv-magazine.com/2026/04/23/fraunhofer-ise-develops-colored-film-tech-for-patterned-solar-modules/",
@@ -243,20 +257,6 @@
       "title": "Repowering key for Japanese solar assets approaching feed-in tariff expiry",
       "url": "https://www.pv-magazine.com/2026/04/22/repowering-key-for-japanese-solar-assets-approaching-feed-in-tariff-expiry/",
       "date": "2026-04-22T08:59:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "First PV plant operating in Poland’s balancing market",
-      "url": "https://www.pv-magazine.com/2026/04/22/first-pv-plant-operating-in-polands-balancing-market/",
-      "date": "2026-04-22T08:47:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Abaxx Exchange lists world&#8217;s first solar irradiance futures contract",
-      "url": "https://www.pv-magazine.com/2026/04/22/abaxx-exchange-lists-worlds-first-solar-irradiance-futures-contract/",
-      "date": "2026-04-22T08:46:14.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
