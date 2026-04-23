@@ -1,6 +1,27 @@
 {
-  "ts": 1776932711682,
+  "ts": 1776939013403,
   "items": [
+    {
+      "title": "Thermoacoustic heat pumps on the verge of commercial breakthrough",
+      "url": "https://www.pv-magazine.com/2026/04/23/thermoacoustic-heat-pumps-on-the-verge-of-commercial-breakthrough/",
+      "date": "2026-04-23T10:05:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Green Capital enlists EPC Electrum for 320MWh Poland BESS, under full wrap for &#8216;cost predictability&#8217;",
+      "url": "https://www.energy-storage.news/green-capital-enlists-epc-electrum-for-320mwh-poland-bess-under-full-wrap-for-cost-predictability/",
+      "date": "2026-04-23T10:00:09.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Forecasting solar irradiance in urban environments with just one 360° image",
+      "url": "https://www.pv-magazine.com/2026/04/23/forecasting-solar-irradiance-in-urban-environments-with-just-one-360-image/",
+      "date": "2026-04-23T09:25:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Multi-pyranometer tech improves solar irradiance measurements in the Arctic",
       "url": "https://www.pv-magazine.com/2026/04/23/multi-pyranometer-tech-improves-solar-irradiance-measurements-in-the-arctic/",
@@ -240,24 +261,10 @@
       "bucket": "A"
     },
     {
-      "title": "Bangladesh opens public land to utility-scale solar under PPP model",
-      "url": "https://www.pv-magazine.com/2026/04/21/bangladesh-opens-public-land-to-utility-scale-solar-under-ppp-model/",
-      "date": "2026-04-21T10:51:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Ingrid Capacity launching 600MWh of new Sweden projects, including first 4-hour system",
       "url": "https://www.energy-storage.news/ingrid-capacity-launching-600mwh-of-new-sweden-projects-including-first-4-hour-system/",
       "date": "2026-04-21T10:16:57.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European electricity prices increase despite falling gas prices",
-      "url": "https://www.pv-magazine.com/2026/04/21/european-electricity-prices-increase-despite-falling-gas-prices/",
-      "date": "2026-04-21T10:04:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Vietnam&#8217;s GG Power opens 5GWh BESS factory, government emphasises support for local supply chain",
       "url": "https://www.energy-storage.news/vietnams-gg-power-opens-5gwh-bess-factory-government-emphasises-support-for-local-supply-chain/",
       "date": "2026-04-14T09:35:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Copenhagen Infrastructure Partners sells 960MWh Summerfield Battery to Palisade in South Australia",
-      "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-sells-960mwh-summerfield-battery-to-palisade-in-south-australia/",
-      "date": "2026-04-14T01:47:38.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
