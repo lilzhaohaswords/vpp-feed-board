@@ -1,6 +1,27 @@
 {
-  "ts": 1777040705677,
+  "ts": 1777046095024,
   "items": [
+    {
+      "title": "&#8216;Breaking barriers is rarely a solo effort&#8217;",
+      "url": "https://www.pv-magazine.com/2026/04/24/breaking-barriers-is-rarely-a-solo-effort/",
+      "date": "2026-04-24T15:30:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "AccelerateEU backs 200 GW storage goal but omits dedicated mechanism",
+      "url": "https://www.pv-magazine.com/2026/04/24/accelerateeu-backs-200-gw-storage-goal-but-omits-dedicated-mechanism/",
+      "date": "2026-04-24T15:30:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Saudi Arabia begins qualifying bidders for 3GW/12GWh battery storage RFP",
+      "url": "https://www.energy-storage.news/saudi-arabia-begins-qualifying-bidders-for-3gw-12gwh-battery-storage-rfp/",
+      "date": "2026-04-24T15:15:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Plus Power signs ESA for 800MWh Alabama BESS",
       "url": "https://www.energy-storage.news/plus-power-signs-esa-for-800mwh-alabama-bess/",
@@ -230,20 +251,6 @@
       "url": "https://www.energy-storage.news/tesla-reports-declines-in-quarterly-energy-storage-revenues-and-deployments/",
       "date": "2026-04-23T11:48:17.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sun’s out, load’s gone: The evolution of Australia’s National Electricity Market",
-      "url": "https://www.pv-magazine.com/2026/04/23/suns-out-loads-gone-the-evolution-of-australias-national-electricity-market/",
-      "date": "2026-04-23T11:34:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar delivers where wind and hydro falter",
-      "url": "https://www.pv-magazine.com/2026/04/23/solar-delivers-where-wind-and-hydro-falter/",
-      "date": "2026-04-23T11:26:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "‘Unfettered optimism’ on US BESS degradation hits wall of operational reality",
       "url": "https://www.energy-storage.news/unfettered-optimism-on-us-bess-degradation-hits-wall-of-operational-reality/",
       "date": "2026-04-15T10:58:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Rye Development advances 2,128MWh pumped hydro project at former Kentucky coal mine",
-      "url": "https://www.energy-storage.news/rye-development-advances-2128mwh-pumped-hydro-project-at-former-kentucky-coal-mine/",
-      "date": "2026-04-15T10:48:55.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
