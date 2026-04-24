@@ -1,6 +1,13 @@
 {
-  "ts": 1776993284834,
+  "ts": 1777005755229,
   "items": [
+    {
+      "title": "Grid-forming inverters feature in 74% of Australia&#8217;s 33.2GW NEM battery storage pipeline",
+      "url": "https://www.energy-storage.news/grid-forming-inverters-feature-in-74-of-australias-33-2gw-nem-battery-storage-pipeline/",
+      "date": "2026-04-24T02:07:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "EU moves to restrict funding for projects using inverters from high-risk suppliers",
       "url": "https://www.pv-magazine.com/2026/04/23/eu-moves-to-restrict-funding-for-projects-using-inverters-from-high-risk-suppliers/",
@@ -516,13 +523,6 @@
       "title": "Informa Markets brings Battery Asset Management Summit to Canada as energy storage market reaches critical deployment phase",
       "url": "https://www.energy-storage.news/informa-markets-brings-battery-asset-management-summit-to-canada-as-energy-storage-market-reaches-critical-deployment-phase/",
       "date": "2026-04-14T15:08:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Europe deploys 3.4GWh of BESS in March, 19% of global total",
-      "url": "https://www.energy-storage.news/europe-deploys-3-4gwh-of-bess-in-march-19-of-global-total/",
-      "date": "2026-04-14T11:11:35.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
