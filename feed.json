@@ -1,6 +1,27 @@
 {
-  "ts": 1777013696422,
+  "ts": 1777020795074,
   "items": [
+    {
+      "title": "Saudi Arabia launches qualification process for 12 GWh of battery storage projects",
+      "url": "https://www.pv-magazine.com/2026/04/24/saudi-arabia-launches-qualification-process-for-12-gwh-of-battery-storage-projects/",
+      "date": "2026-04-24T08:02:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How BIPV façades behave under enclosure fire conditions",
+      "url": "https://www.pv-magazine.com/2026/04/24/how-bipv-facades-behave-under-enclosure-fire-conditions/",
+      "date": "2026-04-24T07:22:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China wafer declines narrow as demand-side regulation lifts market sentiment",
+      "url": "https://www.pv-magazine.com/2026/04/24/china-wafer-declines-narrow-as-demand-side-regulation-lifts-market-sentiment/",
+      "date": "2026-04-24T07:14:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Daikin unveils &#8216;plumb-and-play&#8217; residential heat pump",
       "url": "https://www.pv-magazine.com/2026/04/24/daikin-unveils-plumb-and-play-residential-heat-pump/",
@@ -205,13 +226,6 @@
       "bucket": "A"
     },
     {
-      "title": "German utility deploying 30 MW heat pump for district heating",
-      "url": "https://www.pv-magazine.com/2026/04/22/german-utility-deploying-30-mw-heat-pump-for-district-heating/",
-      "date": "2026-04-22T11:47:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "IPP Tenaska signs ESA for 900MWh Tennessee BESS",
       "url": "https://www.energy-storage.news/ipp-tenaska-signs-esa-for-900mwh-tennessee-bess/",
       "date": "2026-04-22T11:36:02.000Z",
@@ -223,20 +237,6 @@
       "url": "https://www.energy-storage.news/enbw-and-noveria-advance-construction-on-1-and-4-hour-bess-projects-in-germany/",
       "date": "2026-04-22T11:28:17.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Peru opens complementary services market to support renewables",
-      "url": "https://www.pv-magazine.com/2026/04/22/peru-opens-complementary-services-market-to-support-renewables/",
-      "date": "2026-04-22T11:18:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Botswana breaks ground on 500 MW solar-plus-storage project",
-      "url": "https://www.pv-magazine.com/2026/04/22/botswana-breaks-ground-on-500-mw-solar-plus-storage-project/",
-      "date": "2026-04-22T11:00:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
