@@ -1,6 +1,20 @@
 {
-  "ts": 1777031341410,
+  "ts": 1777034977612,
   "items": [
+    {
+      "title": "Dutch government grants priority status to planned polysilicon factory",
+      "url": "https://www.pv-magazine.com/2026/04/24/dutch-government-grants-priority-status-to-planned-polysilicon-factory/",
+      "date": "2026-04-24T12:47:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK solar developer secures $1.1 billion financing package",
+      "url": "https://www.pv-magazine.com/2026/04/24/uk-solar-developer-secures-1-1-billion-financing-package/",
+      "date": "2026-04-24T12:07:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "UK solar generation hits record 15 GW as gas falls to historic low",
       "url": "https://www.pv-magazine.com/2026/04/24/uk-solar-generation-hits-record-15-gw-as-gas-falls-to-historic-low/",
@@ -212,24 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "Thermoacoustic heat pumps on the verge of commercial breakthrough",
-      "url": "https://www.pv-magazine.com/2026/04/23/thermoacoustic-heat-pumps-on-the-verge-of-commercial-breakthrough/",
-      "date": "2026-04-23T10:05:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Green Capital enlists EPC Electrum for 320MWh Poland BESS, under full wrap for &#8216;cost predictability&#8217;",
       "url": "https://www.energy-storage.news/green-capital-enlists-epc-electrum-for-320mwh-poland-bess-under-full-wrap-for-cost-predictability/",
       "date": "2026-04-23T10:00:09.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Forecasting solar irradiance in urban environments with just one 360° image",
-      "url": "https://www.pv-magazine.com/2026/04/23/forecasting-solar-irradiance-in-urban-environments-with-just-one-360-image/",
-      "date": "2026-04-23T09:25:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
