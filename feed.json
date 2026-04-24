@@ -1,6 +1,48 @@
 {
-  "ts": 1777025542382,
+  "ts": 1777031341410,
   "items": [
+    {
+      "title": "UK solar generation hits record 15 GW as gas falls to historic low",
+      "url": "https://www.pv-magazine.com/2026/04/24/uk-solar-generation-hits-record-15-gw-as-gas-falls-to-historic-low/",
+      "date": "2026-04-24T11:41:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Developing El Niño points to stronger solar conditions across Australasia and South Asia",
+      "url": "https://www.pv-magazine.com/2026/04/24/developing-el-nino-points-to-stronger-solar-conditions-across-australasia-and-south-asia/",
+      "date": "2026-04-24T11:28:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Colombia reopens long-term energy contracting with new renewables auction",
+      "url": "https://www.pv-magazine.com/2026/04/24/colombia-reopens-long-term-energy-contracting-with-new-renewables-auction/",
+      "date": "2026-04-24T11:06:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France streamlines renewables environmental permitting with new provisions",
+      "url": "https://www.pv-magazine.com/2026/04/24/france-streamlines-renewables-environmental-permitting-with-new-provisions/",
+      "date": "2026-04-24T10:38:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "ROUNDUP: IPPs BrightNight, Lydian acquire US portfolios, ILOS Projects upsizes European credit facility",
+      "url": "https://www.energy-storage.news/roundup-ipps-brightnight-lydian-acquire-us-portfolios-ilos-projects-upsizes-european-credit-facility/",
+      "date": "2026-04-24T10:34:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: DKEM seeks cash injection to scale up gigawatt-level production of copper metallization paste",
+      "url": "https://www.pv-magazine.com/2026/04/24/chinese-pv-industry-brief-dkem-seeks-cash-injection-to-scale-up-gigawatt-level-production-of-copper-metallization-paste/",
+      "date": "2026-04-24T10:24:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "VIDEO – Energy Storage Summit 2026: How much LDES does the UK need, and at what price?",
       "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-how-much-ldes-does-the-uk-need-and-at-what-price/",
@@ -191,45 +233,10 @@
       "bucket": "A"
     },
     {
-      "title": "Multi-pyranometer tech improves solar irradiance measurements in the Arctic",
-      "url": "https://www.pv-magazine.com/2026/04/23/multi-pyranometer-tech-improves-solar-irradiance-measurements-in-the-arctic/",
-      "date": "2026-04-23T08:24:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Inside PV Manufacturing: Belga Solar’s module factory in Belgium",
-      "url": "https://www.pv-magazine.com/2026/04/23/inside-pv-manufacturing-belga-solars-module-factory-in-belgium/",
-      "date": "2026-04-23T08:00:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Dutch buildings could host 36 GW of façade solar capacity",
-      "url": "https://www.pv-magazine.com/2026/04/23/dutch-buildings-could-host-36-gw-of-facade-solar-capacity/",
-      "date": "2026-04-23T07:16:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "AccelerateEU ‘emergency toolbox’ policy on fossil fuel dependence falls short on energy storage, trade groups say",
       "url": "https://www.energy-storage.news/accelerateeu-emergency-toolbox-policy-on-fossil-fuel-dependence-falls-short-on-energy-storage-trade-groups-say/",
       "date": "2026-04-23T07:06:25.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU responds to energy price shocks with ‘homegrown’ clean energy push",
-      "url": "https://www.pv-magazine.com/2026/04/23/eu-responds-to-energy-price-shocks-with-homegrown-clean-energy-push/",
-      "date": "2026-04-23T06:26:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. court blocks &#8216;de facto moratorium&#8217; on federal solar permitting",
-      "url": "https://www.pv-magazine.com/2026/04/23/u-s-court-blocks-de-facto-moratorium-on-federal-solar-permitting/",
-      "date": "2026-04-23T05:55:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "From ‘refrigerators in the desert’ to resilient, thermally passive BESS assets",
       "url": "https://www.energy-storage.news/from-refrigerators-in-the-desert-to-resilient-thermally-passive-bess-assets/",
       "date": "2026-04-15T05:05:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fortescue fast-tracks &#8216;world&#8217;s largest off-grid system&#8217; with 4-5GWh battery storage in Australia",
-      "url": "https://www.energy-storage.news/fortescue-fast-tracks-worlds-largest-off-grid-system-with-4-5gwh-battery-storage-in-australia/",
-      "date": "2026-04-15T03:48:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
