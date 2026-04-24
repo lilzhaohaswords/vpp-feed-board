@@ -1,6 +1,27 @@
 {
-  "ts": 1777020795074,
+  "ts": 1777025542382,
   "items": [
+    {
+      "title": "VIDEO – Energy Storage Summit 2026: How much LDES does the UK need, and at what price?",
+      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-how-much-ldes-does-the-uk-need-and-at-what-price/",
+      "date": "2026-04-24T09:48:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "China&#8217;s energy storage battery exports hit 27.3GWh in Q1 2026",
+      "url": "https://www.energy-storage.news/chinas-cumulative-ess-battery-exports-hit-27-3gwh-in-q1-2026/",
+      "date": "2026-04-24T09:14:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Japanese scientists build all-perovskite tandem solar cell with 30.2% efficiency",
+      "url": "https://www.pv-magazine.com/2026/04/24/japanese-scientists-build-all-perovskite-tandem-solar-cell-with-30-2-efficiency/",
+      "date": "2026-04-24T09:00:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Saudi Arabia launches qualification process for 12 GWh of battery storage projects",
       "url": "https://www.pv-magazine.com/2026/04/24/saudi-arabia-launches-qualification-process-for-12-gwh-of-battery-storage-projects/",
@@ -216,13 +237,6 @@
       "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-what-does-market-saturation-in-europe-mean-for-bess/",
       "date": "2026-04-22T14:43:11.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar leads Ireland’s home energy upgrade grant scheme in 2026",
-      "url": "https://www.pv-magazine.com/2026/04/22/solar-leads-irelands-home-energy-upgrade-grant-scheme-in-2026/",
-      "date": "2026-04-22T12:05:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Fortescue fast-tracks &#8216;world&#8217;s largest off-grid system&#8217; with 4-5GWh battery storage in Australia",
       "url": "https://www.energy-storage.news/fortescue-fast-tracks-worlds-largest-off-grid-system-with-4-5gwh-battery-storage-in-australia/",
       "date": "2026-04-15T03:48:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UGL advances construction on 2.1GWh of battery storage for Neoen across two Australian states",
-      "url": "https://www.energy-storage.news/ugl-advances-construction-on-2-1gwh-of-battery-storage-for-neoen-across-two-australian-states/",
-      "date": "2026-04-15T01:19:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Informa Markets brings Battery Asset Management Summit to Canada as energy storage market reaches critical deployment phase",
-      "url": "https://www.energy-storage.news/informa-markets-brings-battery-asset-management-summit-to-canada-as-energy-storage-market-reaches-critical-deployment-phase/",
-      "date": "2026-04-14T15:08:04.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
