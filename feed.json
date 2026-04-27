@@ -1,6 +1,48 @@
 {
-  "ts": 1777265703214,
+  "ts": 1777274849125,
   "items": [
+    {
+      "title": "Pakistan plans to scrap licensing fee for PV systems up to 25 kW",
+      "url": "https://www.pv-magazine.com/2026/04/27/pakistan-plans-to-scrap-licensing-fee-for-pv-systems-up-to-25-kw/",
+      "date": "2026-04-27T07:16:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Key takeaways from Austria&#8217;s Solar Solutions",
+      "url": "https://www.pv-magazine.com/2026/04/27/key-takeaways-from-austrias-solar-solutions/",
+      "date": "2026-04-27T06:09:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Record solar, wind surge drives 3.3% drop in India’s fossil generation in 2025",
+      "url": "https://www.pv-magazine.com/2026/04/27/record-solar-wind-surge-drives-3-3-drop-in-indias-fossil-generation-in-2025/",
+      "date": "2026-04-27T05:45:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "U.S. government sets preliminary anti-dumping duties on solar imports from India, Indonesia, and Laos",
+      "url": "https://www.pv-magazine.com/2026/04/27/u-s-government-sets-preliminary-anti-dumping-duties-on-solar-imports-from-india-indonesia-and-laos/",
+      "date": "2026-04-27T05:37:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s energy commission targets lower solar curtailment",
+      "url": "https://www.pv-magazine.com/2026/04/27/australias-energy-commission-targets-lower-solar-curtailment/",
+      "date": "2026-04-27T05:00:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian court amends consent for Hydrostor&#8217;s 1.6GWh long-duration energy storage project following appeal",
+      "url": "https://www.energy-storage.news/australian-court-amends-consent-for-hydrostors-1-6gwh-long-duration-energy-storage-project-following-appeal/",
+      "date": "2026-04-27T04:00:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "&#8216;Breaking barriers is rarely a solo effort&#8217;",
       "url": "https://www.pv-magazine.com/2026/04/24/breaking-barriers-is-rarely-a-solo-effort/",
@@ -198,34 +240,6 @@
       "bucket": "A"
     },
     {
-      "title": "Tesla launches three-phase Powerwall 3P",
-      "url": "https://www.pv-magazine.com/2026/04/23/tesla-launches-three-phase-powerwall-3p/",
-      "date": "2026-04-23T15:35:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fraunhofer ISE develops colored film tech for patterned solar modules",
-      "url": "https://www.pv-magazine.com/2026/04/23/fraunhofer-ise-develops-colored-film-tech-for-patterned-solar-modules/",
-      "date": "2026-04-23T14:00:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Long-duration battery storage can contribute to security of supply more cost-effectively than gas-fired power plants, LCP Delta finds",
-      "url": "https://www.pv-magazine.com/2026/04/23/auctions-long-duration-battery-storage-can-contribute-to-security-of-supply-more-cost-effectively-than-gas-fired-power-plants-lcp-delta-finds/",
-      "date": "2026-04-23T13:47:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Manufacturing partnership brings new PV technology to U.S.-sourced solar",
-      "url": "https://www.pv-magazine.com/2026/04/23/manufacturing-partnership-brings-new-pv-technology-to-u-s-sourced-solar/",
-      "date": "2026-04-23T13:43:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "RWE and Polarium to combine distributed batteries into 50MW/135MWh Germany VPP",
       "url": "https://www.energy-storage.news/rwe-and-polarium-to-combine-distributed-batteries-into-50mw-135mwh-germany-vpp/",
       "date": "2026-04-23T12:58:27.000Z",
@@ -237,13 +251,6 @@
       "url": "https://www.energy-storage.news/us-battery-recycling-in-doldrums-updates-from-redwood-materials-ascend-elements/",
       "date": "2026-04-23T11:58:17.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Trina Solar, JA Solar, JinkoSolar launch China&#8217;s first PV patent pool for TOPCon technologies",
-      "url": "https://www.pv-magazine.com/2026/04/23/trina-solar-ja-solar-jinkosolar-launch-chinas-first-pv-patent-pool-for-topcon-technologies/",
-      "date": "2026-04-23T11:56:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "VIDEO: &#8216;It&#8217;s going to massively scale here&#8217;: Fluence chief predicts data centre battery storage slingshot in Australia",
       "url": "https://www.energy-storage.news/video-its-going-to-massively-scale-here-fluence-chief-predicts-data-centre-battery-storage-slingshot-in-australia/",
       "date": "2026-04-15T22:25:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Unfettered optimism’ on US BESS degradation hits wall of operational reality",
-      "url": "https://www.energy-storage.news/unfettered-optimism-on-us-bess-degradation-hits-wall-of-operational-reality/",
-      "date": "2026-04-15T10:58:48.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
