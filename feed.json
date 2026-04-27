@@ -1,6 +1,48 @@
 {
-  "ts": 1777291946287,
+  "ts": 1777301531845,
   "items": [
+    {
+      "title": "EticaAG contends that immersion cooling is the next evolution of BESS cooling systems",
+      "url": "https://www.energy-storage.news/eticaag-contends-that-immersion-cooling-is-the-next-evolution-of-bess-cooling-systems/",
+      "date": "2026-04-27T14:00:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Georgia Power files RFP for up to 6,000MW of new dispatchable energy resources",
+      "url": "https://www.energy-storage.news/georgia-power-files-rfp-for-up-to-6000mw-of-new-dispatchable-energy-resources/",
+      "date": "2026-04-27T13:59:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Huaneng energizes 5.4 GW hydro-solar complex in southwest China",
+      "url": "https://www.pv-magazine.com/2026/04/27/huaneng-energizes-5-4-gw-hydro-solar-complex-in-southwest-china/",
+      "date": "2026-04-27T13:55:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Meta gains early access to 1 GW of space-based solar power",
+      "url": "https://www.pv-magazine.com/2026/04/27/meta-gains-early-access-to-1-gw-of-space-based-solar-power/",
+      "date": "2026-04-27T13:21:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;A turning point&#8217;: CATL and HyperStrong sign 60GWh sodium-ion agreement",
+      "url": "https://www.energy-storage.news/a-turning-point-catl-and-hyperstrong-sign-60gwh-sodium-ion-agreement/",
+      "date": "2026-04-27T13:02:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Trina Solar claims world’s highest efficiency for silicon solar cells with 28.0%-efficient device",
+      "url": "https://www.pv-magazine.com/2026/04/27/trina-solar-claims-worlds-highest-efficiency-for-silicon-solar-cells-with-28-0-efficient-device/",
+      "date": "2026-04-27T12:58:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Premier Energies unveils 600-630 W all-black TOPCon solar modules",
       "url": "https://www.pv-magazine.com/2026/04/27/premier-energies-unveils-600-630-w-all-black-topcon-solar-modules/",
@@ -205,13 +247,6 @@
       "bucket": "A"
     },
     {
-      "title": "Chinese PV Industry Brief: DKEM seeks cash injection to scale up gigawatt-level production of copper metallization paste",
-      "url": "https://www.pv-magazine.com/2026/04/24/chinese-pv-industry-brief-dkem-seeks-cash-injection-to-scale-up-gigawatt-level-production-of-copper-metallization-paste/",
-      "date": "2026-04-24T10:24:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "VIDEO – Energy Storage Summit 2026: How much LDES does the UK need, and at what price?",
       "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-how-much-ldes-does-the-uk-need-and-at-what-price/",
       "date": "2026-04-24T09:48:44.000Z",
@@ -223,20 +258,6 @@
       "url": "https://www.energy-storage.news/chinas-cumulative-ess-battery-exports-hit-27-3gwh-in-q1-2026/",
       "date": "2026-04-24T09:14:06.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Japanese scientists build all-perovskite tandem solar cell with 30.2% efficiency",
-      "url": "https://www.pv-magazine.com/2026/04/24/japanese-scientists-build-all-perovskite-tandem-solar-cell-with-30-2-efficiency/",
-      "date": "2026-04-24T09:00:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Saudi Arabia launches qualification process for 12 GWh of battery storage projects",
-      "url": "https://www.pv-magazine.com/2026/04/24/saudi-arabia-launches-qualification-process-for-12-gwh-of-battery-storage-projects/",
-      "date": "2026-04-24T08:02:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "VIDEO – Energy Storage Summit 2026: How attractive is BESS for M&#038;A?",
       "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-how-attractive-is-bess-for-ma/",
       "date": "2026-04-16T06:43:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Neoen Australia submits 3.2GWh Bondo wind-plus-storage project to the EPBC Act",
-      "url": "https://www.energy-storage.news/neoen-australia-submits-3-2gwh-bondo-wind-plus-storage-project-to-the-epbc-act/",
-      "date": "2026-04-16T02:08:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Amazon Australia puts battery storage centre stage as it inks nine PPAs for data centre expansion",
-      "url": "https://www.energy-storage.news/amazon-australia-puts-battery-storage-centre-stage-as-it-inks-nine-ppas-for-data-centre-expansion/",
-      "date": "2026-04-16T02:04:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Alinta Energy starts construction on 1,000MWh Stage 1 of South Australia&#8217;s Reeves Plains Battery",
-      "url": "https://www.energy-storage.news/alinta-energy-starts-construction-on-1000mwh-stage-1-of-south-australias-reeves-plains-battery/",
-      "date": "2026-04-16T02:01:18.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
