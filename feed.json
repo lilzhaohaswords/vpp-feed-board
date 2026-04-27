@@ -1,6 +1,34 @@
 {
-  "ts": 1777274849125,
+  "ts": 1777284026230,
   "items": [
+    {
+      "title": "Wind co-location: TotalEnergies takes FID on 1GW Kazakhstan project, Downing develops in Finland",
+      "url": "https://www.energy-storage.news/wind-co-location-totalenergies-takes-fid-on-1gw-kazakhstan-project-downing-develops-in-finland/",
+      "date": "2026-04-27T09:51:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Two-year testing shows how PV plants increase local temperatures in semi-arid regions",
+      "url": "https://www.pv-magazine.com/2026/04/27/two-year-testing-shows-how-pv-plants-increase-local-temperatures-in-semi-arid-regions/",
+      "date": "2026-04-27T08:19:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New Zealand&#8217;s grid operator finds emerging energy gap in early 2030s",
+      "url": "https://www.pv-magazine.com/2026/04/27/new-zealands-grid-operator-finds-emerging-energy-gap-in-early-2030s/",
+      "date": "2026-04-27T08:02:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese solar exports surge 125% in March on policy change rush, not underlying demand acceleration",
+      "url": "https://www.pv-magazine.com/2026/04/27/chinese-solar-exports-surge-125-on-policy-change-rush-not-underlying-demand-acceleration/",
+      "date": "2026-04-27T07:29:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Pakistan plans to scrap licensing fee for PV systems up to 25 kW",
       "url": "https://www.pv-magazine.com/2026/04/27/pakistan-plans-to-scrap-licensing-fee-for-pv-systems-up-to-25-kw/",
@@ -212,31 +240,10 @@
       "bucket": "A"
     },
     {
-      "title": "Saatvik Green Energy enters transformer manufacturing",
-      "url": "https://www.pv-magazine.com/2026/04/24/saatvik-green-energy-enters-transformer-manufacturing/",
-      "date": "2026-04-24T05:47:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bangladesh launches tenders for 77.6 MW of solar",
-      "url": "https://www.pv-magazine.com/2026/04/24/bangladesh-launches-tenders-for-77-6-mw-of-solar/",
-      "date": "2026-04-24T05:41:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Grid-forming inverters feature in 74% of Australia&#8217;s 33.2GW NEM battery storage pipeline",
       "url": "https://www.energy-storage.news/grid-forming-inverters-feature-in-74-of-australias-33-2gw-nem-battery-storage-pipeline/",
       "date": "2026-04-24T02:07:46.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU moves to restrict funding for projects using inverters from high-risk suppliers",
-      "url": "https://www.pv-magazine.com/2026/04/23/eu-moves-to-restrict-funding-for-projects-using-inverters-from-high-risk-suppliers/",
-      "date": "2026-04-23T16:13:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Alinta Energy starts construction on 1,000MWh Stage 1 of South Australia&#8217;s Reeves Plains Battery",
       "url": "https://www.energy-storage.news/alinta-energy-starts-construction-on-1000mwh-stage-1-of-south-australias-reeves-plains-battery/",
       "date": "2026-04-16T02:01:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: &#8216;It&#8217;s going to massively scale here&#8217;: Fluence chief predicts data centre battery storage slingshot in Australia",
-      "url": "https://www.energy-storage.news/video-its-going-to-massively-scale-here-fluence-chief-predicts-data-centre-battery-storage-slingshot-in-australia/",
-      "date": "2026-04-15T22:25:24.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
