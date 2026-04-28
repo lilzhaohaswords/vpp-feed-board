@@ -1,6 +1,41 @@
 {
-  "ts": 1777353445342,
+  "ts": 1777363055652,
   "items": [
+    {
+      "title": "Bulgaria seeks to revive 864 MW Chaira pumped-storage hydropower plant",
+      "url": "https://www.pv-magazine.com/2026/04/28/bulgaria-seeks-to-revive-864-mw-chaira-pumped-storage-hydropower-plant/",
+      "date": "2026-04-28T07:38:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Longi announces world record efficiency of 28.13% for silicon solar cell",
+      "url": "https://www.pv-magazine.com/2026/04/28/longi-announces-world-record-efficiency-of-28-13-for-silicon-solar-cell/",
+      "date": "2026-04-28T06:31:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "CATL secures world’s largest sodium-ion battery order with Hyperstrong",
+      "url": "https://www.pv-magazine.com/2026/04/28/catl-secures-worlds-largest-sodium-ion-battery-order-with-hyperstrong/",
+      "date": "2026-04-28T05:50:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Dyness battery container stolen from BM Energy logistics partner, units to be remotely blocked",
+      "url": "https://www.pv-magazine.com/2026/04/28/dyness-battery-container-stolen-from-bm-energy-logistics-partner-units-to-be-remotely-blocked/",
+      "date": "2026-04-28T05:46:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "U.S. startup launches PV-driven autonomous pool skimmer",
+      "url": "https://www.pv-magazine.com/2026/04/28/u-s-startup-launches-pv-driven-autonomous-pool-skimmer/",
+      "date": "2026-04-28T05:42:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Sungrow re-files submission for Hong Kong Stock Exchange IPO",
       "url": "https://www.energy-storage.news/sungrow-re-files-submission-for-hong-kong-stock-exchange-ipo/",
@@ -222,41 +257,6 @@
       "title": "Dutch government grants priority status to planned polysilicon factory",
       "url": "https://www.pv-magazine.com/2026/04/24/dutch-government-grants-priority-status-to-planned-polysilicon-factory/",
       "date": "2026-04-24T12:47:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK solar developer secures $1.1 billion financing package",
-      "url": "https://www.pv-magazine.com/2026/04/24/uk-solar-developer-secures-1-1-billion-financing-package/",
-      "date": "2026-04-24T12:07:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK solar generation hits record 15 GW as gas falls to historic low",
-      "url": "https://www.pv-magazine.com/2026/04/24/uk-solar-generation-hits-record-15-gw-as-gas-falls-to-historic-low/",
-      "date": "2026-04-24T11:41:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Developing El Niño points to stronger solar conditions across Australasia and South Asia",
-      "url": "https://www.pv-magazine.com/2026/04/24/developing-el-nino-points-to-stronger-solar-conditions-across-australasia-and-south-asia/",
-      "date": "2026-04-24T11:28:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Colombia reopens long-term energy contracting with new renewables auction",
-      "url": "https://www.pv-magazine.com/2026/04/24/colombia-reopens-long-term-energy-contracting-with-new-renewables-auction/",
-      "date": "2026-04-24T11:06:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "France streamlines renewables environmental permitting with new provisions",
-      "url": "https://www.pv-magazine.com/2026/04/24/france-streamlines-renewables-environmental-permitting-with-new-provisions/",
-      "date": "2026-04-24T10:38:02.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
