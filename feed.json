@@ -1,6 +1,34 @@
 {
-  "ts": 1777461612219,
+  "ts": 1777468350995,
   "items": [
+    {
+      "title": "New partnership advances sodium-ion manufacturing in Spain",
+      "url": "https://www.pv-magazine.com/2026/04/29/new-partnership-advances-sodium-ion-manufacturing-in-spain/",
+      "date": "2026-04-29T11:44:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Lightshift Energy looks to distributed energy storage to address PJM’s data centre issue",
+      "url": "https://www.energy-storage.news/lightshift-energy-looks-to-distributed-energy-storage-to-address-pjms-data-centre-issue/",
+      "date": "2026-04-29T11:30:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "NFPA 855: 2026 edition updates and what they mean for energy storage projects",
+      "url": "https://www.energy-storage.news/nfpa-855-2026-edition-updates-and-what-they-mean-for-energy-storage-projects/",
+      "date": "2026-04-29T11:29:39.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "A threshold crossed, but &#8216;not a silver bullet&#8217;: Industry reaction and analysis of CATL-HyperStrong sodium-ion deal",
+      "url": "https://www.energy-storage.news/a-threshold-crossed-but-not-a-silver-bullet-industry-reaction-to-and-analysis-of-catl-hyperstrong-sodium-ion-deal/",
+      "date": "2026-04-29T11:27:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Sonnedix signs three PPAs for 644MWh Chile BESS",
       "url": "https://www.energy-storage.news/sonnedix-signs-three-ppas-for-644mwh-chile-bess/",
@@ -229,13 +257,6 @@
       "title": "Dyness battery container stolen from BM Energy logistics partner, units to be remotely blocked",
       "url": "https://www.pv-magazine.com/2026/04/28/dyness-battery-container-stolen-from-bm-energy-logistics-partner-units-to-be-remotely-blocked/",
       "date": "2026-04-28T05:46:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. startup launches PV-driven autonomous pool skimmer",
-      "url": "https://www.pv-magazine.com/2026/04/28/u-s-startup-launches-pv-driven-autonomous-pool-skimmer/",
-      "date": "2026-04-28T05:42:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -502,27 +523,6 @@
       "title": "BESS analytics &#8216;bridge the gap between technical performance and commercial outcomes&#8217;",
       "url": "https://www.energy-storage.news/bess-analytics-bridge-the-gap-between-technical-performance-and-commercial-outcomes/",
       "date": "2026-04-20T11:48:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "HDRE, Tokyo Gas sign 150MW BESS deal in Japan as trading, curtailment and disaster relief drive use cases in growing market",
-      "url": "https://www.energy-storage.news/hdre-tokyo-gas-sign-150mw-bess-deal-in-japan-as-trading-curtailment-and-disaster-relief-drive-use-cases-in-growing-market/",
-      "date": "2026-04-20T07:07:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Pacific Energy to deliver 81MWh battery storage systems to Australia’s Northern Territory",
-      "url": "https://www.energy-storage.news/pacific-energy-to-deliver-81mwh-battery-storage-systems-to-australias-northern-territory/",
-      "date": "2026-04-20T02:57:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CleanPeak acquires sub-5MW solar and battery storage specialist Sustainable Energy Infrastructure in Australia",
-      "url": "https://www.energy-storage.news/cleanpeak-acquires-sub-5mw-solar-and-battery-storage-specialist-sustainable-energy-infrastructure-in-australia/",
-      "date": "2026-04-20T02:54:50.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
