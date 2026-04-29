@@ -1,6 +1,41 @@
 {
-  "ts": 1777456369029,
+  "ts": 1777461612219,
   "items": [
+    {
+      "title": "Sonnedix signs three PPAs for 644MWh Chile BESS",
+      "url": "https://www.energy-storage.news/sonnedix-signs-three-ppas-for-644mwh-chile-bess/",
+      "date": "2026-04-29T11:11:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Resisting rust in solar",
+      "url": "https://www.pv-magazine.com/2026/04/29/resisting-rust-in-solar/",
+      "date": "2026-04-29T11:01:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "RCT Hydrogen begins manufacturing operations at German electrolyzer factory",
+      "url": "https://www.pv-magazine.com/2026/04/29/rct-hydrogen-begins-manufacturing-operations-at-german-electrolyzer-factory/",
+      "date": "2026-04-29T10:55:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Rosi to build PV module recycling plant in Spain",
+      "url": "https://www.pv-magazine.com/2026/04/29/rosi-to-build-pv-module-recycling-plant-in-spain/",
+      "date": "2026-04-29T10:45:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Supply chain, safety and multi-gigawatt-hour BESS deals, with Trina&#8217;s Europe president",
+      "url": "https://www.energy-storage.news/video-supply-chain-safety-and-multi-gigawatt-hour-bess-deals-with-trinas-europe-president/",
+      "date": "2026-04-29T10:13:05.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "EBRD finances solar and storage projects in Egypt and Hungary",
       "url": "https://www.energy-storage.news/ebrd-finances-solar-and-storage-projects-in-egypt-and-hungary/",
@@ -240,31 +275,10 @@
       "bucket": "A"
     },
     {
-      "title": "Huaneng energizes 5.4 GW hydro-solar complex in southwest China",
-      "url": "https://www.pv-magazine.com/2026/04/27/huaneng-energizes-5-4-gw-hydro-solar-complex-in-southwest-china/",
-      "date": "2026-04-27T13:55:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Meta gains early access to 1 GW of space-based solar power",
-      "url": "https://www.pv-magazine.com/2026/04/27/meta-gains-early-access-to-1-gw-of-space-based-solar-power/",
-      "date": "2026-04-27T13:21:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "&#8216;A turning point&#8217;: CATL and HyperStrong sign 60GWh sodium-ion agreement",
       "url": "https://www.energy-storage.news/a-turning-point-catl-and-hyperstrong-sign-60gwh-sodium-ion-agreement/",
       "date": "2026-04-27T13:02:52.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Trina Solar claims world’s highest efficiency for silicon solar cells with 28.0%-efficient device",
-      "url": "https://www.pv-magazine.com/2026/04/27/trina-solar-claims-worlds-highest-efficiency-for-silicon-solar-cells-with-28-0-efficient-device/",
-      "date": "2026-04-27T12:58:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "CleanPeak acquires sub-5MW solar and battery storage specialist Sustainable Energy Infrastructure in Australia",
       "url": "https://www.energy-storage.news/cleanpeak-acquires-sub-5mw-solar-and-battery-storage-specialist-sustainable-energy-infrastructure-in-australia/",
       "date": "2026-04-20T02:54:50.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Recurrent Energy&#8217;s 600MWh Sundown Energy Park clears Australia&#8217;s rigorous grid connection process",
-      "url": "https://www.energy-storage.news/recurrent-energys-600mwh-sundown-energy-park-clears-australias-rigorous-grid-connection-process/",
-      "date": "2026-04-20T02:46:11.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO – Energy Storage Summit 2026: Lessons learned from BESS construction projects",
-      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-lessons-learned-from-bess-construction-projects/",
-      "date": "2026-04-17T08:19:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
