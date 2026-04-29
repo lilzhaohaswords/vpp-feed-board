@@ -1,6 +1,48 @@
 {
-  "ts": 1777438818203,
+  "ts": 1777449167896,
   "items": [
+    {
+      "title": "Western Australia unveils AU$1.4 billion fund for Clean Energy Link and SWIS grid expansion",
+      "url": "https://www.energy-storage.news/western-australia-unveils-au1-4-billion-fund-for-clean-energy-link-and-swis-grid-expansion/",
+      "date": "2026-04-29T07:28:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Indium oxide promises to increase CIS solar cell efficiency to unprecedented levels",
+      "url": "https://www.pv-magazine.com/2026/04/29/indium-oxide-promises-to-increase-cis-solar-cell-efficiency-to-unprecedented-levels/",
+      "date": "2026-04-29T07:00:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Installed BESS capacity in Spain grew by 589% since 2025 blackout",
+      "url": "https://www.pv-magazine.com/2026/04/29/installed-bess-capacity-in-spain-grew-by-589-since-2025-blackout/",
+      "date": "2026-04-29T05:53:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India launches 500 MW renewables tender requiring dispatch via power exchanges",
+      "url": "https://www.pv-magazine.com/2026/04/29/india-launches-500-mw-renewables-tender-requiring-dispatch-via-power-exchanges/",
+      "date": "2026-04-29T05:49:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sungrow proposes multi-microgrid clusters for mining above 100 MW",
+      "url": "https://www.pv-magazine.com/2026/04/29/sungrow-proposes-multi-microgrid-clusters-for-mining-above-100-mw/",
+      "date": "2026-04-29T05:45:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The battery cost disconnect",
+      "url": "https://www.pv-magazine.com/2026/04/29/the-battery-cost-disconnect/",
+      "date": "2026-04-29T05:40:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Sodium-ion for BESS: chemistries and battery products from CATL, Envision, BYD, Hithium &#038; HiNA compared",
       "url": "https://www.energy-storage.news/sodium-ion-for-bess-chemistries-and-battery-products-from-catl-envision-byd-hithium-hina-compared/",
@@ -212,45 +254,10 @@
       "bucket": "A"
     },
     {
-      "title": "Chinese scientists build silver-free heterojunction solar cell with 25.2% efficiency",
-      "url": "https://www.pv-magazine.com/2026/04/27/chinese-scientists-build-silver-free-heterojunction-solar-cell-with-25-2-efficiency/",
-      "date": "2026-04-27T10:06:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Wind co-location: TotalEnergies takes FID on 1GW Kazakhstan project, Downing develops in Finland",
       "url": "https://www.energy-storage.news/wind-co-location-totalenergies-takes-fid-on-1gw-kazakhstan-project-downing-develops-in-finland/",
       "date": "2026-04-27T09:51:42.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Two-year testing shows how PV plants increase local temperatures in semi-arid regions",
-      "url": "https://www.pv-magazine.com/2026/04/27/two-year-testing-shows-how-pv-plants-increase-local-temperatures-in-semi-arid-regions/",
-      "date": "2026-04-27T08:19:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New Zealand&#8217;s grid operator finds emerging energy gap in early 2030s",
-      "url": "https://www.pv-magazine.com/2026/04/27/new-zealands-grid-operator-finds-emerging-energy-gap-in-early-2030s/",
-      "date": "2026-04-27T08:02:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese solar exports surge 125% in March on policy change rush, not underlying demand acceleration",
-      "url": "https://www.pv-magazine.com/2026/04/27/chinese-solar-exports-surge-125-on-policy-change-rush-not-underlying-demand-acceleration/",
-      "date": "2026-04-27T07:29:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pakistan plans to scrap licensing fee for PV systems up to 25 kW",
-      "url": "https://www.pv-magazine.com/2026/04/27/pakistan-plans-to-scrap-licensing-fee-for-pv-systems-up-to-25-kw/",
-      "date": "2026-04-27T07:16:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Hithium signs €400 million Spain battery gigafactory investment agreement after two-year courtship",
       "url": "https://www.energy-storage.news/hithium-signs-e400-million-spain-battery-gigafactory-investment-agreement-after-two-year-courtship/",
       "date": "2026-04-17T07:12:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Akaysha inks deal with Copenhagen Energy for ‘mega-scale’ battery storage projects in Germany",
-      "url": "https://www.energy-storage.news/akaysha-inks-deal-with-copenhagen-energy-for-mega-scale-battery-storage-projects-in-germany/",
-      "date": "2026-04-17T06:53:38.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
