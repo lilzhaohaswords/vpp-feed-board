@@ -1,6 +1,41 @@
 {
-  "ts": 1777449167896,
+  "ts": 1777456369029,
   "items": [
+    {
+      "title": "EBRD finances solar and storage projects in Egypt and Hungary",
+      "url": "https://www.energy-storage.news/ebrd-finances-solar-and-storage-projects-in-egypt-and-hungary/",
+      "date": "2026-04-29T09:02:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "South Korea plans 3 GW of reservoir floating solar by 2030",
+      "url": "https://www.pv-magazine.com/2026/04/29/south-korea-plans-3-gw-of-reservoir-floating-solar-by-2030/",
+      "date": "2026-04-29T08:54:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Boviet Solar sells U.S. PV module factory to Indian manufacturer Inox Solar",
+      "url": "https://www.pv-magazine.com/2026/04/29/boviet-solar-sells-u-s-pv-module-factory-to-indian-manufacturer-inox-solar/",
+      "date": "2026-04-29T08:47:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New Zealand faces energy security gap by 2031 despite record project pipeline, Transpower warns",
+      "url": "https://www.energy-storage.news/new-zealand-faces-energy-security-gap-by-2031-despite-record-project-pipeline-transpower-warns/",
+      "date": "2026-04-29T08:27:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Low-power ride-through tech keeps green hydrogen flowing in standalone PV–electrolyzers",
+      "url": "https://www.pv-magazine.com/2026/04/29/low-power-ride-through-keeps-green-hydrogen-flowing-in-standalone-pv-electrolyzers/",
+      "date": "2026-04-29T08:00:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Western Australia unveils AU$1.4 billion fund for Clean Energy Link and SWIS grid expansion",
       "url": "https://www.energy-storage.news/western-australia-unveils-au1-4-billion-fund-for-clean-energy-link-and-swis-grid-expansion/",
@@ -229,27 +264,6 @@
       "title": "Trina Solar claims world’s highest efficiency for silicon solar cells with 28.0%-efficient device",
       "url": "https://www.pv-magazine.com/2026/04/27/trina-solar-claims-worlds-highest-efficiency-for-silicon-solar-cells-with-28-0-efficient-device/",
       "date": "2026-04-27T12:58:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Premier Energies unveils 600-630 W all-black TOPCon solar modules",
-      "url": "https://www.pv-magazine.com/2026/04/27/premier-energies-unveils-600-630-w-all-black-topcon-solar-modules/",
-      "date": "2026-04-27T11:53:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Oxford PV says tandem solar could add up to 5 km to daily EV range",
-      "url": "https://www.pv-magazine.com/2026/04/27/oxford-pv-says-tandem-solar-could-add-up-to-5-km-to-daily-ev-range/",
-      "date": "2026-04-27T11:36:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK startup showcases all-in-one water cylinder heat pump prototype",
-      "url": "https://www.pv-magazine.com/2026/04/27/uk-startup-showcases-all-in-one-water-cylinder-heat-pump-prototype/",
-      "date": "2026-04-27T11:16:26.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "VIDEO – Energy Storage Summit 2026: Lessons learned from BESS construction projects",
       "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-lessons-learned-from-bess-construction-projects/",
       "date": "2026-04-17T08:19:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sigenergy lists on Hong Kong Stock Exchange, raises HK$4.4 billion",
-      "url": "https://www.energy-storage.news/sigenergy-lists-on-hong-kong-stock-exchange-raises-hk4-4-billion/",
-      "date": "2026-04-17T07:50:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hithium signs €400 million Spain battery gigafactory investment agreement after two-year courtship",
-      "url": "https://www.energy-storage.news/hithium-signs-e400-million-spain-battery-gigafactory-investment-agreement-after-two-year-courtship/",
-      "date": "2026-04-17T07:12:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
