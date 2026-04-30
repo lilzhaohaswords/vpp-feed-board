@@ -1,6 +1,41 @@
 {
-  "ts": 1777526227680,
+  "ts": 1777535736828,
   "items": [
+    {
+      "title": "Renewables growth cut Spain’s electricity bills by 24.2% over the past two years",
+      "url": "https://www.pv-magazine.com/2026/04/30/renewables-growth-cut-spains-electricity-bills-by-24-2-over-the-past-two-years/",
+      "date": "2026-04-30T07:07:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New irrigation tech helps reduce water use in agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/04/30/new-irrigation-tech-helps-reduce-water-use-in-agrivoltaics/",
+      "date": "2026-04-30T06:51:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chile reaches 4.6 GW of energy storage under construction",
+      "url": "https://www.pv-magazine.com/2026/04/30/chile-reaches-4-6-gw-of-energy-storage-under-construction/",
+      "date": "2026-04-30T06:20:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar break quarterly generation records in Australia in Q1",
+      "url": "https://www.pv-magazine.com/2026/04/30/solar-break-quarterly-generation-records-in-australia-in-q1/",
+      "date": "2026-04-30T06:16:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Enphase unveils distributed solid-state transformer for AI data centers",
+      "url": "https://www.pv-magazine.com/2026/04/30/enphase-unveils-distributed-solid-state-transformer-for-ai-data-centers/",
+      "date": "2026-04-30T06:12:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "RES submits 2,400MWh Bunyip North battery storage system to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/res-submits-2400mwh-bunyip-north-battery-storage-system-to-australias-epbc-act/",
@@ -244,41 +279,6 @@
       "url": "https://www.energy-storage.news/sumitomo-electric-flow-battery-wins-japanese-transmission-operator-hepcos-renewables-integration-tender/",
       "date": "2026-04-28T08:09:15.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China commissions salt cavern hydrogen storage project",
-      "url": "https://www.pv-magazine.com/2026/04/28/china-commissions-salt-cavern-hydrogen-storage-project/",
-      "date": "2026-04-28T08:07:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bulgaria seeks to revive 864 MW Chaira pumped-storage hydropower plant",
-      "url": "https://www.pv-magazine.com/2026/04/28/bulgaria-seeks-to-revive-864-mw-chaira-pumped-storage-hydropower-plant/",
-      "date": "2026-04-28T07:38:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Longi announces world record efficiency of 28.13% for silicon solar cell",
-      "url": "https://www.pv-magazine.com/2026/04/28/longi-announces-world-record-efficiency-of-28-13-for-silicon-solar-cell/",
-      "date": "2026-04-28T06:31:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "CATL secures world’s largest sodium-ion battery order with Hyperstrong",
-      "url": "https://www.pv-magazine.com/2026/04/28/catl-secures-worlds-largest-sodium-ion-battery-order-with-hyperstrong/",
-      "date": "2026-04-28T05:50:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Dyness battery container stolen from BM Energy logistics partner, units to be remotely blocked",
-      "url": "https://www.pv-magazine.com/2026/04/28/dyness-battery-container-stolen-from-bm-energy-logistics-partner-units-to-be-remotely-blocked/",
-      "date": "2026-04-28T05:46:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
