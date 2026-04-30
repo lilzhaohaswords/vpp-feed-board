@@ -1,6 +1,27 @@
 {
-  "ts": 1777554690074,
+  "ts": 1777562995026,
   "items": [
+    {
+      "title": "Italy probes PV companies over €60 million tax evasion and €33 million subsidy fraud",
+      "url": "https://www.pv-magazine.com/2026/04/30/italy-probes-pv-companies-over-e60-million-tax-evasion-and-e33-million-subsidy-fraud/",
+      "date": "2026-04-30T14:12:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "German solar module maker Soluxtec files for insolvency",
+      "url": "https://www.pv-magazine.com/2026/04/30/german-solar-module-maker-soluxtec-files-for-insolvency/",
+      "date": "2026-04-30T13:53:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US administration &#8216;must make it easier to get things built,&#8217; DOE chief of staff says",
+      "url": "https://www.energy-storage.news/us-administration-must-make-it-easier-to-get-things-built-doe-chief-of-staff-says/",
+      "date": "2026-04-30T13:11:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Mozambique relaunches 30 MW solar tender in EU-backed program",
       "url": "https://www.pv-magazine.com/2026/04/30/mozambique-relaunches-30-mw-solar-tender-in-eu-backed-program/",
@@ -268,20 +289,6 @@
       "bucket": "A"
     },
     {
-      "title": "India launches 500 MW renewables tender requiring dispatch via power exchanges",
-      "url": "https://www.pv-magazine.com/2026/04/29/india-launches-500-mw-renewables-tender-requiring-dispatch-via-power-exchanges/",
-      "date": "2026-04-29T05:49:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow proposes multi-microgrid clusters for mining above 100 MW",
-      "url": "https://www.pv-magazine.com/2026/04/29/sungrow-proposes-multi-microgrid-clusters-for-mining-above-100-mw/",
-      "date": "2026-04-29T05:45:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Sodium-ion for BESS: chemistries and battery products from CATL, Envision, BYD, Hithium &#038; HiNA compared",
       "url": "https://www.energy-storage.news/sodium-ion-for-bess-chemistries-and-battery-products-from-catl-envision-byd-hithium-hina-compared/",
       "date": "2026-04-28T14:18:13.000Z",
@@ -516,13 +523,6 @@
       "title": "Treating batteries ‘like infrastructure’: EnerVenue CEO on its nickel-hydrogen energy storage vessels",
       "url": "https://www.energy-storage.news/treating-batteries-like-infrastructure-enervenue-ceo-on-its-nickel-hydrogen-energy-storage-vessels/",
       "date": "2026-04-21T13:52:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘It depends’: Designing battery storage for AI data centre co-location is a moving target",
-      "url": "https://www.energy-storage.news/it-depends-designing-battery-storage-for-ai-data-centre-co-location-is-a-moving-target/",
-      "date": "2026-04-21T13:37:38.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
