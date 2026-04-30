@@ -1,6 +1,27 @@
 {
-  "ts": 1777535736828,
+  "ts": 1777542861413,
   "items": [
+    {
+      "title": "LG ES says manufacturing spend puts company on track for 50GWh+ US ESS production target",
+      "url": "https://www.energy-storage.news/lg-es-says-manufacturing-spend-puts-company-on-track-for-50gwh-us-ess-production-target/",
+      "date": "2026-04-30T08:32:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Gotion unveils 5 MW/18.8 MWh ensclosed battery storage system",
+      "url": "https://www.pv-magazine.com/2026/04/30/gotion-unveils-5-mw-18-8-mwh-ensclosed-battery-storage-system/",
+      "date": "2026-04-30T08:22:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Scientists discover why lead-halide solar perovskites work efficiently despite being structurally &#8216;messy&#8217;",
+      "url": "https://www.pv-magazine.com/2026/04/30/scientists-discover-why-lead-halide-solar-perovskites-work-efficiently-despite-being-structurally-messy/",
+      "date": "2026-04-30T08:19:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Renewables growth cut Spain’s electricity bills by 24.2% over the past two years",
       "url": "https://www.pv-magazine.com/2026/04/30/renewables-growth-cut-spains-electricity-bills-by-24-2-over-the-past-two-years/",
@@ -261,20 +282,6 @@
       "bucket": "A"
     },
     {
-      "title": "Bangladesh launches 495 MW solar tender",
-      "url": "https://www.pv-magazine.com/2026/04/28/bangladesh-launches-495-mw-solar-tender/",
-      "date": "2026-04-28T09:12:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Cox buys Iberdrola Mexico for $4 billion",
-      "url": "https://www.pv-magazine.com/2026/04/28/cox-buys-iberdrola-mexico-for-4-billion/",
-      "date": "2026-04-28T08:20:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Sumitomo Electric flow battery wins Japanese transmission operator HEPCO’s renewables integration tender",
       "url": "https://www.energy-storage.news/sumitomo-electric-flow-battery-wins-japanese-transmission-operator-hepcos-renewables-integration-tender/",
       "date": "2026-04-28T08:09:15.000Z",
@@ -516,13 +523,6 @@
       "title": "Patent disputes in ESS are on the rise: Here&#8217;s how developers can prepare",
       "url": "https://www.energy-storage.news/patent-disputes-in-ess-are-on-the-rise-heres-how-developers-can-prepare/",
       "date": "2026-04-21T09:03:50.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s PowerPlus Energy to triple battery module production capacity to 150MWh with ARENA funding",
-      "url": "https://www.energy-storage.news/australias-powerplus-energy-to-triple-battery-module-production-capacity-to-150mwh-with-arena-funding/",
-      "date": "2026-04-21T02:55:37.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
