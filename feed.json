@@ -1,6 +1,41 @@
 {
-  "ts": 1777639513290,
+  "ts": 1777644640730,
   "items": [
+    {
+      "title": "Submarine link to connect island solar to South Korea’s grid",
+      "url": "https://www.pv-magazine.com/2026/05/01/submarine-link-to-connect-island-solar-to-south-koreas-grid/",
+      "date": "2026-05-01T14:00:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Data centres&#8217; speed-to-power need driving US LDES commercialisation",
+      "url": "https://www.energy-storage.news/data-centres-speed-to-power-need-driving-us-ldes-commercialisation/",
+      "date": "2026-05-01T13:47:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "People, purpose and systems thinking: The leadership layer of the energy transition",
+      "url": "https://www.pv-magazine.com/2026/05/01/people-purpose-and-systems-thinking-the-leadership-layer-of-the-energy-transition/",
+      "date": "2026-05-01T13:08:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Myanmar commissions two 40 MW solar plants in Mandalay region",
+      "url": "https://www.pv-magazine.com/2026/05/01/myanmar-commissions-two-40-mw-solar-plants-in-mandalay-region/",
+      "date": "2026-05-01T13:00:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "April ENSO shift lifts northern coastal irradiance while suppressing Brazil and northern Argentina",
+      "url": "https://www.pv-magazine.com/2026/05/01/april-enso-shift-lifts-northern-coastal-irradiance-while-suppressing-brazil-and-northern-argentina/",
+      "date": "2026-05-01T12:51:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "1GWh+ of BESS progressed across EU by re:cap, Flower, Goldbeck, Tavion, LONGi, Teos and SPP",
       "url": "https://www.energy-storage.news/1gwh-of-bess-progressed-across-eu-by-recap-flower-goldbeck-tavion-longi-teos-and-spp/",
@@ -198,27 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "Chile reaches 4.6 GW of energy storage under construction",
-      "url": "https://www.pv-magazine.com/2026/04/30/chile-reaches-4-6-gw-of-energy-storage-under-construction/",
-      "date": "2026-04-30T06:20:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar break quarterly generation records in Australia in Q1",
-      "url": "https://www.pv-magazine.com/2026/04/30/solar-break-quarterly-generation-records-in-australia-in-q1/",
-      "date": "2026-04-30T06:16:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Enphase unveils distributed solid-state transformer for AI data centers",
-      "url": "https://www.pv-magazine.com/2026/04/30/enphase-unveils-distributed-solid-state-transformer-for-ai-data-centers/",
-      "date": "2026-04-30T06:12:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "RES submits 2,400MWh Bunyip North battery storage system to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/res-submits-2400mwh-bunyip-north-battery-storage-system-to-australias-epbc-act/",
       "date": "2026-04-30T03:25:53.000Z",
@@ -237,13 +251,6 @@
       "url": "https://www.energy-storage.news/australias-battery-storage-fleet-triples-daily-load-shifting-as-4-4gw-comes-online-in-q1-2026-says-aemo/",
       "date": "2026-04-30T03:08:45.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New partnership advances sodium-ion manufacturing in Spain",
-      "url": "https://www.pv-magazine.com/2026/04/29/new-partnership-advances-sodium-ion-manufacturing-in-spain/",
-      "date": "2026-04-29T11:44:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Zambia’s president launches country’s largest hybrid solar-plus-storage project",
       "url": "https://www.energy-storage.news/zambias-president-launches-countrys-largest-hybrid-solar-plus-storage-project/",
       "date": "2026-04-22T09:42:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SK considers ‘various strategic options’ to raise financing for BESS developer Key Capture Energy",
-      "url": "https://www.energy-storage.news/sk-considers-various-strategic-options-to-raise-financing-for-bess-developer-key-capture-energy/",
-      "date": "2026-04-22T09:40:30.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
