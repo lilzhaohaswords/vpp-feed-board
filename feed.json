@@ -1,6 +1,20 @@
 {
-  "ts": 1777633074412,
+  "ts": 1777636453906,
   "items": [
+    {
+      "title": "1GWh+ of BESS progressed across EU by re:cap, Flower, Goldbeck, Tavion, LONGi, Teos and SPP",
+      "url": "https://www.energy-storage.news/1gwh-of-bess-progressed-across-eu-by-recap-flower-goldbeck-tavion-longi-teos-and-spp/",
+      "date": "2026-05-01T11:09:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "TotalEnergies, Nextnorth close financing for 440 MW Philippines solar",
+      "url": "https://www.pv-magazine.com/2026/05/01/totalenergies-nextnorth-reach-financial-close-on-440-mw-philippines-solar-project/",
+      "date": "2026-05-01T11:00:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Bangladesh&#8217;s PV capacity to reach 8.5 GW by 2035, says GlobalData",
       "url": "https://www.pv-magazine.com/2026/05/01/bangladesh-solar-pv-capacity-to-reach-8-5-gw-by-2035-says-globaldata/",
@@ -261,13 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "Resisting rust in solar",
-      "url": "https://www.pv-magazine.com/2026/04/29/resisting-rust-in-solar/",
-      "date": "2026-04-29T11:01:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "VIDEO: Supply chain, safety and multi-gigawatt-hour BESS deals, with Trina&#8217;s Europe president",
       "url": "https://www.energy-storage.news/video-supply-chain-safety-and-multi-gigawatt-hour-bess-deals-with-trinas-europe-president/",
       "date": "2026-04-29T10:13:05.000Z",
@@ -516,13 +523,6 @@
       "title": "SK considers ‘various strategic options’ to raise financing for BESS developer Key Capture Energy",
       "url": "https://www.energy-storage.news/sk-considers-various-strategic-options-to-raise-financing-for-bess-developer-key-capture-energy/",
       "date": "2026-04-22T09:40:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Meta reserves up to 100GWh of US ‘multi-day’ energy storage startup Noon Energy’s technology",
-      "url": "https://www.energy-storage.news/meta-reserves-up-to-100gwh-of-us-multi-day-energy-storage-startup-noon-energys-technology/",
-      "date": "2026-04-21T15:31:25.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
