@@ -1,6 +1,34 @@
 {
-  "ts": 1777613363188,
+  "ts": 1777622060162,
   "items": [
+    {
+      "title": "Europe’s solar and storage development: Selectivity amid rising global supply and returning energy shocks",
+      "url": "https://www.pv-magazine.com/2026/05/01/europes-solar-and-storage-development-selectivity-amid-rising-global-supply-and-returning-energy-shocks/",
+      "date": "2026-05-01T07:30:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Inorganic perovskite solar cell based on tetraphenyl-porphine zinc interlayer achieves 82% fill factor",
+      "url": "https://www.pv-magazine.com/2026/05/01/inorganic-perovskite-solar-cell-based-on-tetraphenyl-porphine-zinc-interlayer-achieves-82-fill-factor/",
+      "date": "2026-05-01T07:00:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian researchers develop vapour-based manufacturing process for lead-free perovskite solar",
+      "url": "https://www.pv-magazine.com/2026/05/01/australian-researchers-develop-vapour-based-manufacturing-process-for-lead-free-perovskite-solar/",
+      "date": "2026-05-01T06:11:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "California sets precedent by overriding local blockade for massive solar-plus-storage project",
+      "url": "https://www.pv-magazine.com/2026/05/01/california-sets-precedent-by-overriding-local-blockade-for-massive-solar-plus-storage-project/",
+      "date": "2026-05-01T06:05:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Italy probes PV companies over €60 million tax evasion and €33 million subsidy fraud",
       "url": "https://www.pv-magazine.com/2026/04/30/italy-probes-pv-companies-over-e60-million-tax-evasion-and-e33-million-subsidy-fraud/",
@@ -247,13 +275,6 @@
       "bucket": "A"
     },
     {
-      "title": "Boviet Solar sells U.S. PV module factory to Indian manufacturer Inox Solar",
-      "url": "https://www.pv-magazine.com/2026/04/29/boviet-solar-sells-u-s-pv-module-factory-to-indian-manufacturer-inox-solar/",
-      "date": "2026-04-29T08:47:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "New Zealand faces energy security gap by 2031 despite record project pipeline, Transpower warns",
       "url": "https://www.energy-storage.news/new-zealand-faces-energy-security-gap-by-2031-despite-record-project-pipeline-transpower-warns/",
       "date": "2026-04-29T08:27:40.000Z",
@@ -261,31 +282,10 @@
       "bucket": "A"
     },
     {
-      "title": "Low-power ride-through tech keeps green hydrogen flowing in standalone PV–electrolyzers",
-      "url": "https://www.pv-magazine.com/2026/04/29/low-power-ride-through-keeps-green-hydrogen-flowing-in-standalone-pv-electrolyzers/",
-      "date": "2026-04-29T08:00:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Western Australia unveils AU$1.4 billion fund for Clean Energy Link and SWIS grid expansion",
       "url": "https://www.energy-storage.news/western-australia-unveils-au1-4-billion-fund-for-clean-energy-link-and-swis-grid-expansion/",
       "date": "2026-04-29T07:28:47.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Indium oxide promises to increase CIS solar cell efficiency to unprecedented levels",
-      "url": "https://www.pv-magazine.com/2026/04/29/indium-oxide-promises-to-increase-cis-solar-cell-efficiency-to-unprecedented-levels/",
-      "date": "2026-04-29T07:00:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Installed BESS capacity in Spain grew by 589% since 2025 blackout",
-      "url": "https://www.pv-magazine.com/2026/04/29/installed-bess-capacity-in-spain-grew-by-589-since-2025-blackout/",
-      "date": "2026-04-29T05:53:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
