@@ -1,6 +1,13 @@
 {
-  "ts": 1777627342007,
+  "ts": 1777633074412,
   "items": [
+    {
+      "title": "Bangladesh&#8217;s PV capacity to reach 8.5 GW by 2035, says GlobalData",
+      "url": "https://www.pv-magazine.com/2026/05/01/bangladesh-solar-pv-capacity-to-reach-8-5-gw-by-2035-says-globaldata/",
+      "date": "2026-05-01T09:30:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Montenegro developer signs grid deal for 385 MW solar plant",
       "url": "https://www.pv-magazine.com/2026/05/01/montenegro-developer-signs-grid-deal-for-385-mw-solar-plant/",
@@ -257,13 +264,6 @@
       "title": "Resisting rust in solar",
       "url": "https://www.pv-magazine.com/2026/04/29/resisting-rust-in-solar/",
       "date": "2026-04-29T11:01:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "RCT Hydrogen begins manufacturing operations at German electrolyzer factory",
-      "url": "https://www.pv-magazine.com/2026/04/29/rct-hydrogen-begins-manufacturing-operations-at-german-electrolyzer-factory/",
-      "date": "2026-04-29T10:55:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
