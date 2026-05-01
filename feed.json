@@ -1,6 +1,27 @@
 {
-  "ts": 1777622060162,
+  "ts": 1777627342007,
   "items": [
+    {
+      "title": "Montenegro developer signs grid deal for 385 MW solar plant",
+      "url": "https://www.pv-magazine.com/2026/05/01/montenegro-developer-signs-grid-deal-for-385-mw-solar-plant/",
+      "date": "2026-05-01T08:30:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia, India, Japan, Philippines drive APAC battery storage shift",
+      "url": "https://www.energy-storage.news/australia-india-japan-philippines-drive-apac-battery-storage-shift/",
+      "date": "2026-05-01T08:12:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "20-month field tests show tracker-based bifacial PV outpeforms fixed tilt counterparts with 13.5% higher ouput in desert enviroments",
+      "url": "https://www.pv-magazine.com/2026/05/01/20-month-field-tests-show-tracker-based-bifacial-pv-outpeforms-fixed-tilt-counterparts-with-13-5-higher-ouput-in-desert-enviroments/",
+      "date": "2026-05-01T08:00:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Europe’s solar and storage development: Selectivity amid rising global supply and returning energy shocks",
       "url": "https://www.pv-magazine.com/2026/05/01/europes-solar-and-storage-development-selectivity-amid-rising-global-supply-and-returning-energy-shocks/",
@@ -247,13 +268,6 @@
       "bucket": "A"
     },
     {
-      "title": "Rosi to build PV module recycling plant in Spain",
-      "url": "https://www.pv-magazine.com/2026/04/29/rosi-to-build-pv-module-recycling-plant-in-spain/",
-      "date": "2026-04-29T10:45:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "VIDEO: Supply chain, safety and multi-gigawatt-hour BESS deals, with Trina&#8217;s Europe president",
       "url": "https://www.energy-storage.news/video-supply-chain-safety-and-multi-gigawatt-hour-bess-deals-with-trinas-europe-president/",
       "date": "2026-04-29T10:13:05.000Z",
@@ -265,13 +279,6 @@
       "url": "https://www.energy-storage.news/ebrd-finances-solar-and-storage-projects-in-egypt-and-hungary/",
       "date": "2026-04-29T09:02:06.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korea plans 3 GW of reservoir floating solar by 2030",
-      "url": "https://www.pv-magazine.com/2026/04/29/south-korea-plans-3-gw-of-reservoir-floating-solar-by-2030/",
-      "date": "2026-04-29T08:54:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Meta reserves up to 100GWh of US ‘multi-day’ energy storage startup Noon Energy’s technology",
       "url": "https://www.energy-storage.news/meta-reserves-up-to-100gwh-of-us-multi-day-energy-storage-startup-noon-energys-technology/",
       "date": "2026-04-21T15:31:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Treating batteries ‘like infrastructure’: EnerVenue CEO on its nickel-hydrogen energy storage vessels",
-      "url": "https://www.energy-storage.news/treating-batteries-like-infrastructure-enervenue-ceo-on-its-nickel-hydrogen-energy-storage-vessels/",
-      "date": "2026-04-21T13:52:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
