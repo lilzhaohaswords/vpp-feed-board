@@ -1,6 +1,27 @@
 {
-  "ts": 1777644640730,
+  "ts": 1777650158383,
   "items": [
+    {
+      "title": "US utility signs 4 GW solar, storage buildout deal",
+      "url": "https://www.pv-magazine.com/2026/05/01/large-us-utility-signs-4-gw-solar-storage-buildout-deal/",
+      "date": "2026-05-01T15:32:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The Hydrogen Stream: AfDB backs projects, Europe logs 265 offers",
+      "url": "https://www.pv-magazine.com/2026/05/01/the-hydrogen-stream-afdb-backs-projects-europe-logs-265-offers/",
+      "date": "2026-05-01T15:30:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: Longi, Trina Solar report losses",
+      "url": "https://www.pv-magazine.com/2026/05/01/chinese-pv-industry-brief-longi-trina-solar-report-losses/",
+      "date": "2026-05-01T15:15:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Submarine link to connect island solar to South Korea’s grid",
       "url": "https://www.pv-magazine.com/2026/05/01/submarine-link-to-connect-island-solar-to-south-koreas-grid/",
@@ -208,27 +229,6 @@
       "title": "Gotion unveils 5 MW/18.8 MWh ensclosed battery storage system",
       "url": "https://www.pv-magazine.com/2026/04/30/gotion-unveils-5-mw-18-8-mwh-ensclosed-battery-storage-system/",
       "date": "2026-04-30T08:22:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Scientists discover why lead-halide solar perovskites work efficiently despite being structurally &#8216;messy&#8217;",
-      "url": "https://www.pv-magazine.com/2026/04/30/scientists-discover-why-lead-halide-solar-perovskites-work-efficiently-despite-being-structurally-messy/",
-      "date": "2026-04-30T08:19:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Renewables growth cut Spain’s electricity bills by 24.2% over the past two years",
-      "url": "https://www.pv-magazine.com/2026/04/30/renewables-growth-cut-spains-electricity-bills-by-24-2-over-the-past-two-years/",
-      "date": "2026-04-30T07:07:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New irrigation tech helps reduce water use in agrivoltaics",
-      "url": "https://www.pv-magazine.com/2026/04/30/new-irrigation-tech-helps-reduce-water-use-in-agrivoltaics/",
-      "date": "2026-04-30T06:51:54.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
