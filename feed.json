@@ -1,6 +1,13 @@
 {
-  "ts": 1777650158383,
+  "ts": 1777653637849,
   "items": [
+    {
+      "title": "Solar inverters can detect cyberattacks but no one sees the signal",
+      "url": "https://www.pv-magazine.com/2026/05/01/solar-inverters-can-detect-cyberattacks-but-no-one-sees-the-signal/",
+      "date": "2026-05-01T15:45:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "US utility signs 4 GW solar, storage buildout deal",
       "url": "https://www.pv-magazine.com/2026/05/01/large-us-utility-signs-4-gw-solar-storage-buildout-deal/",
@@ -223,13 +230,6 @@
       "url": "https://www.energy-storage.news/lg-es-says-manufacturing-spend-puts-company-on-track-for-50gwh-us-ess-production-target/",
       "date": "2026-04-30T08:32:59.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Gotion unveils 5 MW/18.8 MWh ensclosed battery storage system",
-      "url": "https://www.pv-magazine.com/2026/04/30/gotion-unveils-5-mw-18-8-mwh-ensclosed-battery-storage-system/",
-      "date": "2026-04-30T08:22:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
