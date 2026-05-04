@@ -1,6 +1,41 @@
 {
-  "ts": 1777882166828,
+  "ts": 1777891833624,
   "items": [
+    {
+      "title": "Solar on canals reduces water evaporation by 70% and algae growth by 85%",
+      "url": "https://www.pv-magazine.com/2026/05/04/solar-on-canals-reduces-water-evaporation-by-70-and-algae-growth-by-85/",
+      "date": "2026-05-04T10:28:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Madagascar plans 46 solar projects totaling 932 MW",
+      "url": "https://www.pv-magazine.com/2026/05/04/madagascar-plans-46-solar-projects-totaling-932-mw/",
+      "date": "2026-05-04T10:11:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China Datang brings online 500 MW solar farm for direct data center supply",
+      "url": "https://www.pv-magazine.com/2026/05/04/china-datang-brings-online-500-mw-solar-farm-for-direct-data-center-supply/",
+      "date": "2026-05-04T09:55:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Japan reopens NEDO perovskite solar call with single-junction focus",
+      "url": "https://www.pv-magazine.com/2026/05/04/japan-reopens-nedo-perovskite-solar-call-with-single-junction-focus/",
+      "date": "2026-05-04T09:00:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Study finds &#8216;relatively good&#8217; agreement in worldwide solar cell calibrations, but flags key differences in testing methods",
+      "url": "https://www.pv-magazine.com/2026/05/04/study-finds-relatively-good-agreement-in-worldwide-solar-cell-calibrations-but-flags-key-differences-in-testing-methods/",
+      "date": "2026-05-04T08:11:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Free market, curtailment, and storage reshaping Brazilian solar sector",
       "url": "https://www.pv-magazine.com/2026/05/04/free-market-curtailment-and-storage-reshaping-brazilian-solar-sector/",
@@ -163,20 +198,6 @@
       "bucket": "A"
     },
     {
-      "title": "Italy probes PV companies over €60 million tax evasion and €33 million subsidy fraud",
-      "url": "https://www.pv-magazine.com/2026/04/30/italy-probes-pv-companies-over-e60-million-tax-evasion-and-e33-million-subsidy-fraud/",
-      "date": "2026-04-30T14:12:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "German solar module maker Soluxtec files for insolvency",
-      "url": "https://www.pv-magazine.com/2026/04/30/german-solar-module-maker-soluxtec-files-for-insolvency/",
-      "date": "2026-04-30T13:53:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US administration &#8216;must make it easier to get things built,&#8217; DOE chief of staff says",
       "url": "https://www.energy-storage.news/us-administration-must-make-it-easier-to-get-things-built-doe-chief-of-staff-says/",
       "date": "2026-04-30T13:11:30.000Z",
@@ -184,31 +205,10 @@
       "bucket": "A"
     },
     {
-      "title": "Mozambique relaunches 30 MW solar tender in EU-backed program",
-      "url": "https://www.pv-magazine.com/2026/04/30/mozambique-relaunches-30-mw-solar-tender-in-eu-backed-program/",
-      "date": "2026-04-30T12:46:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar-assisted air-source heat pump for radiant floor heating",
-      "url": "https://www.pv-magazine.com/2026/04/30/solar-assisted-air-source-heat-pump-for-radiant-floor-heating/",
-      "date": "2026-04-30T12:28:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Matrix Renewables, BW ESS secure finance and offtake for over 2.2GWh of UK BESS",
       "url": "https://www.energy-storage.news/matrix-renewables-bw-ess-secure-finance-and-offtake-for-over-2-2gwh-of-uk-bess/",
       "date": "2026-04-30T11:07:41.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ESS Tech to add 8.5 GWh of US-made sodium‑ion batteries to its portfolio",
-      "url": "https://www.pv-magazine.com/2026/04/30/ess-tech-to-add-8-5-gwh-of-us-made-sodium%e2%80%91ion-batteries-to-its-portfolio/",
-      "date": "2026-04-30T11:06:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
