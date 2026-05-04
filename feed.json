@@ -1,6 +1,20 @@
 {
-  "ts": 1777906697044,
+  "ts": 1777912046703,
   "items": [
+    {
+      "title": "Enphase moves into AI data center power with solid-state transformer",
+      "url": "https://www.pv-magazine.com/2026/05/04/enphase-moves-into-ai-data-center-power-with-solid-state-transformer/",
+      "date": "2026-05-04T15:15:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU funding ban on high-risk inverters, including Chinese suppliers, extends to BESS",
+      "url": "https://www.pv-magazine.com/2026/05/04/eu-funding-ban-on-high-risk-inverters-including-chinese-suppliers-extends-to-bess/",
+      "date": "2026-05-04T15:11:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "California&#8217;s CEC approves 300MW solar, 1.2GWh BESS Project",
       "url": "https://www.energy-storage.news/californias-cec-approves-300mw-solar-1-2gwh-bess-project/",
@@ -194,20 +208,6 @@
       "title": "20-month field tests show tracker-based bifacial PV outperforms fixed tilt counterparts with 13.5% higher ouput in desert enviroments",
       "url": "https://www.pv-magazine.com/2026/05/01/20-month-field-tests-show-tracker-based-bifacial-pv-outpeforms-fixed-tilt-counterparts-with-13-5-higher-ouput-in-desert-enviroments/",
       "date": "2026-05-01T08:00:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Europe’s solar and storage development: Selectivity amid rising global supply and returning energy shocks",
-      "url": "https://www.pv-magazine.com/2026/05/01/europes-solar-and-storage-development-selectivity-amid-rising-global-supply-and-returning-energy-shocks/",
-      "date": "2026-05-01T07:30:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Inorganic perovskite solar cell based on tetraphenyl-porphine zinc interlayer achieves 82% fill factor",
-      "url": "https://www.pv-magazine.com/2026/05/01/inorganic-perovskite-solar-cell-based-on-tetraphenyl-porphine-zinc-interlayer-achieves-82-fill-factor/",
-      "date": "2026-05-01T07:00:24.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
