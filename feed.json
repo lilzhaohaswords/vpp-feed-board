@@ -1,6 +1,20 @@
 {
-  "ts": 1777986032149,
+  "ts": 1777994708471,
   "items": [
+    {
+      "title": "EU solar and storage push could cut power system costs by nearly half",
+      "url": "https://www.pv-magazine.com/2026/05/05/eu-solar-and-storage-push-could-cut-power-system-costs-by-nearly-half/",
+      "date": "2026-05-05T13:35:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "CAISO CEO ‘expects batteries to play an important role’ in the newly launched Extended Day-Ahead Market",
+      "url": "https://www.energy-storage.news/caiso-ceo-expects-batteries-to-play-an-important-role-in-the-newly-launched-extended-day-ahead-market/",
+      "date": "2026-05-05T13:24:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Indonesia tenders 1.2 GW of solar",
       "url": "https://www.pv-magazine.com/2026/05/05/indonesia-tenders-1-2-gw-of-solar/",
@@ -208,13 +222,6 @@
       "title": "The best performing utility-scale PV asset in Australia",
       "url": "https://www.pv-magazine.com/2026/05/04/the-best-performing-utility-scale-pv-asset-in-australia/",
       "date": "2026-05-04T05:31:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Batteries: The game has changed – and it’s not what you think",
-      "url": "https://www.pv-magazine.com/2026/05/04/batteries-the-game-has-changed-and-its-not-what-you-think/",
-      "date": "2026-05-04T05:27:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Green Capital enlists EPC Electrum for 320MWh Poland BESS, under full wrap for &#8216;cost predictability&#8217;",
       "url": "https://www.energy-storage.news/green-capital-enlists-epc-electrum-for-320mwh-poland-bess-under-full-wrap-for-cost-predictability/",
       "date": "2026-04-23T10:00:09.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AccelerateEU ‘emergency toolbox’ policy on fossil fuel dependence falls short on energy storage, trade groups say",
-      "url": "https://www.energy-storage.news/accelerateeu-emergency-toolbox-policy-on-fossil-fuel-dependence-falls-short-on-energy-storage-trade-groups-say/",
-      "date": "2026-04-23T07:06:25.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
