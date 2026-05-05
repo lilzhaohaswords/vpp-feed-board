@@ -1,6 +1,13 @@
 {
-  "ts": 1777979188306,
+  "ts": 1777986032149,
   "items": [
+    {
+      "title": "Indonesia tenders 1.2 GW of solar",
+      "url": "https://www.pv-magazine.com/2026/05/05/indonesia-tenders-1-2-gw-of-solar/",
+      "date": "2026-05-05T12:35:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Dutch regulator plans grid fee for large solar producers",
       "url": "https://www.pv-magazine.com/2026/05/05/dutch-regulator-plans-feed-in-tariff-for-large-solar-producers/",
@@ -208,13 +215,6 @@
       "title": "Batteries: The game has changed – and it’s not what you think",
       "url": "https://www.pv-magazine.com/2026/05/04/batteries-the-game-has-changed-and-its-not-what-you-think/",
       "date": "2026-05-04T05:27:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar inverters can detect cyberattacks but no one sees the signal",
-      "url": "https://www.pv-magazine.com/2026/05/01/solar-inverters-can-detect-cyberattacks-but-no-one-sees-the-signal/",
-      "date": "2026-05-01T15:45:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
