@@ -1,6 +1,20 @@
 {
-  "ts": 1778020854015,
+  "ts": 1778024175178,
   "items": [
+    {
+      "title": "Australia: NSW battery storage systems capture 11.9% of state consumption",
+      "url": "https://www.energy-storage.news/australia-nsw-battery-storage-systems-capture-11-9-of-state-consumption/",
+      "date": "2026-05-05T23:00:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Beyond deployment: Building a circular future for renewable energy",
+      "url": "https://www.energy-storage.news/beyond-deployment-building-a-circular-future-for-renewable-energy/",
+      "date": "2026-05-05T23:00:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "EU solar and storage push could cut power system costs by nearly half",
       "url": "https://www.pv-magazine.com/2026/05/05/eu-solar-and-storage-push-could-cut-power-system-costs-by-nearly-half/",
@@ -509,20 +523,6 @@
       "title": "US battery recycling in doldrums: updates from Redwood Materials, Ascend Elements",
       "url": "https://www.energy-storage.news/us-battery-recycling-in-doldrums-updates-from-redwood-materials-ascend-elements/",
       "date": "2026-04-23T11:58:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Tesla reports declines in quarterly energy storage revenues and deployments",
-      "url": "https://www.energy-storage.news/tesla-reports-declines-in-quarterly-energy-storage-revenues-and-deployments/",
-      "date": "2026-04-23T11:48:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Green Capital enlists EPC Electrum for 320MWh Poland BESS, under full wrap for &#8216;cost predictability&#8217;",
-      "url": "https://www.energy-storage.news/green-capital-enlists-epc-electrum-for-320mwh-poland-bess-under-full-wrap-for-cost-predictability/",
-      "date": "2026-04-23T10:00:09.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
