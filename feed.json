@@ -1,6 +1,13 @@
 {
-  "ts": 1777956522309,
+  "ts": 1777964868910,
   "items": [
+    {
+      "title": "Fluorine use in PV backsheets dropped sharply over past three Decades",
+      "url": "https://www.pv-magazine.com/2026/05/05/fluorine-use-in-pv-backsheets-dropped-sharply-over-past-three-decades/",
+      "date": "2026-05-05T07:00:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Enphase moves into AI data center power with solid-state transformer",
       "url": "https://www.pv-magazine.com/2026/05/04/enphase-moves-into-ai-data-center-power-with-solid-state-transformer/",
@@ -202,13 +209,6 @@
       "url": "https://www.energy-storage.news/australia-india-japan-philippines-drive-apac-battery-storage-shift/",
       "date": "2026-05-01T08:12:01.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "20-month field tests show tracker-based bifacial PV outperforms fixed tilt counterparts with 13.5% higher ouput in desert enviroments",
-      "url": "https://www.pv-magazine.com/2026/05/01/20-month-field-tests-show-tracker-based-bifacial-pv-outpeforms-fixed-tilt-counterparts-with-13-5-higher-ouput-in-desert-enviroments/",
-      "date": "2026-05-01T08:00:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
