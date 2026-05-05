@@ -1,6 +1,13 @@
 {
-  "ts": 1777974452894,
+  "ts": 1777979188306,
   "items": [
+    {
+      "title": "Dutch regulator plans grid fee for large solar producers",
+      "url": "https://www.pv-magazine.com/2026/05/05/dutch-regulator-plans-feed-in-tariff-for-large-solar-producers/",
+      "date": "2026-05-05T09:59:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "ESS Inc partners with Alsym Energy for 8.5GWh of US sodium-ion BESS cells",
       "url": "https://www.energy-storage.news/ess-inc-partners-with-alsym-energy-for-8-5gwh-of-us-sodium-ion-bess-cells/",
@@ -208,13 +215,6 @@
       "title": "Solar inverters can detect cyberattacks but no one sees the signal",
       "url": "https://www.pv-magazine.com/2026/05/01/solar-inverters-can-detect-cyberattacks-but-no-one-sees-the-signal/",
       "date": "2026-05-01T15:45:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US utility signs 4 GW solar, storage buildout deal",
-      "url": "https://www.pv-magazine.com/2026/05/01/large-us-utility-signs-4-gw-solar-storage-buildout-deal/",
-      "date": "2026-05-01T15:32:59.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
