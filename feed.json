@@ -1,6 +1,13 @@
 {
-  "ts": 1778080546873,
+  "ts": 1778087846026,
   "items": [
+    {
+      "title": "Egypt&#8217;s National Bank takes 20% stake in Scatec&#8217;s Obelisk project",
+      "url": "https://www.pv-magazine.com/2026/05/06/egypts-national-bank-takes-20-stake-in-scatecs-obelisk-project/",
+      "date": "2026-05-06T15:17:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "There are now more than 2 million UK solar installations",
       "url": "https://www.pv-magazine.com/2026/05/06/there-are-now-more-than-2-million-uk-solar-installations/",
@@ -258,13 +265,6 @@
       "url": "https://www.energy-storage.news/western-australia-awards-1-9gw-of-renewables-and-3-7gwh-of-battery-storage-under-cis-tenders-5-and-6/",
       "date": "2026-05-05T08:00:23.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Western Australia backs grid buildout ahead of coal exit",
-      "url": "https://www.pv-magazine.com/2026/05/05/western-australia-backs-grid-buildout-ahead-of-coal-exit/",
-      "date": "2026-05-05T07:45:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
