@@ -1,6 +1,20 @@
 {
-  "ts": 1778054355189,
+  "ts": 1778062442718,
   "items": [
+    {
+      "title": "Fortescue’s chairman says AI and battery storage &#8216;healed&#8217; Australian mining grid in nanoseconds",
+      "url": "https://www.energy-storage.news/fortescues-chairman-says-ai-and-battery-storage-healed-australian-mining-grid-in-nanoseconds/",
+      "date": "2026-05-06T09:29:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Angola switches on Africa’s largest off-grid solar-plus-storage park",
+      "url": "https://www.pv-magazine.com/2026/05/06/angola-switches-on-africas-largest-off-grid-solar-plus-storage-park/",
+      "date": "2026-05-06T08:24:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Fraunhofer ISE opens perovskite-silicon tandem scale-up lab",
       "url": "https://www.pv-magazine.com/2026/05/06/fraunhofer-ise-opens-perovskite-silicon-tandem-scale-up-lab/",
@@ -229,13 +243,6 @@
       "title": "Heat pump sales rise 17% across Europe in Q1 as energy prices surge",
       "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
       "date": "2026-05-04T12:45:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar on canals reduces water evaporation by 70% and algae growth by 85%",
-      "url": "https://www.pv-magazine.com/2026/05/04/solar-on-canals-reduces-water-evaporation-by-70-and-algae-growth-by-85/",
-      "date": "2026-05-04T10:28:06.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "RWE and Polarium to combine distributed batteries into 50MW/135MWh Germany VPP",
       "url": "https://www.energy-storage.news/rwe-and-polarium-to-combine-distributed-batteries-into-50mw-135mwh-germany-vpp/",
       "date": "2026-04-23T12:58:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US battery recycling in doldrums: updates from Redwood Materials, Ascend Elements",
-      "url": "https://www.energy-storage.news/us-battery-recycling-in-doldrums-updates-from-redwood-materials-ascend-elements/",
-      "date": "2026-04-23T11:58:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
