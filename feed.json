@@ -1,6 +1,20 @@
 {
-  "ts": 1778030386871,
+  "ts": 1778044486688,
   "items": [
+    {
+      "title": "Solex Energy plans 5 GW solar cell factory in India",
+      "url": "https://www.pv-magazine.com/2026/05/06/solex-energy-plans-5-gw-solar-cell-factory-in-india/",
+      "date": "2026-05-06T04:42:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Trina launches rooftop solar module with lower-voltage design",
+      "url": "https://www.pv-magazine.com/2026/05/06/trina-launches-rooftop-solar-module-with-lower-voltage-design/",
+      "date": "2026-05-06T04:34:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia: NSW battery storage systems capture 11.9% of state consumption",
       "url": "https://www.energy-storage.news/australia-nsw-battery-storage-systems-capture-11-9-of-state-consumption/",
@@ -114,7 +128,7 @@
       "bucket": "A"
     },
     {
-      "title": "Western Australia awards 1.9GW of renewables and 3.7GWh of battery storage under CIS Tenders 5 and 6",
+      "title": "Australia awards 1.9GW of renewables and 3.7GWh of battery storage under CIS Tenders 5 and 6",
       "url": "https://www.energy-storage.news/western-australia-awards-1-9gw-of-renewables-and-3-7gwh-of-battery-storage-under-cis-tenders-5-and-6/",
       "date": "2026-05-05T08:00:23.000Z",
       "source": "Energy Storage News",
@@ -222,20 +236,6 @@
       "title": "Free market, curtailment, and storage reshaping Brazilian solar sector",
       "url": "https://www.pv-magazine.com/2026/05/04/free-market-curtailment-and-storage-reshaping-brazilian-solar-sector/",
       "date": "2026-05-04T06:05:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "French IPP building mini solar farms via low-voltage extension",
-      "url": "https://www.pv-magazine.com/2026/05/04/french-ipp-building-mini-solar-farms-via-low-voltage-extension/",
-      "date": "2026-05-04T05:43:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The best performing utility-scale PV asset in Australia",
-      "url": "https://www.pv-magazine.com/2026/05/04/the-best-performing-utility-scale-pv-asset-in-australia/",
-      "date": "2026-05-04T05:31:08.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
