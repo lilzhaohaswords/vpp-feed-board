@@ -1,6 +1,13 @@
 {
-  "ts": 1778104360356,
+  "ts": 1778106954769,
   "items": [
+    {
+      "title": "Australia: Queensland becomes first NEM state to discharge over 100GWh from battery storage in a month",
+      "url": "https://www.energy-storage.news/australia-queensland-becomes-first-nem-state-to-discharge-over-100gwh-from-battery-storage-in-a-month/",
+      "date": "2026-05-06T22:27:05.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Egypt&#8217;s National Bank takes 20% stake in Scatec&#8217;s Obelisk project",
       "url": "https://www.pv-magazine.com/2026/05/06/egypts-national-bank-takes-20-stake-in-scatecs-obelisk-project/",
@@ -516,13 +523,6 @@
       "title": "&#8216;As deployments grow, so does the need,&#8217; says Sungrow North America cybersecurity director",
       "url": "https://www.energy-storage.news/as-deployments-grow-so-does-the-need-says-sungrow-north-america-cybersecurity-director/",
       "date": "2026-04-24T13:52:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO – Energy Storage Summit 2026: How European energy price volatility is driving the business case for storage",
-      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-how-european-energy-price-volatility-is-driving-the-business-case-for-storage/",
-      "date": "2026-04-24T13:43:57.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
