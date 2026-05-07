@@ -1,6 +1,34 @@
 {
-  "ts": 1778151283830,
+  "ts": 1778156553080,
   "items": [
+    {
+      "title": "Large-scale heat pumps utilize excess heat from Microsoft data centers in Finland",
+      "url": "https://www.pv-magazine.com/2026/05/07/large-scale-heat-pumps-utilize-excess-heat-from-microsoft-data-centers-in-finland/",
+      "date": "2026-05-07T11:37:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sonnenkraft launches 480 W back-contact TOPCon solar module",
+      "url": "https://www.pv-magazine.com/2026/05/07/sonnenkraft-launches-480-w-back-contact-topcon-solar-module/",
+      "date": "2026-05-07T11:29:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New record of negative electricity prices in France",
+      "url": "https://www.pv-magazine.com/2026/05/07/new-record-of-negative-electricity-prices-in-france/",
+      "date": "2026-05-07T11:15:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Longer-duration BESS finds footing in Germany&#8217;s toll market",
+      "url": "https://www.pv-magazine.com/2026/05/07/longer-duration-bess-finds-footing-in-germanys-toll-market/",
+      "date": "2026-05-07T11:00:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Organic flow battery company CMBlu closes €50 million Series C",
       "url": "https://www.energy-storage.news/organic-flow-battery-company-cmblu-closes-e50-million-series-c/",
@@ -229,34 +257,6 @@
       "title": "How to retrofit commercial PV panels into photovoltaic-thermal modules",
       "url": "https://www.pv-magazine.com/2026/05/06/how-to-retrofit-commercial-pv-panels-into-photovoltaic-thermal-modules/",
       "date": "2026-05-06T07:00:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar panels reduce thermal stress in dairy barns during critical afternoon hours",
-      "url": "https://www.pv-magazine.com/2026/05/06/solar-panels-reduces-thermal-stress-in-dairy-barns-during-critical-afternoon-hours/",
-      "date": "2026-05-06T06:28:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil revokes 3.57 GW of solar permits amid grid connection constraints",
-      "url": "https://www.pv-magazine.com/2026/05/06/brazil-revokes-3-57-gw-of-solar-permits-amid-grid-connection-constraints/",
-      "date": "2026-05-06T05:54:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Arctech debuts TOPCon photovoltaic pavement solution",
-      "url": "https://www.pv-magazine.com/2026/05/06/arctech-debuts-topcon-photovoltaic-pavement-solution/",
-      "date": "2026-05-06T05:43:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solex Energy plans 5 GW solar cell factory in India",
-      "url": "https://www.pv-magazine.com/2026/05/06/solex-energy-plans-5-gw-solar-cell-factory-in-india/",
-      "date": "2026-05-06T04:42:42.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
