@@ -1,6 +1,55 @@
 {
-  "ts": 1778141229930,
+  "ts": 1778151283830,
   "items": [
+    {
+      "title": "Organic flow battery company CMBlu closes €50 million Series C",
+      "url": "https://www.energy-storage.news/organic-flow-battery-company-cmblu-closes-e50-million-series-c/",
+      "date": "2026-05-07T10:08:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "IPPs complete 840MWh of Bulgaria BESS, projects progress elsewhere in Southeast Europe",
+      "url": "https://www.energy-storage.news/ipps-complete-840mwh-of-bulgaria-bess-projects-progress-elsewhere-in-southeast-europe/",
+      "date": "2026-05-07T09:56:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Inside PV Manufacturing: SoliTek’s new fully automated module line in Lithuania",
+      "url": "https://www.pv-magazine.com/2026/05/07/inside-pv-manufacturing-soliteks-new-fully-automated-module-line-in-lithuania/",
+      "date": "2026-05-07T09:54:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO – Energy Storage Summit 2026: what technology will be deployed for LDES?",
+      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-what-technology-will-be-deployed-for-ldes/",
+      "date": "2026-05-07T09:52:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Autonomous photovoltaic vehicle Infinite Apollo validates urban circulation performance",
+      "url": "https://www.pv-magazine.com/2026/05/07/autonomous-photovoltaic-vehicle-infinite-apollo-validates-urban-circulation-performance/",
+      "date": "2026-05-07T09:50:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Prototype of PVT-driven dual-source heat pump with borehole thermal energy storage achieves coefficient of performance of 4.07",
+      "url": "https://www.pv-magazine.com/2026/05/07/prototype-of-pvt-driven-dual-source-heat-pump-with-borehole-thermal-energy-storage-achieves-coefficient-of-performance-of-4-07/",
+      "date": "2026-05-07T09:19:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Iberdrola advances pumped-storage hydro station in Spain",
+      "url": "https://www.pv-magazine.com/2026/05/07/iberdrola-advances-pumped-storage-hydro-station-in-spain/",
+      "date": "2026-05-07T08:26:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "South Korean utility to install 95 MW of solar at substations by 2030",
       "url": "https://www.pv-magazine.com/2026/05/07/south-korean-utility-to-install-95-mw-of-solar-at-substations-by-2030/",
@@ -212,13 +261,6 @@
       "bucket": "A"
     },
     {
-      "title": "Trina launches rooftop solar module with lower-voltage design",
-      "url": "https://www.pv-magazine.com/2026/05/06/trina-launches-rooftop-solar-module-with-lower-voltage-design/",
-      "date": "2026-05-06T04:34:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Australia: NSW battery storage systems capture 11.9% of state consumption",
       "url": "https://www.energy-storage.news/australia-nsw-battery-storage-systems-capture-11-9-of-state-consumption/",
       "date": "2026-05-05T23:00:51.000Z",
@@ -233,31 +275,10 @@
       "bucket": "A"
     },
     {
-      "title": "EU solar and storage push could cut power system costs by nearly half",
-      "url": "https://www.pv-magazine.com/2026/05/05/eu-solar-and-storage-push-could-cut-power-system-costs-by-nearly-half/",
-      "date": "2026-05-05T13:35:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "CAISO CEO ‘expects batteries to play an important role’ in the newly launched Extended Day-Ahead Market",
       "url": "https://www.energy-storage.news/caiso-ceo-expects-batteries-to-play-an-important-role-in-the-newly-launched-extended-day-ahead-market/",
       "date": "2026-05-05T13:24:47.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Indonesia tenders 1.2 GW of solar",
-      "url": "https://www.pv-magazine.com/2026/05/05/indonesia-tenders-1-2-gw-of-solar/",
-      "date": "2026-05-05T12:35:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Dutch regulator plans grid fee for large solar producers",
-      "url": "https://www.pv-magazine.com/2026/05/05/dutch-regulator-plans-feed-in-tariff-for-large-solar-producers/",
-      "date": "2026-05-05T09:59:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "&#8216;A turning point&#8217;: CATL and HyperStrong sign 60GWh sodium-ion agreement",
       "url": "https://www.energy-storage.news/a-turning-point-catl-and-hyperstrong-sign-60gwh-sodium-ion-agreement/",
       "date": "2026-04-27T13:02:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Wind co-location: TotalEnergies takes FID on 1GW Kazakhstan project, Downing develops in Finland",
-      "url": "https://www.energy-storage.news/wind-co-location-totalenergies-takes-fid-on-1gw-kazakhstan-project-downing-develops-in-finland/",
-      "date": "2026-04-27T09:51:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian court amends consent for Hydrostor&#8217;s 1.6GWh long-duration energy storage project following appeal",
-      "url": "https://www.energy-storage.news/australian-court-amends-consent-for-hydrostors-1-6gwh-long-duration-energy-storage-project-following-appeal/",
-      "date": "2026-04-27T04:00:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Saudi Arabia begins qualifying bidders for 3GW/12GWh battery storage RFP",
-      "url": "https://www.energy-storage.news/saudi-arabia-begins-qualifying-bidders-for-3gw-12gwh-battery-storage-rfp/",
-      "date": "2026-04-24T15:15:31.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
