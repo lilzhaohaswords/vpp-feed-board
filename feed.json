@@ -1,6 +1,62 @@
 {
-  "ts": 1778131059398,
+  "ts": 1778141229930,
   "items": [
+    {
+      "title": "South Korean utility to install 95 MW of solar at substations by 2030",
+      "url": "https://www.pv-magazine.com/2026/05/07/south-korean-utility-to-install-95-mw-of-solar-at-substations-by-2030/",
+      "date": "2026-05-07T08:05:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sungrow&#8217;s grid-forming PCS achieves 19-second black start at &#8216;world&#8217;s first&#8217; 30MW test facility",
+      "url": "https://www.energy-storage.news/sungrows-grid-forming-pcs-achieves-19-second-black-start-at-worlds-first-30mw-test-facility/",
+      "date": "2026-05-07T07:59:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Argentine football turns to photovoltaics",
+      "url": "https://www.pv-magazine.com/2026/05/07/argentine-football-turns-to-photovoltaics/",
+      "date": "2026-05-07T07:47:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Curtailment, negative prices push Greek small- and medium-sized PV asset owners toward bankruptcy",
+      "url": "https://www.pv-magazine.com/2026/05/07/curtailment-negative-prices-push-greek-small-and-medium-sized-pv-owners-toward-bankruptcy/",
+      "date": "2026-05-07T07:35:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "German startup offers scalable AC system for bidirectional charging",
+      "url": "https://www.pv-magazine.com/2026/05/07/german-startup-offers-scalable-ac-system-for-bidirectional-charging/",
+      "date": "2026-05-07T07:10:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "AlphaTracker launches hydraulic mechanism that locks trackers during strong wind gusts",
+      "url": "https://www.pv-magazine.com/2026/05/07/alphatracker-launches-hydraulic-mechanism-that-locks-trackers-during-strong-wind-gusts/",
+      "date": "2026-05-07T06:57:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian researchers accelerate silicon wafer recycling using AI, robotics",
+      "url": "https://www.pv-magazine.com/2026/05/07/australian-researchers-accelerate-silicon-wafer-recycling-using-ai-robotics/",
+      "date": "2026-05-07T06:27:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Texas PV module production to exceed 15 GW in 2026",
+      "url": "https://www.pv-magazine.com/2026/05/07/texas-pv-module-production-to-exceed-15-gw-in-2026/",
+      "date": "2026-05-07T06:19:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia installs 10.7GWh of home battery storage under federal subsidy scheme",
       "url": "https://www.energy-storage.news/australia-installs-10-7gwh-of-home-battery-storage-under-federal-subsidy-scheme/",
@@ -219,59 +275,10 @@
       "bucket": "A"
     },
     {
-      "title": "France publishes specifications for 925 MW ground-mounted solar tender",
-      "url": "https://www.pv-magazine.com/2026/05/05/france-publishes-specifications-for-925-mw-ground-mounted-solar-tender/",
-      "date": "2026-05-05T09:30:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar sector raises $11.1 billion in Q1 2026 as debt financing hits decade high",
-      "url": "https://www.pv-magazine.com/2026/05/05/solar-sector-raises-11-1-billion-in-q1-2026-as-debt-financing-hits-decade-high/",
-      "date": "2026-05-05T09:00:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Home batteries earn during negative electricity price spikes",
-      "url": "https://www.pv-magazine.com/2026/05/05/home-batteries-earn-during-negative-electricity-price-spikes/",
-      "date": "2026-05-05T08:30:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Swiss balancing energy market now open to C&#038;I solar",
-      "url": "https://www.pv-magazine.com/2026/05/05/swiss-balancing-energy-market-now-open-to-ci-solar/",
-      "date": "2026-05-05T08:28:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Oman seeks consultant for green hydrogen project",
-      "url": "https://www.pv-magazine.com/2026/05/05/oman-seeks-consultant-for-green-hydrogen-project/",
-      "date": "2026-05-05T08:15:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Rooftop solar surges to new high in Australia on back of battery boom",
-      "url": "https://www.pv-magazine.com/2026/05/05/rooftop-solar-surges-to-new-high-in-australian-on-back-of-battery-boom/",
-      "date": "2026-05-05T08:05:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Two battery storage projects totalling 2.15GWh clear Australia&#8217;s EPBC Act assessment",
       "url": "https://www.energy-storage.news/two-battery-storage-projects-totalling-2-15gwh-clear-australias-epbc-act-assessment/",
       "date": "2026-05-05T08:01:37.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New technique measures water ingress in PV modules without disconnecting them",
-      "url": "https://www.pv-magazine.com/2026/05/05/new-technique-measures-water-ingress-in-pv-modules-without-disconnecting-them/",
-      "date": "2026-05-05T08:00:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Saudi Arabia begins qualifying bidders for 3GW/12GWh battery storage RFP",
       "url": "https://www.energy-storage.news/saudi-arabia-begins-qualifying-bidders-for-3gw-12gwh-battery-storage-rfp/",
       "date": "2026-04-24T15:15:31.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Plus Power signs ESA for 800MWh Alabama BESS",
-      "url": "https://www.energy-storage.news/plus-power-signs-esa-for-800mwh-alabama-bess/",
-      "date": "2026-04-24T13:53:52.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
