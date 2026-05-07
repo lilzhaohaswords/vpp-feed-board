@@ -1,6 +1,41 @@
 {
-  "ts": 1778156553080,
+  "ts": 1778167258874,
   "items": [
+    {
+      "title": "Study finds PV plants reshape land surface conditions, reducing wind speed and increasing soil moisture",
+      "url": "https://www.pv-magazine.com/2026/05/07/study-finds-pv-plants-reshape-land-surface-conditions-reducing-wind-speed-and-increasing-soil-moisture/",
+      "date": "2026-05-07T13:54:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "K2 Systems releases new mounting systems for ground-mounted PV",
+      "url": "https://www.pv-magazine.com/2026/05/07/k2-systems-releases-new-mounting-systems-for-ground-mounted-pv/",
+      "date": "2026-05-07T13:41:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU allocates 1.1 GW of electrolyzer capacity in third hydrogen auction, lowest bid comes in at €0.44/kg",
+      "url": "https://www.pv-magazine.com/2026/05/07/eu-allocates-1-1-gw-of-electrolyzer-capacity-in-third-hydrogen-auction-lowest-bid-comes-in-at-e0-44-kg/",
+      "date": "2026-05-07T13:29:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US BESS operators face growing complexity as markets mature",
+      "url": "https://www.energy-storage.news/us-bess-operators-face-growing-complexity-as-markets-mature/",
+      "date": "2026-05-07T13:04:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Short circuit in nickel manganese cobalt batteries causes fire at UK BESS project",
+      "url": "https://www.pv-magazine.com/2026/05/07/short-circuit-in-nickel-manganese-cobalt-batteries-causes-fire-at-uk-bess-project/",
+      "date": "2026-05-07T12:50:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Large-scale heat pumps utilize excess heat from Microsoft data centers in Finland",
       "url": "https://www.pv-magazine.com/2026/05/07/large-scale-heat-pumps-utilize-excess-heat-from-microsoft-data-centers-in-finland/",
@@ -16,7 +51,7 @@
       "bucket": "A"
     },
     {
-      "title": "New record of negative electricity prices in France",
+      "title": "Negative electricity prices in France hit a new record",
       "url": "https://www.pv-magazine.com/2026/05/07/new-record-of-negative-electricity-prices-in-france/",
       "date": "2026-05-07T11:15:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -219,13 +254,6 @@
       "bucket": "A"
     },
     {
-      "title": "PV module recycling technologies ‘progressing’, says IEA-PVPS",
-      "url": "https://www.pv-magazine.com/2026/05/06/pv-module-recycling-technologies-progressing-says-iea-pvps/",
-      "date": "2026-05-06T10:43:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Green Flexibility, Suncatcher, SWB and ArcelorMittal progress large-scale BESS projects in Germany totalling 324MWh",
       "url": "https://www.energy-storage.news/green-flexibility-suncatcher-swb-and-arcelormittal-progress-large-scale-bess-projects-in-germany-totalling-324mwh/",
       "date": "2026-05-06T10:42:59.000Z",
@@ -237,27 +265,6 @@
       "url": "https://www.energy-storage.news/fortescues-chairman-says-ai-and-battery-storage-healed-australian-mining-grid-in-nanoseconds/",
       "date": "2026-05-06T09:29:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Angola switches on Africa’s largest off-grid solar-plus-storage park",
-      "url": "https://www.pv-magazine.com/2026/05/06/angola-switches-on-africas-largest-off-grid-solar-plus-storage-park/",
-      "date": "2026-05-06T08:24:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fraunhofer ISE opens perovskite-silicon tandem scale-up lab",
-      "url": "https://www.pv-magazine.com/2026/05/06/fraunhofer-ise-opens-perovskite-silicon-tandem-scale-up-lab/",
-      "date": "2026-05-06T07:19:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How to retrofit commercial PV panels into photovoltaic-thermal modules",
-      "url": "https://www.pv-magazine.com/2026/05/06/how-to-retrofit-commercial-pv-panels-into-photovoltaic-thermal-modules/",
-      "date": "2026-05-06T07:00:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Georgia Power files RFP for up to 6,000MW of new dispatchable energy resources",
       "url": "https://www.energy-storage.news/georgia-power-files-rfp-for-up-to-6000mw-of-new-dispatchable-energy-resources/",
       "date": "2026-04-27T13:59:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;A turning point&#8217;: CATL and HyperStrong sign 60GWh sodium-ion agreement",
-      "url": "https://www.energy-storage.news/a-turning-point-catl-and-hyperstrong-sign-60gwh-sodium-ion-agreement/",
-      "date": "2026-04-27T13:02:52.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
