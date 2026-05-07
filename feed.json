@@ -1,6 +1,13 @@
 {
-  "ts": 1778117110198,
+  "ts": 1778131059398,
   "items": [
+    {
+      "title": "Australia installs 10.7GWh of home battery storage under federal subsidy scheme",
+      "url": "https://www.energy-storage.news/australia-installs-10-7gwh-of-home-battery-storage-under-federal-subsidy-scheme/",
+      "date": "2026-05-07T01:35:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Australia: Queensland becomes first NEM state to discharge over 100GWh from battery storage in a month",
       "url": "https://www.energy-storage.news/australia-queensland-becomes-first-nem-state-to-discharge-over-100gwh-from-battery-storage-in-a-month/",
@@ -516,13 +523,6 @@
       "title": "Plus Power signs ESA for 800MWh Alabama BESS",
       "url": "https://www.energy-storage.news/plus-power-signs-esa-for-800mwh-alabama-bess/",
       "date": "2026-04-24T13:53:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;As deployments grow, so does the need,&#8217; says Sungrow North America cybersecurity director",
-      "url": "https://www.energy-storage.news/as-deployments-grow-so-does-the-need-says-sungrow-north-america-cybersecurity-director/",
-      "date": "2026-04-24T13:52:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
