@@ -1,6 +1,20 @@
 {
-  "ts": 1778250419806,
+  "ts": 1778256295928,
   "items": [
+    {
+      "title": "BloombergNEF forecasts 158GW of global energy storage deployments in 2026",
+      "url": "https://www.energy-storage.news/bloombergnef-forecasts-158gw-of-global-energy-storage-deployments-in-2026/",
+      "date": "2026-05-08T15:47:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EU ban on Chinese inverters sparks strong response from Beijing",
+      "url": "https://www.pv-magazine.com/2026/05/08/eu-ban-on-chinese-inverters-sparks-strong-response-from-beijing/",
+      "date": "2026-05-08T14:39:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Kalyon PV begins production at new TOPCon solar cell factory in Turkey",
       "url": "https://www.pv-magazine.com/2026/05/08/kalyon-pv-begins-production-at-new-topcon-solar-cell-factory-in-turkey/",
@@ -208,13 +222,6 @@
       "title": "Large-scale heat pumps utilize excess heat from Microsoft data centers in Finland",
       "url": "https://www.pv-magazine.com/2026/05/07/large-scale-heat-pumps-utilize-excess-heat-from-microsoft-data-centers-in-finland/",
       "date": "2026-05-07T11:37:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sonnenkraft launches 480 W back-contact TOPCon solar module",
-      "url": "https://www.pv-magazine.com/2026/05/07/sonnenkraft-launches-480-w-back-contact-topcon-solar-module/",
-      "date": "2026-05-07T11:29:24.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Grenergy signs 12-year toll for 680MWh Spain BESS",
       "url": "https://www.energy-storage.news/grenergy-signs-12-year-toll-for-680mwh-spain-bess/",
       "date": "2026-04-28T09:28:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sumitomo Electric flow battery wins Japanese transmission operator HEPCO’s renewables integration tender",
-      "url": "https://www.energy-storage.news/sumitomo-electric-flow-battery-wins-japanese-transmission-operator-hepcos-renewables-integration-tender/",
-      "date": "2026-04-28T08:09:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
