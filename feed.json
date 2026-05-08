@@ -1,6 +1,13 @@
 {
-  "ts": 1778203700575,
+  "ts": 1778215452252,
   "items": [
+    {
+      "title": "AGL&#8217;s Liddell and Tomago battery storage systems to boost returns by 10% in Australia",
+      "url": "https://www.energy-storage.news/agls-liddell-and-tomago-battery-storage-systems-to-boost-returns-by-10-in-australia/",
+      "date": "2026-05-08T03:11:26.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Study finds PV plants reshape land surface conditions, reducing wind speed and increasing soil moisture",
       "url": "https://www.pv-magazine.com/2026/05/07/study-finds-pv-plants-reshape-land-surface-conditions-reducing-wind-speed-and-increasing-soil-moisture/",
@@ -516,13 +523,6 @@
       "title": "EticaAG contends that immersion cooling is the next evolution of BESS cooling systems",
       "url": "https://www.energy-storage.news/eticaag-contends-that-immersion-cooling-is-the-next-evolution-of-bess-cooling-systems/",
       "date": "2026-04-27T14:00:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Georgia Power files RFP for up to 6,000MW of new dispatchable energy resources",
-      "url": "https://www.energy-storage.news/georgia-power-files-rfp-for-up-to-6000mw-of-new-dispatchable-energy-resources/",
-      "date": "2026-04-27T13:59:27.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
