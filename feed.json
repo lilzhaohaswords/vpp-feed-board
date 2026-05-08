@@ -1,6 +1,34 @@
 {
-  "ts": 1778228071336,
+  "ts": 1778235104008,
   "items": [
+    {
+      "title": "European ESS battery company Morrow files for bankruptcy",
+      "url": "https://www.energy-storage.news/european-ess-battery-company-morrow-files-for-bankruptcy/",
+      "date": "2026-05-08T09:49:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO – Energy Storage Summit 2026: Role of subsidies, contracted and merchant revenues in Europe&#8217;s BESS buildout",
+      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-role-of-subsidies-contracted-and-merchant-revenues-in-europes-bess-buildout/",
+      "date": "2026-05-08T09:42:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Czechia considers stop to double taxation on solar, storage projects",
+      "url": "https://www.pv-magazine.com/2026/05/08/czechia-considers-stop-to-double-taxation-on-solar-storage-projects/",
+      "date": "2026-05-08T08:44:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New research uncovers interface-level physical mechanisms driving ultraviolet degradation in TOPCon solar cells",
+      "url": "https://www.pv-magazine.com/2026/05/08/new-research-uncovers-interface-level-physical-mechanisms-driving-ultraviolet-degradation-in-topcon-solar-cells/",
+      "date": "2026-05-08T08:38:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Bandgap-engineered indoor perovskite solar cell achieves 37.44% efficiency",
       "url": "https://www.pv-magazine.com/2026/05/08/bandgap-engineered-indoor-perovskite-solar-cell-achieves-37-44-efficiency/",
@@ -201,20 +229,6 @@
       "title": "Curtailment, negative prices push Greek small- and medium-sized PV asset owners toward bankruptcy",
       "url": "https://www.pv-magazine.com/2026/05/07/curtailment-negative-prices-push-greek-small-and-medium-sized-pv-owners-toward-bankruptcy/",
       "date": "2026-05-07T07:35:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "German startup offers scalable AC system for bidirectional charging",
-      "url": "https://www.pv-magazine.com/2026/05/07/german-startup-offers-scalable-ac-system-for-bidirectional-charging/",
-      "date": "2026-05-07T07:10:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "AlphaTracker launches hydraulic mechanism that locks trackers during strong wind gusts",
-      "url": "https://www.pv-magazine.com/2026/05/07/alphatracker-launches-hydraulic-mechanism-that-locks-trackers-during-strong-wind-gusts/",
-      "date": "2026-05-07T06:57:57.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "GenusPlus wins contract to deliver 800MWh battery storage system in South Australia",
       "url": "https://www.energy-storage.news/genusplus-wins-contract-to-deliver-800mwh-battery-storage-system-in-south-australia/",
       "date": "2026-04-28T01:46:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ARENA invests AU$11 million in First Nations-led microgrids in Australia’s Northern Territory",
-      "url": "https://www.energy-storage.news/arena-invests-au11-million-in-first-nations-led-microgrids-in-australias-northern-territory/",
-      "date": "2026-04-28T01:22:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EticaAG contends that immersion cooling is the next evolution of BESS cooling systems",
-      "url": "https://www.energy-storage.news/eticaag-contends-that-immersion-cooling-is-the-next-evolution-of-bess-cooling-systems/",
-      "date": "2026-04-27T14:00:24.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
