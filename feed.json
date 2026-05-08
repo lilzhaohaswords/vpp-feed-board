@@ -1,6 +1,41 @@
 {
-  "ts": 1778235104008,
+  "ts": 1778241631944,
   "items": [
+    {
+      "title": "The Hydrogen Stream: Nel ASA launches new pressurized alkaline electrolyzer",
+      "url": "https://www.pv-magazine.com/2026/05/08/the-hydrogen-stream-nel-asa-launches-new-pressurized-alkaline-electrolyzer/",
+      "date": "2026-05-08T11:25:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Palestine launches program for local authority solar projects",
+      "url": "https://www.pv-magazine.com/2026/05/08/palestine-launches-program-for-local-authority-solar-projects/",
+      "date": "2026-05-08T11:14:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spain accelerates rollout of energy communities",
+      "url": "https://www.pv-magazine.com/2026/05/08/spain-accelerates-rollout-of-energy-communities/",
+      "date": "2026-05-08T11:01:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany risks €45 billion taxpayer hit on hydrogen overbuild, warns IEEFA",
+      "url": "https://www.pv-magazine.com/2026/05/08/germany-risks-e45-billion-taxpayer-hit-on-hydrogen-overbuild-warns-ieefa/",
+      "date": "2026-05-08T11:00:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New electrolyte tech enables stable operation of high-voltage sodium-ion batteries",
+      "url": "https://www.pv-magazine.com/2026/05/08/new-electrolyte-tech-enables-stable-operation-of-high-voltage-sodium-ion-batteries/",
+      "date": "2026-05-08T10:48:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "European ESS battery company Morrow files for bankruptcy",
       "url": "https://www.energy-storage.news/european-ess-battery-company-morrow-files-for-bankruptcy/",
@@ -23,7 +58,7 @@
       "bucket": "A"
     },
     {
-      "title": "New research uncovers interface-level physical mechanisms driving ultraviolet degradation in TOPCon solar cells",
+      "title": "New research uncovers interface-level physical mechanisms driving UV degradation in TOPCon solar cells",
       "url": "https://www.pv-magazine.com/2026/05/08/new-research-uncovers-interface-level-physical-mechanisms-driving-ultraviolet-degradation-in-topcon-solar-cells/",
       "date": "2026-05-08T08:38:40.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -191,45 +226,10 @@
       "bucket": "A"
     },
     {
-      "title": "Prototype of PVT-driven dual-source heat pump with borehole thermal energy storage achieves coefficient of performance of 4.07",
-      "url": "https://www.pv-magazine.com/2026/05/07/prototype-of-pvt-driven-dual-source-heat-pump-with-borehole-thermal-energy-storage-achieves-coefficient-of-performance-of-4-07/",
-      "date": "2026-05-07T09:19:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Iberdrola advances pumped-storage hydro station in Spain",
-      "url": "https://www.pv-magazine.com/2026/05/07/iberdrola-advances-pumped-storage-hydro-station-in-spain/",
-      "date": "2026-05-07T08:26:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korean utility to install 95 MW of solar at substations by 2030",
-      "url": "https://www.pv-magazine.com/2026/05/07/south-korean-utility-to-install-95-mw-of-solar-at-substations-by-2030/",
-      "date": "2026-05-07T08:05:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Sungrow&#8217;s grid-forming PCS achieves 19-second black start at &#8216;world&#8217;s first&#8217; 30MW test facility",
       "url": "https://www.energy-storage.news/sungrows-grid-forming-pcs-achieves-19-second-black-start-at-worlds-first-30mw-test-facility/",
       "date": "2026-05-07T07:59:35.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Argentine football turns to photovoltaics",
-      "url": "https://www.pv-magazine.com/2026/05/07/argentine-football-turns-to-photovoltaics/",
-      "date": "2026-05-07T07:47:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Curtailment, negative prices push Greek small- and medium-sized PV asset owners toward bankruptcy",
-      "url": "https://www.pv-magazine.com/2026/05/07/curtailment-negative-prices-push-greek-small-and-medium-sized-pv-owners-toward-bankruptcy/",
-      "date": "2026-05-07T07:35:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
