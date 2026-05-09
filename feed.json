@@ -1,6 +1,20 @@
 {
-  "ts": 1778302586349,
+  "ts": 1778310126977,
   "items": [
+    {
+      "title": "U.S. solar panel manufacturers need to learn to solder",
+      "url": "https://www.pv-magazine.com/2026/05/09/u-s-solar-panel-manufacturers-need-to-learn-to-solder/",
+      "date": "2026-05-09T07:00:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bolivia presents new law to boost renewables, private investments",
+      "url": "https://www.pv-magazine.com/2026/05/09/bolivia-presents-new-law-to-boost-renewables-private-investments/",
+      "date": "2026-05-09T06:30:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "BloombergNEF forecasts 158GW of global energy storage deployments in 2026",
       "url": "https://www.energy-storage.news/bloombergnef-forecasts-158gw-of-global-energy-storage-deployments-in-2026/",
@@ -209,20 +223,6 @@
       "url": "https://www.energy-storage.news/us-bess-operators-face-growing-complexity-as-markets-mature/",
       "date": "2026-05-07T13:04:59.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Short circuit in nickel manganese cobalt batteries causes fire at UK BESS project",
-      "url": "https://www.pv-magazine.com/2026/05/07/short-circuit-in-nickel-manganese-cobalt-batteries-causes-fire-at-uk-bess-project/",
-      "date": "2026-05-07T12:50:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Large-scale heat pumps utilize excess heat from Microsoft data centers in Finland",
-      "url": "https://www.pv-magazine.com/2026/05/07/large-scale-heat-pumps-utilize-excess-heat-from-microsoft-data-centers-in-finland/",
-      "date": "2026-05-07T11:37:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
