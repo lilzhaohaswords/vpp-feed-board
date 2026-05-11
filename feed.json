@@ -1,6 +1,27 @@
 {
-  "ts": 1778508838498,
+  "ts": 1778519634990,
   "items": [
+    {
+      "title": "AESC, Jinko’s asset sales are start of wider US clean energy manufacturing industry restructuring",
+      "url": "https://www.energy-storage.news/aesc-jinkos-asset-sales-are-start-of-wider-us-clean-energy-manufacturing-industry-restructuring/",
+      "date": "2026-05-11T15:53:39.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Drax deploying solar panels at Scottish hydropower stations",
+      "url": "https://www.pv-magazine.com/2026/05/11/drax-deploying-solar-panels-at-scottish-hydropower-stations/",
+      "date": "2026-05-11T14:29:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ferroli launches monobloc propane air-to-water heat pumps for residential, commercial use",
+      "url": "https://www.pv-magazine.com/2026/05/11/ferroli-launches-monobloc-propane-air-to-water-heat-pumps-for-residential-commercial-use/",
+      "date": "2026-05-11T14:22:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Ireland urged to create national clearing house to streamline solar projects",
       "url": "https://www.pv-magazine.com/2026/05/11/ireland-urged-to-create-national-clearing-house-to-streamline-solar-projects/",
@@ -208,20 +229,6 @@
       "title": "Human-centered leadership in the age of AI: Why psychological safety and inclusive leadership matter for energy security",
       "url": "https://www.pv-magazine.com/2026/05/08/human-centred-leadership-in-the-age-of-ai-why-psychological-safety-and-inclusive-leadership-matter-for-energy-security/",
       "date": "2026-05-08T12:20:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: JinkoSolar, Longi, Trina Solar, JA Solar post Q1 losses",
-      "url": "https://www.pv-magazine.com/2026/05/08/chinese-pv-industry-brief-jinkosolar-longi-trina-solar-ja-solar-post-q1-losses/",
-      "date": "2026-05-08T12:14:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Nel ASA launches new pressurized alkaline electrolyzer",
-      "url": "https://www.pv-magazine.com/2026/05/08/the-hydrogen-stream-nel-asa-launches-new-pressurized-alkaline-electrolyzer/",
-      "date": "2026-05-08T11:25:07.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "EBRD finances solar and storage projects in Egypt and Hungary",
       "url": "https://www.energy-storage.news/ebrd-finances-solar-and-storage-projects-in-egypt-and-hungary/",
       "date": "2026-04-29T09:02:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New Zealand faces energy security gap by 2031 despite record project pipeline, Transpower warns",
-      "url": "https://www.energy-storage.news/new-zealand-faces-energy-security-gap-by-2031-despite-record-project-pipeline-transpower-warns/",
-      "date": "2026-04-29T08:27:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
