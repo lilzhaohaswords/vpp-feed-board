@@ -1,6 +1,41 @@
 {
-  "ts": 1778500289394,
+  "ts": 1778508838498,
   "items": [
+    {
+      "title": "Ireland urged to create national clearing house to streamline solar projects",
+      "url": "https://www.pv-magazine.com/2026/05/11/ireland-urged-to-create-national-clearing-house-to-streamline-solar-projects/",
+      "date": "2026-05-11T13:27:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Energy Vault reaffirms 2026 guidance, sets sights on AI infrastructure PPA deals",
+      "url": "https://www.energy-storage.news/energy-vault-reaffirms-2026-guidance-sets-sights-on-ai-infrastructure-ppa-deals/",
+      "date": "2026-05-11T13:17:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Hybrid tidal-photovoltaic system for modular renewables deployment in estuarine channels",
+      "url": "https://www.pv-magazine.com/2026/05/11/hybrid-tidal-photovoltaic-system-for-modular-renewables-deployment-in-estuarine-channels/",
+      "date": "2026-05-11T13:15:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Qcells partners Jabil in US for domestic content residential battery storage manufacturing",
+      "url": "https://www.energy-storage.news/qcells-partners-jabil-in-us-for-domestic-content-residential-battery-storage-manufacturing/",
+      "date": "2026-05-11T13:07:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Adani adds 150 MW solar capacity to Khavda 30 GW renewable energy park",
+      "url": "https://www.pv-magazine.com/2026/05/11/adani-adds-150-mw-solar-capacity-to-khavda-30-gw-renewable-energy-park/",
+      "date": "2026-05-11T12:00:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Assessment of Nigeria’s agrivoltaic potential identifies northern states as optimal areas",
       "url": "https://www.pv-magazine.com/2026/05/11/assessment-of-nigerias-agrivoltaic-potential-identifies-northern-states-as-optimal-areas/",
@@ -187,27 +222,6 @@
       "title": "The Hydrogen Stream: Nel ASA launches new pressurized alkaline electrolyzer",
       "url": "https://www.pv-magazine.com/2026/05/08/the-hydrogen-stream-nel-asa-launches-new-pressurized-alkaline-electrolyzer/",
       "date": "2026-05-08T11:25:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Palestine launches program for local authority solar projects",
-      "url": "https://www.pv-magazine.com/2026/05/08/palestine-launches-program-for-local-authority-solar-projects/",
-      "date": "2026-05-08T11:14:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain accelerates rollout of energy communities",
-      "url": "https://www.pv-magazine.com/2026/05/08/spain-accelerates-rollout-of-energy-communities/",
-      "date": "2026-05-08T11:01:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany risks €45 billion taxpayer hit on hydrogen overbuild, warns IEEFA",
-      "url": "https://www.pv-magazine.com/2026/05/08/germany-risks-e45-billion-taxpayer-hit-on-hydrogen-overbuild-warns-ieefa/",
-      "date": "2026-05-08T11:00:27.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "New Zealand faces energy security gap by 2031 despite record project pipeline, Transpower warns",
       "url": "https://www.energy-storage.news/new-zealand-faces-energy-security-gap-by-2031-despite-record-project-pipeline-transpower-warns/",
       "date": "2026-04-29T08:27:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Western Australia unveils AU$1.4 billion fund for Clean Energy Link and SWIS grid expansion",
-      "url": "https://www.energy-storage.news/western-australia-unveils-au1-4-billion-fund-for-clean-energy-link-and-swis-grid-expansion/",
-      "date": "2026-04-29T07:28:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sodium-ion for BESS: chemistries and battery products from CATL, Envision, BYD, Hithium &#038; HiNA compared",
-      "url": "https://www.energy-storage.news/sodium-ion-for-bess-chemistries-and-battery-products-from-catl-envision-byd-hithium-hina-compared/",
-      "date": "2026-04-28T14:18:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
