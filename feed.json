@@ -1,6 +1,48 @@
 {
-  "ts": 1778489384873,
+  "ts": 1778500289394,
   "items": [
+    {
+      "title": "Assessment of Nigeria’s agrivoltaic potential identifies northern states as optimal areas",
+      "url": "https://www.pv-magazine.com/2026/05/11/assessment-of-nigerias-agrivoltaic-potential-identifies-northern-states-as-optimal-areas/",
+      "date": "2026-05-11T11:46:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BloombergNEF confirms energy storage has reached the 100 GW era",
+      "url": "https://www.pv-magazine.com/2026/05/11/bloombergnef-confirms-energy-storage-has-reached-the-100-gw-era/",
+      "date": "2026-05-11T11:17:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fluence doubles order intake, expects to book first big data centre deal this quarter",
+      "url": "https://www.energy-storage.news/fluence-doubles-order-intake-expects-to-book-first-big-data-centre-deal-this-quarter/",
+      "date": "2026-05-11T10:00:18.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar tech theft on the rise in Chile",
+      "url": "https://www.pv-magazine.com/2026/05/11/solar-tech-theft-on-the-rise-in-chile/",
+      "date": "2026-05-11T09:18:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Floating solar offers Morocco&#8217;s dams antidote to evaporation loss",
+      "url": "https://www.pv-magazine.com/2026/05/11/floating-solar-offers-moroccos-dams-antidote-to-evaporation-loss/",
+      "date": "2026-05-11T09:15:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Egypt installs 800 MW of solar in 2025",
+      "url": "https://www.pv-magazine.com/2026/05/11/egypt-installs-800-mw-of-solar-in-2025/",
+      "date": "2026-05-11T09:02:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hybrid latent-sensible storage can improve PVT-driven residential heat pump COP by 72.4%",
       "url": "https://www.pv-magazine.com/2026/05/11/hybrid-latent-sensible-storage-can-improve-pvt-driven-residential-heat-pump-cop-by-72-4/",
@@ -170,13 +212,6 @@
       "bucket": "A"
     },
     {
-      "title": "New electrolyte tech enables stable operation of high-voltage sodium-ion batteries",
-      "url": "https://www.pv-magazine.com/2026/05/08/new-electrolyte-tech-enables-stable-operation-of-high-voltage-sodium-ion-batteries/",
-      "date": "2026-05-08T10:48:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "European ESS battery company Morrow files for bankruptcy",
       "url": "https://www.energy-storage.news/european-ess-battery-company-morrow-files-for-bankruptcy/",
       "date": "2026-05-08T09:49:00.000Z",
@@ -188,34 +223,6 @@
       "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-role-of-subsidies-contracted-and-merchant-revenues-in-europes-bess-buildout/",
       "date": "2026-05-08T09:42:58.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Czechia considers stop to double taxation on solar, storage projects",
-      "url": "https://www.pv-magazine.com/2026/05/08/czechia-considers-stop-to-double-taxation-on-solar-storage-projects/",
-      "date": "2026-05-08T08:44:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New research uncovers interface-level physical mechanisms driving UV degradation in TOPCon solar cells",
-      "url": "https://www.pv-magazine.com/2026/05/08/new-research-uncovers-interface-level-physical-mechanisms-driving-ultraviolet-degradation-in-topcon-solar-cells/",
-      "date": "2026-05-08T08:38:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bandgap-engineered indoor perovskite solar cell achieves 37.44% efficiency",
-      "url": "https://www.pv-magazine.com/2026/05/08/bandgap-engineered-indoor-perovskite-solar-cell-achieves-37-44-efficiency/",
-      "date": "2026-05-08T07:38:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bhutan tenders solar projects for healthcare facilities",
-      "url": "https://www.pv-magazine.com/2026/05/08/bhutan-tenders-solar-projects-for-healthcare-facilities/",
-      "date": "2026-05-08T07:30:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Sodium-ion for BESS: chemistries and battery products from CATL, Envision, BYD, Hithium &#038; HiNA compared",
       "url": "https://www.energy-storage.news/sodium-ion-for-bess-chemistries-and-battery-products-from-catl-envision-byd-hithium-hina-compared/",
       "date": "2026-04-28T14:18:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Utility DTE Energy’s plan to pause Michigan rate increases hinges on Oracle data centre",
-      "url": "https://www.energy-storage.news/utility-dte-energys-plan-to-pause-michigan-rate-increases-hinges-on-oracle-data-centre/",
-      "date": "2026-04-28T13:56:47.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
