@@ -1,6 +1,13 @@
 {
-  "ts": 1778463914108,
+  "ts": 1778478265649,
   "items": [
+    {
+      "title": "Alternate Path secures EPBC Act approval for 2,000MWh BESS in Victoria, Australia",
+      "url": "https://www.energy-storage.news/alternate-path-secures-epbc-act-approval-for-2000mwh-bess-in-victoria-australia/",
+      "date": "2026-05-11T03:24:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Grid operators may reduce renewables penetration if data center growth continues unchecked, says ENTSO-E",
       "url": "https://www.pv-magazine.com/2026/05/09/entso-e-data-center-growth-europe-demand-side-flexibility-market-participation-policy-recommendations-grid-operators/",
@@ -516,13 +523,6 @@
       "title": "Utility DTE Energy’s plan to pause Michigan rate increases hinges on Oracle data centre",
       "url": "https://www.energy-storage.news/utility-dte-energys-plan-to-pause-michigan-rate-increases-hinges-on-oracle-data-centre/",
       "date": "2026-04-28T13:56:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Grenergy signs 12-year toll for 680MWh Spain BESS",
-      "url": "https://www.energy-storage.news/grenergy-signs-12-year-toll-for-680mwh-spain-bess/",
-      "date": "2026-04-28T09:28:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
