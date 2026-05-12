@@ -1,6 +1,76 @@
 {
-  "ts": 1778573677257,
+  "ts": 1778584007108,
   "items": [
+    {
+      "title": "Fire hits German home fitted with photovoltaic tiles",
+      "url": "https://www.pv-magazine.com/2026/05/12/fire-hits-german-home-fitted-with-photovoltaic-tiles/",
+      "date": "2026-05-12T10:41:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BayWa r.e. to manage Germany&#8217;s largest BESS; smaller projects move to construction",
+      "url": "https://www.energy-storage.news/baywa-r-e-to-manage-germanys-largest-bess-smaller-projects-move-to-construction/",
+      "date": "2026-05-12T10:32:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Jolywood starts mass production of low-silver TOPCon solar cells",
+      "url": "https://www.pv-magazine.com/2026/05/12/jolywood-starts-mass-production-of-low-silver-topcon-solar-cells/",
+      "date": "2026-05-12T10:31:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Zambia’s largest solar plant goes online",
+      "url": "https://www.pv-magazine.com/2026/05/12/zambias-largest-solar-plant-goes-online/",
+      "date": "2026-05-12T10:24:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The impact of fly ash-induced soiling on PV panel performance",
+      "url": "https://www.pv-magazine.com/2026/05/12/the-impact-of-fly-ash-induced-soiling-on-pv-panel-performance/",
+      "date": "2026-05-12T10:15:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ford Energy announces DC block utility-scale BESS based on 512 Ah LFP cells",
+      "url": "https://www.pv-magazine.com/2026/05/12/ford-energy-announces-dc-block-utility-scale-bess-based-on-512-ah-lfp-cells/",
+      "date": "2026-05-12T09:46:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany allocates 2.3 GW in latest ground-mounted PV tender, lowest bid comes in at €0.039/kWh",
+      "url": "https://www.pv-magazine.com/2026/05/12/germany-allocates-2-3-gw-in-latest-ground-mounted-pv-tender-lowest-bid-comes-in-at-e0-039-kwh/",
+      "date": "2026-05-12T09:30:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How hail is rewriting the solar insurance rulebook",
+      "url": "https://www.pv-magazine.com/2026/05/12/how-hail-is-rewriting-the-solar-insurance-rulebook/",
+      "date": "2026-05-12T09:14:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "All-perovskite tandem solar cell built with laser polishing achieves 29.80% efficiency",
+      "url": "https://www.pv-magazine.com/2026/05/12/all-perovskite-tandem-solar-cell-built-with-laser-polishing-achieves-29-80-efficiency/",
+      "date": "2026-05-12T09:03:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France, Spain set solar records in May",
+      "url": "https://www.pv-magazine.com/2026/05/12/france-spain-set-solar-records-for-day-in-may/",
+      "date": "2026-05-12T08:52:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "SoftBank to make next-gen zinc-halogen battery cells in Japan for AI data centers",
       "url": "https://www.pv-magazine.com/2026/05/12/softbank-to-make-next-gen-zinc-halogen-battery-cells-in-japan-for-ai-data-centers/",
@@ -163,73 +233,10 @@
       "bucket": "A"
     },
     {
-      "title": "Chinese researchers achieve world-record efficiency of 27.17% for inverted perovskite solar cell",
-      "url": "https://www.pv-magazine.com/2026/05/11/chinese-researchers-achieve-world-record-efficiency-of-27-17-for-inverted-perovskite-solar-cell/",
-      "date": "2026-05-11T07:16:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "World’s smallest island nation advances 18 MW / 40 MWh solar-plus-storage project",
-      "url": "https://www.pv-magazine.com/2026/05/11/worlds-smallest-island-nation-advances-18-mw-40-mwh-solar-plus-storage-project/",
-      "date": "2026-05-11T05:56:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "FH Capital to acquire majority stake in JinkoSolar U.S. manufacturing",
-      "url": "https://www.pv-magazine.com/2026/05/11/fh-capital-to-acquire-majority-stake-in-jinkosolar-u-s-manufacturing/",
-      "date": "2026-05-11T05:49:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Alternate Path secures EPBC Act approval for 2,000MWh BESS in Victoria, Australia",
       "url": "https://www.energy-storage.news/alternate-path-secures-epbc-act-approval-for-2000mwh-bess-in-victoria-australia/",
       "date": "2026-05-11T03:24:56.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Grid operators may reduce renewables penetration if data center growth continues unchecked, says ENTSO-E",
-      "url": "https://www.pv-magazine.com/2026/05/09/entso-e-data-center-growth-europe-demand-side-flexibility-market-participation-policy-recommendations-grid-operators/",
-      "date": "2026-05-09T09:30:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sunwoda completes large-scale fire test for ‘5 MWh Liquid Cooling ESS’",
-      "url": "https://www.pv-magazine.com/2026/05/09/sunwoda-completes-large-scale-fire-test-for-5-mwh-liquid-cooling-ess/",
-      "date": "2026-05-09T09:00:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Argentina sees strong growth in solar distributed generation amid electricity price hikes",
-      "url": "https://www.pv-magazine.com/2026/05/09/argentina-sees-strong-growth-in-solar-distributed-generation-amid-electricity-price-hikes/",
-      "date": "2026-05-09T08:30:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar PV accounted for 29% of electricity generation in Chile in March, with instantaneous peaks reaching 75%",
-      "url": "https://www.pv-magazine.com/2026/05/09/solar-pv-accounted-for-29-of-electricity-generation-in-chile-in-march-with-instantaneous-peaks-reaching-75/",
-      "date": "2026-05-09T08:00:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain supports 4.2 GW / 8 GWh of pumped-hydro storage with €165 million",
-      "url": "https://www.pv-magazine.com/2026/05/09/spain-supports-4-2-gw-8-gwh-of-pumped-hydro-storage-with-e165-million/",
-      "date": "2026-05-09T07:30:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. solar panel manufacturers need to learn to solder",
-      "url": "https://www.pv-magazine.com/2026/05/09/u-s-solar-panel-manufacturers-need-to-learn-to-solder/",
-      "date": "2026-05-09T07:00:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "NFPA 855: 2026 edition updates and what they mean for energy storage projects",
       "url": "https://www.energy-storage.news/nfpa-855-2026-edition-updates-and-what-they-mean-for-energy-storage-projects/",
       "date": "2026-04-29T11:29:39.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "A threshold crossed, but &#8216;not a silver bullet&#8217;: Industry reaction and analysis of CATL-HyperStrong sodium-ion deal",
-      "url": "https://www.energy-storage.news/a-threshold-crossed-but-not-a-silver-bullet-industry-reaction-to-and-analysis-of-catl-hyperstrong-sodium-ion-deal/",
-      "date": "2026-04-29T11:27:16.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
