@@ -1,6 +1,48 @@
 {
-  "ts": 1778563529885,
+  "ts": 1778573677257,
   "items": [
+    {
+      "title": "SoftBank to make next-gen zinc-halogen battery cells in Japan for AI data centers",
+      "url": "https://www.pv-magazine.com/2026/05/12/softbank-to-make-next-gen-zinc-halogen-battery-cells-in-japan-for-ai-data-centers/",
+      "date": "2026-05-12T08:05:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Coal India shuts down solar manufacturing arm",
+      "url": "https://www.pv-magazine.com/2026/05/12/coal-india-shuts-down-solar-manufacturing-arm/",
+      "date": "2026-05-12T07:35:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Meralco PowerGen Corp brings online first phase of 100MWh CATL battery project in Cebu, Philippines",
+      "url": "https://www.energy-storage.news/meralco-powergen-corp-brings-online-first-phase-of-100mwh-catl-battery-project-in-cebu-philippines/",
+      "date": "2026-05-12T07:28:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Zendure launches EMS combining rooftop PV, battery storage and household loads",
+      "url": "https://www.pv-magazine.com/2026/05/12/zendure-launches-ems-combining-rooftop-pv-battery-storage-and-household-loads/",
+      "date": "2026-05-12T06:59:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New Zealand moves to reduce red tape for rooftop solar",
+      "url": "https://www.pv-magazine.com/2026/05/12/new-zealand-moves-to-reduce-red-tape-for-rooftop-solar/",
+      "date": "2026-05-12T06:12:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "U.S. transformer market faces severe supply constraints",
+      "url": "https://www.pv-magazine.com/2026/05/12/u-s-transformer-market-faces-severe-supply-constraints/",
+      "date": "2026-05-12T06:00:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "BW ESS submits 700MW Bannaby battery storage project in NSW to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/bw-ess-submits-700mw-bannaby-battery-storage-project-in-nsw-to-australias-epbc-act/",
@@ -191,31 +233,10 @@
       "bucket": "A"
     },
     {
-      "title": "Bolivia presents new law to boost renewables, private investments",
-      "url": "https://www.pv-magazine.com/2026/05/09/bolivia-presents-new-law-to-boost-renewables-private-investments/",
-      "date": "2026-05-09T06:30:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "BloombergNEF forecasts 158GW of global energy storage deployments in 2026",
       "url": "https://www.energy-storage.news/bloombergnef-forecasts-158gw-of-global-energy-storage-deployments-in-2026/",
       "date": "2026-05-08T15:47:28.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU ban on Chinese inverters sparks strong response from Beijing",
-      "url": "https://www.pv-magazine.com/2026/05/08/eu-ban-on-chinese-inverters-sparks-strong-response-from-beijing/",
-      "date": "2026-05-08T14:39:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Kalyon PV begins production at new TOPCon solar cell factory in Turkey",
-      "url": "https://www.pv-magazine.com/2026/05/08/kalyon-pv-begins-production-at-new-topcon-solar-cell-factory-in-turkey/",
-      "date": "2026-05-08T13:28:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -230,20 +251,6 @@
       "url": "https://www.energy-storage.news/orsted-purchases-150mw-michigan-bess-project-from-esa-solar/",
       "date": "2026-05-08T12:54:56.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Pacific ridge reversal brings Western U.S. solar conditions back to average in April",
-      "url": "https://www.pv-magazine.com/2026/05/08/pacific-ridge-reversal-brings-western-u-s-solar-conditions-back-to-average-in-april/",
-      "date": "2026-05-08T12:32:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Human-centered leadership in the age of AI: Why psychological safety and inclusive leadership matter for energy security",
-      "url": "https://www.pv-magazine.com/2026/05/08/human-centred-leadership-in-the-age-of-ai-why-psychological-safety-and-inclusive-leadership-matter-for-energy-security/",
-      "date": "2026-05-08T12:20:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "A threshold crossed, but &#8216;not a silver bullet&#8217;: Industry reaction and analysis of CATL-HyperStrong sodium-ion deal",
       "url": "https://www.energy-storage.news/a-threshold-crossed-but-not-a-silver-bullet-industry-reaction-to-and-analysis-of-catl-hyperstrong-sodium-ion-deal/",
       "date": "2026-04-29T11:27:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sonnedix signs three PPAs for 644MWh Chile BESS",
-      "url": "https://www.energy-storage.news/sonnedix-signs-three-ppas-for-644mwh-chile-bess/",
-      "date": "2026-04-29T11:11:52.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
