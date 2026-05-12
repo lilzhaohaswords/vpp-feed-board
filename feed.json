@@ -1,6 +1,27 @@
 {
-  "ts": 1778584007108,
+  "ts": 1778592476477,
   "items": [
+    {
+      "title": "Envision Energy exploring 300MW Nova Scotia hybrid wind and BESS project",
+      "url": "https://www.energy-storage.news/envision-energy-exploring-300mw-nova-scotia-hybrid-wind-and-bess-project/",
+      "date": "2026-05-12T12:53:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Alsym Energy announces 500MWh sodium-ion strategic partnership in California",
+      "url": "https://www.energy-storage.news/alsym-energy-announces-500mwh-sodium-ion-strategic-partnership-in-california/",
+      "date": "2026-05-12T12:43:14.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ford officially launches US stationary energy storage subsidiary, deliveries to begin in 2027",
+      "url": "https://www.energy-storage.news/ford-officially-launches-us-stationary-energy-storage-subsidiary-deliveries-to-begin-in-2027/",
+      "date": "2026-05-12T11:41:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Fire hits German home fitted with photovoltaic tiles",
       "url": "https://www.pv-magazine.com/2026/05/12/fire-hits-german-home-fitted-with-photovoltaic-tiles/",
@@ -502,27 +523,6 @@
       "title": "&#8216;We&#8217;re not talking 30MWh anymore. It&#8217;s 500MWh or above&#8217;: Trina Storage on APAC&#8217;s battery storage scale-up",
       "url": "https://www.energy-storage.news/were-not-talking-30mwh-anymore-its-500mwh-or-above-trina-storage-on-apacs-battery-storage-scale-up/",
       "date": "2026-04-30T03:23:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s battery storage fleet triples daily load-shifting as 4.4GW comes online in Q1 2026, says AEMO",
-      "url": "https://www.energy-storage.news/australias-battery-storage-fleet-triples-daily-load-shifting-as-4-4gw-comes-online-in-q1-2026-says-aemo/",
-      "date": "2026-04-30T03:08:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Lightshift Energy looks to distributed energy storage to address PJM’s data centre issue",
-      "url": "https://www.energy-storage.news/lightshift-energy-looks-to-distributed-energy-storage-to-address-pjms-data-centre-issue/",
-      "date": "2026-04-29T11:30:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NFPA 855: 2026 edition updates and what they mean for energy storage projects",
-      "url": "https://www.energy-storage.news/nfpa-855-2026-edition-updates-and-what-they-mean-for-energy-storage-projects/",
-      "date": "2026-04-29T11:29:39.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
