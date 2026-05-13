@@ -1,6 +1,69 @@
 {
-  "ts": 1778660757714,
+  "ts": 1778671220155,
   "items": [
+    {
+      "title": "Growatt launches C&#038;I storage system with 95% depth of discharge",
+      "url": "https://www.pv-magazine.com/2026/05/13/growatt-launches-ci-storage-system-with-95-depth-of-discharge/",
+      "date": "2026-05-13T11:14:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US ROUNDUP: BESS project updates from Spearmint, Polaris, and Clearway in Texas, Puerto Rico and Utah",
+      "url": "https://www.energy-storage.news/us-roundup-bess-project-updates-from-spearmint-polaris-and-clearway-in-texas-puerto-rico-and-utah/",
+      "date": "2026-05-13T11:07:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Large-scale PV could intensify water stress in China’s Tarim Basin",
+      "url": "https://www.pv-magazine.com/2026/05/13/large-scale-pv-could-intensify-water-stress-in-chinas-tarim-basin/",
+      "date": "2026-05-13T10:47:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "IRENA: Renewables with storage cost-competitive with fossil fuels for round-the-clock power",
+      "url": "https://www.energy-storage.news/irena-renewables-with-storage-cost-competitive-with-fossil-fuels-for-round-the-clock-power/",
+      "date": "2026-05-13T10:46:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "South Africa&#8217;s Eskom enlists Energy Vault for gravity energy storage technology",
+      "url": "https://www.energy-storage.news/south-africa-eskom-enlists-energy-vault-gravity-energy-storage-technology/",
+      "date": "2026-05-13T10:20:24.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Japan’s Softbank launches ‘end-to-end’ non-lithium battery cell and BESS manufacturing business",
+      "url": "https://www.energy-storage.news/japans-softbank-launches-end-to-end-non-lithium-battery-cell-and-bess-manufacturing-business/",
+      "date": "2026-05-13T09:47:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "South Africa&#8217;s Eskom resorts to grid-scale gravity energy storage",
+      "url": "https://www.pv-magazine.com/2026/05/13/south-africas-eskom-resorts-to-grid-scale-gravity-energy-storage/",
+      "date": "2026-05-13T09:41:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar capture factors fall across europe as negative price hours surge in key markets",
+      "url": "https://www.pv-magazine.com/2026/05/13/solar-capture-factors-fall-across-europe-as-negative-price-hours-surge-in-key-markets/",
+      "date": "2026-05-13T08:42:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Continuous-wave infrared laser technology enables damage-free backsheet removal in end-of-life solar modules",
+      "url": "https://www.pv-magazine.com/2026/05/13/continuous-wave-infrared-laser-technology-enables-damage-free-backsheet-removal-in-end-of-life-solar-modules/",
+      "date": "2026-05-13T08:26:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar Impulse 2 crashes in Gulf of Mexico during unmanned test flight",
       "url": "https://www.pv-magazine.com/2026/05/13/solar-impulse-2-crashes-in-gulf-of-mexico-during-unmanned-test-flight/",
@@ -205,20 +268,6 @@
       "bucket": "A"
     },
     {
-      "title": "Ferroli launches monobloc propane air-to-water heat pumps for residential, commercial use",
-      "url": "https://www.pv-magazine.com/2026/05/11/ferroli-launches-monobloc-propane-air-to-water-heat-pumps-for-residential-commercial-use/",
-      "date": "2026-05-11T14:22:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ireland urged to create national clearing house to streamline solar projects",
-      "url": "https://www.pv-magazine.com/2026/05/11/ireland-urged-to-create-national-clearing-house-to-streamline-solar-projects/",
-      "date": "2026-05-11T13:27:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Energy Vault reaffirms 2026 guidance, sets sights on AI infrastructure PPA deals",
       "url": "https://www.energy-storage.news/energy-vault-reaffirms-2026-guidance-sets-sights-on-ai-infrastructure-ppa-deals/",
       "date": "2026-05-11T13:17:20.000Z",
@@ -226,31 +275,10 @@
       "bucket": "A"
     },
     {
-      "title": "Hybrid tidal-photovoltaic system for modular renewables deployment in estuarine channels",
-      "url": "https://www.pv-magazine.com/2026/05/11/hybrid-tidal-photovoltaic-system-for-modular-renewables-deployment-in-estuarine-channels/",
-      "date": "2026-05-11T13:15:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Qcells partners Jabil in US for domestic content residential battery storage manufacturing",
       "url": "https://www.energy-storage.news/qcells-partners-jabil-in-us-for-domestic-content-residential-battery-storage-manufacturing/",
       "date": "2026-05-11T13:07:35.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Adani adds 150 MW solar capacity to Khavda 30 GW renewable energy park",
-      "url": "https://www.pv-magazine.com/2026/05/11/adani-adds-150-mw-solar-capacity-to-khavda-30-gw-renewable-energy-park/",
-      "date": "2026-05-11T12:00:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Assessment of Nigeria’s agrivoltaic potential identifies northern states as optimal areas",
-      "url": "https://www.pv-magazine.com/2026/05/11/assessment-of-nigerias-agrivoltaic-potential-identifies-northern-states-as-optimal-areas/",
-      "date": "2026-05-11T11:46:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -495,34 +523,6 @@
       "title": "Matrix Renewables, BW ESS secure finance and offtake for over 2.2GWh of UK BESS",
       "url": "https://www.energy-storage.news/matrix-renewables-bw-ess-secure-finance-and-offtake-for-over-2-2gwh-of-uk-bess/",
       "date": "2026-04-30T11:07:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US investors’ €50 billion hyperscaler data centre in Croatia will be ‘fully supplied’ by BTM solar and batteries",
-      "url": "https://www.energy-storage.news/us-investors-e50-billion-hyperscaler-data-centre-in-croatia-will-be-fully-supplied-by-btm-solar-and-batteries/",
-      "date": "2026-04-30T10:09:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Czech Republic: Trading firm Second Foundation to commission 307MW of BESS in 2026, local integrator used",
-      "url": "https://www.energy-storage.news/czech-republic-trading-firm-second-foundation-to-commission-307mw-of-bess-in-2026-local-integrator-used/",
-      "date": "2026-04-30T09:58:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "LG ES says manufacturing spend puts company on track for 50GWh+ US ESS production target",
-      "url": "https://www.energy-storage.news/lg-es-says-manufacturing-spend-puts-company-on-track-for-50gwh-us-ess-production-target/",
-      "date": "2026-04-30T08:32:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "RES submits 2,400MWh Bunyip North battery storage system to Australia&#8217;s EPBC Act",
-      "url": "https://www.energy-storage.news/res-submits-2400mwh-bunyip-north-battery-storage-system-to-australias-epbc-act/",
-      "date": "2026-04-30T03:25:53.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
