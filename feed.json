@@ -1,6 +1,27 @@
 {
-  "ts": 1778671220155,
+  "ts": 1778680504845,
   "items": [
+    {
+      "title": "Rooftop heat pump tech with metal-organic framework dehumidification tested by Amazon",
+      "url": "https://www.pv-magazine.com/2026/05/13/rooftop-heat-pump-tech-with-metal-organic-framework-dehumidification-tested-by-amazon/",
+      "date": "2026-05-13T13:08:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Galileo CEO on ‘completely different’ development market, meeting PPA demand and where in Europe it will transact next",
+      "url": "https://www.energy-storage.news/galileo-ceo-on-completely-different-development-market-meeting-ppa-demand-and-where-in-europe-it-will-transact-next/",
+      "date": "2026-05-13T11:49:39.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "ARTsolar challenges local content compliance in South African solar tenders",
+      "url": "https://www.pv-magazine.com/2026/05/13/artsolar-challenges-local-content-compliance-in-south-african-solar-tenders/",
+      "date": "2026-05-13T11:33:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Growatt launches C&#038;I storage system with 95% depth of discharge",
       "url": "https://www.pv-magazine.com/2026/05/13/growatt-launches-ci-storage-system-with-95-depth-of-discharge/",
@@ -233,13 +254,6 @@
       "bucket": "A"
     },
     {
-      "title": "U.S. transformer market faces severe supply constraints",
-      "url": "https://www.pv-magazine.com/2026/05/12/u-s-transformer-market-faces-severe-supply-constraints/",
-      "date": "2026-05-12T06:00:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "BW ESS submits 700MW Bannaby battery storage project in NSW to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/bw-ess-submits-700mw-bannaby-battery-storage-project-in-nsw-to-australias-epbc-act/",
       "date": "2026-05-12T02:02:05.000Z",
@@ -258,13 +272,6 @@
       "url": "https://www.energy-storage.news/aesc-jinkos-asset-sales-are-start-of-wider-us-clean-energy-manufacturing-industry-restructuring/",
       "date": "2026-05-11T15:53:39.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Drax deploying solar panels at Scottish hydropower stations",
-      "url": "https://www.pv-magazine.com/2026/05/11/drax-deploying-solar-panels-at-scottish-hydropower-stations/",
-      "date": "2026-05-11T14:29:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "US administration &#8216;must make it easier to get things built,&#8217; DOE chief of staff says",
       "url": "https://www.energy-storage.news/us-administration-must-make-it-easier-to-get-things-built-doe-chief-of-staff-says/",
       "date": "2026-04-30T13:11:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Matrix Renewables, BW ESS secure finance and offtake for over 2.2GWh of UK BESS",
-      "url": "https://www.energy-storage.news/matrix-renewables-bw-ess-secure-finance-and-offtake-for-over-2-2gwh-of-uk-bess/",
-      "date": "2026-04-30T11:07:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
