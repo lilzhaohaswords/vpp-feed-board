@@ -1,6 +1,20 @@
 {
-  "ts": 1778636745271,
+  "ts": 1778650586012,
   "items": [
+    {
+      "title": "South Korea&#8217;s first agrivoltaics law leaves half of farmland off-limits",
+      "url": "https://www.pv-magazine.com/2026/05/13/south-koreas-first-agrivoltaics-law-leaves-half-of-farmland-off-limits/",
+      "date": "2026-05-13T05:00:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Western Australia&#8217;s battery storage supplies record 37.2% of peak demand",
+      "url": "https://www.energy-storage.news/western-australias-battery-storage-supplies-record-37-2-of-peak-demand/",
+      "date": "2026-05-13T03:15:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Envision Energy exploring 300MW Nova Scotia hybrid wind and BESS project",
       "url": "https://www.energy-storage.news/envision-energy-exploring-300mw-nova-scotia-hybrid-wind-and-bess-project/",
@@ -243,13 +257,6 @@
       "title": "Egypt installs 800 MW of solar in 2025",
       "url": "https://www.pv-magazine.com/2026/05/11/egypt-installs-800-mw-of-solar-in-2025/",
       "date": "2026-05-11T09:02:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hybrid latent-sensible storage can improve PVT-driven residential heat pump COP by 72.4%",
-      "url": "https://www.pv-magazine.com/2026/05/11/hybrid-latent-sensible-storage-can-improve-pvt-driven-residential-heat-pump-cop-by-72-4/",
-      "date": "2026-05-11T08:28:38.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "RES submits 2,400MWh Bunyip North battery storage system to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/res-submits-2400mwh-bunyip-north-battery-storage-system-to-australias-epbc-act/",
       "date": "2026-04-30T03:25:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;We&#8217;re not talking 30MWh anymore. It&#8217;s 500MWh or above&#8217;: Trina Storage on APAC&#8217;s battery storage scale-up",
-      "url": "https://www.energy-storage.news/were-not-talking-30mwh-anymore-its-500mwh-or-above-trina-storage-on-apacs-battery-storage-scale-up/",
-      "date": "2026-04-30T03:23:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
