@@ -1,6 +1,34 @@
 {
-  "ts": 1778723292458,
+  "ts": 1778736942726,
   "items": [
+    {
+      "title": "Armenia allows construction of energy storage systems",
+      "url": "https://www.pv-magazine.com/2026/05/14/armenia-allows-construction-of-energy-storage-systems/",
+      "date": "2026-05-14T05:30:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany, UK, Bulgaria: Europe’s top 3 co-location markets",
+      "url": "https://www.pv-magazine.com/2026/05/14/germany-uk-bulgaria-europes-top-3-co-location-markets/",
+      "date": "2026-05-14T05:00:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Akaysha Energy bags EPBC Act approval for 1,600MWh battery storage system in Victoria, Australia",
+      "url": "https://www.energy-storage.news/akaysha-energy-bags-epbc-act-approval-for-1600mwh-battery-storage-system-in-victoria-australia/",
+      "date": "2026-05-14T01:54:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Battery Breakthrough Initiative hit as Australia cuts AU$1.3 billion in clean energy funding",
+      "url": "https://www.energy-storage.news/battery-breakthrough-initiative-hit-as-australia-cuts-au1-3-billion-in-clean-energy-funding/",
+      "date": "2026-05-14T01:53:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Rooftop heat pump tech with metal-organic framework dehumidification tested by Amazon",
       "url": "https://www.pv-magazine.com/2026/05/13/rooftop-heat-pump-tech-with-metal-organic-framework-dehumidification-tested-by-amazon/",
@@ -237,20 +265,6 @@
       "url": "https://www.energy-storage.news/meralco-powergen-corp-brings-online-first-phase-of-100mwh-catl-battery-project-in-cebu-philippines/",
       "date": "2026-05-12T07:28:02.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Zendure launches EMS combining rooftop PV, battery storage and household loads",
-      "url": "https://www.pv-magazine.com/2026/05/12/zendure-launches-ems-combining-rooftop-pv-battery-storage-and-household-loads/",
-      "date": "2026-05-12T06:59:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New Zealand moves to reduce red tape for rooftop solar",
-      "url": "https://www.pv-magazine.com/2026/05/12/new-zealand-moves-to-reduce-red-tape-for-rooftop-solar/",
-      "date": "2026-05-12T06:12:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "1GWh+ of BESS progressed across EU by re:cap, Flower, Goldbeck, Tavion, LONGi, Teos and SPP",
       "url": "https://www.energy-storage.news/1gwh-of-bess-progressed-across-eu-by-recap-flower-goldbeck-tavion-longi-teos-and-spp/",
       "date": "2026-05-01T11:09:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia, India, Japan, Philippines drive APAC battery storage shift",
-      "url": "https://www.energy-storage.news/australia-india-japan-philippines-drive-apac-battery-storage-shift/",
-      "date": "2026-05-01T08:12:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US administration &#8216;must make it easier to get things built,&#8217; DOE chief of staff says",
-      "url": "https://www.energy-storage.news/us-administration-must-make-it-easier-to-get-things-built-doe-chief-of-staff-says/",
-      "date": "2026-04-30T13:11:30.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
