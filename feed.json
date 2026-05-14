@@ -1,6 +1,76 @@
 {
-  "ts": 1778746816792,
+  "ts": 1778756667592,
   "items": [
+    {
+      "title": "German storage industry back on growth path, says BVES",
+      "url": "https://www.pv-magazine.com/2026/05/14/german-storage-industry-back-on-growth-path-says-bves/",
+      "date": "2026-05-14T11:00:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "From night to noon: France’s reactors are now bending for European solar",
+      "url": "https://www.pv-magazine.com/2026/05/14/from-night-to-noon-frances-reactors-are-now-bending-for-european-solar/",
+      "date": "2026-05-14T10:15:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solomon Islands plans first large-scale solar project",
+      "url": "https://www.pv-magazine.com/2026/05/14/solomon-islands-plans-first-large-scale-solar-project/",
+      "date": "2026-05-14T10:00:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Grid-forming tech on centre stage as search for system resilience steps up",
+      "url": "https://www.pv-magazine.com/2026/05/14/grid-forming-tech-on-centre-stage-as-search-for-system-resilience-steps-up/",
+      "date": "2026-05-14T09:45:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bruges appoints independent solar broker offering free advice",
+      "url": "https://www.pv-magazine.com/2026/05/14/bruges-appoints-independent-solar-broker-offering-free-advice/",
+      "date": "2026-05-14T09:30:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Genex cuts Bulli Creek solar to 300 MW, adds 1.7 GWh storage",
+      "url": "https://www.pv-magazine.com/2026/05/14/genex-cuts-bulli-creek-solar-to-300-mw-adds-1-7-gwh-storage/",
+      "date": "2026-05-14T09:15:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "AI model uses cloud type and cover to predict solar power swings",
+      "url": "https://www.pv-magazine.com/2026/05/14/ai-model-uses-cloud-type-and-cover-to-predict-solar-power-swings/",
+      "date": "2026-05-14T09:00:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "INDIA Roundup: ACME Solar, IndiGrid commission Rajasthan &#038; Gujarat BESS projects, GE Vernova wins pumped hydro contract",
+      "url": "https://www.energy-storage.news/india-roundup-acme-solar-indigrid-commission-rajasthan-gujarat-bess-projects-ge-vernova-wins-pumped-hydro-contract/",
+      "date": "2026-05-14T08:51:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Offshore floating PV could technically meet Italy’s electricity demand",
+      "url": "https://www.pv-magazine.com/2026/05/14/offshore-floating-pv-could-technically-meet-italys-electricity-demand/",
+      "date": "2026-05-14T08:30:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US solar makers accuse Toyo and Origin Solar of duty evasion in Ethiopia",
+      "url": "https://www.pv-magazine.com/2026/05/14/us-solar-makers-accuse-toyo-and-origin-solar-of-ethiopia-duty-evasion/",
+      "date": "2026-05-14T08:30:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Solar approaches 3 TW, but the industry faces new challenges",
       "url": "https://www.pv-magazine.com/2026/05/14/solar-approaches-3-tw-but-the-industry-faces-new-challenges/",
@@ -163,41 +233,6 @@
       "bucket": "A"
     },
     {
-      "title": "Solar Impulse 2 crashes in Gulf of Mexico during unmanned test flight",
-      "url": "https://www.pv-magazine.com/2026/05/13/solar-impulse-2-crashes-in-gulf-of-mexico-during-unmanned-test-flight/",
-      "date": "2026-05-13T06:57:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Anker Solix launches modular 5 kWh battery for residential PV",
-      "url": "https://www.pv-magazine.com/2026/05/13/anker-solix-launches-modular-5-kwh-battery-for-residential-pv/",
-      "date": "2026-05-13T06:20:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Alsym and Juniper to deploy 500 MWh of sodium-ion battery storage",
-      "url": "https://www.pv-magazine.com/2026/05/13/sodium-ion-batteries-alsym-and-juniper-to-deploy-500-mwh-of-sodium-ion-battery-storage/",
-      "date": "2026-05-13T05:54:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. Solar developer seeks connection to wrong powerline, delays project five years",
-      "url": "https://www.pv-magazine.com/2026/05/13/u-s-solar-developer-seeks-connection-to-wrong-powerline-delays-project-five-years/",
-      "date": "2026-05-13T05:50:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korea&#8217;s first agrivoltaics law leaves half of farmland off-limits",
-      "url": "https://www.pv-magazine.com/2026/05/13/south-koreas-first-agrivoltaics-law-leaves-half-of-farmland-off-limits/",
-      "date": "2026-05-13T05:00:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Western Australia&#8217;s battery storage supplies record 37.2% of peak demand",
       "url": "https://www.energy-storage.news/western-australias-battery-storage-supplies-record-37-2-of-peak-demand/",
       "date": "2026-05-13T03:15:06.000Z",
@@ -226,38 +261,10 @@
       "bucket": "A"
     },
     {
-      "title": "Fire hits German home fitted with photovoltaic tiles",
-      "url": "https://www.pv-magazine.com/2026/05/12/fire-hits-german-home-fitted-with-photovoltaic-tiles/",
-      "date": "2026-05-12T10:41:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "BayWa r.e. to manage Germany&#8217;s largest BESS; smaller projects move to construction",
       "url": "https://www.energy-storage.news/baywa-r-e-to-manage-germanys-largest-bess-smaller-projects-move-to-construction/",
       "date": "2026-05-12T10:32:07.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Jolywood starts mass production of low-silver TOPCon solar cells",
-      "url": "https://www.pv-magazine.com/2026/05/12/jolywood-starts-mass-production-of-low-silver-topcon-solar-cells/",
-      "date": "2026-05-12T10:31:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Zambia’s largest solar plant goes online",
-      "url": "https://www.pv-magazine.com/2026/05/12/zambias-largest-solar-plant-goes-online/",
-      "date": "2026-05-12T10:24:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The impact of fly ash-induced soiling on PV panel performance",
-      "url": "https://www.pv-magazine.com/2026/05/12/the-impact-of-fly-ash-induced-soiling-on-pv-panel-performance/",
-      "date": "2026-05-12T10:15:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Data centres&#8217; speed-to-power need driving US LDES commercialisation",
       "url": "https://www.energy-storage.news/data-centres-speed-to-power-need-driving-us-ldes-commercialisation/",
       "date": "2026-05-01T13:47:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "1GWh+ of BESS progressed across EU by re:cap, Flower, Goldbeck, Tavion, LONGi, Teos and SPP",
-      "url": "https://www.energy-storage.news/1gwh-of-bess-progressed-across-eu-by-recap-flower-goldbeck-tavion-longi-teos-and-spp/",
-      "date": "2026-05-01T11:09:59.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
