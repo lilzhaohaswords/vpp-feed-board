@@ -1,6 +1,27 @@
 {
-  "ts": 1778764790002,
+  "ts": 1778774434588,
   "items": [
+    {
+      "title": "India installs 15.3 GW of solar capacity in Q1",
+      "url": "https://www.pv-magazine.com/2026/05/14/india-installs-15-3-gw-of-solar-capacity-in-q1/",
+      "date": "2026-05-14T15:45:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France&#8217;s collective solar self-consumption model hits regulatory wall",
+      "url": "https://www.pv-magazine.com/2026/05/14/frances-collective-solar-self-consumption-model-hits-regulatory-wall/",
+      "date": "2026-05-14T14:15:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar industry faces rising risks from fires and battery faults",
+      "url": "https://www.pv-magazine.com/2026/05/14/solar-industry-faces-rising-risks-from-fires-and-battery-faults/",
+      "date": "2026-05-14T13:34:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "China&#8217;s Gotion and Richardson Electronics partner for US-made BESS",
       "url": "https://www.energy-storage.news/chinas-gotion-and-richardson-electronics-partner-for-us-made-bess/",
@@ -219,13 +240,6 @@
       "bucket": "A"
     },
     {
-      "title": "Large-scale PV could intensify water stress in China’s Tarim Basin",
-      "url": "https://www.pv-magazine.com/2026/05/13/large-scale-pv-could-intensify-water-stress-in-chinas-tarim-basin/",
-      "date": "2026-05-13T10:47:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "IRENA: Renewables with storage cost-competitive with fossil fuels for round-the-clock power",
       "url": "https://www.energy-storage.news/irena-renewables-with-storage-cost-competitive-with-fossil-fuels-for-round-the-clock-power/",
       "date": "2026-05-13T10:46:35.000Z",
@@ -244,20 +258,6 @@
       "url": "https://www.energy-storage.news/japans-softbank-launches-end-to-end-non-lithium-battery-cell-and-bess-manufacturing-business/",
       "date": "2026-05-13T09:47:59.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "South Africa&#8217;s Eskom resorts to grid-scale gravity energy storage",
-      "url": "https://www.pv-magazine.com/2026/05/13/south-africas-eskom-resorts-to-grid-scale-gravity-energy-storage/",
-      "date": "2026-05-13T09:41:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar capture factors fall across europe as negative price hours surge in key markets",
-      "url": "https://www.pv-magazine.com/2026/05/13/solar-capture-factors-fall-across-europe-as-negative-price-hours-surge-in-key-markets/",
-      "date": "2026-05-13T08:42:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
