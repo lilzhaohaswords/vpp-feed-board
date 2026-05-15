@@ -1,6 +1,48 @@
 {
-  "ts": 1778833936201,
+  "ts": 1778843261137,
   "items": [
+    {
+      "title": "Blocking pattern lifts irradiance from France to Finland while storms hit the east",
+      "url": "https://www.pv-magazine.com/2026/05/15/blocking-pattern-lifts-irradiance-from-france-to-finland-while-storms-hit-the-east/",
+      "date": "2026-05-15T10:40:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Rept Battero opens Indonesian cell and BESS manufacturing facility",
+      "url": "https://www.energy-storage.news/rept-battero-opens-indonesian-cell-and-bess-manufacturing-facility/",
+      "date": "2026-05-15T09:57:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "German scientists explore whether solar power plants can induce rain in deserts",
+      "url": "https://www.pv-magazine.com/2026/05/15/german-scientists-explore-whether-solar-power-plants-can-induce-rain-in-deserts/",
+      "date": "2026-05-15T09:56:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Brazil deploys 4.4 GW of solar in Q1",
+      "url": "https://www.pv-magazine.com/2026/05/15/brazil-deploys-4-4-gw-of-solar-in-q1/",
+      "date": "2026-05-15T09:41:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Heterojunction PV modules with low silver content tested in world&#8217;s sunniest region",
+      "url": "https://www.pv-magazine.com/2026/05/15/heterojunction-pv-modules-with-low-silver-content-tested-in-worlds-sunniest-region/",
+      "date": "2026-05-15T09:26:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fraunhofer ISE achieves 31.3% record solar-to-hydrogen efficiency in photovoltaic electrolysis",
+      "url": "https://www.pv-magazine.com/2026/05/15/fraunhofer-ise-achieves-31-3-record-solar-to-hydrogen-efficiency-in-photovoltaic-electrolysis/",
+      "date": "2026-05-15T09:08:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "System-level BESS manufacturing defects cause ‘hidden risk’ for developers, Intertek CEA says",
       "url": "https://www.energy-storage.news/system-level-bess-manufacturing-defects-cause-hidden-risk-for-developers-intertek-cea-says/",
@@ -37,7 +79,7 @@
       "bucket": "A"
     },
     {
-      "title": "Mistubishi launches propane air-to-water heat pumps for large homes, light commercial applications",
+      "title": "Mitsubishi launches propane air-to-water heat pumps for large homes, light commercial applications",
       "url": "https://www.pv-magazine.com/2026/05/15/mistubishi-launches-propane-air-to-water-heat-pumps-for-large-homes-light-commercial-applications/",
       "date": "2026-05-15T06:24:50.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -201,41 +243,6 @@
       "title": "India’s storage market shifts from tenders to execution",
       "url": "https://www.pv-magazine.com/2026/05/14/indias-storage-market-shifts-from-tenders-to-execution/",
       "date": "2026-05-14T07:45:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Plug-and-play control framework for adjusting panel tilt in agrivoltaics",
-      "url": "https://www.pv-magazine.com/2026/05/14/plug-and-play-control-framework-for-adjusting-panel-tilt-in-agrivoltaics/",
-      "date": "2026-05-14T07:30:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Low-cost solar PV can turn CO2 into profitable materials enabling negative emissions",
-      "url": "https://www.pv-magazine.com/2026/05/14/low-cost-solar-pv-can-turn-co2-into-profitable-materials-enabling-negative-emissions/",
-      "date": "2026-05-14T07:00:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hanwha Japan unit closes JPY 9 billion solar fund loan",
-      "url": "https://www.pv-magazine.com/2026/05/14/hanwha-japan-unit-closes-jpy-9-billion-solar-fund-loan/",
-      "date": "2026-05-14T07:00:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Very low cost rooftop solar and batteries slashes domestic energy cost &#8211; Part 1: Australia",
-      "url": "https://www.pv-magazine.com/2026/05/14/very-low-cost-rooftop-solar-and-batteries-slashes-domestic-energy-cost-part-1-australia/",
-      "date": "2026-05-14T06:30:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Datang plans 14.6 GW renewables cluster in China",
-      "url": "https://www.pv-magazine.com/2026/05/14/datang-plans-14-6-gw-renewables-cluster-in-china/",
-      "date": "2026-05-14T06:00:53.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Australia: NSW battery storage systems capture 11.9% of state consumption",
       "url": "https://www.energy-storage.news/australia-nsw-battery-storage-systems-capture-11-9-of-state-consumption/",
       "date": "2026-05-05T23:00:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Beyond deployment: Building a circular future for renewable energy",
-      "url": "https://www.energy-storage.news/beyond-deployment-building-a-circular-future-for-renewable-energy/",
-      "date": "2026-05-05T23:00:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
