@@ -1,6 +1,20 @@
 {
-  "ts": 1778843261137,
+  "ts": 1778851143365,
   "items": [
+    {
+      "title": "Zelestra energises 1GWh hybrid BESS project in Chile",
+      "url": "https://www.energy-storage.news/zelestra-energises-1gwh-hybrid-bess-project-in-chile/",
+      "date": "2026-05-15T13:08:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar PPAs raise Spanish spot prices, not suppress them",
+      "url": "https://www.pv-magazine.com/2026/05/15/solar-ppas-raise-spanish-spot-prices-not-suppress-them/",
+      "date": "2026-05-15T11:32:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Blocking pattern lifts irradiance from France to Finland while storms hit the east",
       "url": "https://www.pv-magazine.com/2026/05/15/blocking-pattern-lifts-irradiance-from-france-to-finland-while-storms-hit-the-east/",
@@ -37,7 +51,7 @@
       "bucket": "A"
     },
     {
-      "title": "Fraunhofer ISE achieves 31.3% record solar-to-hydrogen efficiency in photovoltaic electrolysis",
+      "title": "Fraunhofer ISE achieves 31.3% record solar-to-hydrogen efficiency in CPV electrolysis",
       "url": "https://www.pv-magazine.com/2026/05/15/fraunhofer-ise-achieves-31-3-record-solar-to-hydrogen-efficiency-in-photovoltaic-electrolysis/",
       "date": "2026-05-15T09:08:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -236,13 +250,6 @@
       "title": "Solar approaches 3 TW, but the industry faces new challenges",
       "url": "https://www.pv-magazine.com/2026/05/14/solar-approaches-3-tw-but-the-industry-faces-new-challenges/",
       "date": "2026-05-14T08:00:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s storage market shifts from tenders to execution",
-      "url": "https://www.pv-magazine.com/2026/05/14/indias-storage-market-shifts-from-tenders-to-execution/",
-      "date": "2026-05-14T07:45:24.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Fortescue’s chairman says AI and battery storage &#8216;healed&#8217; Australian mining grid in nanoseconds",
       "url": "https://www.energy-storage.news/fortescues-chairman-says-ai-and-battery-storage-healed-australian-mining-grid-in-nanoseconds/",
       "date": "2026-05-06T09:29:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: NSW battery storage systems capture 11.9% of state consumption",
-      "url": "https://www.energy-storage.news/australia-nsw-battery-storage-systems-capture-11-9-of-state-consumption/",
-      "date": "2026-05-05T23:00:51.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
