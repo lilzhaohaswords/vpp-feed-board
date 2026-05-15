@@ -1,6 +1,55 @@
 {
-  "ts": 1778823704058,
+  "ts": 1778833936201,
   "items": [
+    {
+      "title": "System-level BESS manufacturing defects cause ‘hidden risk’ for developers, Intertek CEA says",
+      "url": "https://www.energy-storage.news/system-level-bess-manufacturing-defects-cause-hidden-risk-for-developers-intertek-cea-says/",
+      "date": "2026-05-15T08:24:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: Daqo, Tongwei, Aiko Solar post Q1 losses",
+      "url": "https://www.pv-magazine.com/2026/05/15/chinese-pv-industry-brief-daqo-longi-aiko-solar-post-q1-losses/",
+      "date": "2026-05-15T08:16:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China TOPCon module prices hold steady as supplier price gap widens",
+      "url": "https://www.pv-magazine.com/2026/05/15/china-topcon-module-prices-hold-steady-as-supplier-price-gap-widens/",
+      "date": "2026-05-15T07:58:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EnerVenue piloting &#8216;30,000-cycle&#8217; nickel-hydrogen BESS in China",
+      "url": "https://www.energy-storage.news/enervenue-piloting-30000-cycle-nickel-hydrogen-bess-in-china/",
+      "date": "2026-05-15T07:51:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "HY Solar unveils 670 W TOPCon modules with 24.8% efficiency",
+      "url": "https://www.pv-magazine.com/2026/05/15/hy-solar-unveils-670-w-topcon-modules-with-24-8-efficiency/",
+      "date": "2026-05-15T06:39:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Mistubishi launches propane air-to-water heat pumps for large homes, light commercial applications",
+      "url": "https://www.pv-magazine.com/2026/05/15/mistubishi-launches-propane-air-to-water-heat-pumps-for-large-homes-light-commercial-applications/",
+      "date": "2026-05-15T06:24:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Inox Clean buys U.S. PV manufacturing assets of Boviet Solar for $750 million",
+      "url": "https://www.pv-magazine.com/2026/05/15/inox-clean-buys-u-s-pv-manufacturing-assets-of-boviet-solar-for-750-million/",
+      "date": "2026-05-15T05:55:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Iberdrola Australia submits 1GW battery storage system to the EPBC Act",
       "url": "https://www.energy-storage.news/iberdrola-australia-submits-1gw-battery-storage-system-to-the-epbc-act/",
@@ -191,20 +240,6 @@
       "bucket": "A"
     },
     {
-      "title": "Armenia allows construction of energy storage systems",
-      "url": "https://www.pv-magazine.com/2026/05/14/armenia-allows-construction-of-energy-storage-systems/",
-      "date": "2026-05-14T05:30:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany, UK, Bulgaria: Europe’s top 3 co-location markets",
-      "url": "https://www.pv-magazine.com/2026/05/14/germany-uk-bulgaria-europes-top-3-co-location-markets/",
-      "date": "2026-05-14T05:00:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Akaysha Energy bags EPBC Act approval for 1,600MWh battery storage system in Victoria, Australia",
       "url": "https://www.energy-storage.news/akaysha-energy-bags-epbc-act-approval-for-1600mwh-battery-storage-system-in-victoria-australia/",
       "date": "2026-05-14T01:54:54.000Z",
@@ -219,31 +254,10 @@
       "bucket": "A"
     },
     {
-      "title": "Rooftop heat pump tech with metal-organic framework dehumidification tested by Amazon",
-      "url": "https://www.pv-magazine.com/2026/05/13/rooftop-heat-pump-tech-with-metal-organic-framework-dehumidification-tested-by-amazon/",
-      "date": "2026-05-13T13:08:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Galileo CEO on ‘completely different’ development market, meeting PPA demand and where in Europe it will transact next",
       "url": "https://www.energy-storage.news/galileo-ceo-on-completely-different-development-market-meeting-ppa-demand-and-where-in-europe-it-will-transact-next/",
       "date": "2026-05-13T11:49:39.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ARTsolar challenges local content compliance in South African solar tenders",
-      "url": "https://www.pv-magazine.com/2026/05/13/artsolar-challenges-local-content-compliance-in-south-african-solar-tenders/",
-      "date": "2026-05-13T11:33:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Growatt launches C&#038;I storage system with 95% depth of discharge",
-      "url": "https://www.pv-magazine.com/2026/05/13/growatt-launches-ci-storage-system-with-95-depth-of-discharge/",
-      "date": "2026-05-13T11:14:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Beyond deployment: Building a circular future for renewable energy",
       "url": "https://www.energy-storage.news/beyond-deployment-building-a-circular-future-for-renewable-energy/",
       "date": "2026-05-05T23:00:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CAISO CEO ‘expects batteries to play an important role’ in the newly launched Extended Day-Ahead Market",
-      "url": "https://www.energy-storage.news/caiso-ceo-expects-batteries-to-play-an-important-role-in-the-newly-launched-extended-day-ahead-market/",
-      "date": "2026-05-05T13:24:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ESS Inc partners with Alsym Energy for 8.5GWh of US sodium-ion BESS cells",
-      "url": "https://www.energy-storage.news/ess-inc-partners-with-alsym-energy-for-8-5gwh-of-us-sodium-ion-bess-cells/",
-      "date": "2026-05-05T09:45:53.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
