@@ -1,6 +1,20 @@
 {
-  "ts": 1778908464827,
+  "ts": 1778917400978,
   "items": [
+    {
+      "title": "PV power generation to surpass coal in Texas",
+      "url": "https://www.pv-magazine.com/2026/05/16/pv-power-generation-to-surpass-coal-in-texas/",
+      "date": "2026-05-16T07:00:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Japan awards 1.25 GW of battery storage in capacity market auction",
+      "url": "https://www.pv-magazine.com/2026/05/16/japan-awards-1-25-gw-of-battery-storage-in-capacity-market-auction/",
+      "date": "2026-05-16T06:00:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Argentina commissions 360 MW solar farm",
       "url": "https://www.pv-magazine.com/2026/05/15/argentina-commissions-305-mw-solar-farm/",
@@ -229,20 +243,6 @@
       "title": "Bruges appoints independent solar broker offering free advice",
       "url": "https://www.pv-magazine.com/2026/05/14/bruges-appoints-independent-solar-broker-offering-free-advice/",
       "date": "2026-05-14T09:30:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Genex cuts Bulli Creek solar to 300 MW, adds 1.7 GWh storage",
-      "url": "https://www.pv-magazine.com/2026/05/14/genex-cuts-bulli-creek-solar-to-300-mw-adds-1-7-gwh-storage/",
-      "date": "2026-05-14T09:15:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "AI model uses cloud type and cover to predict solar power swings",
-      "url": "https://www.pv-magazine.com/2026/05/14/ai-model-uses-cloud-type-and-cover-to-predict-solar-power-swings/",
-      "date": "2026-05-14T09:00:57.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
