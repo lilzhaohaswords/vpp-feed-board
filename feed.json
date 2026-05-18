@@ -1,6 +1,27 @@
 {
-  "ts": 1779083917736,
+  "ts": 1779098002673,
   "items": [
+    {
+      "title": "Canadian Solar plans to double battery cell and BESS manufacturing capacity, new CEO says",
+      "url": "https://www.energy-storage.news/canadian-solar-plans-to-double-battery-cell-and-bess-manufacturing-capacity-new-ceo-says/",
+      "date": "2026-05-18T09:23:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Dimplex launches propane air-to-water heat pumps for light commercial applications",
+      "url": "https://www.pv-magazine.com/2026/05/18/dimplex-launches-propane-air-to-water-heat-pumps-for-light-commercial-applications/",
+      "date": "2026-05-18T08:50:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Glass frit chemistry explains EVA-driven degradation mechanisms in TOPCon solar cells",
+      "url": "https://www.pv-magazine.com/2026/05/18/glass-frit-chemistry-explains-eva-driven-degradation-mechanisms-in-topcon-solar-cells/",
+      "date": "2026-05-18T06:19:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia hits 400,000 home battery installations with 11.2GWh capacity in under a year",
       "url": "https://www.energy-storage.news/australia-hits-400000-home-battery-installations-with-11-2gwh-capacity-in-under-a-year/",
@@ -237,20 +258,6 @@
       "url": "https://www.energy-storage.news/nearly-13gwh-of-grid-scale-bess-deployed-globally-in-april/",
       "date": "2026-05-14T11:39:16.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "German storage industry back on growth path, says BVES",
-      "url": "https://www.pv-magazine.com/2026/05/14/german-storage-industry-back-on-growth-path-says-bves/",
-      "date": "2026-05-14T11:00:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "From night to noon: France’s reactors are now bending for European solar",
-      "url": "https://www.pv-magazine.com/2026/05/14/from-night-to-noon-frances-reactors-are-now-bending-for-european-solar/",
-      "date": "2026-05-14T10:15:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Moment Energy secures US$40 million to scale second life BESS in North America",
       "url": "https://www.energy-storage.news/moment-energy-secures-us40-million-to-scale-second-life-bess-in-north-america/",
       "date": "2026-05-06T11:05:26.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Green Flexibility, Suncatcher, SWB and ArcelorMittal progress large-scale BESS projects in Germany totalling 324MWh",
-      "url": "https://www.energy-storage.news/green-flexibility-suncatcher-swb-and-arcelormittal-progress-large-scale-bess-projects-in-germany-totalling-324mwh/",
-      "date": "2026-05-06T10:42:59.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
