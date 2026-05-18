@@ -1,6 +1,13 @@
 {
-  "ts": 1779069138856,
+  "ts": 1779083917736,
   "items": [
+    {
+      "title": "Australia hits 400,000 home battery installations with 11.2GWh capacity in under a year",
+      "url": "https://www.energy-storage.news/australia-hits-400000-home-battery-installations-with-11-2gwh-capacity-in-under-a-year/",
+      "date": "2026-05-18T04:29:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Hydrostor launches 4 GWh advanced compressed air energy storage project in Ontario",
       "url": "https://www.pv-magazine.com/2026/05/16/hydrostor-launches-4-gwh-advanced-compressed-air-energy-storage-project-in-ontario/",
@@ -516,13 +523,6 @@
       "title": "Green Flexibility, Suncatcher, SWB and ArcelorMittal progress large-scale BESS projects in Germany totalling 324MWh",
       "url": "https://www.energy-storage.news/green-flexibility-suncatcher-swb-and-arcelormittal-progress-large-scale-bess-projects-in-germany-totalling-324mwh/",
       "date": "2026-05-06T10:42:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fortescue’s chairman says AI and battery storage &#8216;healed&#8217; Australian mining grid in nanoseconds",
-      "url": "https://www.energy-storage.news/fortescues-chairman-says-ai-and-battery-storage-healed-australian-mining-grid-in-nanoseconds/",
-      "date": "2026-05-06T09:29:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
