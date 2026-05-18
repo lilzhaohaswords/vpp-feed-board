@@ -1,6 +1,55 @@
 {
-  "ts": 1779098002673,
+  "ts": 1779109061634,
   "items": [
+    {
+      "title": "Spain, France set benchmark in renewables expansion without biodiversity loss",
+      "url": "https://www.pv-magazine.com/2026/05/18/spain-france-set-benchmark-in-renewables-expansion-without-biodiversity-loss/",
+      "date": "2026-05-18T11:58:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Toyo denies Ethiopia duty evasion, confirms 4 GW ramp and U.S. cell plant",
+      "url": "https://www.pv-magazine.com/2026/05/18/toyo-denies-ethiopia-duty-evasion-confirms-4-gw-ramp-and-us-cell-plant/",
+      "date": "2026-05-18T11:18:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "GCL Technology expands beyond PV with new energy storage business",
+      "url": "https://www.pv-magazine.com/2026/05/18/gcl-technology-expands-beyond-pv-with-new-energy-storage-business/",
+      "date": "2026-05-18T11:10:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Non-lithium players Eos and ESS lean on future of US LDES deployment in Q1 2026 financials",
+      "url": "https://www.energy-storage.news/non-lithium-players-eos-and-ess-lean-on-future-of-us-ldes-deployment-in-q1-2026-financials/",
+      "date": "2026-05-18T10:53:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Rechargeable zinc batteries: Overcoming challenges and finding opportunities",
+      "url": "https://www.pv-magazine.com/2026/05/18/rechargeable-zinc-batteries-overcoming-challenges-and-finding-opportunities/",
+      "date": "2026-05-18T10:41:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Japanese scientists achieve world record 25.14% efficiency for perovskite-CIGS tandem solar cell",
+      "url": "https://www.pv-magazine.com/2026/05/18/japanese-scientists-achieve-world-record-25-14-efficiency-for-perovskite-cigs-tandem-solar-cell/",
+      "date": "2026-05-18T10:10:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Romania moves from solar to storage rebates",
+      "url": "https://www.pv-magazine.com/2026/05/18/romania-moves-from-solar-to-storage-rebates/",
+      "date": "2026-05-18T10:08:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Canadian Solar plans to double battery cell and BESS manufacturing capacity, new CEO says",
       "url": "https://www.energy-storage.news/canadian-solar-plans-to-double-battery-cell-and-bess-manufacturing-capacity-new-ceo-says/",
@@ -177,20 +226,6 @@
       "bucket": "A"
     },
     {
-      "title": "Mitsubishi launches propane air-to-water heat pumps for large homes, light commercial applications",
-      "url": "https://www.pv-magazine.com/2026/05/15/mistubishi-launches-propane-air-to-water-heat-pumps-for-large-homes-light-commercial-applications/",
-      "date": "2026-05-15T06:24:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Inox Clean buys U.S. PV manufacturing assets of Boviet Solar for $750 million",
-      "url": "https://www.pv-magazine.com/2026/05/15/inox-clean-buys-u-s-pv-manufacturing-assets-of-boviet-solar-for-750-million/",
-      "date": "2026-05-15T05:55:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Iberdrola Australia submits 1GW battery storage system to the EPBC Act",
       "url": "https://www.energy-storage.news/iberdrola-australia-submits-1gw-battery-storage-system-to-the-epbc-act/",
       "date": "2026-05-15T03:08:46.000Z",
@@ -205,38 +240,10 @@
       "bucket": "A"
     },
     {
-      "title": "India installs 15.3 GW of solar capacity in Q1",
-      "url": "https://www.pv-magazine.com/2026/05/14/india-installs-15-3-gw-of-solar-capacity-in-q1/",
-      "date": "2026-05-14T15:45:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "France&#8217;s collective solar self-consumption model hits regulatory wall",
-      "url": "https://www.pv-magazine.com/2026/05/14/frances-collective-solar-self-consumption-model-hits-regulatory-wall/",
-      "date": "2026-05-14T14:15:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar industry faces rising risks from fires and battery faults",
-      "url": "https://www.pv-magazine.com/2026/05/14/solar-industry-faces-rising-risks-from-fires-and-battery-faults/",
-      "date": "2026-05-14T13:34:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "China&#8217;s Gotion and Richardson Electronics partner for US-made BESS",
       "url": "https://www.energy-storage.news/chinas-gotion-and-richardson-electronics-partner-for-us-made-bess/",
       "date": "2026-05-14T13:05:13.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sweden lacks national strategy for utility-scale solar",
-      "url": "https://www.pv-magazine.com/2026/05/14/sweden-lacks-national-strategy-for-utility-scale-solar/",
-      "date": "2026-05-14T12:00:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Longroad Energy’s 340MWh Arizona co-located BESS reaches commercial operation",
       "url": "https://www.energy-storage.news/longroad-energys-340mwh-arizona-co-located-bess-reaches-commercial-operation/",
       "date": "2026-05-06T11:11:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Moment Energy secures US$40 million to scale second life BESS in North America",
-      "url": "https://www.energy-storage.news/moment-energy-secures-us40-million-to-scale-second-life-bess-in-north-america/",
-      "date": "2026-05-06T11:05:26.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
