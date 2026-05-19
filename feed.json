@@ -1,6 +1,76 @@
 {
-  "ts": 1779180704788,
+  "ts": 1779191420155,
   "items": [
+    {
+      "title": "The impact of rain on PV module antisoiling coating lifetime",
+      "url": "https://www.pv-magazine.com/2026/05/19/the-impact-of-rain-on-pv-module-antisoiling-coating-lifetime/",
+      "date": "2026-05-19T11:40:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU Project Roundup: Neoen, Nofar, Enka, Return, RWE, Repono and others progress 3.3GWh of BESS capacity",
+      "url": "https://www.energy-storage.news/eu-project-roundup-neoen-nofar-enka-return-rwe-repono-and-others-progress-3-3gwh-of-bess-capacity/",
+      "date": "2026-05-19T10:54:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ford Energy makes 20GWh, five-year North America supply deal with EDF",
+      "url": "https://www.energy-storage.news/ford-energy-makes-20gwh-five-year-north-america-supply-deal-with-edf/",
+      "date": "2026-05-19T10:52:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Banning China: Are we overreacting again?",
+      "url": "https://www.pv-magazine.com/2026/05/19/banning-china-are-we-overreacting-again/",
+      "date": "2026-05-19T10:52:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Oman power company signs 2.7 GW PPA for continuous wind-solar-storage project",
+      "url": "https://www.pv-magazine.com/2026/05/19/oman-power-company-signs-2-7-gw-ppa-for-continuous-wind-solar-storage-project/",
+      "date": "2026-05-19T10:48:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "AC and DC augmentation in BESS: the differences between the two approaches",
+      "url": "https://www.energy-storage.news/ac-and-dc-augmentation-in-bess-the-differences-between-the-two-approaches/",
+      "date": "2026-05-19T10:31:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Inovance&#8217;s Hong Kong IPO: storage fuels growth, targeting global top three PCS ranking",
+      "url": "https://www.energy-storage.news/inovances-hong-kong-ipo-storage-fuels-growth-targeting-global-top-three-pcs-ranking/",
+      "date": "2026-05-19T10:24:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia installs 400,000 home batteries in 10 months for 11.2 GWh",
+      "url": "https://www.pv-magazine.com/2026/05/19/australia-installs-400000-home-batteries-in-10-months-for-11-2-gwh/",
+      "date": "2026-05-19T09:45:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Japan’s grid operators select 1.25GW of BESS in capacity market auction with 6-hour duration requirement",
+      "url": "https://www.energy-storage.news/japans-grid-operators-select-1-25gw-of-bess-in-capacity-market-auction-with-6-hour-duration-requirement/",
+      "date": "2026-05-19T09:22:26.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Bluetti launches new storage systems for balcony PV",
+      "url": "https://www.pv-magazine.com/2026/05/19/bluetti-launches-new-storage-systems-for-balcony-pv/",
+      "date": "2026-05-19T09:02:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Thailand opens investigation into faulty solar installations",
       "url": "https://www.pv-magazine.com/2026/05/19/thailand-opens-investigation-into-faulty-solar-installations/",
@@ -191,20 +261,6 @@
       "bucket": "A"
     },
     {
-      "title": "The Hydrogen Stream: Ireland’s LCOH on par with Morocco, Brazil",
-      "url": "https://www.pv-magazine.com/2026/05/15/the-hydrogen-stream-irelands-lcoh-on-par-with-morocco-brazil/",
-      "date": "2026-05-15T14:23:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Women’s leadership is everywhere in Ukraine",
-      "url": "https://www.pv-magazine.com/2026/05/15/womens-leadership-is-everywhere-in-ukraine/",
-      "date": "2026-05-15T14:00:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Zelestra energises 1GWh hybrid BESS project in Chile",
       "url": "https://www.energy-storage.news/zelestra-energises-1gwh-hybrid-bess-project-in-chile/",
       "date": "2026-05-15T13:08:08.000Z",
@@ -212,31 +268,10 @@
       "bucket": "A"
     },
     {
-      "title": "Solar PPAs raise Spanish spot prices, not suppress them",
-      "url": "https://www.pv-magazine.com/2026/05/15/solar-ppas-raise-spanish-spot-prices-not-suppress-them/",
-      "date": "2026-05-15T11:32:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Blocking pattern lifts irradiance from France to Finland while storms hit the east",
-      "url": "https://www.pv-magazine.com/2026/05/15/blocking-pattern-lifts-irradiance-from-france-to-finland-while-storms-hit-the-east/",
-      "date": "2026-05-15T10:40:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Rept Battero opens Indonesian cell and BESS manufacturing facility",
       "url": "https://www.energy-storage.news/rept-battero-opens-indonesian-cell-and-bess-manufacturing-facility/",
       "date": "2026-05-15T09:57:47.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "German scientists explore whether solar power plants can induce rain in deserts",
-      "url": "https://www.pv-magazine.com/2026/05/15/german-scientists-explore-whether-solar-power-plants-can-induce-rain-in-deserts/",
-      "date": "2026-05-15T09:56:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -488,41 +523,6 @@
       "title": "US BESS operators face growing complexity as markets mature",
       "url": "https://www.energy-storage.news/us-bess-operators-face-growing-complexity-as-markets-mature/",
       "date": "2026-05-07T13:04:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Organic flow battery company CMBlu closes €50 million Series C",
-      "url": "https://www.energy-storage.news/organic-flow-battery-company-cmblu-closes-e50-million-series-c/",
-      "date": "2026-05-07T10:08:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "IPPs complete 840MWh of Bulgaria BESS, projects progress elsewhere in Southeast Europe",
-      "url": "https://www.energy-storage.news/ipps-complete-840mwh-of-bulgaria-bess-projects-progress-elsewhere-in-southeast-europe/",
-      "date": "2026-05-07T09:56:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO – Energy Storage Summit 2026: what technology will be deployed for LDES?",
-      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-what-technology-will-be-deployed-for-ldes/",
-      "date": "2026-05-07T09:52:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow&#8217;s grid-forming PCS achieves 19-second black start at &#8216;world&#8217;s first&#8217; 30MW test facility",
-      "url": "https://www.energy-storage.news/sungrows-grid-forming-pcs-achieves-19-second-black-start-at-worlds-first-30mw-test-facility/",
-      "date": "2026-05-07T07:59:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia installs 10.7GWh of home battery storage under federal subsidy scheme",
-      "url": "https://www.energy-storage.news/australia-installs-10-7gwh-of-home-battery-storage-under-federal-subsidy-scheme/",
-      "date": "2026-05-07T01:35:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
