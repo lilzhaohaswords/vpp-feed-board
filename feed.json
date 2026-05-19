@@ -1,6 +1,13 @@
 {
-  "ts": 1779200598479,
+  "ts": 1779211845854,
   "items": [
+    {
+      "title": "Lenders now actively financing merchant BESS projects in Germany",
+      "url": "https://www.energy-storage.news/lenders-now-actively-financing-merchant-bess-projects-in-germany/",
+      "date": "2026-05-19T15:03:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Pakistan&#8217;s operational PV capacity estimated a 51 GW",
       "url": "https://www.pv-magazine.com/2026/05/19/pakistans-operational-pv-capacity-estimated-a-51-gw/",
@@ -516,13 +523,6 @@
       "title": "AGL&#8217;s Liddell and Tomago battery storage systems to boost returns by 10% in Australia",
       "url": "https://www.energy-storage.news/agls-liddell-and-tomago-battery-storage-systems-to-boost-returns-by-10-in-australia/",
       "date": "2026-05-08T03:11:26.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US BESS operators face growing complexity as markets mature",
-      "url": "https://www.energy-storage.news/us-bess-operators-face-growing-complexity-as-markets-mature/",
-      "date": "2026-05-07T13:04:59.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
