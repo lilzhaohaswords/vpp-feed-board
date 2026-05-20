@@ -1,6 +1,76 @@
 {
-  "ts": 1779266829067,
+  "ts": 1779277130803,
   "items": [
+    {
+      "title": "Sunraycer closes US$901 million financing for three Texas solar-plus-BESS projects",
+      "url": "https://www.energy-storage.news/sunraycer-closes-us901-million-financing-for-three-texas-solar-plus-bess-projects/",
+      "date": "2026-05-20T11:21:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Second life BESS maker Moment Energy claims ‘world first’ safety certification as FEOC compliance crunch looms",
+      "url": "https://www.energy-storage.news/second-life-bess-maker-moment-energy-claims-world-first-safety-certification-as-feoc-compliance-crunch-looms/",
+      "date": "2026-05-20T11:16:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "PV curtailment on the rise in India",
+      "url": "https://www.pv-magazine.com/2026/05/20/pv-curtailment-on-the-rise-in-india/",
+      "date": "2026-05-20T11:15:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy to assign 10 GW of PV in 2026-2027 renewables auctions",
+      "url": "https://www.pv-magazine.com/2026/05/20/italy-to-assign-10-gw-of-pv-in-2026-2027-renewables-auctions/",
+      "date": "2026-05-20T10:58:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "From coal to solar: A stable jobs transition for Poland",
+      "url": "https://www.pv-magazine.com/2026/05/20/from-coal-to-solar-a-stable-jobs-transition-for-poland/",
+      "date": "2026-05-20T10:36:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "HyperStrong CEO on sodium-ion BESS product potential and challenges",
+      "url": "https://www.energy-storage.news/hyperstrong-ceo-on-sodium-ion-bess-product-potential-and-challenges/",
+      "date": "2026-05-20T10:14:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US startup Antora deploys 5GWh thermal energy storage system at biofuels facility in South Dakota",
+      "url": "https://www.energy-storage.news/us-startup-antora-deploys-5gwh-thermal-energy-storage-system-at-biofuels-facility-in-south-dakota/",
+      "date": "2026-05-20T09:55:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Changes in Hungary’s renewable energy subsidy regime, market evolution drive BESS investment opportunities",
+      "url": "https://www.energy-storage.news/changes-in-hungarys-renewable-energy-subsidy-regime-market-evolution-drive-bess-investment-opportunities/",
+      "date": "2026-05-20T09:24:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Supply chain traceability reduces regulatory risk in European solar procurement",
+      "url": "https://www.pv-magazine.com/2026/05/20/supply-chain-traceability-reduces-regulatory-risk-in-european-solar-procurement/",
+      "date": "2026-05-20T09:00:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sahaj Solar, Clarion plan 750 MW PV module factory in UAE",
+      "url": "https://www.pv-magazine.com/2026/05/20/sahaj-solar-clarion-plan-750-mw-pv-module-factory-in-uae/",
+      "date": "2026-05-20T08:59:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "South Korea advances bill to scrap renewable quota system",
       "url": "https://www.pv-magazine.com/2026/05/20/south-korea-advances-bill-to-scrap-renewable-quota-system/",
@@ -226,45 +296,10 @@
       "bucket": "A"
     },
     {
-      "title": "Floating PV tested at manure lagoon in Spain",
-      "url": "https://www.pv-magazine.com/2026/05/18/floating-pv-tested-at-manure-lagoon-in-spain/",
-      "date": "2026-05-18T13:30:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain, France set benchmark in renewables expansion without biodiversity loss",
-      "url": "https://www.pv-magazine.com/2026/05/18/spain-france-set-benchmark-in-renewables-expansion-without-biodiversity-loss/",
-      "date": "2026-05-18T11:58:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Toyo denies Ethiopia duty evasion, confirms 4 GW ramp and US cell plant",
-      "url": "https://www.pv-magazine.com/2026/05/18/toyo-denies-ethiopia-duty-evasion-confirms-4-gw-ramp-and-us-cell-plant/",
-      "date": "2026-05-18T11:18:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "GCL Technology expands beyond PV with new energy storage business",
-      "url": "https://www.pv-magazine.com/2026/05/18/gcl-technology-expands-beyond-pv-with-new-energy-storage-business/",
-      "date": "2026-05-18T11:10:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Non-lithium players Eos and ESS lean on future of US LDES deployment in Q1 2026 financials",
       "url": "https://www.energy-storage.news/non-lithium-players-eos-and-ess-lean-on-future-of-us-ldes-deployment-in-q1-2026-financials/",
       "date": "2026-05-18T10:53:54.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Rechargeable zinc batteries: Overcoming challenges and finding opportunities",
-      "url": "https://www.pv-magazine.com/2026/05/18/rechargeable-zinc-batteries-overcoming-challenges-and-finding-opportunities/",
-      "date": "2026-05-18T10:41:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -488,41 +523,6 @@
       "title": "Fluence doubles order intake, expects to book first big data centre deal this quarter",
       "url": "https://www.energy-storage.news/fluence-doubles-order-intake-expects-to-book-first-big-data-centre-deal-this-quarter/",
       "date": "2026-05-11T10:00:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Alternate Path secures EPBC Act approval for 2,000MWh BESS in Victoria, Australia",
-      "url": "https://www.energy-storage.news/alternate-path-secures-epbc-act-approval-for-2000mwh-bess-in-victoria-australia/",
-      "date": "2026-05-11T03:24:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BloombergNEF forecasts 158GW of global energy storage deployments in 2026",
-      "url": "https://www.energy-storage.news/bloombergnef-forecasts-158gw-of-global-energy-storage-deployments-in-2026/",
-      "date": "2026-05-08T15:47:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Innergex and Prevalon add 210MWh new capacity to existing Chile BESS",
-      "url": "https://www.energy-storage.news/innergex-and-prevalon-add-210mwh-new-capacity-to-existing-chile-bess/",
-      "date": "2026-05-08T12:58:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ørsted purchases 150MW Michigan BESS project from ESA Solar",
-      "url": "https://www.energy-storage.news/orsted-purchases-150mw-michigan-bess-project-from-esa-solar/",
-      "date": "2026-05-08T12:54:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European ESS battery company Morrow files for bankruptcy",
-      "url": "https://www.energy-storage.news/european-ess-battery-company-morrow-files-for-bankruptcy/",
-      "date": "2026-05-08T09:49:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
