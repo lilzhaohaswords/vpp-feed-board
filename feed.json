@@ -1,6 +1,27 @@
 {
-  "ts": 1779241942453,
+  "ts": 1779256411840,
   "items": [
+    {
+      "title": "U.S. solar faces massive gap between stated capacity and real factory output",
+      "url": "https://www.pv-magazine.com/2026/05/20/u-s-solar-faces-massive-gap-between-stated-capacity-and-real-factory-output/",
+      "date": "2026-05-20T05:44:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hitachi inks 20-year LTSA with Akaysha Energy for 298MWh battery storage system in Australia",
+      "url": "https://www.energy-storage.news/hitachi-inks-20-year-ltsa-with-akaysha-energy-for-298mwh-battery-storage-system-in-australia/",
+      "date": "2026-05-20T02:17:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia&#8217;s New South Wales seeks 2.5GW of generation and 12GWh of energy storage in state&#8217;s largest-ever tender",
+      "url": "https://www.energy-storage.news/australias-new-south-wales-seeks-2-5gw-of-generation-and-12gwh-of-energy-storage-in-states-largest-ever-tender/",
+      "date": "2026-05-20T02:06:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Lenders now actively financing merchant BESS projects in Germany",
       "url": "https://www.energy-storage.news/lenders-now-actively-financing-merchant-bess-projects-in-germany/",
@@ -261,13 +282,6 @@
       "bucket": "A"
     },
     {
-      "title": "Spain, Denmark could develop European green hydrogen corridor for €2/kg by combining solar and offshore wind",
-      "url": "https://www.pv-magazine.com/2026/05/16/spain-denmark-could-develop-european-green-hydrogen-corridor-for-e2-kg-by-combining-solar-and-offshore-wind/",
-      "date": "2026-05-16T08:00:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Zelestra energises 1GWh hybrid BESS project in Chile",
       "url": "https://www.energy-storage.news/zelestra-energises-1gwh-hybrid-bess-project-in-chile/",
       "date": "2026-05-15T13:08:08.000Z",
@@ -509,20 +523,6 @@
       "title": "European ESS battery company Morrow files for bankruptcy",
       "url": "https://www.energy-storage.news/european-ess-battery-company-morrow-files-for-bankruptcy/",
       "date": "2026-05-08T09:49:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO – Energy Storage Summit 2026: Role of subsidies, contracted and merchant revenues in Europe&#8217;s BESS buildout",
-      "url": "https://www.energy-storage.news/video-energy-storage-summit-2026-role-of-subsidies-contracted-and-merchant-revenues-in-europes-bess-buildout/",
-      "date": "2026-05-08T09:42:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AGL&#8217;s Liddell and Tomago battery storage systems to boost returns by 10% in Australia",
-      "url": "https://www.energy-storage.news/agls-liddell-and-tomago-battery-storage-systems-to-boost-returns-by-10-in-australia/",
-      "date": "2026-05-08T03:11:26.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
