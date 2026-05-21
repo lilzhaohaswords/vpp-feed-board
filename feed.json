@@ -1,6 +1,48 @@
 {
-  "ts": 1779365231688,
+  "ts": 1779379727112,
   "items": [
+    {
+      "title": "Solar industry cost-cutting sparks record wave of spontaneous glass breakage",
+      "url": "https://www.pv-magazine.com/2026/05/21/solar-industry-cost-cutting-sparks-record-wave-of-spontaneous-glass-breakage/",
+      "date": "2026-05-21T14:15:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Finnish researchers build stirling engine-based Carnot battery prototype using sand for heat storage",
+      "url": "https://www.pv-magazine.com/2026/05/21/finnish-researchers-build-stirling-engine-based-carnot-battery-prototype-using-sand-for-heat-storage/",
+      "date": "2026-05-21T14:10:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Utility-scale solar expansion has little impact on U.S. crop prices",
+      "url": "https://www.pv-magazine.com/2026/05/21/utility-scale-solar-expansion-has-little-impact-on-u-s-crop-prices/",
+      "date": "2026-05-21T13:48:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Developers must become ‘a bit of a firefighter, sound expert, and light expert’: Addressing BESS safety and community opposition",
+      "url": "https://www.energy-storage.news/developers-must-become-a-bit-of-a-firefighter-sound-expert-and-light-expert-addressing-bess-safety-and-community-opposition/",
+      "date": "2026-05-21T13:35:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US ROUNDUP: BESS project advancements from OCI Energy, MN8 Energy, GridStor, Grenergy",
+      "url": "https://www.energy-storage.news/us-roundup-bess-project-advancements-from-oci-energy-mn8-energy-gridstor-grenergy/",
+      "date": "2026-05-21T13:19:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Meeting the challenges of long life time PV on buildings",
+      "url": "https://www.pv-magazine.com/2026/05/21/meeting-the-challenges-of-long-life-time-pv-on-buildings/",
+      "date": "2026-05-21T12:28:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "How to prevent stray voltage from harming livestock in PV-equipped dairy farms",
       "url": "https://www.pv-magazine.com/2026/05/21/how-to-prevent-stray-voltage-from-harming-livestock-in-pv-equipped-dairy-farms/",
@@ -240,20 +282,6 @@
       "bucket": "A"
     },
     {
-      "title": "EVs equipped with vehicle-integrated PV could cover up to 80% of their electricity needs",
-      "url": "https://www.pv-magazine.com/2026/05/20/evs-equipped-with-vehicle-integrated-pv-could-cover-up-to-80-of-their-electricity-needs/",
-      "date": "2026-05-20T06:00:21.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. solar faces massive gap between stated capacity and real factory output",
-      "url": "https://www.pv-magazine.com/2026/05/20/u-s-solar-faces-massive-gap-between-stated-capacity-and-real-factory-output/",
-      "date": "2026-05-20T05:44:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Hitachi inks 20-year LTSA with Akaysha Energy for 298MWh battery storage system in Australia",
       "url": "https://www.energy-storage.news/hitachi-inks-20-year-ltsa-with-akaysha-energy-for-298mwh-battery-storage-system-in-australia/",
       "date": "2026-05-20T02:17:07.000Z",
@@ -272,20 +300,6 @@
       "url": "https://www.energy-storage.news/lenders-now-actively-financing-merchant-bess-projects-in-germany/",
       "date": "2026-05-19T15:03:20.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Pakistan&#8217;s operational PV capacity estimated at 51 GW",
-      "url": "https://www.pv-magazine.com/2026/05/19/pakistans-operational-pv-capacity-estimated-a-51-gw/",
-      "date": "2026-05-19T14:02:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How small hydropower can compete with solar PV",
-      "url": "https://www.pv-magazine.com/2026/05/19/how-small-hydropower-can-compete-with-solar-pv/",
-      "date": "2026-05-19T13:57:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "Envision Energy exploring 300MW Nova Scotia hybrid wind and BESS project",
       "url": "https://www.energy-storage.news/envision-energy-exploring-300mw-nova-scotia-hybrid-wind-and-bess-project/",
       "date": "2026-05-12T12:53:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Alsym Energy announces 500MWh sodium-ion strategic partnership in California",
-      "url": "https://www.energy-storage.news/alsym-energy-announces-500mwh-sodium-ion-strategic-partnership-in-california/",
-      "date": "2026-05-12T12:43:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ford officially launches US stationary energy storage subsidiary, deliveries to begin in 2027",
-      "url": "https://www.energy-storage.news/ford-officially-launches-us-stationary-energy-storage-subsidiary-deliveries-to-begin-in-2027/",
-      "date": "2026-05-12T11:41:21.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
