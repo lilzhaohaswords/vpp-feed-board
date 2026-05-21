@@ -1,6 +1,48 @@
 {
-  "ts": 1779343028485,
+  "ts": 1779353810235,
   "items": [
+    {
+      "title": "JA Solar appoints head of energy storage subsidiary, effective immediately",
+      "url": "https://www.energy-storage.news/ja-solar-appoints-head-of-energy-storage-subsidiary-effective-immediately/",
+      "date": "2026-05-21T08:54:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "IRENA proposes global electrification target of 35% by 2035",
+      "url": "https://www.pv-magazine.com/2026/05/21/irena-proposes-global-electrification-target-of-35-by-2035/",
+      "date": "2026-05-21T08:51:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UNSW researchers shed new light on UV-induced degradation in PERC, TOPCon solar cells",
+      "url": "https://www.pv-magazine.com/2026/05/21/unsw-researchers-shed-new-light-on-uv-induced-degradation-in-perc-topcon-solar-cells/",
+      "date": "2026-05-21T08:23:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;More complex trading strategies&#8217; necessary for BESS to be profitable in the UK",
+      "url": "https://www.energy-storage.news/uks-neso-clears-150gw-bess-grid-connection-queue-financial-challenges-remain/",
+      "date": "2026-05-21T07:59:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "European PV avoided €10 billion in gas imports since escalation of Iran conflict",
+      "url": "https://www.pv-magazine.com/2026/05/21/european-pv-avoided-e10-billion-in-gas-imports-since-escalation-of-the-iran-conflict/",
+      "date": "2026-05-21T07:52:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "MTA launches air-to-water heat pump with scalable architecture",
+      "url": "https://www.pv-magazine.com/2026/05/21/mta-launches-air-to-water-heat-pump-with-scalable-architecture/",
+      "date": "2026-05-21T07:35:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Offshore vs. ground-mounted PV",
       "url": "https://www.pv-magazine.com/2026/05/21/offshore-vs-ground-mounted-pv-2/",
@@ -191,7 +233,7 @@
       "bucket": "A"
     },
     {
-      "title": "Pakistan&#8217;s operational PV capacity estimated a 51 GW",
+      "title": "Pakistan&#8217;s operational PV capacity estimated at 51 GW",
       "url": "https://www.pv-magazine.com/2026/05/19/pakistans-operational-pv-capacity-estimated-a-51-gw/",
       "date": "2026-05-19T14:02:06.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -240,13 +282,6 @@
       "bucket": "A"
     },
     {
-      "title": "Oman power company signs 2.7 GW PPA for continuous wind-solar-storage project",
-      "url": "https://www.pv-magazine.com/2026/05/19/oman-power-company-signs-2-7-gw-ppa-for-continuous-wind-solar-storage-project/",
-      "date": "2026-05-19T10:48:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "AC and DC augmentation in BESS: the differences between the two approaches",
       "url": "https://www.energy-storage.news/ac-and-dc-augmentation-in-bess-the-differences-between-the-two-approaches/",
       "date": "2026-05-19T10:31:42.000Z",
@@ -261,31 +296,10 @@
       "bucket": "A"
     },
     {
-      "title": "Australia installs 400,000 home batteries in 10 months for 11.2 GWh",
-      "url": "https://www.pv-magazine.com/2026/05/19/australia-installs-400000-home-batteries-in-10-months-for-11-2-gwh/",
-      "date": "2026-05-19T09:45:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Japan’s grid operators select 1.25GW of BESS in capacity market auction with 6-hour duration requirement",
       "url": "https://www.energy-storage.news/japans-grid-operators-select-1-25gw-of-bess-in-capacity-market-auction-with-6-hour-duration-requirement/",
       "date": "2026-05-19T09:22:26.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Bluetti launches new storage systems for balcony PV",
-      "url": "https://www.pv-magazine.com/2026/05/19/bluetti-launches-new-storage-systems-for-balcony-pv/",
-      "date": "2026-05-19T09:02:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Thailand opens investigation into faulty solar installations",
-      "url": "https://www.pv-magazine.com/2026/05/19/thailand-opens-investigation-into-faulty-solar-installations/",
-      "date": "2026-05-19T08:36:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "BW ESS submits 700MW Bannaby battery storage project in NSW to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/bw-ess-submits-700mw-bannaby-battery-storage-project-in-nsw-to-australias-epbc-act/",
       "date": "2026-05-12T02:02:05.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: &#8216;We miss some benefits of diversification&#8217;: ITP Thermal warns against lithium-ion over-reliance in Australia",
-      "url": "https://www.energy-storage.news/video-we-miss-some-benefits-of-diversification-itp-thermal-warns-against-lithium-ion-over-reliance-in-australia/",
-      "date": "2026-05-12T01:59:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AESC, Jinko’s asset sales are start of wider US clean energy manufacturing industry restructuring",
-      "url": "https://www.energy-storage.news/aesc-jinkos-asset-sales-are-start-of-wider-us-clean-energy-manufacturing-industry-restructuring/",
-      "date": "2026-05-11T15:53:39.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
