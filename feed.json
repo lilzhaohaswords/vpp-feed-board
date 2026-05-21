@@ -1,6 +1,34 @@
 {
-  "ts": 1779328285651,
+  "ts": 1779343028485,
   "items": [
+    {
+      "title": "Offshore vs. ground-mounted PV",
+      "url": "https://www.pv-magazine.com/2026/05/21/offshore-vs-ground-mounted-pv-2/",
+      "date": "2026-05-21T05:08:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Equis launches GreenPoint Energy with 2.5GW of BESS and wind projects across Australia&#8217;s NEM",
+      "url": "https://www.energy-storage.news/equis-launches-greenpoint-energy-with-2-5gw-of-bess-and-wind-projects-across-australias-nem/",
+      "date": "2026-05-21T02:23:50.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Edify Energy to proceed with 2,400MWh solar-plus-storage sites in Australia",
+      "url": "https://www.energy-storage.news/edify-energy-to-proceed-with-2400mwh-solar-plus-storage-sites-in-australia/",
+      "date": "2026-05-21T02:22:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EDP wins AU$3 million ARENA funding for bushfire-resilient microgrid in regional Australia",
+      "url": "https://www.energy-storage.news/edp-wins-au3-million-arena-funding-for-bushfire-resilient-microgrid-in-regional-australia/",
+      "date": "2026-05-21T02:09:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "U.S. PV manufacturing capex could reach $7 billion in 2027 in breakout year for domestic supply-chain",
       "url": "https://www.pv-magazine.com/2026/05/20/u-s-pv-manufacturing-capex-could-reach-7-billion-in-2027-in-breakout-year-for-domestic-supply-chain/",
@@ -261,13 +289,6 @@
       "bucket": "A"
     },
     {
-      "title": "EU solar recycling only viable under strict policy, say researchers",
-      "url": "https://www.pv-magazine.com/2026/05/19/eu-solar-recycling-only-viable-under-strict-policy-say-researchers/",
-      "date": "2026-05-19T08:14:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Malaysian utility TNB connects 100MW/400MWh grid-forming battery storage project to grid",
       "url": "https://www.energy-storage.news/malaysian-utility-tnb-connects-100mw-400mwh-grid-forming-battery-storage-project-to-grid/",
       "date": "2026-05-19T05:24:01.000Z",
@@ -502,27 +523,6 @@
       "title": "AESC, Jinko’s asset sales are start of wider US clean energy manufacturing industry restructuring",
       "url": "https://www.energy-storage.news/aesc-jinkos-asset-sales-are-start-of-wider-us-clean-energy-manufacturing-industry-restructuring/",
       "date": "2026-05-11T15:53:39.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy Vault reaffirms 2026 guidance, sets sights on AI infrastructure PPA deals",
-      "url": "https://www.energy-storage.news/energy-vault-reaffirms-2026-guidance-sets-sights-on-ai-infrastructure-ppa-deals/",
-      "date": "2026-05-11T13:17:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Qcells partners Jabil in US for domestic content residential battery storage manufacturing",
-      "url": "https://www.energy-storage.news/qcells-partners-jabil-in-us-for-domestic-content-residential-battery-storage-manufacturing/",
-      "date": "2026-05-11T13:07:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fluence doubles order intake, expects to book first big data centre deal this quarter",
-      "url": "https://www.energy-storage.news/fluence-doubles-order-intake-expects-to-book-first-big-data-centre-deal-this-quarter/",
-      "date": "2026-05-11T10:00:18.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
