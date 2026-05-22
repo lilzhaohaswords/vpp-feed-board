@@ -1,6 +1,55 @@
 {
-  "ts": 1779439380220,
+  "ts": 1779449684544,
   "items": [
+    {
+      "title": "New metric assesses innovation readiness in agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/05/22/new-metric-assesses-innovation-readiness-in-agrivoltaics/",
+      "date": "2026-05-22T11:16:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany market participants starting to price 2029-onwards projects despite uncertainty",
+      "url": "https://www.energy-storage.news/germany-market-participants-starting-to-price-2029-onwards-projects-despite-uncertainty/",
+      "date": "2026-05-22T11:00:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EDF completes 120MWh Poland BESS; Eurus, NGEN and Aretis progress other CEE projects",
+      "url": "https://www.energy-storage.news/edf-completes-120mwh-poland-bess-eurus-ngen-and-aretis-progress-other-cee-projects/",
+      "date": "2026-05-22T10:55:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar and wind generated more electricity globally than gas power for the first time in April",
+      "url": "https://www.pv-magazine.com/2026/05/22/solar-and-wind-generated-more-electricity-globally-than-gas-power-for-the-first-time-in-april/",
+      "date": "2026-05-22T10:49:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Deye unveils 2.56 kWh hybrid battery for balcony, residential PV",
+      "url": "https://www.pv-magazine.com/2026/05/22/deye-unveils-2-56-kwh-hybrid-battery-for-balcony-residential-pv/",
+      "date": "2026-05-22T09:24:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SAJ unveils its ecosystem strategy and three new products at the elekeeper ecosystem partner conference",
+      "url": "https://www.pv-magazine.com/2026/05/22/saj-unveils-its-ecosystem-strategy-and-three-new-products-at-the-elekeeper-ecosystem-partner-conference/",
+      "date": "2026-05-22T09:00:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Singapore team builds 19.7%-efficient ultrathin &#8216;biPoly&#8217; TOPCon solar cell",
+      "url": "https://www.pv-magazine.com/2026/05/22/singaporean-scientists-build-19-7-efficient-ultrathin-bipoly-topcon-solar-cell/",
+      "date": "2026-05-22T08:46:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Masdar picks Sungrow as supplier for world’s largest 24/7 renewable energy project in UAE",
       "url": "https://www.energy-storage.news/masdar-picks-sungrow-as-supplier-for-worlds-largest-24-7-renewable-energy-project-in-uae/",
@@ -198,20 +247,6 @@
       "bucket": "A"
     },
     {
-      "title": "MTA launches air-to-water heat pump with scalable architecture",
-      "url": "https://www.pv-magazine.com/2026/05/21/mta-launches-air-to-water-heat-pump-with-scalable-architecture/",
-      "date": "2026-05-21T07:35:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Offshore vs. ground-mounted PV",
-      "url": "https://www.pv-magazine.com/2026/05/21/offshore-vs-ground-mounted-pv-2/",
-      "date": "2026-05-21T05:08:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Equis launches GreenPoint Energy with 2.5GW of BESS and wind projects across Australia&#8217;s NEM",
       "url": "https://www.energy-storage.news/equis-launches-greenpoint-energy-with-2-5gw-of-bess-and-wind-projects-across-australias-nem/",
       "date": "2026-05-21T02:23:50.000Z",
@@ -230,27 +265,6 @@
       "url": "https://www.energy-storage.news/edp-wins-au3-million-arena-funding-for-bushfire-resilient-microgrid-in-regional-australia/",
       "date": "2026-05-21T02:09:45.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. PV manufacturing capex could reach $7 billion in 2027 in breakout year for domestic supply-chain",
-      "url": "https://www.pv-magazine.com/2026/05/20/u-s-pv-manufacturing-capex-could-reach-7-billion-in-2027-in-breakout-year-for-domestic-supply-chain/",
-      "date": "2026-05-20T13:52:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China conducts first experiments for space-based solar power plants",
-      "url": "https://www.pv-magazine.com/2026/05/20/china-conducts-first-experiments-for-space-based-solar-power-plants/",
-      "date": "2026-05-20T13:47:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "DNV publishes new floating PV safety standards",
-      "url": "https://www.pv-magazine.com/2026/05/20/dnv-publishes-new-floating-pv-safety-standards/",
-      "date": "2026-05-20T11:43:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "South Africa&#8217;s Eskom enlists Energy Vault for gravity energy storage technology",
       "url": "https://www.energy-storage.news/south-africa-eskom-enlists-energy-vault-gravity-energy-storage-technology/",
       "date": "2026-05-13T10:20:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan’s Softbank launches ‘end-to-end’ non-lithium battery cell and BESS manufacturing business",
-      "url": "https://www.energy-storage.news/japans-softbank-launches-end-to-end-non-lithium-battery-cell-and-bess-manufacturing-business/",
-      "date": "2026-05-13T09:47:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Western Australia&#8217;s battery storage supplies record 37.2% of peak demand",
-      "url": "https://www.energy-storage.news/western-australias-battery-storage-supplies-record-37-2-of-peak-demand/",
-      "date": "2026-05-13T03:15:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
