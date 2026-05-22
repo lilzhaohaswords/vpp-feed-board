@@ -1,6 +1,55 @@
 {
-  "ts": 1779449684544,
+  "ts": 1779458726635,
   "items": [
+    {
+      "title": "EBRD lends €70 million to Slovenian BESS developer across four countries",
+      "url": "https://www.pv-magazine.com/2026/05/22/ebrd-lends-e70-million-to-slovenian-bess-developer-for-four-country-portfolio/",
+      "date": "2026-05-22T13:23:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;I still remember an HR director guessing my age during a recruitment process and assuming I would soon have children&#8217;",
+      "url": "https://www.pv-magazine.com/2026/05/22/i-still-remember-an-hr-director-guessing-my-age-during-a-recruitment-process-and-assuming-i-would-soon-have-children/",
+      "date": "2026-05-22T12:55:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: Polysilicon prices remain flat amid supply-demand rebalancing signals",
+      "url": "https://www.pv-magazine.com/2026/05/22/chinese-pv-industry-brief-polysilicon-prices-remain-flat-amid-supply-demand-rebalancing-signals/",
+      "date": "2026-05-22T12:47:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Slovakia plans to develop energy communities",
+      "url": "https://www.pv-magazine.com/2026/05/22/slovakia-plans-to-develop-energy-communities/",
+      "date": "2026-05-22T12:35:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spearmint Energy secures US$450 million for 600MWh Texas BESS project",
+      "url": "https://www.energy-storage.news/spearmint-energy-secures-us450-million-for-600mwh-texas-bess-project/",
+      "date": "2026-05-22T11:54:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "LDES investor Frontier Power acquires 480MWh Texas BESS portfolio from Bimergen",
+      "url": "https://www.energy-storage.news/ldes-investor-frontier-power-acquires-480mwh-texas-bess-portfolio-from-bimergen/",
+      "date": "2026-05-22T11:50:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "The Hydrogen Stream: Netherlands commissions 32-km hydrogen pipeline",
+      "url": "https://www.pv-magazine.com/2026/05/22/the-hydrogen-stream-netherlands-commissions-32-km-hydrogen-pipeline/",
+      "date": "2026-05-22T11:39:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "New metric assesses innovation readiness in agrivoltaics",
       "url": "https://www.pv-magazine.com/2026/05/22/new-metric-assesses-innovation-readiness-in-agrivoltaics/",
@@ -177,13 +226,6 @@
       "bucket": "A"
     },
     {
-      "title": "TCL SunPower launches new shingled TOPCon module series",
-      "url": "https://www.pv-magazine.com/2026/05/21/tcl-solar-launches-new-shingled-topcon-module-series/",
-      "date": "2026-05-21T11:46:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Invinity lands contract for 2.1GWh flow battery in Switzerland, share price soars 60%",
       "url": "https://www.energy-storage.news/invinity-lands-contract-for-2-1gwh-flow-battery-in-switzerland-share-price-soars-60/",
       "date": "2026-05-21T11:30:33.000Z",
@@ -195,13 +237,6 @@
       "url": "https://www.energy-storage.news/chinas-hyperstrong-deepens-ties-with-european-inverter-manufacturer-sma-for-global-utility-scale-bess-projects/",
       "date": "2026-05-21T11:25:24.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Omani PV manufacturer AACE switches to TOPCon",
-      "url": "https://www.pv-magazine.com/2026/05/21/omani-pv-manufacturer-aace-switches-to-topcon/",
-      "date": "2026-05-21T10:39:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -219,31 +254,10 @@
       "bucket": "A"
     },
     {
-      "title": "IRENA proposes global electrification target of 35% by 2035",
-      "url": "https://www.pv-magazine.com/2026/05/21/irena-proposes-global-electrification-target-of-35-by-2035/",
-      "date": "2026-05-21T08:51:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UNSW researchers shed new light on UV-induced degradation in PERC, TOPCon solar cells",
-      "url": "https://www.pv-magazine.com/2026/05/21/unsw-researchers-shed-new-light-on-uv-induced-degradation-in-perc-topcon-solar-cells/",
-      "date": "2026-05-21T08:23:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "&#8216;More complex trading strategies&#8217; necessary for BESS to be profitable in the UK",
       "url": "https://www.energy-storage.news/uks-neso-clears-150gw-bess-grid-connection-queue-financial-challenges-remain/",
       "date": "2026-05-21T07:59:47.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European PV avoided €10 billion in gas imports since escalation of Iran conflict",
-      "url": "https://www.pv-magazine.com/2026/05/21/european-pv-avoided-e10-billion-in-gas-imports-since-escalation-of-the-iran-conflict/",
-      "date": "2026-05-21T07:52:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -509,20 +523,6 @@
       "title": "US ROUNDUP: BESS project updates from Spearmint, Polaris, and Clearway in Texas, Puerto Rico and Utah",
       "url": "https://www.energy-storage.news/us-roundup-bess-project-updates-from-spearmint-polaris-and-clearway-in-texas-puerto-rico-and-utah/",
       "date": "2026-05-13T11:07:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "IRENA: Renewables with storage cost-competitive with fossil fuels for round-the-clock power",
-      "url": "https://www.energy-storage.news/irena-renewables-with-storage-cost-competitive-with-fossil-fuels-for-round-the-clock-power/",
-      "date": "2026-05-13T10:46:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "South Africa&#8217;s Eskom enlists Energy Vault for gravity energy storage technology",
-      "url": "https://www.energy-storage.news/south-africa-eskom-enlists-energy-vault-gravity-energy-storage-technology/",
-      "date": "2026-05-13T10:20:24.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
