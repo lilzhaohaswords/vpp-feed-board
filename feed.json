@@ -1,6 +1,20 @@
 {
-  "ts": 1779514048835,
+  "ts": 1779523169032,
   "items": [
+    {
+      "title": "Europe creates map to locate available capacity in power grids",
+      "url": "https://www.pv-magazine.com/2026/05/23/europe-creates-map-to-locate-available-capacity-in-power-grids/",
+      "date": "2026-05-23T07:00:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Mandatory utility fees distort price signals for rooftop solar in the US",
+      "url": "https://www.pv-magazine.com/2026/05/23/mandatory-utility-fees-distort-price-signals-for-rooftop-solar-in-the-us/",
+      "date": "2026-05-23T06:00:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "China invalidates First Solar TOPCon patent in major win for JinkoSolar",
       "url": "https://www.pv-magazine.com/2026/05/22/china-invalidates-first-solar-topcon-patent-in-major-win-for-jinkosolar/",
@@ -198,13 +212,6 @@
       "bucket": "A"
     },
     {
-      "title": "Utility-scale solar expansion has little impact on U.S. crop prices",
-      "url": "https://www.pv-magazine.com/2026/05/21/utility-scale-solar-expansion-has-little-impact-on-u-s-crop-prices/",
-      "date": "2026-05-21T13:48:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Developers must become ‘a bit of a firefighter, sound expert, and light expert’: Addressing BESS safety and community opposition",
       "url": "https://www.energy-storage.news/developers-must-become-a-bit-of-a-firefighter-sound-expert-and-light-expert-addressing-bess-safety-and-community-opposition/",
       "date": "2026-05-21T13:35:31.000Z",
@@ -216,13 +223,6 @@
       "url": "https://www.energy-storage.news/us-roundup-bess-project-advancements-from-oci-energy-mn8-energy-gridstor-grenergy/",
       "date": "2026-05-21T13:19:37.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Meeting the challenges of long life time PV on buildings",
-      "url": "https://www.pv-magazine.com/2026/05/21/meeting-the-challenges-of-long-life-time-pv-on-buildings/",
-      "date": "2026-05-21T12:28:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
