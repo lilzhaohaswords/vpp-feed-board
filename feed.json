@@ -1,6 +1,55 @@
 {
-  "ts": 1779706832306,
+  "ts": 1779719081980,
   "items": [
+    {
+      "title": "BloombergNEF ups BESS forecast as renewables add resilience from fossil fuel price shocks",
+      "url": "https://www.energy-storage.news/bloombergnef-ups-bess-forecast-as-renewables-add-resilience-from-fossil-fuel-price-shocks/",
+      "date": "2026-05-25T13:27:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Cuba raises renewable electricity export tariff 30-fold",
+      "url": "https://www.pv-magazine.com/2026/05/25/cuba-raises-renewable-electricity-export-tariff-30-fold/",
+      "date": "2026-05-25T13:04:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "250MW/1,000MWh Ontario BESS begins commercial operations, potential expansion ahead",
+      "url": "https://www.energy-storage.news/250mw-1000mwh-ontario-bess-begins-commercial-operations-potential-expansion-ahead/",
+      "date": "2026-05-25T12:53:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US installed 9.7GWh of new BESS in Q1 2026, SEIA reports",
+      "url": "https://www.energy-storage.news/us-installed-9-7gwh-of-new-bess-in-q1-2026-seia-reports/",
+      "date": "2026-05-25T12:38:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EU awards €400 million to 65 industrial heat projects in auction",
+      "url": "https://www.pv-magazine.com/2026/05/25/eu-awards-e400-million-to-65-industrial-heat-projects-in-auction/",
+      "date": "2026-05-25T12:15:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "An uncomfortable truth: What Spain’s blackout really showed",
+      "url": "https://www.pv-magazine.com/2026/05/25/an-uncomfortable-truth-what-spains-blackout-really-showed/",
+      "date": "2026-05-25T12:00:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "San Marino launches solar acquisition program",
+      "url": "https://www.pv-magazine.com/2026/05/25/san-marino-launches-solar-acquisition-program/",
+      "date": "2026-05-25T11:00:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "DAS Solar, UNSW build tunnel back-contact solar cell with 27% efficiency, lower silver content",
       "url": "https://www.pv-magazine.com/2026/05/25/das-solar-unsw-build-tunnel-back-contact-solar-cell-with-27-efficiency-lower-silver-content/",
@@ -184,38 +233,10 @@
       "bucket": "A"
     },
     {
-      "title": "SAJ unveils its ecosystem strategy and three new products at the elekeeper ecosystem partner conference",
-      "url": "https://www.pv-magazine.com/2026/05/22/saj-unveils-its-ecosystem-strategy-and-three-new-products-at-the-elekeeper-ecosystem-partner-conference/",
-      "date": "2026-05-22T09:00:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Singapore team builds 19.7%-efficient ultrathin &#8216;biPoly&#8217; TOPCon solar cell",
-      "url": "https://www.pv-magazine.com/2026/05/22/singaporean-scientists-build-19-7-efficient-ultrathin-bipoly-topcon-solar-cell/",
-      "date": "2026-05-22T08:46:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Masdar picks Sungrow as supplier for world’s largest 24/7 renewable energy project in UAE",
       "url": "https://www.energy-storage.news/masdar-picks-sungrow-as-supplier-for-worlds-largest-24-7-renewable-energy-project-in-uae/",
       "date": "2026-05-22T08:33:15.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Record-dry April lifts irradiance across Eastern Australia",
-      "url": "https://www.pv-magazine.com/2026/05/22/record-dry-april-lifts-irradiance-across-eastern-australia/",
-      "date": "2026-05-22T07:36:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese wafer producers build inventory ahead of expected Q3 demand recovery",
-      "url": "https://www.pv-magazine.com/2026/05/22/chinese-wafer-producers-build-inventory-ahead-of-expected-q3-demand-recovery/",
-      "date": "2026-05-22T07:28:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +523,6 @@
       "title": "INDIA Roundup: ACME Solar, IndiGrid commission Rajasthan &#038; Gujarat BESS projects, GE Vernova wins pumped hydro contract",
       "url": "https://www.energy-storage.news/india-roundup-acme-solar-indigrid-commission-rajasthan-gujarat-bess-projects-ge-vernova-wins-pumped-hydro-contract/",
       "date": "2026-05-14T08:51:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Akaysha Energy bags EPBC Act approval for 1,600MWh battery storage system in Victoria, Australia",
-      "url": "https://www.energy-storage.news/akaysha-energy-bags-epbc-act-approval-for-1600mwh-battery-storage-system-in-victoria-australia/",
-      "date": "2026-05-14T01:54:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery Breakthrough Initiative hit as Australia cuts AU$1.3 billion in clean energy funding",
-      "url": "https://www.energy-storage.news/battery-breakthrough-initiative-hit-as-australia-cuts-au1-3-billion-in-clean-energy-funding/",
-      "date": "2026-05-14T01:53:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Galileo CEO on ‘completely different’ development market, meeting PPA demand and where in Europe it will transact next",
-      "url": "https://www.energy-storage.news/galileo-ceo-on-completely-different-development-market-meeting-ppa-demand-and-where-in-europe-it-will-transact-next/",
-      "date": "2026-05-13T11:49:39.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
