@@ -1,6 +1,20 @@
 {
-  "ts": 1779674168830,
+  "ts": 1779689678206,
   "items": [
+    {
+      "title": "Oil in turmoil, solar stays stable",
+      "url": "https://www.pv-magazine.com/2026/05/25/oil-in-turmoil-solar-stays-stable/",
+      "date": "2026-05-25T06:00:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Contact Energy switches on 200MWh battery storage system in New Zealand",
+      "url": "https://www.energy-storage.news/contact-energy-switches-on-200mwh-battery-storage-system-in-new-zealand/",
+      "date": "2026-05-25T03:49:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Brazil falls short of its battery storage potential",
       "url": "https://www.pv-magazine.com/2026/05/23/brazil-falls-short-of-its-battery-storage-potential/",
@@ -201,13 +215,6 @@
       "title": "India has now 32.9 GW of operational PV capacity under private PPAs",
       "url": "https://www.pv-magazine.com/2026/05/22/india-has-now-32-9-gw-of-operational-pv-capacity-under-private-ppas/",
       "date": "2026-05-22T05:59:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia opens tenders for 2.5 GW of solar and wind alongside 12.5 GWh of storage",
-      "url": "https://www.pv-magazine.com/2026/05/22/australia-opens-tenders-for-2-5-gw-of-solar-and-wind-alongside-12-5-gwh-of-storage/",
-      "date": "2026-05-22T05:48:07.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -516,13 +523,6 @@
       "title": "Galileo CEO on ‘completely different’ development market, meeting PPA demand and where in Europe it will transact next",
       "url": "https://www.energy-storage.news/galileo-ceo-on-completely-different-development-market-meeting-ppa-demand-and-where-in-europe-it-will-transact-next/",
       "date": "2026-05-13T11:49:39.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US ROUNDUP: BESS project updates from Spearmint, Polaris, and Clearway in Texas, Puerto Rico and Utah",
-      "url": "https://www.energy-storage.news/us-roundup-bess-project-updates-from-spearmint-polaris-and-clearway-in-texas-puerto-rico-and-utah/",
-      "date": "2026-05-13T11:07:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
