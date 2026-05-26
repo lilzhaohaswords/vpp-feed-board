@@ -1,6 +1,62 @@
 {
-  "ts": 1779785958142,
+  "ts": 1779813179736,
   "items": [
+    {
+      "title": "Türkiye reduces grid fee for around 800 unlicensed solar plants",
+      "url": "https://www.pv-magazine.com/2026/05/26/turkiye-reduces-grid-fee-for-around-800-unlicensed-solar-plants/",
+      "date": "2026-05-26T11:58:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Seven countermeasures against negative electricity prices",
+      "url": "https://www.pv-magazine.com/2026/05/26/seven-countermeasures-against-negative-electricity-prices/",
+      "date": "2026-05-26T11:33:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spanish grid operator validates tower resistance against cascading failures",
+      "url": "https://www.pv-magazine.com/2026/05/26/spanish-grid-operator-validates-tower-resistance-against-cascading-failures/",
+      "date": "2026-05-26T11:09:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Strong regulatory uncertainty ‘cools’ investor interest in Germany, clarity in 2027 at earliest",
+      "url": "https://www.energy-storage.news/strong-regulatory-uncertainty-cools-investor-interest-in-germany-clarity-in-2027-at-earliest/",
+      "date": "2026-05-26T11:03:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Saudi Arabia gets first BESS manufacturing facility",
+      "url": "https://www.pv-magazine.com/2026/05/26/saudi-arabia-gets-first-bess-manufacturing-facility/",
+      "date": "2026-05-26T10:52:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Serbia postpones connection studies for renewables until 2029",
+      "url": "https://www.pv-magazine.com/2026/05/26/serbia-postpones-connection-studies-for-renewables-until-2029/",
+      "date": "2026-05-26T10:02:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Storing renewables with compressed air in urban heating pipeline",
+      "url": "https://www.pv-magazine.com/2026/05/26/storing-renewables-with-compressed-air-in-urban-heating-pipeline/",
+      "date": "2026-05-26T09:28:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "CATL supplying 1.5GWh for Grenergy&#8217;s long-term tolled Spanish BESS projects",
+      "url": "https://www.energy-storage.news/catl-supplying-1-5gwh-for-grenergys-long-term-tolled-spanish-bess-projects/",
+      "date": "2026-05-26T09:05:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Study finds POLO back junction solar cells could outperform PERC on costs in Europe",
       "url": "https://www.pv-magazine.com/2026/05/26/study-finds-polo-back-junction-solar-cells-could-outperform-perc-on-costs-in-europe/",
@@ -208,48 +264,6 @@
       "title": "Europe creates map to locate available capacity in power grids",
       "url": "https://www.pv-magazine.com/2026/05/23/europe-creates-map-to-locate-available-capacity-in-power-grids/",
       "date": "2026-05-23T07:00:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Mandatory utility fees distort price signals for rooftop solar in the US",
-      "url": "https://www.pv-magazine.com/2026/05/23/mandatory-utility-fees-distort-price-signals-for-rooftop-solar-in-the-us/",
-      "date": "2026-05-23T06:00:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China invalidates First Solar TOPCon patent in major win for JinkoSolar",
-      "url": "https://www.pv-magazine.com/2026/05/22/china-invalidates-first-solar-topcon-patent-in-major-win-for-jinkosolar/",
-      "date": "2026-05-22T15:31:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EBRD lends €70 million to Slovenian BESS developer across four countries",
-      "url": "https://www.pv-magazine.com/2026/05/22/ebrd-lends-e70-million-to-slovenian-bess-developer-for-four-country-portfolio/",
-      "date": "2026-05-22T13:23:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;I still remember an HR director guessing my age during a recruitment process and assuming I would soon have children&#8217;",
-      "url": "https://www.pv-magazine.com/2026/05/22/i-still-remember-an-hr-director-guessing-my-age-during-a-recruitment-process-and-assuming-i-would-soon-have-children/",
-      "date": "2026-05-22T12:55:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: Polysilicon prices remain flat amid supply-demand rebalancing signals",
-      "url": "https://www.pv-magazine.com/2026/05/22/chinese-pv-industry-brief-polysilicon-prices-remain-flat-amid-supply-demand-rebalancing-signals/",
-      "date": "2026-05-22T12:47:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Slovakia plans to develop energy communities",
-      "url": "https://www.pv-magazine.com/2026/05/22/slovakia-plans-to-develop-energy-communities/",
-      "date": "2026-05-22T12:35:18.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -509,20 +523,6 @@
       "title": "Rept Battero opens Indonesian cell and BESS manufacturing facility",
       "url": "https://www.energy-storage.news/rept-battero-opens-indonesian-cell-and-bess-manufacturing-facility/",
       "date": "2026-05-15T09:57:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "System-level BESS manufacturing defects cause ‘hidden risk’ for developers, Intertek CEA says",
-      "url": "https://www.energy-storage.news/system-level-bess-manufacturing-defects-cause-hidden-risk-for-developers-intertek-cea-says/",
-      "date": "2026-05-15T08:24:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EnerVenue piloting &#8216;30,000-cycle&#8217; nickel-hydrogen BESS in China",
-      "url": "https://www.energy-storage.news/enervenue-piloting-30000-cycle-nickel-hydrogen-bess-in-china/",
-      "date": "2026-05-15T07:51:43.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
