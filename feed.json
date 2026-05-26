@@ -1,6 +1,20 @@
 {
-  "ts": 1779760112264,
+  "ts": 1779774847225,
   "items": [
+    {
+      "title": "Australia seeks 5 GW renewable generation in new tender",
+      "url": "https://www.pv-magazine.com/2026/05/26/australia-seeks-5-gw-renewable-generation-in-new-tender/",
+      "date": "2026-05-26T05:44:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Gujarat Industries Power Co seeks bids for 120MWh vanadium flow battery pilot project",
+      "url": "https://www.energy-storage.news/gujarat-industries-power-co-seeks-bids-for-120mwh-vanadium-flow-battery-pilot-project/",
+      "date": "2026-05-26T03:04:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Fortescue begins construction on 650MWh Cloudbreak battery storage system in Western Australia",
       "url": "https://www.energy-storage.news/fortescue-begins-construction-on-650mwh-cloudbreak-battery-storage-system-in-western-australia/",
@@ -251,13 +265,6 @@
       "url": "https://www.energy-storage.news/edf-completes-120mwh-poland-bess-eurus-ngen-and-aretis-progress-other-cee-projects/",
       "date": "2026-05-22T10:55:28.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar and wind generated more electricity globally than gas power for the first time in April",
-      "url": "https://www.pv-magazine.com/2026/05/22/solar-and-wind-generated-more-electricity-globally-than-gas-power-for-the-first-time-in-april/",
-      "date": "2026-05-22T10:49:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Australia: NSW firming tender secures 2,128MWh of energy storage to address summer shortfall",
       "url": "https://www.energy-storage.news/australia-nsw-firming-tender-secures-2128mwh-of-energy-storage-to-address-summer-shortfall/",
       "date": "2026-05-15T03:04:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China&#8217;s Gotion and Richardson Electronics partner for US-made BESS",
-      "url": "https://www.energy-storage.news/chinas-gotion-and-richardson-electronics-partner-for-us-made-bess/",
-      "date": "2026-05-14T13:05:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
