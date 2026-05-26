@@ -1,6 +1,34 @@
 {
-  "ts": 1779753180356,
+  "ts": 1779760112264,
   "items": [
+    {
+      "title": "Fortescue begins construction on 650MWh Cloudbreak battery storage system in Western Australia",
+      "url": "https://www.energy-storage.news/fortescue-begins-construction-on-650mwh-cloudbreak-battery-storage-system-in-western-australia/",
+      "date": "2026-05-26T01:32:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Passive bidding strategy delivers AU$743,000 monthly revenue for Swanbank BESS in Australia",
+      "url": "https://www.energy-storage.news/passive-bidding-strategy-delivers-au743000-monthly-revenue-for-swanbank-bess-in-australia/",
+      "date": "2026-05-26T01:30:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Battery storage dominates Australia&#8217;s Capacity Investment Scheme Tender 7 as hybrid projects secure 7.9GWh",
+      "url": "https://www.energy-storage.news/battery-storage-dominates-australias-capacity-investment-scheme-tender-7-as-hybrid-projects-secure-7-9gwh/",
+      "date": "2026-05-26T00:48:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia becomes the ‘world&#8217;s third-largest utility-scale battery storage market’",
+      "url": "https://www.energy-storage.news/australia-becomes-the-worlds-third-largest-utility-scale-battery-storage-market/",
+      "date": "2026-05-26T00:44:11.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "JA Solar, Gold Stone Energy claim world’s highest efficiency for silicon solar cells with 28.2%-efficient back contact device",
       "url": "https://www.pv-magazine.com/2026/05/25/ja-solar-gold-stone-energy-claim-worlds-highest-efficiency-for-silicon-solar-cells-with-28-2-efficient-back-contact-device/",
@@ -495,34 +523,6 @@
       "title": "China&#8217;s Gotion and Richardson Electronics partner for US-made BESS",
       "url": "https://www.energy-storage.news/chinas-gotion-and-richardson-electronics-partner-for-us-made-bess/",
       "date": "2026-05-14T13:05:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Pew&#8217;s US DER policy playbook aimed at giving ‘every state a path forward’",
-      "url": "https://www.energy-storage.news/pews-us-der-policy-playbook-aimed-at-giving-every-state-a-path-forward/",
-      "date": "2026-05-14T11:50:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hydrostor to enter A-CAES project into Ontario LDES procurement",
-      "url": "https://www.energy-storage.news/hydrostor-to-enter-a-caes-project-into-ontario-ldes-procurement/",
-      "date": "2026-05-14T11:45:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Nearly 13GWh of grid-scale BESS deployed globally in April",
-      "url": "https://www.energy-storage.news/nearly-13gwh-of-grid-scale-bess-deployed-globally-in-april/",
-      "date": "2026-05-14T11:39:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "INDIA Roundup: ACME Solar, IndiGrid commission Rajasthan &#038; Gujarat BESS projects, GE Vernova wins pumped hydro contract",
-      "url": "https://www.energy-storage.news/india-roundup-acme-solar-indigrid-commission-rajasthan-gujarat-bess-projects-ge-vernova-wins-pumped-hydro-contract/",
-      "date": "2026-05-14T08:51:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
