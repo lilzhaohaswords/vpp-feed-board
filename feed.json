@@ -1,6 +1,13 @@
 {
-  "ts": 1779878598392,
+  "ts": 1779891306020,
   "items": [
+    {
+      "title": "‘Domestic manufacturing capacity sufficient to fully satisfy US battery module demand,’ trade group ACP claims",
+      "url": "https://www.energy-storage.news/domestic-manufacturing-capacity-sufficient-to-fully-satisfy-us-battery-module-demand-trade-group-acp-claims/",
+      "date": "2026-05-27T13:01:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "German government confirms August 2029 grid fee exemption date for storage, but sets 2027 FID deadline",
       "url": "https://www.energy-storage.news/german-government-confirms-august-2029-grid-fee-exemption-date-for-storage-but-sets-2027-fid-deadline/",
@@ -341,13 +348,6 @@
       "title": "Australia’s Enervest shifts to own-and-operate model with 300MW battery storage system acquisition",
       "url": "https://www.energy-storage.news/australias-enervest-shifts-to-own-and-operate-model-with-300mw-battery-storage-system-acquisition/",
       "date": "2026-05-19T02:18:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Non-lithium players Eos and ESS lean on future of US LDES deployment in Q1 2026 financials",
-      "url": "https://www.energy-storage.news/non-lithium-players-eos-and-ess-lean-on-future-of-us-ldes-deployment-in-q1-2026-financials/",
-      "date": "2026-05-18T10:53:54.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
