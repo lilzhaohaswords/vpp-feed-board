@@ -1,6 +1,13 @@
 {
-  "ts": 1779891306020,
+  "ts": 1779904057180,
   "items": [
+    {
+      "title": "California Energy Commission approves 3.2GWh BESS project through Newsom&#8217;s accelerated permitting scheme",
+      "url": "https://www.energy-storage.news/california-energy-commission-approves-3-2gwh-bess-project-through-newsoms-accelerated-permitting-scheme/",
+      "date": "2026-05-27T14:54:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "‘Domestic manufacturing capacity sufficient to fully satisfy US battery module demand,’ trade group ACP claims",
       "url": "https://www.energy-storage.news/domestic-manufacturing-capacity-sufficient-to-fully-satisfy-us-battery-module-demand-trade-group-acp-claims/",
@@ -30,10 +37,80 @@
       "bucket": "A"
     },
     {
+      "title": "Paraguay launches first large-scale solar tender, marking historic shift in energy policy",
+      "url": "https://www.pv-magazine.com/2026/05/27/paraguay-launches-first-large-scale-solar-tender-marking-historic-shift-in-energy-policy/",
+      "date": "2026-05-27T06:48:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Malaysia offers cash rebate for home solar",
+      "url": "https://www.pv-magazine.com/2026/05/27/malaysia-offers-cash-rebate-for-home-solar/",
+      "date": "2026-05-27T06:30:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Colombia awards 1,546.9 MW of solar capacity in firm energy auction for 2029–2030",
+      "url": "https://www.pv-magazine.com/2026/05/27/colombia-awards-1546-9-mw-of-solar-capacity-in-firm-energy-auction-for-2029-2030/",
+      "date": "2026-05-27T06:00:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar and battery hybrid projects prominent in latest Australian tender",
+      "url": "https://www.pv-magazine.com/2026/05/27/solar-and-battery-hybrid-projects-prominent-in-latest-australian-tender/",
+      "date": "2026-05-27T05:57:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Pexapark records 17 European PPAs for 966 MW in April",
+      "url": "https://www.pv-magazine.com/2026/05/27/pexapark-records-17-european-ppas-for-966-mw-in-april/",
+      "date": "2026-05-27T05:30:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Assessing Elon Musk’s massive 100 GW solar ambitions",
+      "url": "https://www.pv-magazine.com/2026/05/27/assessing-elon-musks-massive-100-gw-solar-ambitions/",
+      "date": "2026-05-27T05:00:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar-friendly dynamic pricing of electricity could cut California’s peak demand by several GW",
+      "url": "https://www.pv-magazine.com/2026/05/27/solar-friendly-dynamic-pricing-of-electricity-could-cut-californias-peak-demand-by-several-gw/",
+      "date": "2026-05-27T04:30:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
       "title": "MGA Thermal begins FEED study for 195MWh thermal energy storage system in Australia",
       "url": "https://www.energy-storage.news/mga-thermal-begins-feed-study-for-195mwh-thermal-energy-storage-system-in-australia/",
       "date": "2026-05-27T02:58:56.000Z",
       "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Türkiye reduces grid fee for around 800 unlicensed solar plants",
+      "url": "https://www.pv-magazine.com/2026/05/26/turkiye-reduces-grid-fee-for-around-800-unlicensed-solar-plants/",
+      "date": "2026-05-26T11:58:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Seven countermeasures against negative electricity prices",
+      "url": "https://www.pv-magazine.com/2026/05/26/seven-countermeasures-against-negative-electricity-prices/",
+      "date": "2026-05-26T11:33:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spanish grid operator validates tower resistance against cascading failures",
+      "url": "https://www.pv-magazine.com/2026/05/26/spanish-grid-operator-validates-tower-resistance-against-cascading-failures/",
+      "date": "2026-05-26T11:09:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -341,13 +418,6 @@
       "title": "Construction begins on OX2’s 300MWh Muswellbrook solar-plus-BESS in NSW, Australia",
       "url": "https://www.energy-storage.news/construction-begins-on-ox2s-300mwh-muswellbrook-solar-plus-bess-in-nsw-australia/",
       "date": "2026-05-19T02:21:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s Enervest shifts to own-and-operate model with 300MW battery storage system acquisition",
-      "url": "https://www.energy-storage.news/australias-enervest-shifts-to-own-and-operate-model-with-300mw-battery-storage-system-acquisition/",
-      "date": "2026-05-19T02:18:56.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
