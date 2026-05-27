@@ -1,53 +1,25 @@
 {
-  "ts": 1779864635397,
+  "ts": 1779878598392,
   "items": [
     {
-      "title": "Paraguay launches first large-scale solar tender, marking historic shift in energy policy",
-      "url": "https://www.pv-magazine.com/2026/05/27/paraguay-launches-first-large-scale-solar-tender-marking-historic-shift-in-energy-policy/",
-      "date": "2026-05-27T06:48:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
+      "title": "German government confirms August 2029 grid fee exemption date for storage, but sets 2027 FID deadline",
+      "url": "https://www.energy-storage.news/german-government-confirms-august-2029-grid-fee-exemption-date-for-storage-but-sets-2027-fid-deadline/",
+      "date": "2026-05-27T10:14:01.000Z",
+      "source": "Energy Storage News",
       "bucket": "A"
     },
     {
-      "title": "Malaysia offers cash rebate for home solar",
-      "url": "https://www.pv-magazine.com/2026/05/27/malaysia-offers-cash-rebate-for-home-solar/",
-      "date": "2026-05-27T06:30:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
+      "title": "Battery storage remains key revenue driver for clean energy technology suppliers",
+      "url": "https://www.energy-storage.news/battery-storage-remains-key-revenue-driver-for-clean-energy-technology-suppliers/",
+      "date": "2026-05-27T09:46:49.000Z",
+      "source": "Energy Storage News",
       "bucket": "A"
     },
     {
-      "title": "Colombia awards 1,546.9 MW of solar capacity in firm energy auction for 2029–2030",
-      "url": "https://www.pv-magazine.com/2026/05/27/colombia-awards-1546-9-mw-of-solar-capacity-in-firm-energy-auction-for-2029-2030/",
-      "date": "2026-05-27T06:00:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar and battery hybrid projects prominent in latest Australian tender",
-      "url": "https://www.pv-magazine.com/2026/05/27/solar-and-battery-hybrid-projects-prominent-in-latest-australian-tender/",
-      "date": "2026-05-27T05:57:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pexapark records 17 European PPAs for 966 MW in April",
-      "url": "https://www.pv-magazine.com/2026/05/27/pexapark-records-17-european-ppas-for-966-mw-in-april/",
-      "date": "2026-05-27T05:30:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Assessing Elon Musk’s massive 100 GW solar ambitions",
-      "url": "https://www.pv-magazine.com/2026/05/27/assessing-elon-musks-massive-100-gw-solar-ambitions/",
-      "date": "2026-05-27T05:00:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar-friendly dynamic pricing of electricity could cut California’s peak demand by several GW",
-      "url": "https://www.pv-magazine.com/2026/05/27/solar-friendly-dynamic-pricing-of-electricity-could-cut-californias-peak-demand-by-several-gw/",
-      "date": "2026-05-27T04:30:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
+      "title": "Adani Green Energy reaches 3.37GWh of cumulative BESS capacity at India’s Khavda giga-scale renewable energy park",
+      "url": "https://www.energy-storage.news/adani-green-energy-reaches-3-37gwh-of-cumulative-bess-capacity-at-indias-khavda-giga-scale-renewable-energy-park/",
+      "date": "2026-05-27T09:40:12.000Z",
+      "source": "Energy Storage News",
       "bucket": "A"
     },
     {
@@ -58,52 +30,10 @@
       "bucket": "A"
     },
     {
-      "title": "Türkiye reduces grid fee for around 800 unlicensed solar plants",
-      "url": "https://www.pv-magazine.com/2026/05/26/turkiye-reduces-grid-fee-for-around-800-unlicensed-solar-plants/",
-      "date": "2026-05-26T11:58:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Seven countermeasures against negative electricity prices",
-      "url": "https://www.pv-magazine.com/2026/05/26/seven-countermeasures-against-negative-electricity-prices/",
-      "date": "2026-05-26T11:33:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spanish grid operator validates tower resistance against cascading failures",
-      "url": "https://www.pv-magazine.com/2026/05/26/spanish-grid-operator-validates-tower-resistance-against-cascading-failures/",
-      "date": "2026-05-26T11:09:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Strong regulatory uncertainty ‘cools’ investor interest in Germany, clarity in 2027 at earliest",
       "url": "https://www.energy-storage.news/strong-regulatory-uncertainty-cools-investor-interest-in-germany-clarity-in-2027-at-earliest/",
       "date": "2026-05-26T11:03:15.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Saudi Arabia gets first BESS manufacturing facility",
-      "url": "https://www.pv-magazine.com/2026/05/26/saudi-arabia-gets-first-bess-manufacturing-facility/",
-      "date": "2026-05-26T10:52:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Serbia postpones connection studies for renewables until 2029",
-      "url": "https://www.pv-magazine.com/2026/05/26/serbia-postpones-connection-studies-for-renewables-until-2029/",
-      "date": "2026-05-26T10:02:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Storing renewables with compressed air in urban heating pipeline",
-      "url": "https://www.pv-magazine.com/2026/05/26/storing-renewables-with-compressed-air-in-urban-heating-pipeline/",
-      "date": "2026-05-26T09:28:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -114,13 +44,6 @@
       "bucket": "A"
     },
     {
-      "title": "Study finds POLO back junction solar cells could outperform PERC on costs in Europe",
-      "url": "https://www.pv-magazine.com/2026/05/26/study-finds-polo-back-junction-solar-cells-could-outperform-perc-on-costs-in-europe/",
-      "date": "2026-05-26T08:54:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "DC vs AC coupling: which is best for co-locating your BESS and solar setups?",
       "url": "https://www.energy-storage.news/dc-vs-ac-coupling-which-is-best-for-co-locating-your-bess-and-solar-setups/",
       "date": "2026-05-26T08:46:58.000Z",
@@ -128,24 +51,10 @@
       "bucket": "A"
     },
     {
-      "title": "On-road tests show strong impact of shading on vehicle-integrated photovoltaics",
-      "url": "https://www.pv-magazine.com/2026/05/26/on-road-tests-show-strong-impact-of-shading-on-vehicle-integrated-photovoltaics/",
-      "date": "2026-05-26T07:53:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Securing India&#8217;s battery supply chain is more critical than ever",
       "url": "https://www.energy-storage.news/securing-indias-battery-supply-chain-is-more-critical-than-ever/",
       "date": "2026-05-26T06:41:35.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia seeks 5 GW renewable generation in new tender",
-      "url": "https://www.pv-magazine.com/2026/05/26/australia-seeks-5-gw-renewable-generation-in-new-tender/",
-      "date": "2026-05-26T05:44:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -184,24 +93,10 @@
       "bucket": "A"
     },
     {
-      "title": "JA Solar, Gold Stone Energy claim world’s highest efficiency for silicon solar cells with 28.2%-efficient back contact device",
-      "url": "https://www.pv-magazine.com/2026/05/25/ja-solar-gold-stone-energy-claim-worlds-highest-efficiency-for-silicon-solar-cells-with-28-2-efficient-back-contact-device/",
-      "date": "2026-05-25T14:40:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "BloombergNEF ups BESS forecast as renewables add resilience from fossil fuel price shocks",
       "url": "https://www.energy-storage.news/bloombergnef-ups-bess-forecast-as-renewables-add-resilience-from-fossil-fuel-price-shocks/",
       "date": "2026-05-25T13:27:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Cuba raises renewable electricity export tariff 30-fold",
-      "url": "https://www.pv-magazine.com/2026/05/25/cuba-raises-renewable-electricity-export-tariff-30-fold/",
-      "date": "2026-05-25T13:04:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -216,55 +111,6 @@
       "url": "https://www.energy-storage.news/us-installed-9-7gwh-of-new-bess-in-q1-2026-seia-reports/",
       "date": "2026-05-25T12:38:19.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU awards €400 million to 65 industrial heat projects in auction",
-      "url": "https://www.pv-magazine.com/2026/05/25/eu-awards-e400-million-to-65-industrial-heat-projects-in-auction/",
-      "date": "2026-05-25T12:15:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "An uncomfortable truth: What Spain’s blackout really showed",
-      "url": "https://www.pv-magazine.com/2026/05/25/an-uncomfortable-truth-what-spains-blackout-really-showed/",
-      "date": "2026-05-25T12:00:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "San Marino launches solar acquisition program",
-      "url": "https://www.pv-magazine.com/2026/05/25/san-marino-launches-solar-acquisition-program/",
-      "date": "2026-05-25T11:00:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "DAS Solar, UNSW build tunnel back-contact solar cell with 27% efficiency, lower silver content",
-      "url": "https://www.pv-magazine.com/2026/05/25/das-solar-unsw-build-tunnel-back-contact-solar-cell-with-27-efficiency-lower-silver-content/",
-      "date": "2026-05-25T09:00:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Finergreen exits Africa, focuses growth on Europe and Asia",
-      "url": "https://www.pv-magazine.com/2026/05/25/finergreen-exits-africa-focuses-growth-on-europe-and-asia/",
-      "date": "2026-05-25T08:15:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pollution from coal plants can reduce solar generation by over 5%",
-      "url": "https://www.pv-magazine.com/2026/05/25/pollution-from-coal-plants-can-reduce-solar-generation/",
-      "date": "2026-05-25T08:00:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Inlyte Energy targets US data centers with iron-sodium batteries",
-      "url": "https://www.pv-magazine.com/2026/05/25/inlyte-energy-targets-us-data-centers-with-iron-sodium-batteries/",
-      "date": "2026-05-25T07:30:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -502,27 +348,6 @@
       "title": "Non-lithium players Eos and ESS lean on future of US LDES deployment in Q1 2026 financials",
       "url": "https://www.energy-storage.news/non-lithium-players-eos-and-ess-lean-on-future-of-us-ldes-deployment-in-q1-2026-financials/",
       "date": "2026-05-18T10:53:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Canadian Solar plans to double battery cell and BESS manufacturing capacity, new CEO says",
-      "url": "https://www.energy-storage.news/canadian-solar-plans-to-double-battery-cell-and-bess-manufacturing-capacity-new-ceo-says/",
-      "date": "2026-05-18T09:23:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia hits 400,000 home battery installations with 11.2GWh capacity in under a year",
-      "url": "https://www.energy-storage.news/australia-hits-400000-home-battery-installations-with-11-2gwh-capacity-in-under-a-year/",
-      "date": "2026-05-18T04:29:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Zelestra energises 1GWh hybrid BESS project in Chile",
-      "url": "https://www.energy-storage.news/zelestra-energises-1gwh-hybrid-bess-project-in-chile/",
-      "date": "2026-05-15T13:08:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
