@@ -1,6 +1,62 @@
 {
-  "ts": 1779850122122,
+  "ts": 1779864635397,
   "items": [
+    {
+      "title": "Paraguay launches first large-scale solar tender, marking historic shift in energy policy",
+      "url": "https://www.pv-magazine.com/2026/05/27/paraguay-launches-first-large-scale-solar-tender-marking-historic-shift-in-energy-policy/",
+      "date": "2026-05-27T06:48:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Malaysia offers cash rebate for home solar",
+      "url": "https://www.pv-magazine.com/2026/05/27/malaysia-offers-cash-rebate-for-home-solar/",
+      "date": "2026-05-27T06:30:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Colombia awards 1,546.9 MW of solar capacity in firm energy auction for 2029–2030",
+      "url": "https://www.pv-magazine.com/2026/05/27/colombia-awards-1546-9-mw-of-solar-capacity-in-firm-energy-auction-for-2029-2030/",
+      "date": "2026-05-27T06:00:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar and battery hybrid projects prominent in latest Australian tender",
+      "url": "https://www.pv-magazine.com/2026/05/27/solar-and-battery-hybrid-projects-prominent-in-latest-australian-tender/",
+      "date": "2026-05-27T05:57:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Pexapark records 17 European PPAs for 966 MW in April",
+      "url": "https://www.pv-magazine.com/2026/05/27/pexapark-records-17-european-ppas-for-966-mw-in-april/",
+      "date": "2026-05-27T05:30:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Assessing Elon Musk’s massive 100 GW solar ambitions",
+      "url": "https://www.pv-magazine.com/2026/05/27/assessing-elon-musks-massive-100-gw-solar-ambitions/",
+      "date": "2026-05-27T05:00:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar-friendly dynamic pricing of electricity could cut California’s peak demand by several GW",
+      "url": "https://www.pv-magazine.com/2026/05/27/solar-friendly-dynamic-pricing-of-electricity-could-cut-californias-peak-demand-by-several-gw/",
+      "date": "2026-05-27T04:30:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "MGA Thermal begins FEED study for 195MWh thermal energy storage system in Australia",
+      "url": "https://www.energy-storage.news/mga-thermal-begins-feed-study-for-195mwh-thermal-energy-storage-system-in-australia/",
+      "date": "2026-05-27T02:58:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Türkiye reduces grid fee for around 800 unlicensed solar plants",
       "url": "https://www.pv-magazine.com/2026/05/26/turkiye-reduces-grid-fee-for-around-800-unlicensed-solar-plants/",
@@ -212,59 +268,10 @@
       "bucket": "A"
     },
     {
-      "title": "Solar module recycling based on oxidative liquefaction",
-      "url": "https://www.pv-magazine.com/2026/05/25/solar-module-recycling-based-oxidative-liquefaction/",
-      "date": "2026-05-25T07:00:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fortescue begins building 690 MW solar farm, 650 MWh BESS in Australia",
-      "url": "https://www.pv-magazine.com/2026/05/25/fortescue-begins-building-690-mw-solar-farm-650-mwh-bess-in-australia/",
-      "date": "2026-05-25T06:47:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Oil in turmoil, solar stays stable",
-      "url": "https://www.pv-magazine.com/2026/05/25/oil-in-turmoil-solar-stays-stable/",
-      "date": "2026-05-25T06:00:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Contact Energy switches on 200MWh battery storage system in New Zealand",
       "url": "https://www.energy-storage.news/contact-energy-switches-on-200mwh-battery-storage-system-in-new-zealand/",
       "date": "2026-05-25T03:49:40.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil falls short of its battery storage potential",
-      "url": "https://www.pv-magazine.com/2026/05/23/brazil-falls-short-of-its-battery-storage-potential/",
-      "date": "2026-05-23T10:00:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EU understimating rooftop PV power generation",
-      "url": "https://www.pv-magazine.com/2026/05/23/eu-understimating-rooftop-pv-power-generation/",
-      "date": "2026-05-23T09:00:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fujiyama Power to set up 1.2 GW TOPCon solar cell manufacturing facility in India",
-      "url": "https://www.pv-magazine.com/2026/05/23/fujiyama-power-to-set-up-1-2-gw-topcon-solar-cell-manufacturing-facility-in-india/",
-      "date": "2026-05-23T08:00:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Europe creates map to locate available capacity in power grids",
-      "url": "https://www.pv-magazine.com/2026/05/23/europe-creates-map-to-locate-available-capacity-in-power-grids/",
-      "date": "2026-05-23T07:00:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -516,13 +523,6 @@
       "title": "Zelestra energises 1GWh hybrid BESS project in Chile",
       "url": "https://www.energy-storage.news/zelestra-energises-1gwh-hybrid-bess-project-in-chile/",
       "date": "2026-05-15T13:08:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Rept Battero opens Indonesian cell and BESS manufacturing facility",
-      "url": "https://www.energy-storage.news/rept-battero-opens-indonesian-cell-and-bess-manufacturing-facility/",
-      "date": "2026-05-15T09:57:47.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
