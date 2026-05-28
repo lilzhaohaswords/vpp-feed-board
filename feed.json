@@ -1,6 +1,13 @@
 {
-  "ts": 1779931697565,
+  "ts": 1779947758477,
   "items": [
+    {
+      "title": "AEMO and Transgrid approve Australia&#8217;s first 8-hour BESS for full operations",
+      "url": "https://www.energy-storage.news/aemo-and-transgrid-approve-australias-first-8-hour-bess-for-full-operations/",
+      "date": "2026-05-28T02:34:35.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "California Energy Commission approves 3.2GWh BESS project through Newsom&#8217;s accelerated permitting scheme",
       "url": "https://www.energy-storage.news/california-energy-commission-approves-3-2gwh-bess-project-through-newsoms-accelerated-permitting-scheme/",
@@ -411,13 +418,6 @@
       "title": "Yarra Energy Foundation brings community battery paired with EV chargers online in Australia",
       "url": "https://www.energy-storage.news/yarra-energy-foundation-brings-community-battery-paired-with-ev-chargers-online-in-australia/",
       "date": "2026-05-19T02:24:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Construction begins on OX2’s 300MWh Muswellbrook solar-plus-BESS in NSW, Australia",
-      "url": "https://www.energy-storage.news/construction-begins-on-ox2s-300mwh-muswellbrook-solar-plus-bess-in-nsw-australia/",
-      "date": "2026-05-19T02:21:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
