@@ -1,6 +1,69 @@
 {
-  "ts": 1779961174107,
+  "ts": 1779972989324,
   "items": [
+    {
+      "title": "‘The urgency is real’: PJM considers its future amidst substantial load growth",
+      "url": "https://www.energy-storage.news/the-urgency-is-real-pjm-considers-its-future-amidst-substantial-load-growth/",
+      "date": "2026-05-28T12:25:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "ERCOT incentivises grid-forming BESS with US$25 million programme",
+      "url": "https://www.energy-storage.news/ercot-incentivises-grid-forming-bess-with-us25-million-programme/",
+      "date": "2026-05-28T12:04:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Protecting heterojunction solar modules with UV-downshifting, UV-blocking",
+      "url": "https://www.pv-magazine.com/2026/05/28/protecting-heterojunction-solar-modules-with-uv-downshifting-uv-blocking/",
+      "date": "2026-05-28T11:49:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "LG ES system integrator subsidiary signs 6GWh BESS deal with Michigan utility DTE Energy",
+      "url": "https://www.energy-storage.news/lg-es-system-integrator-subsidiary-signs-6gwh-bess-deal-with-michigan-utility-dte-energy/",
+      "date": "2026-05-28T11:36:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ingeteam unveils high-density string inverter for utility-scale solar",
+      "url": "https://www.pv-magazine.com/2026/05/28/ingeteam-unveils-high-density-string-inverter-for-utility-scale-solar/",
+      "date": "2026-05-28T11:34:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Philippines imported 4 GW of Chinese solar panels in January-April",
+      "url": "https://www.pv-magazine.com/2026/05/28/philippines-imported-4-gw-of-chinese-solar-panels-in-january-april/",
+      "date": "2026-05-28T11:20:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Swiss power distributors allowed to remunerate solar power at market rates",
+      "url": "https://www.pv-magazine.com/2026/05/28/schweizer-verteilnetzbetreiber-duerfen-solarstrom-kuenftig-nach-marktpreis-vergueten/",
+      "date": "2026-05-28T10:41:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Alpha launches propane heat pump with reversible air-to-water inverter technology",
+      "url": "https://www.pv-magazine.com/2026/05/28/alpha-launches-propane-heat-pump-with-reversible-air-to-water-inverter-technology/",
+      "date": "2026-05-28T09:58:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "JinkoSolar secures 20 GW order backlog for high-efficiency Tiger Neo 3.0 modules",
+      "url": "https://www.pv-magazine.com/2026/05/28/jinkosolar-secures-20-gw-order-backlog-for-high-efficiency-tiger-neo-3-0-modules/",
+      "date": "2026-05-28T09:58:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "ContourGlobal brings online 231MW solar, 1.3GWh BESS in Chile",
       "url": "https://www.energy-storage.news/contourglobal-brings-online-231mw-solar-1-3gwh-bess-in-chile/",
@@ -51,27 +114,6 @@
       "bucket": "A"
     },
     {
-      "title": "Australia’s first 8-hour battery moves to full operations in New South Wales",
-      "url": "https://www.pv-magazine.com/2026/05/28/australias-first-8-hour-battery-moves-to-full-operations-in-new-south-wales/",
-      "date": "2026-05-28T07:36:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korea launches solar tender as RPS phase-out advances",
-      "url": "https://www.pv-magazine.com/2026/05/28/south-korea-launches-solar-tender-as-rps-phase-out-advances/",
-      "date": "2026-05-28T07:12:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Kiwa PVEL’s 2026 solar module reliability scorecard reveals high failure rates amid incremental increases in performance",
-      "url": "https://www.pv-magazine.com/2026/05/28/kiwa-pvels-2026-solar-module-reliability-scorecard-reveals-high-failure-rates-amid-incremental-increases-in-performance/",
-      "date": "2026-05-28T06:23:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "AEMO and Transgrid approve Australia&#8217;s first 8-hour BESS for full operations",
       "url": "https://www.energy-storage.news/aemo-and-transgrid-approve-australias-first-8-hour-bess-for-full-operations/",
       "date": "2026-05-28T02:34:35.000Z",
@@ -111,27 +153,6 @@
       "url": "https://www.energy-storage.news/adani-green-energy-reaches-3-37gwh-of-cumulative-bess-capacity-at-indias-khavda-giga-scale-renewable-energy-park/",
       "date": "2026-05-27T09:40:12.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Paraguay launches first large-scale solar tender, marking historic shift in energy policy",
-      "url": "https://www.pv-magazine.com/2026/05/27/paraguay-launches-first-large-scale-solar-tender-marking-historic-shift-in-energy-policy/",
-      "date": "2026-05-27T06:48:24.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Malaysia offers cash rebate for home solar",
-      "url": "https://www.pv-magazine.com/2026/05/27/malaysia-offers-cash-rebate-for-home-solar/",
-      "date": "2026-05-27T06:30:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Colombia awards 1,546.9 MW of solar capacity in firm energy auction for 2029–2030",
-      "url": "https://www.pv-magazine.com/2026/05/27/colombia-awards-1546-9-mw-of-solar-capacity-in-firm-energy-auction-for-2029-2030/",
-      "date": "2026-05-27T06:00:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "EU Project Roundup: Neoen, Nofar, Enka, Return, RWE, Repono and others progress 3.3GWh of BESS capacity",
       "url": "https://www.energy-storage.news/eu-project-roundup-neoen-nofar-enka-return-rwe-repono-and-others-progress-3-3gwh-of-bess-capacity/",
       "date": "2026-05-19T10:54:31.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ford Energy makes 20GWh, five-year North America supply deal with EDF",
-      "url": "https://www.energy-storage.news/ford-energy-makes-20gwh-five-year-north-america-supply-deal-with-edf/",
-      "date": "2026-05-19T10:52:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AC and DC augmentation in BESS: the differences between the two approaches",
-      "url": "https://www.energy-storage.news/ac-and-dc-augmentation-in-bess-the-differences-between-the-two-approaches/",
-      "date": "2026-05-19T10:31:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Inovance&#8217;s Hong Kong IPO: storage fuels growth, targeting global top three PCS ranking",
-      "url": "https://www.energy-storage.news/inovances-hong-kong-ipo-storage-fuels-growth-targeting-global-top-three-pcs-ranking/",
-      "date": "2026-05-19T10:24:25.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
