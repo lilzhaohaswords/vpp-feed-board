@@ -1,6 +1,13 @@
 {
-  "ts": 1780058223725,
+  "ts": 1780072318211,
   "items": [
+    {
+      "title": "India installs 2.7 GW of rooftop PV in Q1",
+      "url": "https://www.pv-magazine.com/2026/05/29/residential-segment-accounts-for-82-of-indias-rooftop-solar-additions-in-q1-2026-mercom/",
+      "date": "2026-05-29T14:56:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Inside PV Manufacturing: Tindo’s solar manufacturing facility in Australia",
       "url": "https://www.pv-magazine.com/2026/05/29/inside-pv-manufacturing-tindos-solar-manufacturing-facility-in-australia/",
@@ -82,13 +89,6 @@
       "title": "Nextpower gets into energy storage",
       "url": "https://www.pv-magazine.com/2026/05/29/nextpower-gets-into-energy-storage/",
       "date": "2026-05-29T08:36:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Israel targets 26 GW of renewables by 2035",
-      "url": "https://www.pv-magazine.com/2026/05/29/israel-targets-26-gw-of-renewables-by-2035/",
-      "date": "2026-05-29T08:26:58.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
