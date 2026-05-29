@@ -1,6 +1,48 @@
 {
-  "ts": 1780019403610,
+  "ts": 1780034378191,
   "items": [
+    {
+      "title": "Japan adds rooftop solar reporting fields for large energy users",
+      "url": "https://www.pv-magazine.com/2026/05/29/japan-adds-rooftop-solar-reporting-fields-for-large-energy-users/",
+      "date": "2026-05-29T05:37:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "French startup offers concrete solar carport for heavy weight vehicles",
+      "url": "https://www.pv-magazine.com/2026/05/29/une-ombriere-solaire-beton-dediee-aux-poids-lourds/",
+      "date": "2026-05-29T05:15:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spain testing 500 kW offshore PV platform",
+      "url": "https://www.pv-magazine.com/2026/05/29/botan-una-plataforma-fotovoltaica-offshore-flotante-de-500-kw-en-vigo/",
+      "date": "2026-05-29T05:00:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New solar records for May in France, Germany, Italy, Portugal",
+      "url": "https://www.pv-magazine.com/2026/05/29/new-solar-records-for-may-in-france-germany-italy-portugal/",
+      "date": "2026-05-29T05:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ausgrid submits 300MWh Berkeley Vale BESS in New South Wales to Australia&#8217;s EPBC Act",
+      "url": "https://www.energy-storage.news/ausgrid-submits-300mwh-berkeley-vale-bess-in-new-south-wales-to-australias-epbc-act/",
+      "date": "2026-05-29T03:17:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "South Australia awards 1.3GW+ of battery storage in first Firm Energy Reliability Mechanism tender",
+      "url": "https://www.energy-storage.news/south-australia-awards-1-3gw-of-battery-storage-in-first-firm-energy-reliability-mechanism-tender/",
+      "date": "2026-05-29T03:12:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "U.S. International Trade Commission extends tariffs on Chinese and Taiwanese solar imports",
       "url": "https://www.pv-magazine.com/2026/05/28/usitc-extends-tariffs-on-chinese-and-taiwanese-solar-imports/",
@@ -65,38 +107,10 @@
       "bucket": "A"
     },
     {
-      "title": "Alpha launches propane heat pump with reversible air-to-water inverter technology",
-      "url": "https://www.pv-magazine.com/2026/05/28/alpha-launches-propane-heat-pump-with-reversible-air-to-water-inverter-technology/",
-      "date": "2026-05-28T09:58:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "JinkoSolar secures 20 GW order backlog for high-efficiency Tiger Neo 3.0 modules",
-      "url": "https://www.pv-magazine.com/2026/05/28/jinkosolar-secures-20-gw-order-backlog-for-high-efficiency-tiger-neo-3-0-modules/",
-      "date": "2026-05-28T09:58:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "ContourGlobal brings online 231MW solar, 1.3GWh BESS in Chile",
       "url": "https://www.energy-storage.news/contourglobal-brings-online-231mw-solar-1-3gwh-bess-in-chile/",
       "date": "2026-05-28T09:26:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery storage key to solar project bankability in Africa",
-      "url": "https://www.pv-magazine.com/2026/05/28/battery-storage-key-to-solar-project-bankability-in-africa/",
-      "date": "2026-05-28T09:26:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "German consortium developing aluminum facade elements with integrated PV modules",
-      "url": "https://www.pv-magazine.com/2026/05/28/german-consortium-developing-aluminum-facade-elements-with-integrated-pv-modules/",
-      "date": "2026-05-28T09:14:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Australia&#8217;s New South Wales seeks 2.5GW of generation and 12GWh of energy storage in state&#8217;s largest-ever tender",
       "url": "https://www.energy-storage.news/australias-new-south-wales-seeks-2-5gw-of-generation-and-12gwh-of-energy-storage-in-states-largest-ever-tender/",
       "date": "2026-05-20T02:06:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Lenders now actively financing merchant BESS projects in Germany",
-      "url": "https://www.energy-storage.news/lenders-now-actively-financing-merchant-bess-projects-in-germany/",
-      "date": "2026-05-19T15:03:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU Project Roundup: Neoen, Nofar, Enka, Return, RWE, Repono and others progress 3.3GWh of BESS capacity",
-      "url": "https://www.energy-storage.news/eu-project-roundup-neoen-nofar-enka-return-rwe-repono-and-others-progress-3-3gwh-of-bess-capacity/",
-      "date": "2026-05-19T10:54:31.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
