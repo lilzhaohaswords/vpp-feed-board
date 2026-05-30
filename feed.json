@@ -1,6 +1,13 @@
 {
-  "ts": 1780134405144,
+  "ts": 1780139290461,
   "items": [
+    {
+      "title": "Lessons from the solar frontier",
+      "url": "https://www.pv-magazine.com/2026/05/30/lessons-from-the-solar-frontier-2/",
+      "date": "2026-05-30T09:59:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "K2 Systems unveils solar carport",
       "url": "https://www.pv-magazine.com/2026/05/30/k2-systems-devoile-son-ombriere-photovoltaique-k2-carport/",
@@ -61,13 +68,6 @@
       "title": "Chinese PV Industry Brief: Polysilicon prices remain stable",
       "url": "https://www.pv-magazine.com/2026/05/29/chinese-pv-industry-brief-polysilicon-prices-remain-stable/",
       "date": "2026-05-29T12:11:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Viessmann debuts monoblock air-to-water heat pump",
-      "url": "https://www.pv-magazine.com/2026/05/29/viessmann-debuts-monoblock-air-to-water-heat-pump/",
-      "date": "2026-05-29T12:04:01.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
