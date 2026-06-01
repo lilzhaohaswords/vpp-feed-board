@@ -1,6 +1,13 @@
 {
-  "ts": 1780271530214,
+  "ts": 1780279516728,
   "items": [
+    {
+      "title": "RES Australia&#8217;s 2.4GWh Bunyip North BESS clears EPBC Act assessment in Victoria",
+      "url": "https://www.energy-storage.news/res-australias-2-4gwh-bunyip-north-bess-clears-epbc-act-assessment-in-victoria/",
+      "date": "2026-06-01T01:32:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Lessons from the solar frontier",
       "url": "https://www.pv-magazine.com/2026/05/30/lessons-from-the-solar-frontier-2/",
@@ -411,13 +418,6 @@
       "title": "Second-life BESS maker Moment Energy claims ‘world first’ safety certification as FEOC compliance crunch looms",
       "url": "https://www.energy-storage.news/second-life-bess-maker-moment-energy-claims-world-first-safety-certification-as-feoc-compliance-crunch-looms/",
       "date": "2026-05-20T11:16:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "HyperStrong CEO on sodium-ion BESS product potential and challenges",
-      "url": "https://www.energy-storage.news/hyperstrong-ceo-on-sodium-ion-bess-product-potential-and-challenges/",
-      "date": "2026-05-20T10:14:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
