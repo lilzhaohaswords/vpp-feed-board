@@ -1,24 +1,87 @@
 {
-  "ts": 1780301707734,
+  "ts": 1780324927741,
   "items": [
+    {
+      "title": "France’s cumulative solar capacity reaches 33 GW",
+      "url": "https://www.pv-magazine.com/2026/06/01/au-31-mars-2026-la-puissance-du-parc-photovoltaique-francais-atteint-33-gw/",
+      "date": "2026-06-01T14:17:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Most South African municipalities under recover electricity costs",
+      "url": "https://www.pv-magazine.com/2026/06/01/most-south-african-municipalities-under-recover-electricity-costs/",
+      "date": "2026-06-01T13:52:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tandem PV announces 30.4% efficient perovskite/silicon demonstration module",
+      "url": "https://www.pv-magazine.com/2026/06/01/tandem-pv-announces-30-4-efficient-perovskite-silicon-demonstration-module/",
+      "date": "2026-06-01T13:49:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Mexico launches fast-track permitting programme for renewables and BESS",
+      "url": "https://www.energy-storage.news/mexico-launches-fast-track-permitting-programme-for-renewables-and-bess/",
+      "date": "2026-06-01T13:48:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Spanish building renovated with photovoltaic railings",
+      "url": "https://www.pv-magazine.com/2026/06/01/rehabilitan-un-edificio-con-barandillas-fotovoltaicas/",
+      "date": "2026-06-01T13:47:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sungrow and Sonnedix sign 643.8MWh supply agreement for Chile BESS",
+      "url": "https://www.energy-storage.news/sungrow-and-sonnedix-sign-643-8mwh-supply-agreement-for-chile-bess/",
+      "date": "2026-06-01T11:44:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Türkiye adds 1.97 GW of solar in January-April",
+      "url": "https://www.pv-magazine.com/2026/06/01/turkiye-adds-1-97-gw-of-solar-in-january-april/",
+      "date": "2026-06-01T10:31:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Trina Solar announces 907 W tandem solar module with 29.2% efficiency",
+      "url": "https://www.pv-magazine.com/2026/06/01/trina-solar-announces-907-w-tandem-solar-module-with-29-2-efficiency/",
+      "date": "2026-06-01T10:16:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hoymiles launches new hybrid residential battery series",
+      "url": "https://www.pv-magazine.com/2026/06/01/hoymiles-launches-new-hybrid-residential-battery-series/",
+      "date": "2026-06-01T09:17:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "JinkoSolar shipped 86.8 GW of modules in 2025, securing lead in global sales for the seventh time",
+      "url": "https://www.pv-magazine.com/2026/06/01/jinkosolar-shipped-86-8-gw-of-modules-in-2025-securing-lead-in-global-sales-for-the-seventh-time/",
+      "date": "2026-06-01T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Lesotho seeks consultants for floating PV feasibility study",
+      "url": "https://www.pv-magazine.com/2026/06/01/lesotho-seeks-consultants-for-floating-pv-feasibility-study/",
+      "date": "2026-06-01T08:24:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Scale key to viable polysilicon production in Australia, study finds",
       "url": "https://www.pv-magazine.com/2026/06/01/scale-key-to-viable-polysilicon-production-in-australia-study-finds/",
       "date": "2026-06-01T07:41:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "AI platforms split on how far to push solar O&#038;M automation",
-      "url": "https://www.pv-magazine.com/2026/06/01/ai-platforms-split-on-how-far-to-push-solar-om-automation/",
-      "date": "2026-06-01T07:10:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Nanoscale device converts wasted infrared light from PV systems into usable energy",
-      "url": "https://www.pv-magazine.com/2026/06/01/unsw-device-converts-wasted-infrared-light-into-usable-energy/",
-      "date": "2026-06-01T06:50:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -37,59 +100,10 @@
       "bucket": "A"
     },
     {
-      "title": "CATL opens large-scale energy storage validation platform in Xiamen",
-      "url": "https://www.pv-magazine.com/2026/06/01/catl-opens-large-scale-energy-storage-validation-platform-in-xiamen/",
-      "date": "2026-06-01T05:41:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The U.S. will have more than 950 clean energy manufacturing facilities by 2030: report",
-      "url": "https://www.pv-magazine.com/2026/06/01/the-u-s-will-have-more-than-950-clean-energy-manufacturing-facilities-by-2030-report/",
-      "date": "2026-06-01T05:37:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "RES Australia&#8217;s 2.4GWh Bunyip North BESS clears EPBC Act assessment in Victoria",
       "url": "https://www.energy-storage.news/res-australias-2-4gwh-bunyip-north-bess-clears-epbc-act-assessment-in-victoria/",
       "date": "2026-06-01T01:32:32.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Lessons from the solar frontier",
-      "url": "https://www.pv-magazine.com/2026/05/30/lessons-from-the-solar-frontier-2/",
-      "date": "2026-05-30T09:59:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "K2 Systems unveils solar carport",
-      "url": "https://www.pv-magazine.com/2026/05/30/k2-systems-devoile-son-ombriere-photovoltaique-k2-carport/",
-      "date": "2026-05-30T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Africa’s Eskom starts constructing 75 MW of solar",
-      "url": "https://www.pv-magazine.com/2026/05/30/south-africas-eskom-starts-constructing-75-mw-of-solar/",
-      "date": "2026-05-30T08:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Lointek supplies 50 MW / 300 MWh liquid air energy storage system in the United Kingdom",
-      "url": "https://www.pv-magazine.com/2026/05/30/lointek-suministra-un-sistema-de-almacenamiento-de-aire-liquido-de-50-mw-300-mwh-en-uk/",
-      "date": "2026-05-30T07:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ContourGlobal inaugurates Chilean hybrid plant with 231 MW of solar and 200 MW/1.3 GWh BESS",
-      "url": "https://www.pv-magazine.com/2026/05/30/inauguran-en-chile-una-planta-hibrida-con-231-mwp-solares-y-un-bess-de-200-mw-13-gwh/",
-      "date": "2026-05-30T06:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Equis launches GreenPoint Energy with 2.5GW of BESS and wind projects across Australia&#8217;s NEM",
       "url": "https://www.energy-storage.news/equis-launches-greenpoint-energy-with-2-5gw-of-bess-and-wind-projects-across-australias-nem/",
       "date": "2026-05-21T02:23:50.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Edify Energy to proceed with 2,400MWh solar-plus-storage sites in Australia",
-      "url": "https://www.energy-storage.news/edify-energy-to-proceed-with-2400mwh-solar-plus-storage-sites-in-australia/",
-      "date": "2026-05-21T02:22:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EDP wins AU$3 million ARENA funding for bushfire-resilient microgrid in regional Australia",
-      "url": "https://www.energy-storage.news/edp-wins-au3-million-arena-funding-for-bushfire-resilient-microgrid-in-regional-australia/",
-      "date": "2026-05-21T02:09:45.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
