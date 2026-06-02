@@ -1,6 +1,13 @@
 {
-  "ts": 1780407779794,
+  "ts": 1780422978241,
   "items": [
+    {
+      "title": "Rooftop PV helps South Africa pass one year without loadshedding",
+      "url": "https://www.pv-magazine.com/2026/06/02/rooftop-pv-helps-south-africa-pass-one-year-without-loadshedding/",
+      "date": "2026-06-02T14:08:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Why some US BESS developers are forgoing the investment tax credit",
       "url": "https://www.energy-storage.news/why-some-us-bess-developers-are-forgoing-the-investment-tax-credit/",
@@ -104,13 +111,6 @@
       "url": "https://www.energy-storage.news/roundup-japans-bess-market-sees-domestic-and-overseas-players-pursue-larger-scale-projects/",
       "date": "2026-06-02T06:32:22.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow launches solar module integrating AI, power electronics",
-      "url": "https://www.pv-magazine.com/2026/06/02/sungrow-launches-solar-module-integrating-ai-power-electronics/",
-      "date": "2026-06-02T06:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
