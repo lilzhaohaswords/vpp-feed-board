@@ -1,6 +1,34 @@
 {
-  "ts": 1780358515834,
+  "ts": 1780377469773,
   "items": [
+    {
+      "title": "Betting on batteries: addressing intermittent inefficiencies at scale",
+      "url": "https://www.pv-magazine.com/2026/06/02/betting-on-batteries-addressing-intermittent-inefficiencies-at-scale/",
+      "date": "2026-06-02T05:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SEG Solar announces third U.S. manufacturing site",
+      "url": "https://www.pv-magazine.com/2026/06/02/seg-solar-announces-third-u-s-manufacturing-site/",
+      "date": "2026-06-02T04:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Strategic procurement in a dynamic BESS market: The power of early engagement and strong partnerships",
+      "url": "https://www.energy-storage.news/strategic-procurement-in-a-dynamic-bess-market-the-power-of-early-engagement-and-strong-partnerships/",
+      "date": "2026-06-02T02:52:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia: Queensland BESS fleet pushes state to 79.5% renewables-plus-storage share",
+      "url": "https://www.energy-storage.news/australia-queensland-bess-fleet-pushes-state-to-79-5-renewables-plus-storage-share/",
+      "date": "2026-06-02T02:47:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "France’s cumulative solar capacity reaches 33 GW",
       "url": "https://www.pv-magazine.com/2026/06/01/au-31-mars-2026-la-puissance-du-parc-photovoltaique-francais-atteint-33-gw/",
@@ -68,20 +96,6 @@
       "title": "JinkoSolar shipped 86.8 GW of modules in 2025, securing lead in global sales for the seventh time",
       "url": "https://www.pv-magazine.com/2026/06/01/jinkosolar-shipped-86-8-gw-of-modules-in-2025-securing-lead-in-global-sales-for-the-seventh-time/",
       "date": "2026-06-01T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Lesotho seeks consultants for floating PV feasibility study",
-      "url": "https://www.pv-magazine.com/2026/06/01/lesotho-seeks-consultants-for-floating-pv-feasibility-study/",
-      "date": "2026-06-01T08:24:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Scale key to viable polysilicon production in Australia, study finds",
-      "url": "https://www.pv-magazine.com/2026/06/01/scale-key-to-viable-polysilicon-production-in-australia-study-finds/",
-      "date": "2026-06-01T07:41:26.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -404,20 +418,6 @@
       "title": "JA Solar appoints head of energy storage subsidiary, effective immediately",
       "url": "https://www.energy-storage.news/ja-solar-appoints-head-of-energy-storage-subsidiary-effective-immediately/",
       "date": "2026-05-21T08:54:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;More complex trading strategies&#8217; necessary for BESS to be profitable in the UK",
-      "url": "https://www.energy-storage.news/uks-neso-clears-150gw-bess-grid-connection-queue-financial-challenges-remain/",
-      "date": "2026-05-21T07:59:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Equis launches GreenPoint Energy with 2.5GW of BESS and wind projects across Australia&#8217;s NEM",
-      "url": "https://www.energy-storage.news/equis-launches-greenpoint-energy-with-2-5gw-of-bess-and-wind-projects-across-australias-nem/",
-      "date": "2026-05-21T02:23:50.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
