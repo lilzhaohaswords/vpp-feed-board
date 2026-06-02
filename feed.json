@@ -1,6 +1,76 @@
 {
-  "ts": 1780377469773,
+  "ts": 1780394050395,
   "items": [
+    {
+      "title": "EU approves Spain&#8217;s €9 billion capacity market for generation, demand response and energy storage",
+      "url": "https://www.energy-storage.news/eu-approves-spain-euro-9-billion-capacity-market-generation-demand-response-energy-storage/",
+      "date": "2026-06-02T09:49:47.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Slovenia to introduce electricity sharing",
+      "url": "https://www.pv-magazine.com/2026/06/02/slovenia-to-introduce-electricity-sharing/",
+      "date": "2026-06-02T09:17:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tongwei to showcase TNC 3.0 series at Intersolar Europe 2026",
+      "url": "https://www.pv-magazine.com/2026/06/02/tongwei-to-showcase-tnc-3-0-series-at-intersolar-europe-2026/",
+      "date": "2026-06-02T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "German startup advancing compressor-free electrocaloric heat pump technology",
+      "url": "https://www.pv-magazine.com/2026/06/02/german-startup-advancing-compressor-free-electrocaloric-heat-pump-technology/",
+      "date": "2026-06-02T08:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Marstek debuts new plug-in battery series",
+      "url": "https://www.pv-magazine.com/2026/06/02/marstek-debuts-new-plug-in-battery-series/",
+      "date": "2026-06-02T07:10:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The case for vehicle-integrated phovoltaics in disaster zones",
+      "url": "https://www.pv-magazine.com/2026/06/02/the-case-for-vehicle-integrated-phovoltaics-in-disaster-zones/",
+      "date": "2026-06-02T07:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fluence to integrate Smartstack into Siemens&#8217; Nvidia AI data centre reference architecture",
+      "url": "https://www.energy-storage.news/fluence-to-integrate-smartstack-into-siemens-nvidia-ai-data-centre-reference-architecture/",
+      "date": "2026-06-02T06:34:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "ROUNDUP: Japan’s BESS market sees domestic and overseas players pursue larger-scale projects",
+      "url": "https://www.energy-storage.news/roundup-japans-bess-market-sees-domestic-and-overseas-players-pursue-larger-scale-projects/",
+      "date": "2026-06-02T06:32:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Sungrow launches solar module integrating AI, power electronics",
+      "url": "https://www.pv-magazine.com/2026/06/02/sungrow-launches-solar-module-integrating-ai-power-electronics/",
+      "date": "2026-06-02T06:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Stabilizing perovskite solar cells with chlorine",
+      "url": "https://www.pv-magazine.com/2026/06/02/stabilizing-perovskite-solar-cells-with-chlorine/",
+      "date": "2026-06-02T06:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Betting on batteries: addressing intermittent inefficiencies at scale",
       "url": "https://www.pv-magazine.com/2026/06/02/betting-on-batteries-addressing-intermittent-inefficiencies-at-scale/",
@@ -37,20 +107,6 @@
       "bucket": "A"
     },
     {
-      "title": "Most South African municipalities under recover electricity costs",
-      "url": "https://www.pv-magazine.com/2026/06/01/most-south-african-municipalities-under-recover-electricity-costs/",
-      "date": "2026-06-01T13:52:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tandem PV announces 30.4% efficient perovskite/silicon demonstration module",
-      "url": "https://www.pv-magazine.com/2026/06/01/tandem-pv-announces-30-4-efficient-perovskite-silicon-demonstration-module/",
-      "date": "2026-06-01T13:49:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Mexico launches fast-track permitting programme for renewables and BESS",
       "url": "https://www.energy-storage.news/mexico-launches-fast-track-permitting-programme-for-renewables-and-bess/",
       "date": "2026-06-01T13:48:21.000Z",
@@ -58,45 +114,10 @@
       "bucket": "A"
     },
     {
-      "title": "Spanish building renovated with photovoltaic railings",
-      "url": "https://www.pv-magazine.com/2026/06/01/rehabilitan-un-edificio-con-barandillas-fotovoltaicas/",
-      "date": "2026-06-01T13:47:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Sungrow and Sonnedix sign 643.8MWh supply agreement for Chile BESS",
       "url": "https://www.energy-storage.news/sungrow-and-sonnedix-sign-643-8mwh-supply-agreement-for-chile-bess/",
       "date": "2026-06-01T11:44:55.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Türkiye adds 1.97 GW of solar in January-April",
-      "url": "https://www.pv-magazine.com/2026/06/01/turkiye-adds-1-97-gw-of-solar-in-january-april/",
-      "date": "2026-06-01T10:31:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Trina Solar announces 907 W tandem solar module with 29.2% efficiency",
-      "url": "https://www.pv-magazine.com/2026/06/01/trina-solar-announces-907-w-tandem-solar-module-with-29-2-efficiency/",
-      "date": "2026-06-01T10:16:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hoymiles launches new hybrid residential battery series",
-      "url": "https://www.pv-magazine.com/2026/06/01/hoymiles-launches-new-hybrid-residential-battery-series/",
-      "date": "2026-06-01T09:17:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "JinkoSolar shipped 86.8 GW of modules in 2025, securing lead in global sales for the seventh time",
-      "url": "https://www.pv-magazine.com/2026/06/01/jinkosolar-shipped-86-8-gw-of-modules-in-2025-securing-lead-in-global-sales-for-the-seventh-time/",
-      "date": "2026-06-01T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "Invinity lands contract for 2.1GWh flow battery in Switzerland, share price soars 60%",
       "url": "https://www.energy-storage.news/invinity-lands-contract-for-2-1gwh-flow-battery-in-switzerland-share-price-soars-60/",
       "date": "2026-05-21T11:30:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China’s HyperStrong deepens ties with European inverter manufacturer SMA for global utility-scale BESS projects",
-      "url": "https://www.energy-storage.news/chinas-hyperstrong-deepens-ties-with-european-inverter-manufacturer-sma-for-global-utility-scale-bess-projects/",
-      "date": "2026-05-21T11:25:24.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ASEAN regulatory frameworks ‘must evolve’ to capture full value of battery storage",
-      "url": "https://www.energy-storage.news/asean-regulatory-frameworks-must-evolve-to-capture-full-value-of-battery-storage/",
-      "date": "2026-05-21T09:21:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "JA Solar appoints head of energy storage subsidiary, effective immediately",
-      "url": "https://www.energy-storage.news/ja-solar-appoints-head-of-energy-storage-subsidiary-effective-immediately/",
-      "date": "2026-05-21T08:54:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
