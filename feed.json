@@ -1,6 +1,55 @@
 {
-  "ts": 1780394050395,
+  "ts": 1780407779794,
   "items": [
+    {
+      "title": "Why some US BESS developers are forgoing the investment tax credit",
+      "url": "https://www.energy-storage.news/why-some-us-bess-developers-are-forgoing-the-investment-tax-credit/",
+      "date": "2026-06-02T12:00:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Planned solar gigafactory in France welcomes new investor",
+      "url": "https://www.pv-magazine.com/2026/06/02/la-future-gigafactory-photovoltaique-holosolis-accueille-un-nouvel-investisseur/",
+      "date": "2026-06-02T11:54:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany: interaction between grid fees, BKZ and FCAs still need to be solved",
+      "url": "https://www.energy-storage.news/germany-interaction-between-grid-fees-bkz-and-fcas-still-need-to-be-solved/",
+      "date": "2026-06-02T11:35:17.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Argentine football club inaugurates 120 kW solar system",
+      "url": "https://www.pv-magazine.com/2026/06/02/el-club-argentino-velez-sarsfield-inaugura-una-planta-solar-de-120-kwp-en-su-estadio-de-futbol-y-preve-cubrir-hasta-el-20-de-su-demanda-electrica/",
+      "date": "2026-06-02T11:11:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US BESS integrator Prevalon becomes Nextpower&#8217;s latest acquisition for US$365 million",
+      "url": "https://www.energy-storage.news/us-bess-integrator-prevalon-becomes-nextpowers-latest-acquisition-for-us365-million/",
+      "date": "2026-06-02T11:01:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Nextpower files patent lawsuit against Gamechange",
+      "url": "https://www.pv-magazine.com/2026/06/02/nextpower-files-patent-lawsuit-against-gamechange/",
+      "date": "2026-06-02T10:08:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Philippines proposes stricter PV, battery product certification rules",
+      "url": "https://www.pv-magazine.com/2026/06/02/philippines-proposes-stricter-solar-and-battery-product-certification-rules/",
+      "date": "2026-06-02T10:00:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "EU approves Spain&#8217;s €9 billion capacity market for generation, demand response and energy storage",
       "url": "https://www.energy-storage.news/eu-approves-spain-euro-9-billion-capacity-market-generation-demand-response-energy-storage/",
@@ -37,7 +86,7 @@
       "bucket": "A"
     },
     {
-      "title": "The case for vehicle-integrated phovoltaics in disaster zones",
+      "title": "The case for vehicle-integrated photovoltaics in disaster zones",
       "url": "https://www.pv-magazine.com/2026/06/02/the-case-for-vehicle-integrated-phovoltaics-in-disaster-zones/",
       "date": "2026-06-02T07:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -65,27 +114,6 @@
       "bucket": "A"
     },
     {
-      "title": "Stabilizing perovskite solar cells with chlorine",
-      "url": "https://www.pv-magazine.com/2026/06/02/stabilizing-perovskite-solar-cells-with-chlorine/",
-      "date": "2026-06-02T06:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Betting on batteries: addressing intermittent inefficiencies at scale",
-      "url": "https://www.pv-magazine.com/2026/06/02/betting-on-batteries-addressing-intermittent-inefficiencies-at-scale/",
-      "date": "2026-06-02T05:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "SEG Solar announces third U.S. manufacturing site",
-      "url": "https://www.pv-magazine.com/2026/06/02/seg-solar-announces-third-u-s-manufacturing-site/",
-      "date": "2026-06-02T04:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Strategic procurement in a dynamic BESS market: The power of early engagement and strong partnerships",
       "url": "https://www.energy-storage.news/strategic-procurement-in-a-dynamic-bess-market-the-power-of-early-engagement-and-strong-partnerships/",
       "date": "2026-06-02T02:52:59.000Z",
@@ -97,13 +125,6 @@
       "url": "https://www.energy-storage.news/australia-queensland-bess-fleet-pushes-state-to-79-5-renewables-plus-storage-share/",
       "date": "2026-06-02T02:47:33.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "France’s cumulative solar capacity reaches 33 GW",
-      "url": "https://www.pv-magazine.com/2026/06/01/au-31-mars-2026-la-puissance-du-parc-photovoltaique-francais-atteint-33-gw/",
-      "date": "2026-06-01T14:17:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "Masdar picks Sungrow as supplier for world’s largest 24/7 renewable energy project in UAE",
       "url": "https://www.energy-storage.news/masdar-picks-sungrow-as-supplier-for-worlds-largest-24-7-renewable-energy-project-in-uae/",
       "date": "2026-05-22T08:33:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Developers must become ‘a bit of a firefighter, sound expert, and light expert’: Addressing BESS safety and community opposition",
-      "url": "https://www.energy-storage.news/developers-must-become-a-bit-of-a-firefighter-sound-expert-and-light-expert-addressing-bess-safety-and-community-opposition/",
-      "date": "2026-05-21T13:35:31.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US ROUNDUP: BESS project advancements from OCI Energy, MN8 Energy, GridStor, Grenergy",
-      "url": "https://www.energy-storage.news/us-roundup-bess-project-advancements-from-oci-energy-mn8-energy-gridstor-grenergy/",
-      "date": "2026-05-21T13:19:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Invinity lands contract for 2.1GWh flow battery in Switzerland, share price soars 60%",
-      "url": "https://www.energy-storage.news/invinity-lands-contract-for-2-1gwh-flow-battery-in-switzerland-share-price-soars-60/",
-      "date": "2026-05-21T11:30:33.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
