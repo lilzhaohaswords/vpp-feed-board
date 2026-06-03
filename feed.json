@@ -1,6 +1,62 @@
 {
-  "ts": 1780482338983,
+  "ts": 1780500077757,
   "items": [
+    {
+      "title": "JinkoSolar launches 700 W TOPCon solar module with 25.91% efficiency",
+      "url": "https://www.pv-magazine.com/2026/06/03/jinkosolar-launches-700-w-topcon-solar-module-with-25-91-efficiency/",
+      "date": "2026-06-03T14:29:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Vietnam’s first direct power purchase agreement enters operation",
+      "url": "https://www.pv-magazine.com/2026/06/03/vietnams-first-direct-power-purchase-agreement-enters-operation/",
+      "date": "2026-06-03T13:15:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How to structure a US BESS manufacturing deal with Chinese partners amidst FEOC, with NeoVolta",
+      "url": "https://www.energy-storage.news/how-to-structure-a-us-bess-manufacturing-deal-with-chinese-partners-amidst-feoc-with-neovolta/",
+      "date": "2026-06-03T12:48:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "France sees negative spot price of -€498/MWh",
+      "url": "https://www.pv-magazine.com/2026/06/03/un-prix-spot-negatif-record-de-498-e-mwh-enregistre-le-1er-mai/",
+      "date": "2026-06-03T12:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Alsym Energy partners with Re:Build Manufacturing to scale US Na-ion BESS",
+      "url": "https://www.energy-storage.news/alsym-energy-partners-with-rebuild-manufacturing-to-scale-us-na-ion-bess/",
+      "date": "2026-06-03T12:05:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Anker Solix launches 2 kWh home backup power system",
+      "url": "https://www.pv-magazine.com/2026/06/03/anker-solix-launches-2-kwh-home-backup-power-system/",
+      "date": "2026-06-03T12:02:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "NTPC Green Energy floats 3.3GWh BESS EPC tender for Khavda Solar Park in Gujarat, India",
+      "url": "https://www.energy-storage.news/ntpc-green-energy-3-3gwh-bess-epc-tender-khavda-solar-gujarat-india/",
+      "date": "2026-06-03T10:30:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Mexico exceeds 5 GW of distributed solar capacity",
+      "url": "https://www.pv-magazine.com/2026/06/03/mexico-supera-en-2025-los-5-gw-solares-en-generacion-distribuida/",
+      "date": "2026-06-03T10:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Why BESS performance guarantees are more complex than they seem",
       "url": "https://www.energy-storage.news/why-bess-performance-guarantees-are-more-complex-than-they-seem/",
@@ -55,41 +111,6 @@
       "url": "https://www.energy-storage.news/third-party-technologies-for-preventing-or-dealing-with-thermal-runaway-in-bess-assets/",
       "date": "2026-06-03T08:09:46.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Enphase explains how gallium nitride is changing its microinverters",
-      "url": "https://www.pv-magazine.com/2026/06/03/enphase-explains-how-gallium-nitride-is-changing-its-microinverters/",
-      "date": "2026-06-03T08:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "German startup building vertical air-to-water heat pump",
-      "url": "https://www.pv-magazine.com/2026/06/03/german-startup-building-vertical-air-to-water-heat-pump/",
-      "date": "2026-06-03T07:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How Britain became Europe’s solar sink",
-      "url": "https://www.pv-magazine.com/2026/06/03/how-britain-became-europes-solar-sink/",
-      "date": "2026-06-03T07:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Africa: A Quiet PV Revolution with Global Implications",
-      "url": "https://www.pv-magazine.com/2026/06/03/africa-a-quiet-pv-revolution-with-global-implications/",
-      "date": "2026-06-03T06:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sinovoltaics releases new PV inverter manufacturer financial stability ranking",
-      "url": "https://www.pv-magazine.com/2026/06/03/sinovoltaics-releases-new-pv-inverter-manufacturer-financial-stability-ranking-2/",
-      "date": "2026-06-03T05:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "BloombergNEF ups BESS forecast as renewables add resilience from fossil fuel price shocks",
       "url": "https://www.energy-storage.news/bloombergnef-ups-bess-forecast-as-renewables-add-resilience-from-fossil-fuel-price-shocks/",
       "date": "2026-05-25T13:27:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "250MW/1,000MWh Ontario BESS begins commercial operations, potential expansion ahead",
-      "url": "https://www.energy-storage.news/250mw-1000mwh-ontario-bess-begins-commercial-operations-potential-expansion-ahead/",
-      "date": "2026-05-25T12:53:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US installed 9.7GWh of new BESS in Q1 2026, SEIA reports",
-      "url": "https://www.energy-storage.news/us-installed-9-7gwh-of-new-bess-in-q1-2026-seia-reports/",
-      "date": "2026-05-25T12:38:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Contact Energy switches on 200MWh battery storage system in New Zealand",
-      "url": "https://www.energy-storage.news/contact-energy-switches-on-200mwh-battery-storage-system-in-new-zealand/",
-      "date": "2026-05-25T03:49:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
