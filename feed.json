@@ -1,24 +1,94 @@
 {
-  "ts": 1780465904376,
+  "ts": 1780482338983,
   "items": [
+    {
+      "title": "Why BESS performance guarantees are more complex than they seem",
+      "url": "https://www.energy-storage.news/why-bess-performance-guarantees-are-more-complex-than-they-seem/",
+      "date": "2026-06-03T10:22:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Cambodia&#8217;s utility-scale solar surpasses planned targets for 2030 and 2035",
+      "url": "https://www.pv-magazine.com/2026/06/03/cambodias-utility-scale-solar-surpasses-planned-targets-for-2030-and-2035/",
+      "date": "2026-06-03T10:01:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Eco Stor and Next Kraftwerke agree toll for 700MWh Germany BESS",
+      "url": "https://www.energy-storage.news/eco-stor-and-next-kraftwerke-agree-toll-for-700mwh-germany-bess/",
+      "date": "2026-06-03T09:55:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Grid expansion, batteries to ease curtailment in Brazil",
+      "url": "https://www.pv-magazine.com/2026/06/03/melhorias-na-rede-eletrica-e-entrada-de-baterias-no-medio-prazo-aliviarao-curtailment-projeta-aurora/",
+      "date": "2026-06-03T09:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Natural ester fluids beat mineral oil for use in renewable energy applications",
+      "url": "https://www.pv-magazine.com/2026/06/03/natural-ester-fluids-beat-mineral-oil-for-use-in-renewable-energy-applications/",
+      "date": "2026-06-03T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France, Germany, Portugal, Spain set daily solar records",
+      "url": "https://www.pv-magazine.com/2026/06/03/france-germany-portugal-spain-set-daily-solar-records/",
+      "date": "2026-06-03T08:41:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Scientists achieve 27% efficiency in a co-deposited inverted perovskite",
+      "url": "https://www.pv-magazine.com/2026/06/03/scientists-achieve-27-efficiency-in-a-co-deposited-inverted-perovskite/",
+      "date": "2026-06-03T08:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Third-party technologies for preventing or dealing with thermal runaway in BESS assets",
+      "url": "https://www.energy-storage.news/third-party-technologies-for-preventing-or-dealing-with-thermal-runaway-in-bess-assets/",
+      "date": "2026-06-03T08:09:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Enphase explains how gallium nitride is changing its microinverters",
+      "url": "https://www.pv-magazine.com/2026/06/03/enphase-explains-how-gallium-nitride-is-changing-its-microinverters/",
+      "date": "2026-06-03T08:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "German startup building vertical air-to-water heat pump",
+      "url": "https://www.pv-magazine.com/2026/06/03/german-startup-building-vertical-air-to-water-heat-pump/",
+      "date": "2026-06-03T07:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How Britain became Europe’s solar sink",
+      "url": "https://www.pv-magazine.com/2026/06/03/how-britain-became-europes-solar-sink/",
+      "date": "2026-06-03T07:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Africa: A Quiet PV Revolution with Global Implications",
+      "url": "https://www.pv-magazine.com/2026/06/03/africa-a-quiet-pv-revolution-with-global-implications/",
+      "date": "2026-06-03T06:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Sinovoltaics releases new PV inverter manufacturer financial stability ranking",
       "url": "https://www.pv-magazine.com/2026/06/03/sinovoltaics-releases-new-pv-inverter-manufacturer-financial-stability-ranking-2/",
       "date": "2026-06-03T05:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Elecnova launches all-in-one liquid-cooled ESS container for backup power, microgrids",
-      "url": "https://www.pv-magazine.com/2026/06/03/elecnova-launches-all-in-one-liquid-cooled-ess-container-for-backup-power-microgrids/",
-      "date": "2026-06-03T04:35:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The hidden underperformance crisis in solar portfolios",
-      "url": "https://www.pv-magazine.com/2026/06/03/the-hidden-underperformance-crisis-in-solar-portfolios/",
-      "date": "2026-06-03T04:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -37,24 +107,10 @@
       "bucket": "A"
     },
     {
-      "title": "Rooftop PV helps South Africa pass one year without loadshedding",
-      "url": "https://www.pv-magazine.com/2026/06/02/rooftop-pv-helps-south-africa-pass-one-year-without-loadshedding/",
-      "date": "2026-06-02T14:08:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Why some US BESS developers are forgoing the investment tax credit",
       "url": "https://www.energy-storage.news/why-some-us-bess-developers-are-forgoing-the-investment-tax-credit/",
       "date": "2026-06-02T12:00:23.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Planned solar gigafactory in France welcomes new investor",
-      "url": "https://www.pv-magazine.com/2026/06/02/la-future-gigafactory-photovoltaique-holosolis-accueille-un-nouvel-investisseur/",
-      "date": "2026-06-02T11:54:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -65,13 +121,6 @@
       "bucket": "A"
     },
     {
-      "title": "Argentine football club inaugurates 120 kW solar system",
-      "url": "https://www.pv-magazine.com/2026/06/02/el-club-argentino-velez-sarsfield-inaugura-una-planta-solar-de-120-kwp-en-su-estadio-de-futbol-y-preve-cubrir-hasta-el-20-de-su-demanda-electrica/",
-      "date": "2026-06-02T11:11:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US BESS integrator Prevalon becomes Nextpower&#8217;s latest acquisition for US$365 million",
       "url": "https://www.energy-storage.news/us-bess-integrator-prevalon-becomes-nextpowers-latest-acquisition-for-us365-million/",
       "date": "2026-06-02T11:01:36.000Z",
@@ -79,38 +128,10 @@
       "bucket": "A"
     },
     {
-      "title": "Nextpower files patent lawsuit against Gamechange",
-      "url": "https://www.pv-magazine.com/2026/06/02/nextpower-files-patent-lawsuit-against-gamechange/",
-      "date": "2026-06-02T10:08:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Philippines proposes stricter PV, battery product certification rules",
-      "url": "https://www.pv-magazine.com/2026/06/02/philippines-proposes-stricter-solar-and-battery-product-certification-rules/",
-      "date": "2026-06-02T10:00:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "EU approves Spain&#8217;s €9 billion capacity market for generation, demand response and energy storage",
       "url": "https://www.energy-storage.news/eu-approves-spain-euro-9-billion-capacity-market-generation-demand-response-energy-storage/",
       "date": "2026-06-02T09:49:47.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Slovenia to introduce electricity sharing",
-      "url": "https://www.pv-magazine.com/2026/06/02/slovenia-to-introduce-electricity-sharing/",
-      "date": "2026-06-02T09:17:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tongwei to showcase TNC 3.0 series at Intersolar Europe 2026",
-      "url": "https://www.pv-magazine.com/2026/06/02/tongwei-to-showcase-tnc-3-0-series-at-intersolar-europe-2026/",
-      "date": "2026-06-02T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "Contact Energy switches on 200MWh battery storage system in New Zealand",
       "url": "https://www.energy-storage.news/contact-energy-switches-on-200mwh-battery-storage-system-in-new-zealand/",
       "date": "2026-05-25T03:49:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Spearmint Energy secures US$450 million for 600MWh Texas BESS project",
-      "url": "https://www.energy-storage.news/spearmint-energy-secures-us450-million-for-600mwh-texas-bess-project/",
-      "date": "2026-05-22T11:54:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "LDES investor Frontier Power acquires 480MWh Texas BESS portfolio from Bimergen",
-      "url": "https://www.energy-storage.news/ldes-investor-frontier-power-acquires-480mwh-texas-bess-portfolio-from-bimergen/",
-      "date": "2026-05-22T11:50:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany market participants starting to price 2029-onwards projects despite uncertainty",
-      "url": "https://www.energy-storage.news/germany-market-participants-starting-to-price-2029-onwards-projects-despite-uncertainty/",
-      "date": "2026-05-22T11:00:25.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
