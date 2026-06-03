@@ -1,6 +1,41 @@
 {
-  "ts": 1780446027520,
+  "ts": 1780465904376,
   "items": [
+    {
+      "title": "Sinovoltaics releases new PV inverter manufacturer financial stability ranking",
+      "url": "https://www.pv-magazine.com/2026/06/03/sinovoltaics-releases-new-pv-inverter-manufacturer-financial-stability-ranking-2/",
+      "date": "2026-06-03T05:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Elecnova launches all-in-one liquid-cooled ESS container for backup power, microgrids",
+      "url": "https://www.pv-magazine.com/2026/06/03/elecnova-launches-all-in-one-liquid-cooled-ess-container-for-backup-power-microgrids/",
+      "date": "2026-06-03T04:35:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The hidden underperformance crisis in solar portfolios",
+      "url": "https://www.pv-magazine.com/2026/06/03/the-hidden-underperformance-crisis-in-solar-portfolios/",
+      "date": "2026-06-03T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Akaysha Energy&#8217;s 415MW/1,660MWh Orana BESS reaches full output in Australia",
+      "url": "https://www.energy-storage.news/akaysha-energys-415mw-1660mwh-orana-bess-reaches-full-output-in-australia/",
+      "date": "2026-06-03T01:56:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s Queensland opens AU$200 million fund for battery storage and generation projects",
+      "url": "https://www.energy-storage.news/australias-queensland-opens-au200-million-fund-for-battery-storage-and-generation-projects/",
+      "date": "2026-06-03T01:51:11.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Rooftop PV helps South Africa pass one year without loadshedding",
       "url": "https://www.pv-magazine.com/2026/06/02/rooftop-pv-helps-south-africa-pass-one-year-without-loadshedding/",
@@ -75,27 +110,6 @@
       "title": "Tongwei to showcase TNC 3.0 series at Intersolar Europe 2026",
       "url": "https://www.pv-magazine.com/2026/06/02/tongwei-to-showcase-tnc-3-0-series-at-intersolar-europe-2026/",
       "date": "2026-06-02T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "German startup advancing compressor-free electrocaloric heat pump technology",
-      "url": "https://www.pv-magazine.com/2026/06/02/german-startup-advancing-compressor-free-electrocaloric-heat-pump-technology/",
-      "date": "2026-06-02T08:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Marstek debuts new plug-in battery series",
-      "url": "https://www.pv-magazine.com/2026/06/02/marstek-debuts-new-plug-in-battery-series/",
-      "date": "2026-06-02T07:10:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The case for vehicle-integrated photovoltaics in disaster zones",
-      "url": "https://www.pv-magazine.com/2026/06/02/the-case-for-vehicle-integrated-phovoltaics-in-disaster-zones/",
-      "date": "2026-06-02T07:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -404,20 +418,6 @@
       "title": "Germany market participants starting to price 2029-onwards projects despite uncertainty",
       "url": "https://www.energy-storage.news/germany-market-participants-starting-to-price-2029-onwards-projects-despite-uncertainty/",
       "date": "2026-05-22T11:00:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EDF completes 120MWh Poland BESS; Eurus, NGEN and Aretis progress other CEE projects",
-      "url": "https://www.energy-storage.news/edf-completes-120mwh-poland-bess-eurus-ngen-and-aretis-progress-other-cee-projects/",
-      "date": "2026-05-22T10:55:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Masdar picks Sungrow as supplier for world’s largest 24/7 renewable energy project in UAE",
-      "url": "https://www.energy-storage.news/masdar-picks-sungrow-as-supplier-for-worlds-largest-24-7-renewable-energy-project-in-uae/",
-      "date": "2026-05-22T08:33:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
