@@ -1,6 +1,20 @@
 {
-  "ts": 1780576422504,
+  "ts": 1780589579371,
   "items": [
+    {
+      "title": "‘This should have already been done’: Deploy Action on accelerating California DERs",
+      "url": "https://www.energy-storage.news/this-should-have-already-been-done-deploy-action-on-accelerating-california-ders/",
+      "date": "2026-06-04T12:40:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US solar startup T1 Energy to acquire BESS company KORE Power for US$32 million",
+      "url": "https://www.energy-storage.news/us-solar-startup-t1-energy-to-acquire-bess-company-kore-power-for-us32-million/",
+      "date": "2026-06-04T12:35:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Cybersecurity concerns put focus on India’s solar inverter supplies",
       "url": "https://www.pv-magazine.com/2026/06/04/cybersecurity-concerns-put-focus-on-indias-solar-inverter-imports/",
@@ -404,20 +418,6 @@
       "title": "DC vs AC coupling: which is best for co-locating your BESS and solar setups?",
       "url": "https://www.energy-storage.news/dc-vs-ac-coupling-which-is-best-for-co-locating-your-bess-and-solar-setups/",
       "date": "2026-05-26T08:46:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Securing India&#8217;s battery supply chain is more critical than ever",
-      "url": "https://www.energy-storage.news/securing-indias-battery-supply-chain-is-more-critical-than-ever/",
-      "date": "2026-05-26T06:41:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Gujarat Industries Power Co seeks bids for 120MWh vanadium flow battery pilot project",
-      "url": "https://www.energy-storage.news/gujarat-industries-power-co-seeks-bids-for-120mwh-vanadium-flow-battery-pilot-project/",
-      "date": "2026-05-26T03:04:00.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
