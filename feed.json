@@ -1,6 +1,20 @@
 {
-  "ts": 1780532553280,
+  "ts": 1780550933240,
   "items": [
+    {
+      "title": "Queensland opens funding call for solar, wind, storage projects",
+      "url": "https://www.pv-magazine.com/2026/06/04/queensland-seeks-new-energy-generation-and-storage-proposals-under-200-million-fund/",
+      "date": "2026-06-04T05:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Taiwan&#8217;s Recharge Power partners with Energy Decarb for 292MWh battery storage pipeline in Australia",
+      "url": "https://www.energy-storage.news/taiwans-recharge-power-partners-with-energy-decarb-for-292mwh-battery-storage-pipeline-in-australia/",
+      "date": "2026-06-04T01:52:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "JinkoSolar launches 700 W TOPCon solar module with 25.91% efficiency",
       "url": "https://www.pv-magazine.com/2026/06/03/jinkosolar-launches-700-w-topcon-solar-module-with-25-91-efficiency/",
@@ -96,13 +110,6 @@
       "title": "France, Germany, Portugal, Spain set daily solar records",
       "url": "https://www.pv-magazine.com/2026/06/03/france-germany-portugal-spain-set-daily-solar-records/",
       "date": "2026-06-03T08:41:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Scientists achieve 27% efficiency in a co-deposited inverted perovskite",
-      "url": "https://www.pv-magazine.com/2026/06/03/scientists-achieve-27-efficiency-in-a-co-deposited-inverted-perovskite/",
-      "date": "2026-06-03T08:30:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "Australia becomes the ‘world&#8217;s third-largest utility-scale battery storage market’",
       "url": "https://www.energy-storage.news/australia-becomes-the-worlds-third-largest-utility-scale-battery-storage-market/",
       "date": "2026-05-26T00:44:11.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BloombergNEF ups BESS forecast as renewables add resilience from fossil fuel price shocks",
-      "url": "https://www.energy-storage.news/bloombergnef-ups-bess-forecast-as-renewables-add-resilience-from-fossil-fuel-price-shocks/",
-      "date": "2026-05-25T13:27:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
