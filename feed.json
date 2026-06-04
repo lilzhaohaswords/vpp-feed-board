@@ -1,6 +1,55 @@
 {
-  "ts": 1780565774526,
+  "ts": 1780576422504,
   "items": [
+    {
+      "title": "Cybersecurity concerns put focus on India’s solar inverter supplies",
+      "url": "https://www.pv-magazine.com/2026/06/04/cybersecurity-concerns-put-focus-on-indias-solar-inverter-imports/",
+      "date": "2026-06-04T12:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Giga-scale Swiss data centre project will be ‘world-first’ in carving out niche for flow batteries, Invinity says",
+      "url": "https://www.energy-storage.news/giga-scale-swiss-data-centre-project-will-be-world-first-in-carving-out-niche-for-flow-batteries-invinity-says/",
+      "date": "2026-06-04T11:39:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Brazil’s first energy storage auctions are coming this year, regulatory framework approved",
+      "url": "https://www.energy-storage.news/brazils-first-energy-storage-auctions-are-coming-this-year-regulatory-framework-approved/",
+      "date": "2026-06-04T11:33:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Malaysia forecast to reach 29.7 GW of solar by 2035",
+      "url": "https://www.pv-magazine.com/2026/06/04/malaysia-forecast-to-reach-29-7-gw-of-solar-by-2035/",
+      "date": "2026-06-04T11:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US adds 6.4 GW of utility-scale solar, wind, storage in Q1",
+      "url": "https://www.pv-magazine.com/2026/06/04/the-pipeline-for-new-u-s-solar-and-energy-storage-surges-as-wind-dies-down-report/",
+      "date": "2026-06-04T11:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar streetlights with AI could solve data center energy demand",
+      "url": "https://www.pv-magazine.com/2026/06/04/solar-streetlights-with-ai-nvidia-chips-could-solve-data-center-energy-demand-green-utilities-conflow-power-group/",
+      "date": "2026-06-04T10:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU Roundup: R.Power, OX2, BRUC, Aukera finance BESS in Poland, Spain and Belgium totalling 2.2GWh for 2027 COD",
+      "url": "https://www.energy-storage.news/eu-roundup-r-power-ox2-bruc-aukera-finance-bess-in-poland-spain-and-belgium-totalling-2-2gwh-for-2027-cod/",
+      "date": "2026-06-04T10:08:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "European Commission to conduct risk assessment of EU solar, wind installations",
       "url": "https://www.pv-magazine.com/2026/06/04/european-commission-to-conduct-risk-assessment-of-eu-solar-wind-installations/",
@@ -51,13 +100,6 @@
       "bucket": "A"
     },
     {
-      "title": "Queensland opens funding call for solar, wind, storage projects",
-      "url": "https://www.pv-magazine.com/2026/06/04/queensland-seeks-new-energy-generation-and-storage-proposals-under-200-million-fund/",
-      "date": "2026-06-04T05:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Taiwan&#8217;s Recharge Power partners with Energy Decarb for 292MWh battery storage pipeline in Australia",
       "url": "https://www.energy-storage.news/taiwans-recharge-power-partners-with-energy-decarb-for-292mwh-battery-storage-pipeline-in-australia/",
       "date": "2026-06-04T01:52:41.000Z",
@@ -65,31 +107,10 @@
       "bucket": "A"
     },
     {
-      "title": "JinkoSolar launches 700 W TOPCon solar module with 25.91% efficiency",
-      "url": "https://www.pv-magazine.com/2026/06/03/jinkosolar-launches-700-w-topcon-solar-module-with-25-91-efficiency/",
-      "date": "2026-06-03T14:29:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Vietnam’s first direct power purchase agreement enters operation",
-      "url": "https://www.pv-magazine.com/2026/06/03/vietnams-first-direct-power-purchase-agreement-enters-operation/",
-      "date": "2026-06-03T13:15:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "How to structure a US BESS manufacturing deal with Chinese partners amidst FEOC, with NeoVolta",
       "url": "https://www.energy-storage.news/how-to-structure-a-us-bess-manufacturing-deal-with-chinese-partners-amidst-feoc-with-neovolta/",
       "date": "2026-06-03T12:48:38.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "France sees negative spot price of -€498/MWh",
-      "url": "https://www.pv-magazine.com/2026/06/03/un-prix-spot-negatif-record-de-498-e-mwh-enregistre-le-1er-mai/",
-      "date": "2026-06-03T12:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "Gujarat Industries Power Co seeks bids for 120MWh vanadium flow battery pilot project",
       "url": "https://www.energy-storage.news/gujarat-industries-power-co-seeks-bids-for-120mwh-vanadium-flow-battery-pilot-project/",
       "date": "2026-05-26T03:04:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fortescue begins construction on 650MWh Cloudbreak battery storage system in Western Australia",
-      "url": "https://www.energy-storage.news/fortescue-begins-construction-on-650mwh-cloudbreak-battery-storage-system-in-western-australia/",
-      "date": "2026-05-26T01:32:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Passive bidding strategy delivers AU$743,000 monthly revenue for Swanbank BESS in Australia",
-      "url": "https://www.energy-storage.news/passive-bidding-strategy-delivers-au743000-monthly-revenue-for-swanbank-bess-in-australia/",
-      "date": "2026-05-26T01:30:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery storage dominates Australia&#8217;s Capacity Investment Scheme Tender 7 as hybrid projects secure 7.9GWh",
-      "url": "https://www.energy-storage.news/battery-storage-dominates-australias-capacity-investment-scheme-tender-7-as-hybrid-projects-secure-7-9gwh/",
-      "date": "2026-05-26T00:48:43.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
