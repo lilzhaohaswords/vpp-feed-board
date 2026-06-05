@@ -1,6 +1,27 @@
 {
-  "ts": 1780658224200,
+  "ts": 1780668837707,
   "items": [
+    {
+      "title": "&#8216;Get out from behind your screen, our industry is ultimately about people&#8217;",
+      "url": "https://www.pv-magazine.com/2026/06/05/get-out-from-behind-your-screen-our-industry-is-ultimately-about-people/",
+      "date": "2026-06-05T14:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The Hydrogen Stream: Toyota demonstrates its liquid-hydrogen racing prototype",
+      "url": "https://www.pv-magazine.com/2026/06/05/the-hydrogen-stream-toyota-demonstrates-its-liquid-hydrogen-racing-prototype/",
+      "date": "2026-06-05T13:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Dutch solar owners asked to switch off during peak periods to ease distribution crisis",
+      "url": "https://www.pv-magazine.com/2026/06/05/grid-connection-delays-affect-thousands-of-dutch-customers-liander/",
+      "date": "2026-06-05T12:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Lithuania’s grid operators can now disconnect solar plants without cybersecurity measures",
       "url": "https://www.pv-magazine.com/2026/06/05/lithuanias-grid-operators-can-now-disconnect-solar-plants-without-cybersecurity-measures/",
@@ -68,27 +89,6 @@
       "title": "Researchers test accuracy of simulation tools for floating PV",
       "url": "https://www.pv-magazine.com/2026/06/05/researchers-test-accuracy-of-simulation-tools-for-floating-pv/",
       "date": "2026-06-05T08:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese TOPCon module spot prices hold steady as forward curve softens on weaker demand outlook",
-      "url": "https://www.pv-magazine.com/2026/06/05/chinese-topcon-module-spot-prices-hold-steady-as-forward-curve-softens-on-weaker-demand-outlook/",
-      "date": "2026-06-05T07:35:18.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Array Technologies improves OmniTrack flex capability to 2°",
-      "url": "https://www.pv-magazine.com/2026/06/05/array-technologies-improves-omnitrack-flex-capability-to-2/",
-      "date": "2026-06-05T07:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Polish grid attack reveals cyber-insurance gap for battery storage",
-      "url": "https://www.pv-magazine.com/2026/06/05/polish-grid-attack-reveals-cyber-insurance-gap-for-battery-storage/",
-      "date": "2026-06-05T06:30:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
