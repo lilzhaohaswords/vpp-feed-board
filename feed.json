@@ -1,6 +1,13 @@
 {
-  "ts": 1780617625795,
+  "ts": 1780631105188,
   "items": [
+    {
+      "title": "Australia&#8217;s Victoria fast-tracks 1,390MW of battery storage Development Facilitation Program approval round",
+      "url": "https://www.energy-storage.news/australias-victoria-fast-tracks-1390mw-of-battery-storage-development-facilitation-program-approval-round/",
+      "date": "2026-06-05T02:20:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "‘This should have already been done’: Deploy Action on accelerating California DERs",
       "url": "https://www.energy-storage.news/this-should-have-already-been-done-deploy-action-on-accelerating-california-ders/",
@@ -411,13 +418,6 @@
       "title": "CATL supplying 1.5GWh for Grenergy&#8217;s long-term tolled Spanish BESS projects",
       "url": "https://www.energy-storage.news/catl-supplying-1-5gwh-for-grenergys-long-term-tolled-spanish-bess-projects/",
       "date": "2026-05-26T09:05:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "DC vs AC coupling: which is best for co-locating your BESS and solar setups?",
-      "url": "https://www.energy-storage.news/dc-vs-ac-coupling-which-is-best-for-co-locating-your-bess-and-solar-setups/",
-      "date": "2026-05-26T08:46:58.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
