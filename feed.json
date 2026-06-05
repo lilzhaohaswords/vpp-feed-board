@@ -1,6 +1,48 @@
 {
-  "ts": 1780631105188,
+  "ts": 1780646194508,
   "items": [
+    {
+      "title": "Chinese TOPCon module spot prices hold steady as forward curve softens on weaker demand outlook",
+      "url": "https://www.pv-magazine.com/2026/06/05/chinese-topcon-module-spot-prices-hold-steady-as-forward-curve-softens-on-weaker-demand-outlook/",
+      "date": "2026-06-05T07:35:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Array Technologies improves OmniTrack flex capability to 2°",
+      "url": "https://www.pv-magazine.com/2026/06/05/array-technologies-improves-omnitrack-flex-capability-to-2/",
+      "date": "2026-06-05T07:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Polish grid attack reveals cyber-insurance gap for battery storage",
+      "url": "https://www.pv-magazine.com/2026/06/05/polish-grid-attack-reveals-cyber-insurance-gap-for-battery-storage/",
+      "date": "2026-06-05T06:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "AfDB dashboard to track Africa’s electrification progress",
+      "url": "https://www.pv-magazine.com/2026/06/05/la-bad-lance-un-tableau-de-bord-public-pour-suivre-lelectrification-de-lafrique/",
+      "date": "2026-06-05T06:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia installs 435 MW of residential rooftop PV in April",
+      "url": "https://www.pv-magazine.com/2026/06/05/small-scale-certificate-april-record-bumps-rooftop-solar-30-to-435-mw/",
+      "date": "2026-06-05T05:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Akaysha Energy’s Waratah Super Battery in Australia returns to 700MW as Transformer 2 comes back online",
+      "url": "https://www.energy-storage.news/akaysha-energys-waratah-super-battery-in-australia-returns-to-700mw-as-transformer-2-comes-back-online/",
+      "date": "2026-06-05T04:31:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Australia&#8217;s Victoria fast-tracks 1,390MW of battery storage Development Facilitation Program approval round",
       "url": "https://www.energy-storage.news/australias-victoria-fast-tracks-1390mw-of-battery-storage-development-facilitation-program-approval-round/",
@@ -79,45 +121,10 @@
       "bucket": "A"
     },
     {
-      "title": "India extends countervailing duty on Malaysian solar glass imports for five years",
-      "url": "https://www.pv-magazine.com/2026/06/04/india-extends-countervailing-duty-on-malaysian-solar-glass-imports-for-five-years/",
-      "date": "2026-06-04T08:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Europe must support role of long-duration energy storage in electrification, security and competitiveness, trade groups say",
       "url": "https://www.energy-storage.news/europe-must-support-role-of-long-duration-energy-storage-in-electrification-security-and-competitiveness-trade-groups-say/",
       "date": "2026-06-04T08:08:12.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Researchers combine agrivoltaics with insect net house",
-      "url": "https://www.pv-magazine.com/2026/06/04/researchers-combine-agrivoltaics-with-insect-net-house/",
-      "date": "2026-06-04T08:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK hits 22.3 GW solar capacity as cost per kW falls",
-      "url": "https://www.pv-magazine.com/2026/06/04/uk-hits-22-3-gw-solar-capacity-as-cost-per-kw-falls/",
-      "date": "2026-06-04T07:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Mauritius tenders 220 MW of solar and storage via new ‘e-Marketplace’",
-      "url": "https://www.pv-magazine.com/2026/06/04/mauritius-tenders-220-mw-of-solar-and-storage-via-new-e-marketplace/",
-      "date": "2026-06-04T07:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hybrid solar-hydrogen project planned at Antarctic base",
-      "url": "https://www.pv-magazine.com/2026/06/04/giz-valida-un-piloto-de-energias-renovables-e-hidrogeno-en-una-base-antartica-chilena/",
-      "date": "2026-06-04T06:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -411,13 +418,6 @@
       "title": "Strong regulatory uncertainty ‘cools’ investor interest in Germany, clarity in 2027 at earliest",
       "url": "https://www.energy-storage.news/strong-regulatory-uncertainty-cools-investor-interest-in-germany-clarity-in-2027-at-earliest/",
       "date": "2026-05-26T11:03:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CATL supplying 1.5GWh for Grenergy&#8217;s long-term tolled Spanish BESS projects",
-      "url": "https://www.energy-storage.news/catl-supplying-1-5gwh-for-grenergys-long-term-tolled-spanish-bess-projects/",
-      "date": "2026-05-26T09:05:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
