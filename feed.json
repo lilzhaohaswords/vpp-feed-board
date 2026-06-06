@@ -1,6 +1,20 @@
 {
-  "ts": 1780724574988,
+  "ts": 1780733877204,
   "items": [
+    {
+      "title": "Global grid capex to surpass $650 billion in 2026, says Rystad Energy",
+      "url": "https://www.pv-magazine.com/2026/06/06/global-grid-capex-to-surpass-650-billion-in-2026-says-rystad-energy/",
+      "date": "2026-06-06T07:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Age of electrification exposing Australia’s weakest link",
+      "url": "https://www.pv-magazine.com/2026/06/06/age-of-electrification-exposing-australias-weakest-link/",
+      "date": "2026-06-06T07:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Chinese PV Industry Brief: Arctech wins 2.1 GW solar deal",
       "url": "https://www.pv-magazine.com/2026/06/05/chinese-pv-industry-brief-arctech-wins-2-1-gw-solar-deal/",
@@ -58,13 +72,6 @@
       "bucket": "A"
     },
     {
-      "title": "Drought and clear skies drive western North America irradiance gains in May",
-      "url": "https://www.pv-magazine.com/2026/06/05/drought-and-clear-skies-drive-western-north-america-irradiance-gains-in-may/",
-      "date": "2026-06-05T09:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "EDF and Masdar enter 15-year PPAs for 160MWh hybrid California BESS",
       "url": "https://www.energy-storage.news/edf-and-masdar-enter-15-year-ppas-for-160mwh-hybrid-california-bess/",
       "date": "2026-06-05T09:09:35.000Z",
@@ -76,13 +83,6 @@
       "url": "https://www.energy-storage.news/google-signs-100mw-distributed-energy-resource-vpp-agreement-with-voltus-for-pjm/",
       "date": "2026-06-05T09:08:00.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar panel recycling yet to close cost gap before waste surge",
-      "url": "https://www.pv-magazine.com/2026/06/05/solar-panel-recycling-costs-outpace-recovered-material-value-as-2030-waste-surge-approaches/",
-      "date": "2026-06-05T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
