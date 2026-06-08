@@ -1,6 +1,27 @@
 {
-  "ts": 1780884409810,
+  "ts": 1780903080853,
   "items": [
+    {
+      "title": "25% is the new 23%",
+      "url": "https://www.pv-magazine.com/2026/06/08/25-is-the-new-23/",
+      "date": "2026-06-08T06:09:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Inside PV manufacturing: Sunmaxx&#8217;s PVT module factory in Germany",
+      "url": "https://www.pv-magazine.com/2026/06/08/inside-pv-manufacturing-la-fabrica-de-paneles-pvt-de-sunmaxx-en-alemania/",
+      "date": "2026-06-08T05:46:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Halocell Energy secures grant for perovskite PV scale-up",
+      "url": "https://www.pv-magazine.com/2026/06/08/halocell-energy-secures-grant-for-perovskite-pv-scale-up/",
+      "date": "2026-06-08T05:15:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Global grid capex to surpass $650 billion in 2026, says Rystad Energy",
       "url": "https://www.pv-magazine.com/2026/06/06/global-grid-capex-to-surpass-650-billion-in-2026-says-rystad-energy/",
@@ -47,27 +68,6 @@
       "title": "Dutch solar owners asked to switch off during peak periods to ease distribution crisis",
       "url": "https://www.pv-magazine.com/2026/06/05/grid-connection-delays-affect-thousands-of-dutch-customers-liander/",
       "date": "2026-06-05T12:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Lithuania’s grid operators can now disconnect solar plants without cybersecurity measures",
-      "url": "https://www.pv-magazine.com/2026/06/05/lithuanias-grid-operators-can-now-disconnect-solar-plants-without-cybersecurity-measures/",
-      "date": "2026-06-05T11:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Drax signs 10-year PPA with Global Switch, attempts $755m Bluefield Solar purchase",
-      "url": "https://www.pv-magazine.com/2026/06/05/drax-signs-10-year-ppa-with-global-switch-attempts-755m-bluefield-solar-purchase/",
-      "date": "2026-06-05T10:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "US laboratory finds persistent ultraviolet light-induced degradation in solar modules",
-      "url": "https://www.pv-magazine.com/2026/06/05/latest-retc-solar-module-quality-report-reveals-significant-issues/",
-      "date": "2026-06-05T10:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
