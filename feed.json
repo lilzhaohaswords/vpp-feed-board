@@ -1,6 +1,62 @@
 {
-  "ts": 1780903080853,
+  "ts": 1780921027470,
   "items": [
+    {
+      "title": "Using a bird’s structural-color trick to color solar modules",
+      "url": "https://www.pv-magazine.com/2026/06/08/using-a-birds-structural-color-trick-to-color-solar-modules/",
+      "date": "2026-06-08T12:07:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Astronergy launches 825 W TOPCon solar module",
+      "url": "https://www.pv-magazine.com/2026/06/08/astronergy-launches-825-w-topcon-solar-module/",
+      "date": "2026-06-08T11:59:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Africa&#8217;s solar power pools show rising synchronization risk under climate change",
+      "url": "https://www.pv-magazine.com/2026/06/08/africas-solar-power-pools-show-rising-synchronization-risk-under-climate-change/",
+      "date": "2026-06-08T11:53:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "esVolta closes US$450 million expanded credit facility to expand US BESS portfolio",
+      "url": "https://www.energy-storage.news/esvolta-closes-us450-million-expanded-credit-facility-to-expand-us-bess-portfolio/",
+      "date": "2026-06-08T11:34:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Data centre developer DayOne signs solar and BESS PPAs in Malaysia with TNB subsidiaries",
+      "url": "https://www.energy-storage.news/data-centre-developer-dayone-signs-solar-and-bess-ppas-in-malaysia-with-tnb-subsidiaries/",
+      "date": "2026-06-08T10:46:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Contracting, audits and operational controls: How to protect your BESS investment",
+      "url": "https://www.energy-storage.news/contracting-audits-and-operational-controls-how-to-protect-your-bess-investment/",
+      "date": "2026-06-08T09:16:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "SVOLT showcases comprehensive energy storage solutions at SNEC 2026",
+      "url": "https://www.pv-magazine.com/2026/06/08/svolt-showcases-comprehensive-energy-storage-solutions-at-snec-2026/",
+      "date": "2026-06-08T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Oman seeks consultants for 300 MW solar project",
+      "url": "https://www.pv-magazine.com/2026/06/08/oman-seeks-consultants-for-300-mw-solar-project/",
+      "date": "2026-06-08T08:59:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "25% is the new 23%",
       "url": "https://www.pv-magazine.com/2026/06/08/25-is-the-new-23/",
@@ -33,41 +89,6 @@
       "title": "Age of electrification exposing Australia’s weakest link",
       "url": "https://www.pv-magazine.com/2026/06/06/age-of-electrification-exposing-australias-weakest-link/",
       "date": "2026-06-06T07:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: Arctech wins 2.1 GW solar deal",
-      "url": "https://www.pv-magazine.com/2026/06/05/chinese-pv-industry-brief-arctech-wins-2-1-gw-solar-deal/",
-      "date": "2026-06-05T15:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Siemens Energy buys Camlin Group, maker of transformer monitoring software",
-      "url": "https://www.pv-magazine.com/2026/06/05/siemens-energy-buys-camlin-group-maker-of-transformer-monitoring-software/",
-      "date": "2026-06-05T15:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Get out from behind your screen, our industry is ultimately about people&#8217;",
-      "url": "https://www.pv-magazine.com/2026/06/05/get-out-from-behind-your-screen-our-industry-is-ultimately-about-people/",
-      "date": "2026-06-05T14:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Toyota demonstrates its liquid-hydrogen racing prototype",
-      "url": "https://www.pv-magazine.com/2026/06/05/the-hydrogen-stream-toyota-demonstrates-its-liquid-hydrogen-racing-prototype/",
-      "date": "2026-06-05T13:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Dutch solar owners asked to switch off during peak periods to ease distribution crisis",
-      "url": "https://www.pv-magazine.com/2026/06/05/grid-connection-delays-affect-thousands-of-dutch-customers-liander/",
-      "date": "2026-06-05T12:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -397,27 +418,6 @@
       "title": "California Energy Commission approves 3.2GWh BESS project through Newsom&#8217;s accelerated permitting scheme",
       "url": "https://www.energy-storage.news/california-energy-commission-approves-3-2gwh-bess-project-through-newsoms-accelerated-permitting-scheme/",
       "date": "2026-05-27T14:54:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Domestic manufacturing capacity sufficient to fully satisfy US battery module demand,’ trade group ACP claims",
-      "url": "https://www.energy-storage.news/domestic-manufacturing-capacity-sufficient-to-fully-satisfy-us-battery-module-demand-trade-group-acp-claims/",
-      "date": "2026-05-27T13:01:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "German government confirms August 2029 grid fee exemption date for storage, but sets 2027 FID deadline",
-      "url": "https://www.energy-storage.news/german-government-confirms-august-2029-grid-fee-exemption-date-for-storage-but-sets-2027-fid-deadline/",
-      "date": "2026-05-27T10:14:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery storage remains key revenue driver for clean energy technology suppliers",
-      "url": "https://www.energy-storage.news/battery-storage-remains-key-revenue-driver-for-clean-energy-technology-suppliers/",
-      "date": "2026-05-27T09:46:49.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
