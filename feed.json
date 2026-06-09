@@ -1,6 +1,34 @@
 {
-  "ts": 1780969516470,
+  "ts": 1780984510250,
   "items": [
+    {
+      "title": "CATL to supply 2,400MWh of battery storage for Edify Energy&#8217;s Australian hybrid projects",
+      "url": "https://www.energy-storage.news/catl-to-supply-2400mwh-of-battery-storage-for-edify-energys-australian-hybrid-projects/",
+      "date": "2026-06-09T05:29:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "New Zealand’s Meridian Energy wins draft approval to access 545GWh of contingent hydro storage",
+      "url": "https://www.energy-storage.news/new-zealands-meridian-energy-wins-draft-approval-to-access-545gwh-of-contingent-hydro-storage/",
+      "date": "2026-06-09T02:03:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Eku Energy submits 10-hour duration Griffith BESS to Australia&#8217;s EPBC Act",
+      "url": "https://www.energy-storage.news/eku-energy-submits-10-hour-duration-griffith-bess-to-australias-epbc-act/",
+      "date": "2026-06-09T02:00:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ark Energy’s 3.1GWh solar-plus-storage site in Australia bags AEMO grid connection",
+      "url": "https://www.energy-storage.news/ark-energys-3-1gwh-solar-plus-storage-site-in-australia-bags-aemo-grid-connection/",
+      "date": "2026-06-09T01:55:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "TOYO launches $357 Million, 1.5 GW HJT solar cell factory in Houston",
       "url": "https://www.pv-magazine.com/2026/06/08/toyo-launches-357-million-1-5-gw-hjt-solar-cell-factory-in-houston/",
@@ -390,34 +418,6 @@
       "title": "ContourGlobal brings online 231MW solar, 1.3GWh BESS in Chile",
       "url": "https://www.energy-storage.news/contourglobal-brings-online-231mw-solar-1-3gwh-bess-in-chile/",
       "date": "2026-05-28T09:26:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU Roundup: TagEnergy, Iberdrola commission France and Spain&#8217;s largest batteries, construction launched elsewhere",
-      "url": "https://www.energy-storage.news/eu-roundup-tagenergy-iberdrola-commission-france-and-spains-largest-batteries-construction-launched-elsewhere/",
-      "date": "2026-05-28T09:02:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "HyperStrong signs deal to supply battery storage project selected in Malaysia government tender",
-      "url": "https://www.energy-storage.news/hyperstrong-signs-deal-to-supply-battery-storage-project-selected-in-malaysia-government-tender/",
-      "date": "2026-05-28T08:45:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AEMO and Transgrid approve Australia&#8217;s first 8-hour BESS for full operations",
-      "url": "https://www.energy-storage.news/aemo-and-transgrid-approve-australias-first-8-hour-bess-for-full-operations/",
-      "date": "2026-05-28T02:34:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "California Energy Commission approves 3.2GWh BESS project through Newsom&#8217;s accelerated permitting scheme",
-      "url": "https://www.energy-storage.news/california-energy-commission-approves-3-2gwh-bess-project-through-newsoms-accelerated-permitting-scheme/",
-      "date": "2026-05-27T14:54:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
