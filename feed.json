@@ -1,6 +1,34 @@
 {
-  "ts": 1780984510250,
+  "ts": 1780995180526,
   "items": [
+    {
+      "title": "SNEC 2026: Energy storage launches and tech spec reveals at China’s biggest clean energy trade show",
+      "url": "https://www.energy-storage.news/snec-2026-energy-storage-launches-and-tech-spec-reveals-at-chinas-biggest-clean-energy-trade-show/",
+      "date": "2026-06-09T08:43:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "From ‘crazy vision’ to 698 GW: How a bold solar forecast became too conservative",
+      "url": "https://www.pv-magazine.com/2026/06/09/from-crazy-vision-to-698-gw-how-a-bold-solar-forecast-became-too-conservative/",
+      "date": "2026-06-09T08:23:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The different options for energy storage",
+      "url": "https://www.pv-magazine.com/2026/06/09/the-different-options-for-energy-storage/",
+      "date": "2026-06-09T07:51:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "U.S. court restores 5% safe harbor for wind and large solar",
+      "url": "https://www.pv-magazine.com/2026/06/09/court-restores-5-safe-harbor-for-wind-and-large-solar/",
+      "date": "2026-06-09T07:20:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "CATL to supply 2,400MWh of battery storage for Edify Energy&#8217;s Australian hybrid projects",
       "url": "https://www.energy-storage.news/catl-to-supply-2400mwh-of-battery-storage-for-edify-energys-australian-hybrid-projects/",
@@ -97,27 +125,6 @@
       "url": "https://www.energy-storage.news/contracting-audits-and-operational-controls-how-to-protect-your-bess-investment/",
       "date": "2026-06-08T09:16:19.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SVOLT showcases comprehensive energy storage solutions at SNEC 2026",
-      "url": "https://www.pv-magazine.com/2026/06/08/svolt-showcases-comprehensive-energy-storage-solutions-at-snec-2026/",
-      "date": "2026-06-08T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Oman seeks consultants for 300 MW solar project",
-      "url": "https://www.pv-magazine.com/2026/06/08/oman-seeks-consultants-for-300-mw-solar-project/",
-      "date": "2026-06-08T08:59:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "25% is the new 23%",
-      "url": "https://www.pv-magazine.com/2026/06/08/25-is-the-new-23/",
-      "date": "2026-06-08T06:09:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -411,13 +418,6 @@
       "title": "LG ES system integrator subsidiary signs 6GWh BESS deal with Michigan utility DTE Energy",
       "url": "https://www.energy-storage.news/lg-es-system-integrator-subsidiary-signs-6gwh-bess-deal-with-michigan-utility-dte-energy/",
       "date": "2026-05-28T11:36:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ContourGlobal brings online 231MW solar, 1.3GWh BESS in Chile",
-      "url": "https://www.energy-storage.news/contourglobal-brings-online-231mw-solar-1-3gwh-bess-in-chile/",
-      "date": "2026-05-28T09:26:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
