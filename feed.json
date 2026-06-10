@@ -1,6 +1,27 @@
 {
-  "ts": 1781056542716,
+  "ts": 1781071818643,
   "items": [
+    {
+      "title": "Australia’s biggest transmission project powers up",
+      "url": "https://www.pv-magazine.com/2026/06/10/australias-biggest-transmission-project-powers-up/",
+      "date": "2026-06-10T05:59:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Qcells begins production at U.S. vertically integrated PV factory",
+      "url": "https://www.pv-magazine.com/2026/06/10/qcells-begins-production-of-solar-cells-in-cartersville-georgia/",
+      "date": "2026-06-10T05:58:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Gamuda Renewables acquires interest in 1.8GWh solar-plus-storage site in Victoria, Australia",
+      "url": "https://www.energy-storage.news/gamuda-renewables-acquires-interest-in-1-8gwh-solar-plus-storage-site-in-victoria-australia/",
+      "date": "2026-06-10T01:59:22.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "German BESS market has moved beyond peak hype",
       "url": "https://www.energy-storage.news/german-bess-market-moved-beyond-peak-tsunami-hype/",
@@ -96,20 +117,6 @@
       "title": "Study finds &#8216;significant&#8217; agrivoltaic potential in Austria",
       "url": "https://www.pv-magazine.com/2026/06/09/study-finds-significant-agrivoltaic-potential-in-austria/",
       "date": "2026-06-09T09:41:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Global solar tracker market grew 19% in 2025",
-      "url": "https://www.pv-magazine.com/2026/06/09/global-solar-tracker-market-grew-19-in-2025/",
-      "date": "2026-06-09T09:35:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "InfinityPV releases solar simulator with 385–1,300 nm illumination spectral range",
-      "url": "https://www.pv-magazine.com/2026/06/09/infinitypv-releases-solar-simulator-with-385-1300-nm-illumination-spectral-range/",
-      "date": "2026-06-09T09:19:22.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "‘Time to prove its potential’: Gresham House UK BESS fund at a crossroads",
       "url": "https://www.energy-storage.news/time-to-prove-its-potential-gresham-house-uk-bess-fund-at-a-crossroads/",
       "date": "2026-05-29T11:30:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "German regulator’s grid fee decision ‘restores investor confidence’ in energy storage market",
-      "url": "https://www.energy-storage.news/german-regulators-grid-fee-decision-restores-investor-confidence-in-energy-storage-market/",
-      "date": "2026-05-29T10:32:47.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
