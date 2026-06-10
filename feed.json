@@ -1,17 +1,94 @@
 {
-  "ts": 1781071818643,
+  "ts": 1781088264887,
   "items": [
     {
-      "title": "Australia’s biggest transmission project powers up",
-      "url": "https://www.pv-magazine.com/2026/06/10/australias-biggest-transmission-project-powers-up/",
-      "date": "2026-06-10T05:59:37.000Z",
+      "title": "What new redispatching rules and negative prices mean for German renewable asset management",
+      "url": "https://www.pv-magazine.com/2026/06/10/what-new-redispatching-rules-and-negative-prices-mean-for-german-renewable-asset-management/",
+      "date": "2026-06-10T10:39:37.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "Qcells begins production at U.S. vertically integrated PV factory",
-      "url": "https://www.pv-magazine.com/2026/06/10/qcells-begins-production-of-solar-cells-in-cartersville-georgia/",
-      "date": "2026-06-10T05:58:07.000Z",
+      "title": "Chile’s president attends inauguration of 3.5GWh BESS at Grenergy’s Oasis de Atacama solar-plus-storage complex",
+      "url": "https://www.energy-storage.news/chiles-president-attends-inauguration-of-3-5gwh-bess-at-grenergys-oasis-de-atacama-solar-plus-storage-complex/",
+      "date": "2026-06-10T10:23:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "General Motors plots sodium-ion tech leapfrog into grid-scale energy storage market",
+      "url": "https://www.energy-storage.news/general-motors-plots-sodium-ion-tech-leapfrog-into-grid-scale-energy-storage-market/",
+      "date": "2026-06-10T10:22:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US government restricts trade with prominent Chinese storage companies",
+      "url": "https://www.pv-magazine.com/2026/06/10/us-government-restricts-trade-with-prominent-chinese-storage-companies/",
+      "date": "2026-06-10T10:18:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany Roundup: &#8216;First fully merchant financing&#8217;, 180MWh M&#038;A, analytics deal on 282MWh project",
+      "url": "https://www.energy-storage.news/germany-roundup-first-fully-merchant-financing-180mwh-ma-analytics-deal-on-282mwh-project/",
+      "date": "2026-06-10T09:59:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Pakistan targets solar sector with higher sales tax on modules, increased duties on batteries and inverters",
+      "url": "https://www.pv-magazine.com/2026/06/10/pakistan-targets-solar-sector-with-higher-sales-tax-on-modules-increased-duties-on-batteries-and-inverters/",
+      "date": "2026-06-10T09:53:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UNSW, Trina Solar design silver-free back contact PV cell with screen-printed aluminum contacts",
+      "url": "https://www.pv-magazine.com/2026/06/10/unsw-trina-solar-design-silver-free-back-contact-pv-cell-with-screen-printed-aluminum-contacts/",
+      "date": "2026-06-10T09:12:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "JA to showcase new utility-scale battery and latest-generation TOPCon modules at Intersolar 2026",
+      "url": "https://www.pv-magazine.com/2026/06/10/ja-to-showcase-new-utility-scale-battery-and-latest-generation-topcon-modules-at-intersolar-2026/",
+      "date": "2026-06-10T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "General Motors to build sodium-ion batteries for grid-scale storage",
+      "url": "https://www.pv-magazine.com/2026/06/10/general-motors-to-build-sodium-ion-batteries-for-grid-scale-storage/",
+      "date": "2026-06-10T08:32:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Canadian Solar unveils 6.25 MWh liquid-cooled storage system",
+      "url": "https://www.pv-magazine.com/2026/06/10/canadian-solar-unveils-6-25-mwh-liquid-cooled-storage-system/",
+      "date": "2026-06-10T07:25:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Aiko showcases 690 W back-contact solar module with 25.6% efficiency",
+      "url": "https://www.pv-magazine.com/2026/06/10/aiko-showcases-690-w-back-contact-solar-module-with-25-6-efficiency/",
+      "date": "2026-06-10T07:16:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ceramifiable foam composite confines thermal runaway in lab battery module tests",
+      "url": "https://www.pv-magazine.com/2026/06/10/ceramifiable-foam-composite-confines-thermal-runaway-in-lab-battery-module-tests/",
+      "date": "2026-06-10T06:37:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Only a quarter of funds from the second European hydrogen auction is turning into investment",
+      "url": "https://www.pv-magazine.com/2026/06/10/solo-una-cuarta-parte-de-los-fondos-en-la-2a-subasta-europea-del-hidrogeno-se-convierte-en-inversion/",
+      "date": "2026-06-10T06:34:03.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -30,13 +107,6 @@
       "bucket": "A"
     },
     {
-      "title": "Huawei unveils grid-forming PCS",
-      "url": "https://www.pv-magazine.com/2026/06/09/huawei-unveils-grid-forming-pcs/",
-      "date": "2026-06-09T12:19:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Energy storage &#8216;needs to last longer as heatwaves and data centres strain infrastructure&#8217;",
       "url": "https://www.energy-storage.news/energy-storage-needs-to-last-longer-as-heatwaves-and-data-centres-strain-infrastructure/",
       "date": "2026-06-09T12:10:53.000Z",
@@ -51,38 +121,10 @@
       "bucket": "A"
     },
     {
-      "title": "Abu Dhabi’s solar self-supply framework marks shift to energy intelligence",
-      "url": "https://www.pv-magazine.com/2026/06/09/abu-dhabis-solar-self-supply-framework-marks-a-shift-to-energy-intelligence/",
-      "date": "2026-06-09T11:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese scientists improve kesterite solar cell efficiency with potassium fluoride",
-      "url": "https://www.pv-magazine.com/2026/06/09/chinese-scientists-improve-kesterita-solar-cell-efficiency-with-potassium-fluoride/",
-      "date": "2026-06-09T11:08:20.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "UK BESS M&#038;A rebounds with CIP, Fidra, Elements Green, Gresham House, Eelpower transacting on 4.2GWh",
       "url": "https://www.energy-storage.news/uk-bess-ma-rebounds-with-cip-fidra-elements-green-gresham-house-eelpower-transacting-on-4-2gwh/",
       "date": "2026-06-09T11:01:09.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Glint Solar names Otovo co-founder as CEO, targets US expansion and data center push",
-      "url": "https://www.pv-magazine.com/2026/06/09/glint-solar-names-otovo-co-founder-as-ceo-targets-us-expansion-and-data-center-push/",
-      "date": "2026-06-09T10:50:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hithium targets 8-hour storage with 1300 Ah cell and 6.9 MWh system",
-      "url": "https://www.pv-magazine.com/2026/06/09/hithium-targets-8-hour-storage-with-1300-ah-cell-and-6-9-mwh-system/",
-      "date": "2026-06-09T10:50:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -93,31 +135,10 @@
       "bucket": "A"
     },
     {
-      "title": "Brunei tenders solar at five government buildings",
-      "url": "https://www.pv-magazine.com/2026/06/09/brunei-tenders-solar-at-five-government-buildings/",
-      "date": "2026-06-09T10:10:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "CATL, Rolls-Royce &#038; Fluence secure Northern Europe, Poland BESS supply deals",
       "url": "https://www.energy-storage.news/catl-rolls-royce-fluence-secure-northern-europe-poland-bess-supply-deals/",
       "date": "2026-06-09T09:58:42.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Baks launches ballast-based flat-roof mounting solution",
-      "url": "https://www.pv-magazine.com/2026/06/09/baks-launches-ballast-based-flat-roof-mounting-solution/",
-      "date": "2026-06-09T09:56:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Study finds &#8216;significant&#8217; agrivoltaic potential in Austria",
-      "url": "https://www.pv-magazine.com/2026/06/09/study-finds-significant-agrivoltaic-potential-in-austria/",
-      "date": "2026-06-09T09:41:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "CATL opens &#8216;world&#8217;s largest&#8217; energy storage testing platform in China",
       "url": "https://www.energy-storage.news/catl-opens-worlds-largest-energy-storage-testing-platform-in-china/",
       "date": "2026-06-01T06:43:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "RES Australia&#8217;s 2.4GWh Bunyip North BESS clears EPBC Act assessment in Victoria",
-      "url": "https://www.energy-storage.news/res-australias-2-4gwh-bunyip-north-bess-clears-epbc-act-assessment-in-victoria/",
-      "date": "2026-06-01T01:32:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US ROUNDUP: BESS news from NeoVolta, Goshe, Frontier Power &#038; Stella and Prevalon",
-      "url": "https://www.energy-storage.news/us-roundup-bess-news-from-neovolta-goshe-frontier-power-stella-and-prevalon/",
-      "date": "2026-05-29T11:40:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Time to prove its potential’: Gresham House UK BESS fund at a crossroads",
-      "url": "https://www.energy-storage.news/time-to-prove-its-potential-gresham-house-uk-bess-fund-at-a-crossroads/",
-      "date": "2026-05-29T11:30:46.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
