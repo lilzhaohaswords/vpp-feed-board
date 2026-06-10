@@ -1,6 +1,62 @@
 {
-  "ts": 1781088264887,
+  "ts": 1781100741400,
   "items": [
+    {
+      "title": "Thermal energy storage tech analysis: Rondo, Antora, Malta Inc, MGA, 1414, EnergyNest, Polar Night and Brenmiller",
+      "url": "https://www.energy-storage.news/thermal-energy-storage-tech-analysis-rondo-antora-malta-inc-mga-1414-energynest-polar-night-and-brenmiller/",
+      "date": "2026-06-10T13:28:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Challenges remain for inertia in Germany, but value to BESS ‘will only go up’",
+      "url": "https://www.energy-storage.news/challenges-remain-inertia-german-bess-value-will-only-go-up/",
+      "date": "2026-06-10T13:13:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Kehua debuts 465 kW string inverter for desert, offshore PV",
+      "url": "https://www.pv-magazine.com/2026/06/10/kehua-debuts-465-kw-string-inverter-for-desert-offshore-pv/",
+      "date": "2026-06-10T12:49:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "JA Solar changes name into JA",
+      "url": "https://www.pv-magazine.com/2026/06/10/ja-solar-changes-name-into-ja/",
+      "date": "2026-06-10T12:38:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US ROUNDUP: EDP 800MWh Arizona project, Pathway targets SPP &#038; MISO, Waymo second-life partnership",
+      "url": "https://www.energy-storage.news/us-roundup-edp-800mwh-arizona-project-pathway-targets-spp-miso-waymo-second-life-partnership/",
+      "date": "2026-06-10T12:37:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Poland&#8217;s new energy strategy envisages sharp increase in renewables",
+      "url": "https://www.pv-magazine.com/2026/06/10/polands-new-energy-strategy-envisages-sharp-increase-in-renewables/",
+      "date": "2026-06-10T12:24:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Expert counterparties and tolling structures key to minimising uncertainty in German BESS market",
+      "url": "https://www.energy-storage.news/working-with-experts-signing-tolling-agreements-options-minimise-uncertainty-german-bess/",
+      "date": "2026-06-10T11:57:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Foam-based floating PV system for cold climates",
+      "url": "https://www.pv-magazine.com/2026/06/10/foam-based-floating-pv-system-for-cold-climates/",
+      "date": "2026-06-10T11:37:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "What new redispatching rules and negative prices mean for German renewable asset management",
       "url": "https://www.pv-magazine.com/2026/06/10/what-new-redispatching-rules-and-negative-prices-mean-for-german-renewable-asset-management/",
@@ -61,34 +117,6 @@
       "title": "General Motors to build sodium-ion batteries for grid-scale storage",
       "url": "https://www.pv-magazine.com/2026/06/10/general-motors-to-build-sodium-ion-batteries-for-grid-scale-storage/",
       "date": "2026-06-10T08:32:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Canadian Solar unveils 6.25 MWh liquid-cooled storage system",
-      "url": "https://www.pv-magazine.com/2026/06/10/canadian-solar-unveils-6-25-mwh-liquid-cooled-storage-system/",
-      "date": "2026-06-10T07:25:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Aiko showcases 690 W back-contact solar module with 25.6% efficiency",
-      "url": "https://www.pv-magazine.com/2026/06/10/aiko-showcases-690-w-back-contact-solar-module-with-25-6-efficiency/",
-      "date": "2026-06-10T07:16:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ceramifiable foam composite confines thermal runaway in lab battery module tests",
-      "url": "https://www.pv-magazine.com/2026/06/10/ceramifiable-foam-composite-confines-thermal-runaway-in-lab-battery-module-tests/",
-      "date": "2026-06-10T06:37:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Only a quarter of funds from the second European hydrogen auction is turning into investment",
-      "url": "https://www.pv-magazine.com/2026/06/10/solo-una-cuarta-parte-de-los-fondos-en-la-2a-subasta-europea-del-hidrogeno-se-convierte-en-inversion/",
-      "date": "2026-06-10T06:34:03.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -390,34 +418,6 @@
       "title": "Australia: Queensland BESS fleet pushes state to 79.5% renewables-plus-storage share",
       "url": "https://www.energy-storage.news/australia-queensland-bess-fleet-pushes-state-to-79-5-renewables-plus-storage-share/",
       "date": "2026-06-02T02:47:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Mexico launches fast-track permitting programme for renewables and BESS",
-      "url": "https://www.energy-storage.news/mexico-launches-fast-track-permitting-programme-for-renewables-and-bess/",
-      "date": "2026-06-01T13:48:21.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow and Sonnedix sign 643.8MWh supply agreement for Chile BESS",
-      "url": "https://www.energy-storage.news/sungrow-and-sonnedix-sign-643-8mwh-supply-agreement-for-chile-bess/",
-      "date": "2026-06-01T11:44:55.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany: Level playing field for storage vs conventional generation is major challenge, says developer Kyon",
-      "url": "https://www.energy-storage.news/germany-level-playing-field-for-storage-vs-conventional-generation-is-major-challenge-says-developer-kyon/",
-      "date": "2026-06-01T06:48:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CATL opens &#8216;world&#8217;s largest&#8217; energy storage testing platform in China",
-      "url": "https://www.energy-storage.news/catl-opens-worlds-largest-energy-storage-testing-platform-in-china/",
-      "date": "2026-06-01T06:43:19.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
