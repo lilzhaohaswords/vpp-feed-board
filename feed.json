@@ -1,6 +1,83 @@
 {
-  "ts": 1781154981343,
+  "ts": 1781171773110,
   "items": [
+    {
+      "title": "Spain&#8217;s BESS pipeline is real: the PE models are wrong",
+      "url": "https://www.energy-storage.news/spains-bess-pipeline-is-real-the-pe-models-are-wrong/",
+      "date": "2026-06-11T09:51:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "SNEC 2026: BESS overtakes PV modules in expo floor space, more than 97GWh of deals signed",
+      "url": "https://www.energy-storage.news/snec-2026-bess-overtakes-pv-modules-in-expo-floor-space-more-than-97gwh-of-deals-signed/",
+      "date": "2026-06-11T09:48:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "GoodWe launches PV-driven residential air-to-water heat pumps",
+      "url": "https://www.pv-magazine.com/2026/06/11/goodwe-launches-pv-driven-residential-air-to-water-heat-pumps/",
+      "date": "2026-06-11T09:31:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tongwei debuts BIFIMAX module for projects requiring high-bifaciality",
+      "url": "https://www.pv-magazine.com/2026/06/11/tongwei-debuts-bifimax-module-for-projects-requiring-high-bifaciality/",
+      "date": "2026-06-11T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "One-year outdoor testing reveals degradation paths in perovskite tandem solar cells",
+      "url": "https://www.pv-magazine.com/2026/06/11/one-year-outdoor-testing-reveals-degradation-paths-in-perovskite-tandem-solar-cells/",
+      "date": "2026-06-11T08:46:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "DNV verifies 98.7% availability of Fluence&#8217;s global battery energy storage fleet",
+      "url": "https://www.energy-storage.news/dnv-verifies-98-7-availability-of-fluences-global-battery-energy-storage-fleet/",
+      "date": "2026-06-11T08:42:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar module cooling tech based on perforated fins",
+      "url": "https://www.pv-magazine.com/2026/06/11/solar-module-cooling-tech-based-on-perforated-fins/",
+      "date": "2026-06-11T08:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Study finds tandem PV has 30% lower environmental impact than crystalline silicon",
+      "url": "https://www.pv-magazine.com/2026/06/11/study-finds-tandem-pv-has-30-lower-environmental-impact-than-crystalline-silicon/",
+      "date": "2026-06-11T07:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Eskom launches renewables unit",
+      "url": "https://www.pv-magazine.com/2026/06/11/eskom-launches-renewables-unit/",
+      "date": "2026-06-11T06:10:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Silver drives PV recycling economics as module waste wave approaches",
+      "url": "https://www.pv-magazine.com/2026/06/11/silver-drives-pv-recycling-economics-as-module-waste-wave-approaches/",
+      "date": "2026-06-11T06:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU allocates €5 billion in guarantees to support 15 GW of renewables",
+      "url": "https://www.pv-magazine.com/2026/06/11/eu-allocates-e5-billion-in-guarantees-to-support-15-gw-of-renewables/",
+      "date": "2026-06-11T05:42:21.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "UNSW research solves critical electrolyzer bottleneck in green hydrogen production",
       "url": "https://www.pv-magazine.com/2026/06/11/unsw-research-solves-critical-electrolyser-bottleneck-in-green-hydrogen-production/",
@@ -9,44 +86,9 @@
       "bucket": "A"
     },
     {
-      "title": "India floats tenders for 1.2 GW of renewable energy projects with storage to ensure reliable peak power supply",
+      "title": "India floats tenders for 1.2 GW of renewables with storage to ensure reliable peak power supply",
       "url": "https://www.pv-magazine.com/2026/06/11/seci-tenders-1-2-gw-renewable-energy-projects-backed-by-storage-for-assured-peak-power-supply/",
       "date": "2026-06-11T05:05:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar-plus-storage microgrids now delivering competitive baseload power",
-      "url": "https://www.pv-magazine.com/2026/06/11/solar-plus-storage-microgrids-now-delivering-competitive-baseload-power/",
-      "date": "2026-06-11T05:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. deploys 7.8 GW of solar in Q1",
-      "url": "https://www.pv-magazine.com/2026/06/11/u-s-q1-solar-installations-decline-27-year-over-year/",
-      "date": "2026-06-11T04:58:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Production not politics, capex not capacity – the new metrics defining U.S. solar manufacturing",
-      "url": "https://www.pv-magazine.com/2026/06/10/production-not-politics-capex-not-capacity-the-new-metrics-defining-u-s-solar-manufacturing/",
-      "date": "2026-06-10T14:55:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Swedish online auction platform selling 10.2 MW of solar modules from failed PV project",
-      "url": "https://www.pv-magazine.com/2026/06/10/swedish-online-auction-platform-selling-10-2-mw-of-solar-modules-from-failed-pv-project/",
-      "date": "2026-06-10T14:50:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Switzerland launches call for PV deployment on cantonal road retaining walls",
-      "url": "https://www.pv-magazine.com/2026/06/10/switzerland-launches-call-for-pv-deployment-on-cantonal-road-retaining-walls/",
-      "date": "2026-06-10T14:17:56.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -65,31 +107,10 @@
       "bucket": "A"
     },
     {
-      "title": "Kehua debuts 465 kW string inverter for desert, offshore PV",
-      "url": "https://www.pv-magazine.com/2026/06/10/kehua-debuts-465-kw-string-inverter-for-desert-offshore-pv/",
-      "date": "2026-06-10T12:49:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "JA Solar changes name into JA",
-      "url": "https://www.pv-magazine.com/2026/06/10/ja-solar-changes-name-into-ja/",
-      "date": "2026-06-10T12:38:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US ROUNDUP: EDP 800MWh Arizona project, Pathway targets SPP &#038; MISO, Waymo second-life partnership",
       "url": "https://www.energy-storage.news/us-roundup-edp-800mwh-arizona-project-pathway-targets-spp-miso-waymo-second-life-partnership/",
       "date": "2026-06-10T12:37:28.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Poland&#8217;s new energy strategy envisages sharp increase in renewables",
-      "url": "https://www.pv-magazine.com/2026/06/10/polands-new-energy-strategy-envisages-sharp-increase-in-renewables/",
-      "date": "2026-06-10T12:24:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "Fluence to integrate Smartstack into Siemens&#8217; Nvidia AI data centre reference architecture",
       "url": "https://www.energy-storage.news/fluence-to-integrate-smartstack-into-siemens-nvidia-ai-data-centre-reference-architecture/",
       "date": "2026-06-02T06:34:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ROUNDUP: Japan’s BESS market sees domestic and overseas players pursue larger-scale projects",
-      "url": "https://www.energy-storage.news/roundup-japans-bess-market-sees-domestic-and-overseas-players-pursue-larger-scale-projects/",
-      "date": "2026-06-02T06:32:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Strategic procurement in a dynamic BESS market: The power of early engagement and strong partnerships",
-      "url": "https://www.energy-storage.news/strategic-procurement-in-a-dynamic-bess-market-the-power-of-early-engagement-and-strong-partnerships/",
-      "date": "2026-06-02T02:52:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: Queensland BESS fleet pushes state to 79.5% renewables-plus-storage share",
-      "url": "https://www.energy-storage.news/australia-queensland-bess-fleet-pushes-state-to-79-5-renewables-plus-storage-share/",
-      "date": "2026-06-02T02:47:33.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
