@@ -1,6 +1,13 @@
 {
-  "ts": 1781185750366,
+  "ts": 1781198918697,
   "items": [
+    {
+      "title": "UK heat pump installations stall despite subsidy boost",
+      "url": "https://www.pv-magazine.com/2026/06/11/uk-heat-pump-installations-stall-despite-subsidy-boost/",
+      "date": "2026-06-11T14:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "VDA calls for ‘staged approach’ to implement EU Battery Passport",
       "url": "https://www.energy-storage.news/vda-calls-for-staged-approach-implement-eu-battery-passport/",
@@ -110,13 +117,6 @@
       "title": "Solar module cooling tech based on perforated fins",
       "url": "https://www.pv-magazine.com/2026/06/11/solar-module-cooling-tech-based-on-perforated-fins/",
       "date": "2026-06-11T08:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Study finds tandem PV has 30% lower environmental impact than crystalline silicon",
-      "url": "https://www.pv-magazine.com/2026/06/11/study-finds-tandem-pv-has-30-lower-environmental-impact-than-crystalline-silicon/",
-      "date": "2026-06-11T07:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
