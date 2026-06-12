@@ -1,6 +1,13 @@
 {
-  "ts": 1781268274617,
+  "ts": 1781280015804,
   "items": [
+    {
+      "title": "Trinasolar launches 620 W TOPCon ‘Shield’ module for North American market",
+      "url": "https://www.pv-magazine.com/2026/06/12/trinasolar-launches-620-w-topcon-shield-module-for-north-american-market/",
+      "date": "2026-06-12T13:34:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Wärtsilä testing 100% hydrogen engine",
       "url": "https://www.pv-magazine.com/2026/06/12/the-hydrogen-stream-wartsila-testing-100-hydrogen-engine/",
@@ -96,13 +103,6 @@
       "title": "Chinese PV Industry Brief: Daqo expands beyond polysilicon",
       "url": "https://www.pv-magazine.com/2026/06/12/chinese-pv-industry-brief-daqo-expands-beyond-polysilicon/",
       "date": "2026-06-12T08:49:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chile releases bidding terms for first energy auction including storage",
-      "url": "https://www.pv-magazine.com/2026/06/12/chile-releases-bidding-terms-for-first-energy-auction-including-storage/",
-      "date": "2026-06-12T08:28:30.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
