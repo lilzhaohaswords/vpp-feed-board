@@ -1,6 +1,27 @@
 {
-  "ts": 1781223013817,
+  "ts": 1781241725905,
   "items": [
+    {
+      "title": "India&#8217;s floating PV potential estimated at 102 GW",
+      "url": "https://www.pv-magazine.com/2026/06/12/new-report-estimates-over-102-gwp-of-deployable-floating-solar-pv-potential-in-india/",
+      "date": "2026-06-12T05:09:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "RWE officially opens Australia’s first 8-hour battery storage system",
+      "url": "https://www.energy-storage.news/rwe-officially-opens-australias-first-8-hour-battery-storage-system/",
+      "date": "2026-06-12T02:08:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Sembcorp completes US$4.32 billion acquisition of Alinta Energy, adds 10.4GW Australian pipeline",
+      "url": "https://www.energy-storage.news/sembcorp-completes-us4-32-billion-acquisition-of-alinta-energy-adds-10-4gw-australian-pipeline/",
+      "date": "2026-06-12T02:06:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "UK heat pump installations stall despite subsidy boost",
       "url": "https://www.pv-magazine.com/2026/06/11/uk-heat-pump-installations-stall-despite-subsidy-boost/",
@@ -111,13 +132,6 @@
       "url": "https://www.energy-storage.news/dnv-verifies-98-7-availability-of-fluences-global-battery-energy-storage-fleet/",
       "date": "2026-06-11T08:42:42.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar module cooling tech based on perforated fins",
-      "url": "https://www.pv-magazine.com/2026/06/11/solar-module-cooling-tech-based-on-perforated-fins/",
-      "date": "2026-06-11T08:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Akaysha Energy&#8217;s 415MW/1,660MWh Orana BESS reaches full output in Australia",
       "url": "https://www.energy-storage.news/akaysha-energys-415mw-1660mwh-orana-bess-reaches-full-output-in-australia/",
       "date": "2026-06-03T01:56:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s Queensland opens AU$200 million fund for battery storage and generation projects",
-      "url": "https://www.energy-storage.news/australias-queensland-opens-au200-million-fund-for-battery-storage-and-generation-projects/",
-      "date": "2026-06-03T01:51:11.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Why some US BESS developers are forgoing the investment tax credit",
-      "url": "https://www.energy-storage.news/why-some-us-bess-developers-are-forgoing-the-investment-tax-credit/",
-      "date": "2026-06-02T12:00:23.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
