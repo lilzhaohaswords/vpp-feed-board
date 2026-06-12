@@ -1,10 +1,87 @@
 {
-  "ts": 1781241725905,
+  "ts": 1781257712845,
   "items": [
     {
-      "title": "India&#8217;s floating PV potential estimated at 102 GW",
-      "url": "https://www.pv-magazine.com/2026/06/12/new-report-estimates-over-102-gwp-of-deployable-floating-solar-pv-potential-in-india/",
-      "date": "2026-06-12T05:09:27.000Z",
+      "title": "Wärtsilä on why AI data centres need BESS to smooth demand and avoid &#8216;destroying the grid&#8217;",
+      "url": "https://www.energy-storage.news/wartsila-on-why-ai-data-centres-need-bess-to-smooth-demand-and-avoid-destroying-the-grid/",
+      "date": "2026-06-12T09:31:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Portion of Czech hydropower station to be transformed into 154MW/750MWh pumped storage plant",
+      "url": "https://www.energy-storage.news/portion-of-czech-hydropower-station-to-be-transformed-into-154mw-750mwh-pumped-storage-plant/",
+      "date": "2026-06-12T09:26:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "First 9-in-1 heat pump transforms load into an energy hub",
+      "url": "https://www.pv-magazine.com/2026/06/12/first-9-in-1-heat-pump-transforms-load-into-an-energy-hub/",
+      "date": "2026-06-12T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: Daqo expands beyond polysilicon",
+      "url": "https://www.pv-magazine.com/2026/06/12/chinese-pv-industry-brief-daqo-expands-beyond-polysilicon/",
+      "date": "2026-06-12T08:49:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chile releases bidding terms for first energy auction including storage",
+      "url": "https://www.pv-magazine.com/2026/06/12/chile-releases-bidding-terms-for-first-energy-auction-including-storage/",
+      "date": "2026-06-12T08:28:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Global polysilicon prices hold steady as Section 232 outcome draws focus at SNEC",
+      "url": "https://www.pv-magazine.com/2026/06/12/global-polysilicon-prices-hold-steady-as-section-232-outcome-draws-focus-at-snec/",
+      "date": "2026-06-12T08:19:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SNEC 2026 wrap-up: Storage, AI and back-contact are reshaping solar",
+      "url": "https://www.pv-magazine.com/2026/06/12/snec-2026-wrap-storage-ai-and-back-contact-are-reshaping-solar/",
+      "date": "2026-06-12T08:12:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Heat pumps cheaper to operate than gas boilers in almost all EU countries, IEA claims",
+      "url": "https://www.pv-magazine.com/2026/06/12/heat-pumps-cheaper-to-operate-than-gas-boilers-in-almost-all-eu-countries-iea-claims/",
+      "date": "2026-06-12T07:42:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Longi unveils 27.27%-efficient heterojunction back-contact solar cell built with improved laser processing",
+      "url": "https://www.pv-magazine.com/2026/06/12/longi-unveils-27-27-efficient-heterojunction-back-contact-solar-cell-built-with-improved-laser-processing/",
+      "date": "2026-06-12T07:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fire strikes another German home with solar roof tiles",
+      "url": "https://www.pv-magazine.com/2026/06/12/nuevo-incendio-en-una-vivienda-con-tejas-fotovoltaicas-en-alemania/",
+      "date": "2026-06-12T06:21:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Renewable energy is not a side story in our economic growth, it is the headline&#8217;",
+      "url": "https://www.pv-magazine.com/2026/06/12/renewable-energy-is-not-a-side-story-in-our-economic-growth-it-is-the-headline/",
+      "date": "2026-06-12T05:52:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fraunhofer ISE achieves 34.4 efficiency for III-V germanium solar module",
+      "url": "https://www.pv-magazine.com/2026/06/12/fraunhofer-ise-erreicht-344-prozent-wirkungsgrad-fur-modul-mit-schindel-matrix-technologie-und-weltraum-solarzellen/",
+      "date": "2026-06-12T05:28:32.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -23,45 +100,10 @@
       "bucket": "A"
     },
     {
-      "title": "UK heat pump installations stall despite subsidy boost",
-      "url": "https://www.pv-magazine.com/2026/06/11/uk-heat-pump-installations-stall-despite-subsidy-boost/",
-      "date": "2026-06-11T14:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "VDA calls for ‘staged approach’ to implement EU Battery Passport",
       "url": "https://www.energy-storage.news/vda-calls-for-staged-approach-implement-eu-battery-passport/",
       "date": "2026-06-11T13:43:44.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Global solar demand on track for first annual decline in two decades",
-      "url": "https://www.pv-magazine.com/2026/06/11/solar-slowing-bnef-asks-whats-next-for-the-industry/",
-      "date": "2026-06-11T12:55:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bangladesh introduces 0% tax rate for solar power sector",
-      "url": "https://www.pv-magazine.com/2026/06/11/bangladesh-introduces-0-tax-rate-for-solar-power-sector/",
-      "date": "2026-06-11T12:46:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pylontech launches 8 MWh storage system with 426 Wh/L energy density",
-      "url": "https://www.pv-magazine.com/2026/06/11/pylontech-launches-8-mwh-storage-system-with-426-wh-l-energy-density/",
-      "date": "2026-06-11T12:16:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar-powered floating shellfish farming tested in French lagoon",
-      "url": "https://www.pv-magazine.com/2026/06/11/solar-powered-floating-shellfish-farming-tested-in-french-lagoon/",
-      "date": "2026-06-11T12:06:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -76,13 +118,6 @@
       "url": "https://www.energy-storage.news/europe-walking-into-new-dependencies-global-battery-supply-chain/",
       "date": "2026-06-11T10:46:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Residential PV costs fell 7% year over year in Brazil",
-      "url": "https://www.pv-magazine.com/2026/06/11/el-precio-medio-de-la-energia-solar-en-brasil-retrocede-un-7-en-un-ano/",
-      "date": "2026-06-11T10:38:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -104,27 +139,6 @@
       "url": "https://www.energy-storage.news/snec-2026-bess-overtakes-pv-modules-in-expo-floor-space-more-than-97gwh-of-deals-signed/",
       "date": "2026-06-11T09:48:52.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "GoodWe launches PV-driven residential air-to-water heat pumps",
-      "url": "https://www.pv-magazine.com/2026/06/11/goodwe-launches-pv-driven-residential-air-to-water-heat-pumps/",
-      "date": "2026-06-11T09:31:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Tongwei debuts BIFIMAX module for projects requiring high-bifaciality",
-      "url": "https://www.pv-magazine.com/2026/06/11/tongwei-debuts-bifimax-module-for-projects-requiring-high-bifaciality/",
-      "date": "2026-06-11T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "One-year outdoor testing reveals degradation paths in perovskite tandem solar cells",
-      "url": "https://www.pv-magazine.com/2026/06/11/one-year-outdoor-testing-reveals-degradation-paths-in-perovskite-tandem-solar-cells/",
-      "date": "2026-06-11T08:46:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Eco Stor and Next Kraftwerke agree toll for 700MWh Germany BESS",
       "url": "https://www.energy-storage.news/eco-stor-and-next-kraftwerke-agree-toll-for-700mwh-germany-bess/",
       "date": "2026-06-03T09:55:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Third-party technologies for preventing or dealing with thermal runaway in BESS assets",
-      "url": "https://www.energy-storage.news/third-party-technologies-for-preventing-or-dealing-with-thermal-runaway-in-bess-assets/",
-      "date": "2026-06-03T08:09:46.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Akaysha Energy&#8217;s 415MW/1,660MWh Orana BESS reaches full output in Australia",
-      "url": "https://www.energy-storage.news/akaysha-energys-415mw-1660mwh-orana-bess-reaches-full-output-in-australia/",
-      "date": "2026-06-03T01:56:32.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
