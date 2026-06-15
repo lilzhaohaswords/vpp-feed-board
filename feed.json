@@ -1,6 +1,69 @@
 {
-  "ts": 1781489361817,
+  "ts": 1781512908003,
   "items": [
+    {
+      "title": "Pseudo-planar heterojunction organic solar cell achieves world record efficiency of 20.21%",
+      "url": "https://www.pv-magazine.com/2026/06/15/pseudo-planar-heterojunction-organic-solar-cell-achieves-world-record-efficiency-of-20-21/",
+      "date": "2026-06-15T08:36:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese scientists identify degradation pathways in low-silver heterojunction solar cells",
+      "url": "https://www.pv-magazine.com/2026/06/15/chinese-scientists-identify-degradation-pathways-in-low-silver-heterojunction-solar-cells/",
+      "date": "2026-06-15T07:47:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Germany’s ramp constraints, grid limitations and their impact on the energy storage business case",
+      "url": "https://www.energy-storage.news/video-germanys-ramp-constraints-grid-limitations-and-their-impact-on-the-energy-storage-business-case/",
+      "date": "2026-06-15T07:21:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Cyprus curtails 65% of solar generation in January–May 2026",
+      "url": "https://www.pv-magazine.com/2026/06/15/cyprus-curtails-65-of-solar-generation-in-january-may-2026/",
+      "date": "2026-06-15T06:27:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "World&#8217;s largest solar-hydrogen-storage project goes online in China",
+      "url": "https://www.pv-magazine.com/2026/06/15/worlds-largest-solar-hydrogen-storage-project-goes-online-in-china/",
+      "date": "2026-06-15T06:11:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bluebird Solar launches 630W TOPCon bifacial module",
+      "url": "https://www.pv-magazine.com/2026/06/15/bluebird-solar-launches-630wp-g12r-n-type-topcon-bifacial-module/",
+      "date": "2026-06-15T06:00:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian farmers call for on-farm electricification and clean tech support",
+      "url": "https://www.pv-magazine.com/2026/06/15/farmers-call-for-on-farm-electricification-and-clean-tech-support/",
+      "date": "2026-06-15T05:57:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "California doubles down on ‘unworkable’ community solar program",
+      "url": "https://www.pv-magazine.com/2026/06/15/california-doubles-down-on-unworkable-community-solar-program/",
+      "date": "2026-06-15T05:54:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Inside South Australia&#8217;s FERM tender: Why a technology-neutral process produced an all-battery outcome",
+      "url": "https://www.energy-storage.news/inside-south-australias-ferm-tender-why-a-technology-neutral-process-produced-an-all-battery-outcome/",
+      "date": "2026-06-15T03:16:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "APAC data centres risk a fossil fuel dependency long-duration energy storage can help end",
       "url": "https://www.energy-storage.news/apac-data-centres-risk-a-fossil-fuel-dependency-long-duration-energy-storage-can-help-end/",
@@ -51,41 +114,6 @@
       "bucket": "A"
     },
     {
-      "title": "Antaisolar unveils 80-meter multi-drive solar tracker",
-      "url": "https://www.pv-magazine.com/2026/06/12/antaisolar-unveils-80-meter-multi-drive-solar-tracker/",
-      "date": "2026-06-12T11:20:11.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Renewables-powered data centers feasible with sevenfold solar and wind overbuild, study finds",
-      "url": "https://www.pv-magazine.com/2026/06/12/renewables-powered-data-centers-feasible-with-sevenfold-solar-and-wind-overbuild-study-finds/",
-      "date": "2026-06-12T10:50:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Port of Valencia deploying PV on breakwaters",
-      "url": "https://www.pv-magazine.com/2026/06/12/valenciaport-instala-los-paneles-fotovoltaicos-de-su-fachada-vertical/",
-      "date": "2026-06-12T10:41:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Home cooling panel based on PV and waste cooking oil",
-      "url": "https://www.pv-magazine.com/2026/06/12/home-cooling-panel-based-on-pv-and-waste-cooking-oil/",
-      "date": "2026-06-12T10:25:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hot weather and clear skies give Europe a bumper May",
-      "url": "https://www.pv-magazine.com/2026/06/12/hot-weather-and-clear-skies-give-europe-a-bumper-may/",
-      "date": "2026-06-12T10:09:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Wärtsilä on why AI data centres need BESS to smooth demand and avoid &#8216;destroying the grid&#8217;",
       "url": "https://www.energy-storage.news/wartsila-on-why-ai-data-centres-need-bess-to-smooth-demand-and-avoid-destroying-the-grid/",
       "date": "2026-06-12T09:31:40.000Z",
@@ -97,20 +125,6 @@
       "url": "https://www.energy-storage.news/portion-of-czech-hydropower-station-to-be-transformed-into-154mw-750mwh-pumped-storage-plant/",
       "date": "2026-06-12T09:26:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "First 9-in-1 heat pump transforms load into an energy hub",
-      "url": "https://www.pv-magazine.com/2026/06/12/first-9-in-1-heat-pump-transforms-load-into-an-energy-hub/",
-      "date": "2026-06-12T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: Daqo expands beyond polysilicon",
-      "url": "https://www.pv-magazine.com/2026/06/12/chinese-pv-industry-brief-daqo-expands-beyond-polysilicon/",
-      "date": "2026-06-12T08:49:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Europe must support role of long-duration energy storage in electrification, security and competitiveness, trade groups say",
       "url": "https://www.energy-storage.news/europe-must-support-role-of-long-duration-energy-storage-in-electrification-security-and-competitiveness-trade-groups-say/",
       "date": "2026-06-04T08:08:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Taiwan&#8217;s Recharge Power partners with Energy Decarb for 292MWh battery storage pipeline in Australia",
-      "url": "https://www.energy-storage.news/taiwans-recharge-power-partners-with-energy-decarb-for-292mwh-battery-storage-pipeline-in-australia/",
-      "date": "2026-06-04T01:52:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How to structure a US BESS manufacturing deal with Chinese partners amidst FEOC, with NeoVolta",
-      "url": "https://www.energy-storage.news/how-to-structure-a-us-bess-manufacturing-deal-with-chinese-partners-amidst-feoc-with-neovolta/",
-      "date": "2026-06-03T12:48:38.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
