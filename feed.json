@@ -1,6 +1,13 @@
 {
-  "ts": 1781478510970,
+  "ts": 1781489361817,
   "items": [
+    {
+      "title": "APAC data centres risk a fossil fuel dependency long-duration energy storage can help end",
+      "url": "https://www.energy-storage.news/apac-data-centres-risk-a-fossil-fuel-dependency-long-duration-energy-storage-can-help-end/",
+      "date": "2026-06-15T00:57:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Trinasolar launches 620 W TOPCon ‘Shield’ module for North American market",
       "url": "https://www.pv-magazine.com/2026/06/12/trinasolar-launches-620-w-topcon-shield-module-for-north-american-market/",
@@ -411,13 +418,6 @@
       "title": "How to structure a US BESS manufacturing deal with Chinese partners amidst FEOC, with NeoVolta",
       "url": "https://www.energy-storage.news/how-to-structure-a-us-bess-manufacturing-deal-with-chinese-partners-amidst-feoc-with-neovolta/",
       "date": "2026-06-03T12:48:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Alsym Energy partners with Re:Build Manufacturing to scale US Na-ion BESS",
-      "url": "https://www.energy-storage.news/alsym-energy-partners-with-rebuild-manufacturing-to-scale-us-na-ion-bess/",
-      "date": "2026-06-03T12:05:44.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
