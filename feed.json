@@ -1,6 +1,34 @@
 {
-  "ts": 1781615931801,
+  "ts": 1781634153940,
   "items": [
+    {
+      "title": "Energy Dome, Invinity Energy Systems advance non-lithium LDES projects in the US",
+      "url": "https://www.energy-storage.news/energy-dome-invinity-energy-systems-advance-non-lithium-ldes-projects-in-the-us/",
+      "date": "2026-06-16T15:03:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "AESC signs 10GWh US domestic content BESS cell and module deal with system integrator Prevalon",
+      "url": "https://www.energy-storage.news/aesc-signs-10gwh-us-domestic-content-bess-cell-and-module-deal-with-system-integrator-prevalon/",
+      "date": "2026-06-16T14:50:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Ontario IESO procures 640MW energy storage in LT2 Request for Proposals",
+      "url": "https://www.energy-storage.news/ontario-ieso-procures-640mw-energy-storage-in-lt2-request-for-proposals/",
+      "date": "2026-06-16T13:59:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Inside PV manufacturing: Solarge&#8217;s module factory in Netherlands",
+      "url": "https://www.pv-magazine.com/2026/06/16/inside-pv-manufacturing-solarges-module-factory-in-netherlands/",
+      "date": "2026-06-16T13:19:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "China proposes PV product grading system in bid to drive industry consolidation",
       "url": "https://www.pv-magazine.com/2026/06/16/china-proposes-pv-product-grading-system-in-bid-to-drive-industry-consolidation/",
@@ -68,13 +96,6 @@
       "title": "Renewables shield Spain from energy crisis as gas sets electricity price in only 9% of hours",
       "url": "https://www.pv-magazine.com/2026/06/16/renewables-shield-spain-from-energy-crisis-as-gas-sets-electricity-price-in-only-9-of-hours/",
       "date": "2026-06-16T06:46:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Scientists build PEDOT:PSS-free all-perovskite tandem solar cell with 29.1% efficiency",
-      "url": "https://www.pv-magazine.com/2026/06/16/scientists-build-pedotpss-free-all-perovskite-tandem-solar-cell-with-29-1-efficiency/",
-      "date": "2026-06-16T05:55:09.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -397,27 +418,6 @@
       "title": "Akaysha Energy’s Waratah Super Battery in Australia returns to 700MW as Transformer 2 comes back online",
       "url": "https://www.energy-storage.news/akaysha-energys-waratah-super-battery-in-australia-returns-to-700mw-as-transformer-2-comes-back-online/",
       "date": "2026-06-05T04:31:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s Victoria fast-tracks 1,390MW of battery storage Development Facilitation Program approval round",
-      "url": "https://www.energy-storage.news/australias-victoria-fast-tracks-1390mw-of-battery-storage-development-facilitation-program-approval-round/",
-      "date": "2026-06-05T02:20:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘This should have already been done’: Deploy Action on accelerating California DERs",
-      "url": "https://www.energy-storage.news/this-should-have-already-been-done-deploy-action-on-accelerating-california-ders/",
-      "date": "2026-06-04T12:40:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US solar startup T1 Energy to acquire BESS company KORE Power for US$32 million",
-      "url": "https://www.energy-storage.news/us-solar-startup-t1-energy-to-acquire-bess-company-kore-power-for-us32-million/",
-      "date": "2026-06-04T12:35:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
