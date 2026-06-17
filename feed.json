@@ -1,46 +1,95 @@
 {
-  "ts": 1781684205549,
+  "ts": 1781700111267,
   "items": [
     {
-      "title": "India adds 4.6 GWh of battery storage capacity in Q1",
-      "url": "https://www.pv-magazine.com/2026/06/17/india-adds-4-6-gwh-of-battery-storage-capacity-in-q1/",
-      "date": "2026-06-17T08:09:22.000Z",
+      "title": "India curtailed 2.1 TWh of renewable electricity in fiscal year 2025–26",
+      "url": "https://www.pv-magazine.com/2026/06/17/india-needs-10-gwh-of-battery-storage-to-prevent-renewable-energy-curtailment/",
+      "date": "2026-06-17T12:36:47.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "Perovskite tandem PV for agrivoltaics",
-      "url": "https://www.pv-magazine.com/2026/06/17/perovskite-tandem-pv-for-agrivoltaics/",
-      "date": "2026-06-17T07:04:44.000Z",
+      "title": "Korean developers propose 500 MW solar project in Zambia",
+      "url": "https://www.pv-magazine.com/2026/06/17/korean-developers-propose-500-mw-solar-project-in-zambia/",
+      "date": "2026-06-17T12:33:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "Navitas Solar plans 3.6 GW PV cell factory, pilot wafer-ingot production in India",
-      "url": "https://www.pv-magazine.com/2026/06/17/navitas-solar-plans-3-6-gw-pv-cell-factory-pilot-wafer-ingot-line-in-gujarat/",
-      "date": "2026-06-17T06:49:01.000Z",
+      "title": "Rept Battero unveils 320 Ah sodium-ion cell for long-duration storage",
+      "url": "https://www.pv-magazine.com/2026/06/17/rept-battero-unveils-320-ah-sodium-ion-cell-for-long-duration-storage/",
+      "date": "2026-06-17T12:18:08.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "Terris Energy launches monobloc air-to-water heat pump for multi-unit residential buildings",
-      "url": "https://www.pv-magazine.com/2026/06/17/terris-energy-launches-monobloc-air-to-water-heat-pump-for-multi-unit-residential-buildings/",
-      "date": "2026-06-17T06:30:13.000Z",
+      "title": "Solar sector corporate funding increases 131% year-over-year",
+      "url": "https://www.pv-magazine.com/2026/06/17/solar-sector-corporate-funding-increases-131-year-over-year/",
+      "date": "2026-06-17T11:29:25.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "Fraunhofer IOSB-AST assesses economic viability of long-term PV electricity procurement for steel plants",
-      "url": "https://www.pv-magazine.com/2026/06/17/fraunhofer-iosb-ast-assesses-economic-viability-of-long-term-pv-electricity-procurement-for-steel-plants/",
-      "date": "2026-06-17T06:07:03.000Z",
+      "title": "China Resources New Energy launches Shenzhen IPO targeting record $3.4 billion raise",
+      "url": "https://www.pv-magazine.com/2026/06/17/china-resources-new-energy-launches-shenzhen-ipo-targeting-record-3-4-billion-raise/",
+      "date": "2026-06-17T11:08:06.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "Brazil distributed solar financing rises as utility-scale investment falls",
-      "url": "https://www.pv-magazine.com/2026/06/17/brazil-distributed-solar-financing-gains-as-utility-scale-investment-falls/",
-      "date": "2026-06-17T05:57:11.000Z",
+      "title": "Mining company opens 30 MW solar tender in Botswana",
+      "url": "https://www.pv-magazine.com/2026/06/17/mining-company-opens-30-mw-solar-tender-in-botswana/",
+      "date": "2026-06-17T10:56:50.000Z",
       "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Spain records 397 hours of negatives prices in Q1",
+      "url": "https://www.pv-magazine.com/2026/06/17/spain-records-397-hours-of-negatives-prices-in-q1/",
+      "date": "2026-06-17T10:02:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU Roundup: Octopus and Eco Stor financing deals for large-scale BESS in Italy and Germany enable 1.6GWh of capacity",
+      "url": "https://www.energy-storage.news/eu-roundup-octopus-and-eco-stor-financing-deals-for-large-scale-bess-in-italy-and-germany-enable-1-6gwh-of-capacity/",
+      "date": "2026-06-17T09:56:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Dunext releases 261 kWh C&#038;I storage system",
+      "url": "https://www.pv-magazine.com/2026/06/17/dunext-releases-261kwh-ci-storage-system/",
+      "date": "2026-06-17T09:24:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Korean scientists build shingled solar module for thermoelectric generators",
+      "url": "https://www.pv-magazine.com/2026/06/17/korean-scientists-build-shingled-solar-module-for-thermoelectric-generators/",
+      "date": "2026-06-17T09:14:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fox ESS to unveil new products alongside rebranding at Intersolar Europe 2026",
+      "url": "https://www.pv-magazine.com/2026/06/17/fox-ess-to-unveil-new-products-alongside-rebranding-at-intersolar-europe-2026/",
+      "date": "2026-06-17T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar Energy Corporation of India invites bids for 4.8GWh of energy storage-backed FDRE capacity",
+      "url": "https://www.energy-storage.news/solar-energy-corporation-of-india-invites-bids-for-4-8gwh-of-energy-storage-backed-fdre-capacity/",
+      "date": "2026-06-17T08:24:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "14.6GWh of BESS deployed globally in May; activity up 24% in 2026 so far",
+      "url": "https://www.energy-storage.news/14-6gwh-of-bess-deployed-globally-in-may-activity-up-24-in-2026-so-far/",
+      "date": "2026-06-17T08:17:03.000Z",
+      "source": "Energy Storage News",
       "bucket": "A"
     },
     {
@@ -48,13 +97,6 @@
       "url": "https://www.energy-storage.news/southeast-asias-bess-developers-must-engage-early-with-regulators-utilities-and-communities/",
       "date": "2026-06-17T05:51:14.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. solar manufacturing capex clears $2.5 billion, up from $150 million in 2020",
-      "url": "https://www.pv-magazine.com/2026/06/17/u-s-solar-manufacturing-capex-clears-2-5-billion-up-from-150-million-in-2020/",
-      "date": "2026-06-17T05:29:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -76,27 +118,6 @@
       "url": "https://www.energy-storage.news/ontario-ieso-procures-640mw-energy-storage-in-lt2-request-for-proposals/",
       "date": "2026-06-16T13:59:52.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Inside PV manufacturing: Solarge&#8217;s module factory in Netherlands",
-      "url": "https://www.pv-magazine.com/2026/06/16/inside-pv-manufacturing-solarges-module-factory-in-netherlands/",
-      "date": "2026-06-16T13:19:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China proposes PV product grading system in bid to drive industry consolidation",
-      "url": "https://www.pv-magazine.com/2026/06/16/china-proposes-pv-product-grading-system-in-bid-to-drive-industry-consolidation/",
-      "date": "2026-06-16T12:28:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Kyrgyzstan switches on 175 MW of solar",
-      "url": "https://www.pv-magazine.com/2026/06/16/kyrgyzstan-switches-on-175-mw-of-solar/",
-      "date": "2026-06-16T11:37:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "Contracting, audits and operational controls: How to protect your BESS investment",
       "url": "https://www.energy-storage.news/contracting-audits-and-operational-controls-how-to-protect-your-bess-investment/",
       "date": "2026-06-08T09:16:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EDF and Masdar enter 15-year PPAs for 160MWh hybrid California BESS",
-      "url": "https://www.energy-storage.news/edf-and-masdar-enter-15-year-ppas-for-160mwh-hybrid-california-bess/",
-      "date": "2026-06-05T09:09:35.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Google signs 100MW distributed energy resource VPP agreement with Voltus for PJM",
-      "url": "https://www.energy-storage.news/google-signs-100mw-distributed-energy-resource-vpp-agreement-with-voltus-for-pjm/",
-      "date": "2026-06-05T09:08:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Modelling approaches to detecting and preventing thermal runaway risk in Li-ion BESS",
-      "url": "https://www.energy-storage.news/modelling-approaches-to-detecting-and-preventing-thermal-runaway-risk-in-li-ion-bess/",
-      "date": "2026-06-05T08:37:33.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
