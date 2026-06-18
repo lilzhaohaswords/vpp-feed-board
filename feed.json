@@ -1,6 +1,48 @@
 {
-  "ts": 1781782822936,
+  "ts": 1781793332818,
   "items": [
+    {
+      "title": "Enphase co-founder says solid-state transformer can ease data centre &#8216;power problems&#8217;",
+      "url": "https://www.energy-storage.news/enphase-co-founder-says-solid-state-transformer-can-ease-data-centre-power-problems/",
+      "date": "2026-06-18T12:32:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US sodium-ion startups form coalition to challenge China&#8217;s battery dominance",
+      "url": "https://www.energy-storage.news/us-sodium-ion-startups-form-coalition-to-challenge-chinas-battery-dominance/",
+      "date": "2026-06-18T12:30:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Aypa Power brings 1,000MWh Arizona BESS online in utility Salt River Project&#8217;s busy June",
+      "url": "https://www.energy-storage.news/aypa-power-brings-1000mwh-arizona-bess-online-in-utility-salt-river-projects-busy-june/",
+      "date": "2026-06-18T12:25:18.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "CHINT uses integrated approach to build a resilient business model",
+      "url": "https://www.pv-magazine.com/2026/06/18/chint-uses-integrated-approach-to-build-a-resilient-business-model/",
+      "date": "2026-06-18T12:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Iran targets 15 GW of small-scale solar",
+      "url": "https://www.pv-magazine.com/2026/06/18/iran-targets-15-gw-of-small-scale-solar/",
+      "date": "2026-06-18T11:54:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "India may exceed 60 GW of solar cell capacity by end of Q1 2027",
+      "url": "https://www.pv-magazine.com/2026/06/18/india-may-exceed-60-gw-of-solar-cell-capacity-by-end-of-q1-2027/",
+      "date": "2026-06-18T11:48:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Energy trader Second Foundation on owning projects and the &#8216;art&#8217; of trading batteries in Germany",
       "url": "https://www.energy-storage.news/energy-trader-second-foundation-on-owning-projects-and-the-art-of-trading-batteries-in-germany/",
@@ -61,27 +103,6 @@
       "title": "IPVF, TU Delft achieve 31% efficiency for 4 cm2 perovskite-silicon tandem solar cell",
       "url": "https://www.pv-magazine.com/2026/06/18/ipvf-tu-delft-achieve-31-efficiency-for-4-cm2-perovskite-silicon-tandem-solar-cell/",
       "date": "2026-06-18T07:52:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "PV module recycling tech based on heavy liquid separation, metal chloride etching",
-      "url": "https://www.pv-magazine.com/2026/06/18/pv-module-recycling-tech-based-on-heavy-liquid-separation-metal-chloride-etching/",
-      "date": "2026-06-18T07:23:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Europe foresees 20% rise in power demand driven by electrification",
-      "url": "https://www.pv-magazine.com/2026/06/18/europe-foresees-20-rise-in-power-demand-driven-by-electrification/",
-      "date": "2026-06-18T07:15:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar tracker pneumatic actuator design study improves efficiency up to 66.4%",
-      "url": "https://www.pv-magazine.com/2026/06/18/solar-tracker-pneumatic-actuator-design-study-improves-efficiency-up-to-66-4/",
-      "date": "2026-06-18T07:11:07.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -397,27 +418,6 @@
       "title": "CATL, Rolls-Royce &#038; Fluence secure Northern Europe, Poland BESS supply deals",
       "url": "https://www.energy-storage.news/catl-rolls-royce-fluence-secure-northern-europe-poland-bess-supply-deals/",
       "date": "2026-06-09T09:58:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SNEC 2026: Energy storage launches and tech spec reveals at China’s biggest clean energy trade show",
-      "url": "https://www.energy-storage.news/snec-2026-energy-storage-launches-and-tech-spec-reveals-at-chinas-biggest-clean-energy-trade-show/",
-      "date": "2026-06-09T08:43:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CATL to supply 2,400MWh of battery storage for Edify Energy&#8217;s Australian hybrid projects",
-      "url": "https://www.energy-storage.news/catl-to-supply-2400mwh-of-battery-storage-for-edify-energys-australian-hybrid-projects/",
-      "date": "2026-06-09T05:29:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New Zealand’s Meridian Energy wins draft approval to access 545GWh of contingent hydro storage",
-      "url": "https://www.energy-storage.news/new-zealands-meridian-energy-wins-draft-approval-to-access-545gwh-of-contingent-hydro-storage/",
-      "date": "2026-06-09T02:03:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
