@@ -1,6 +1,62 @@
 {
-  "ts": 1781748439612,
+  "ts": 1781767261958,
   "items": [
+    {
+      "title": "Europe foresees 20% rise in power demand driven by electrification",
+      "url": "https://www.pv-magazine.com/2026/06/18/europe-foresees-20-rise-in-power-demand-driven-by-electrification/",
+      "date": "2026-06-18T07:15:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar tracker pneumatic actuator design study improves efficiency up to 66.4%",
+      "url": "https://www.pv-magazine.com/2026/06/18/solar-tracker-pneumatic-actuator-design-study-improves-efficiency-up-to-66-4/",
+      "date": "2026-06-18T07:11:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "For Indian businesses, the real challenge with solar isn’t cost—it’s risk",
+      "url": "https://www.pv-magazine.com/2026/06/18/for-indian-businesses-the-real-challenge-with-solar-isnt-cost-its-risk/",
+      "date": "2026-06-18T07:09:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "German project tests DC-coupled commercial battery storage to cut costs",
+      "url": "https://www.pv-magazine.com/2026/06/18/german-project-tests-dc-coupled-commercial-battery-storage-to-cut-costs/",
+      "date": "2026-06-18T07:07:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Jackery announces new home backup products",
+      "url": "https://www.pv-magazine.com/2026/06/18/jackery-announces-new-home-backup-products-fridgeguard-and-homepower/",
+      "date": "2026-06-18T07:04:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New rules to Europe’s battery game",
+      "url": "https://www.pv-magazine.com/2026/06/18/new-rules-to-europes-battery-game/",
+      "date": "2026-06-18T04:00:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Fire and Rescue NSW mandates 240-minute fire resistance for lithium-ion battery storage rooms in data centres",
+      "url": "https://www.energy-storage.news/fire-and-rescue-nsw-mandates-240-minute-fire-resistance-for-lithium-ion-battery-storage-rooms-in-data-centres/",
+      "date": "2026-06-18T03:21:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Neoen Australia signs virtual battery deals for 2.3GWh Western Downs Battery",
+      "url": "https://www.energy-storage.news/neoen-australia-signs-virtual-battery-deals-for-540mwh-western-downs-battery/",
+      "date": "2026-06-18T03:19:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Limited synergies and profitability drive Wärtsilä&#8217;s energy storage divestment",
       "url": "https://www.energy-storage.news/limited-synergies-and-profitability-drive-wartsilas-energy-storage-divestment/",
@@ -37,52 +93,10 @@
       "bucket": "A"
     },
     {
-      "title": "China Resources New Energy launches Shenzhen IPO targeting record $3.4 billion raise",
-      "url": "https://www.pv-magazine.com/2026/06/17/china-resources-new-energy-launches-shenzhen-ipo-targeting-record-3-4-billion-raise/",
-      "date": "2026-06-17T11:08:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Mining company opens 30 MW solar tender in Botswana",
-      "url": "https://www.pv-magazine.com/2026/06/17/mining-company-opens-30-mw-solar-tender-in-botswana/",
-      "date": "2026-06-17T10:56:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain records 397 hours of negatives prices in Q1",
-      "url": "https://www.pv-magazine.com/2026/06/17/spain-records-397-hours-of-negatives-prices-in-q1/",
-      "date": "2026-06-17T10:02:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "EU Roundup: Octopus and Eco Stor financing deals for large-scale BESS in Italy and Germany enable 1.6GWh of capacity",
       "url": "https://www.energy-storage.news/eu-roundup-octopus-and-eco-stor-financing-deals-for-large-scale-bess-in-italy-and-germany-enable-1-6gwh-of-capacity/",
       "date": "2026-06-17T09:56:20.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Dunext releases 261 kWh C&#038;I storage system",
-      "url": "https://www.pv-magazine.com/2026/06/17/dunext-releases-261kwh-ci-storage-system/",
-      "date": "2026-06-17T09:24:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Korean scientists build shingled solar module for thermoelectric generators",
-      "url": "https://www.pv-magazine.com/2026/06/17/korean-scientists-build-shingled-solar-module-for-thermoelectric-generators/",
-      "date": "2026-06-17T09:14:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fox ESS to unveil new products alongside rebranding at Intersolar Europe 2026",
-      "url": "https://www.pv-magazine.com/2026/06/17/fox-ess-to-unveil-new-products-alongside-rebranding-at-intersolar-europe-2026/",
-      "date": "2026-06-17T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Ark Energy’s 3.1GWh solar-plus-storage site in Australia bags AEMO grid connection",
       "url": "https://www.energy-storage.news/ark-energys-3-1gwh-solar-plus-storage-site-in-australia-bags-aemo-grid-connection/",
       "date": "2026-06-09T01:55:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "esVolta closes US$450 million expanded credit facility to expand US BESS portfolio",
-      "url": "https://www.energy-storage.news/esvolta-closes-us450-million-expanded-credit-facility-to-expand-us-bess-portfolio/",
-      "date": "2026-06-08T11:34:49.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Data centre developer DayOne signs solar and BESS PPAs in Malaysia with TNB subsidiaries",
-      "url": "https://www.energy-storage.news/data-centre-developer-dayone-signs-solar-and-bess-ppas-in-malaysia-with-tnb-subsidiaries/",
-      "date": "2026-06-08T10:46:38.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
