@@ -1,6 +1,76 @@
 {
-  "ts": 1781767261958,
+  "ts": 1781782822936,
   "items": [
+    {
+      "title": "Energy trader Second Foundation on owning projects and the &#8216;art&#8217; of trading batteries in Germany",
+      "url": "https://www.energy-storage.news/energy-trader-second-foundation-on-owning-projects-and-the-art-of-trading-batteries-in-germany/",
+      "date": "2026-06-18T11:31:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "CEE Roundup: EPCs complete CATL and Sungrow-supplied 600MWh Bulgaria projects",
+      "url": "https://www.energy-storage.news/cee-roundup-epcs-complete-catl-and-sungrow-supplied-600mwh-bulgaria-projects/",
+      "date": "2026-06-18T09:55:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Oxford PV achieves 25.6% efficiency for perovskite-silicon tandem module based on shingled design",
+      "url": "https://www.pv-magazine.com/2026/06/18/oxford-pv-achieves-25-6-efficiency-for-perovskite-silicon-tandem-module-based-on-shingled-design/",
+      "date": "2026-06-18T09:53:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Scatec starts building 120 MW of solar in Tunisia",
+      "url": "https://www.pv-magazine.com/2026/06/18/scatec-starts-building-120-mw-of-solar-in-tunisia/",
+      "date": "2026-06-18T09:26:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "GameChange Energy integrates platforms to simplify utility-scale solar",
+      "url": "https://www.pv-magazine.com/2026/06/18/gamechange-energy-integrates-platforms-to-simplify-utility-scale-solar/",
+      "date": "2026-06-18T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Mongolia tenders 110 MW of solar",
+      "url": "https://www.pv-magazine.com/2026/06/18/mongolia-tenders-110-mw-of-solar/",
+      "date": "2026-06-18T08:30:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Argentina advances 232 battery bids in AlmaSADI tender",
+      "url": "https://www.pv-magazine.com/2026/06/18/argentina-advances-232-battery-bids-in-almasadi-tender/",
+      "date": "2026-06-18T08:26:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Portugal plans capacity market with dedicated battery storage auction",
+      "url": "https://www.pv-magazine.com/2026/06/18/portugal-plans-capacity-market-with-dedicated-battery-storage-auction/",
+      "date": "2026-06-18T08:22:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "IPVF, TU Delft achieve 31% efficiency for 4 cm2 perovskite-silicon tandem solar cell",
+      "url": "https://www.pv-magazine.com/2026/06/18/ipvf-tu-delft-achieve-31-efficiency-for-4-cm2-perovskite-silicon-tandem-solar-cell/",
+      "date": "2026-06-18T07:52:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "PV module recycling tech based on heavy liquid separation, metal chloride etching",
+      "url": "https://www.pv-magazine.com/2026/06/18/pv-module-recycling-tech-based-on-heavy-liquid-separation-metal-chloride-etching/",
+      "date": "2026-06-18T07:23:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Europe foresees 20% rise in power demand driven by electrification",
       "url": "https://www.pv-magazine.com/2026/06/18/europe-foresees-20-rise-in-power-demand-driven-by-electrification/",
@@ -12,34 +82,6 @@
       "title": "Solar tracker pneumatic actuator design study improves efficiency up to 66.4%",
       "url": "https://www.pv-magazine.com/2026/06/18/solar-tracker-pneumatic-actuator-design-study-improves-efficiency-up-to-66-4/",
       "date": "2026-06-18T07:11:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "For Indian businesses, the real challenge with solar isn’t cost—it’s risk",
-      "url": "https://www.pv-magazine.com/2026/06/18/for-indian-businesses-the-real-challenge-with-solar-isnt-cost-its-risk/",
-      "date": "2026-06-18T07:09:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "German project tests DC-coupled commercial battery storage to cut costs",
-      "url": "https://www.pv-magazine.com/2026/06/18/german-project-tests-dc-coupled-commercial-battery-storage-to-cut-costs/",
-      "date": "2026-06-18T07:07:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Jackery announces new home backup products",
-      "url": "https://www.pv-magazine.com/2026/06/18/jackery-announces-new-home-backup-products-fridgeguard-and-homepower/",
-      "date": "2026-06-18T07:04:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New rules to Europe’s battery game",
-      "url": "https://www.pv-magazine.com/2026/06/18/new-rules-to-europes-battery-game/",
-      "date": "2026-06-18T04:00:49.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -62,34 +104,6 @@
       "url": "https://www.energy-storage.news/limited-synergies-and-profitability-drive-wartsilas-energy-storage-divestment/",
       "date": "2026-06-17T14:51:19.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India curtailed 2.1 TWh of renewable electricity in fiscal year 2025–26",
-      "url": "https://www.pv-magazine.com/2026/06/17/india-needs-10-gwh-of-battery-storage-to-prevent-renewable-energy-curtailment/",
-      "date": "2026-06-17T12:36:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Korean developers propose 500 MW solar project in Zambia",
-      "url": "https://www.pv-magazine.com/2026/06/17/korean-developers-propose-500-mw-solar-project-in-zambia/",
-      "date": "2026-06-17T12:33:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Rept Battero unveils 320 Ah sodium-ion cell for long-duration storage",
-      "url": "https://www.pv-magazine.com/2026/06/17/rept-battero-unveils-320-ah-sodium-ion-cell-for-long-duration-storage/",
-      "date": "2026-06-17T12:18:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar sector corporate funding increases 131% year-over-year",
-      "url": "https://www.pv-magazine.com/2026/06/17/solar-sector-corporate-funding-increases-131-year-over-year/",
-      "date": "2026-06-17T11:29:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "New Zealand’s Meridian Energy wins draft approval to access 545GWh of contingent hydro storage",
       "url": "https://www.energy-storage.news/new-zealands-meridian-energy-wins-draft-approval-to-access-545gwh-of-contingent-hydro-storage/",
       "date": "2026-06-09T02:03:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Eku Energy submits 10-hour duration Griffith BESS to Australia&#8217;s EPBC Act",
-      "url": "https://www.energy-storage.news/eku-energy-submits-10-hour-duration-griffith-bess-to-australias-epbc-act/",
-      "date": "2026-06-09T02:00:06.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ark Energy’s 3.1GWh solar-plus-storage site in Australia bags AEMO grid connection",
-      "url": "https://www.energy-storage.news/ark-energys-3-1gwh-solar-plus-storage-site-in-australia-bags-aemo-grid-connection/",
-      "date": "2026-06-09T01:55:04.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
