@@ -1,6 +1,41 @@
 {
-  "ts": 1781828178054,
+  "ts": 1781848944760,
   "items": [
+    {
+      "title": "Chile introduces new remuneration scheme for small solar parks",
+      "url": "https://www.pv-magazine.com/2026/06/19/chile-introduces-new-remuneration-scheme-for-small-solar-parks/",
+      "date": "2026-06-19T05:51:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian Centre for Advanced Photovoltaics gets $66.5 million boost",
+      "url": "https://www.pv-magazine.com/2026/06/19/acaps-next-gen-solar-research-gets-95-4-million-boost-from-arena/",
+      "date": "2026-06-19T05:20:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New research highlights the value of solar and energy efficiency in the home buying process",
+      "url": "https://www.pv-magazine.com/2026/06/19/new-research-highlights-the-value-of-solar-and-energy-efficiency-in-the-home-buying-process/",
+      "date": "2026-06-19T05:14:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ukrainian solar&#8217;s summer surge",
+      "url": "https://www.pv-magazine.com/2026/06/19/winter-blackouts-summer-surges/",
+      "date": "2026-06-19T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "BLT Energy bags development approval for 4.8GWh Red Gully BESS in Western Australia",
+      "url": "https://www.energy-storage.news/blt-energy-bags-development-approval-for-4-8gwh-red-gully-bess-in-western-australia/",
+      "date": "2026-06-19T00:27:55.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Eku Energy submits two 1,200MWh battery storage projects to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/eku-energy-submits-two-1200mwh-battery-storage-projects-to-australias-epbc-act/",
@@ -44,7 +79,7 @@
       "bucket": "A"
     },
     {
-      "title": "India may exceed 60 GW of solar cell capacity by end of Q1 2027",
+      "title": "Domestic solar cells to meet half of India’s total demand this fiscal year",
       "url": "https://www.pv-magazine.com/2026/06/18/india-may-exceed-60-gw-of-solar-cell-capacity-by-end-of-q1-2027/",
       "date": "2026-06-18T11:48:38.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -82,34 +117,6 @@
       "title": "GameChange Energy integrates platforms to simplify utility-scale solar",
       "url": "https://www.pv-magazine.com/2026/06/18/gamechange-energy-integrates-platforms-to-simplify-utility-scale-solar/",
       "date": "2026-06-18T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Mongolia tenders 110 MW of solar",
-      "url": "https://www.pv-magazine.com/2026/06/18/mongolia-tenders-110-mw-of-solar/",
-      "date": "2026-06-18T08:30:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Argentina advances 232 battery bids in AlmaSADI tender",
-      "url": "https://www.pv-magazine.com/2026/06/18/argentina-advances-232-battery-bids-in-almasadi-tender/",
-      "date": "2026-06-18T08:26:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Portugal plans capacity market with dedicated battery storage auction",
-      "url": "https://www.pv-magazine.com/2026/06/18/portugal-plans-capacity-market-with-dedicated-battery-storage-auction/",
-      "date": "2026-06-18T08:22:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "IPVF, TU Delft achieve 31% efficiency for 4 cm2 perovskite-silicon tandem solar cell",
-      "url": "https://www.pv-magazine.com/2026/06/18/ipvf-tu-delft-achieve-31-efficiency-for-4-cm2-perovskite-silicon-tandem-solar-cell/",
-      "date": "2026-06-18T07:52:51.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "UK BESS M&#038;A rebounds with CIP, Fidra, Elements Green, Gresham House, Eelpower transacting on 4.2GWh",
       "url": "https://www.energy-storage.news/uk-bess-ma-rebounds-with-cip-fidra-elements-green-gresham-house-eelpower-transacting-on-4-2gwh/",
       "date": "2026-06-09T11:01:09.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Policy clarity on FCAs, grid fees needed to realise the potential of German BESS",
-      "url": "https://www.energy-storage.news/policy-and-fca-clarity-needed-realise-potential-german-bess/",
-      "date": "2026-06-09T10:45:01.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
