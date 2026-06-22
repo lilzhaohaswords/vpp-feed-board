@@ -1,6 +1,20 @@
 {
-  "ts": 1782131897538,
+  "ts": 1782148829755,
   "items": [
+    {
+      "title": "Canadian Solar launches TOPCon high-power-density module with 24.8% efficiency",
+      "url": "https://www.pv-magazine.com/2026/06/22/canadian-solar-launches-topcon-3-0-high-power-density-module-with-24-8-efficiency/",
+      "date": "2026-06-22T14:31:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EcoFlow brings new residential, C&#038;I and plug-in storage to Intersolar",
+      "url": "https://www.pv-magazine.com/2026/06/22/ecoflow-brings-new-residential-ci-and-plug-in-storage-to-intersolar/",
+      "date": "2026-06-22T14:08:29.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "There is now more installed energy storage capacity than nuclear in Europe, yet ‘no country has reached its potential’",
       "url": "https://www.energy-storage.news/there-is-now-more-installed-energy-storage-capacity-than-nuclear-in-europe-yet-no-country-has-reached-its-potential/",
@@ -69,20 +83,6 @@
       "url": "https://www.energy-storage.news/multi-day-energy-storage-startup-ore-energy-signs-1gwh-iron-air-battery-deal-with-dutch-utility/",
       "date": "2026-06-22T08:07:17.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How to power buildings with solar-driven reversible heat pumps, organic Rankine cycle",
-      "url": "https://www.pv-magazine.com/2026/06/22/how-to-power-buildings-with-solar-driven-reversible-heat-pumps-organic-rankine-cycle/",
-      "date": "2026-06-22T08:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ATW at SNEC 2026: Optimizing the full spectrum of PV manufacturing with its &#8216;AI Chef&#8217;",
-      "url": "https://www.pv-magazine.com/2026/06/22/atw-at-snec-2026-optimizing-the-full-spectrum-of-pv-manufacturing-with-its-ai-chef/",
-      "date": "2026-06-22T07:38:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
