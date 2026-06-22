@@ -1,6 +1,48 @@
 {
-  "ts": 1782086429164,
+  "ts": 1782108865443,
   "items": [
+    {
+      "title": "Chinese scientists unveil cable-supported mounting system for large-scale PV on complex terrain",
+      "url": "https://www.pv-magazine.com/2026/06/22/chinese-scientists-unveil-cable-supported-mounting-system-for-large-scale-pv-on-complex-terrain/",
+      "date": "2026-06-22T06:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "How massive subsidies helped drive a 90% collapse in solar costs",
+      "url": "https://www.pv-magazine.com/2026/06/22/the-worlds-magical-21-billion-investment/",
+      "date": "2026-06-22T05:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SNEC 2026 ESS readout: Storage moves from add-on to grid asset",
+      "url": "https://www.pv-magazine.com/2026/06/22/snec-2026-ess-readout-storage-moves-from-add-on-to-grid-asset/",
+      "date": "2026-06-22T04:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Polysilicon prices in a fragile balance",
+      "url": "https://www.pv-magazine.com/2026/06/22/fragile-balance/",
+      "date": "2026-06-22T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Policy certainty takes priority&#8217; in APAC battery storage investment decisions, says Banpu NEXT",
+      "url": "https://www.energy-storage.news/policy-certainty-takes-priority-in-apac-battery-storage-investment-decisions-says-banpu-next/",
+      "date": "2026-06-22T02:12:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "South Australia hits AU$20,300/MWh price cap twice in one evening as battery storage fleet captures AU$324,000",
+      "url": "https://www.energy-storage.news/south-australia-hits-au20300-mwh-price-cap-twice-in-one-evening-as-battery-storage-fleet-captures-au324000/",
+      "date": "2026-06-22T00:45:32.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "BESS as a ‘Swiss Army knife’ for data centers",
       "url": "https://www.pv-magazine.com/2026/06/20/bess-as-a-swiss-army-knife-for-data-centers/",
@@ -61,34 +103,6 @@
       "title": "Huawei’s FusionSolar9.0 solution aims to redefine optimal LCOE for utility-scale solar projects",
       "url": "https://www.pv-magazine.com/2026/06/19/huaweis-fusionsolar9-0-solution-aims-to-redefine-optimal-lcoe-for-utility-scale-solar-projects/",
       "date": "2026-06-19T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China wafer output set to rise despite weak demand and inventory pressure",
-      "url": "https://www.pv-magazine.com/2026/06/19/china-wafer-output-set-to-rise-despite-weak-demand-and-inventory-pressure/",
-      "date": "2026-06-19T08:50:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fraunhofer IWU storage analyzer reduces peak loads in factories",
-      "url": "https://www.pv-magazine.com/2026/06/19/fraunhofer-iwu-storage-analyzer-reduces-peak-loads-in-factories/",
-      "date": "2026-06-19T08:48:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "JinkoSolar achieves 34.82% efficiency for perovskite-silicon tandem solar cell",
-      "url": "https://www.pv-magazine.com/2026/06/19/jinkosolar-achieves-34-82-efficiency-for-perovskite-silicon-tandem-solar-cell/",
-      "date": "2026-06-19T07:54:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: 2030 targets increasingly out of reach, says IEA",
-      "url": "https://www.pv-magazine.com/2026/06/19/the-hydrogen-stream-2030-targets-increasingly-out-of-reach-says-iea/",
-      "date": "2026-06-19T07:37:32.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -404,20 +418,6 @@
       "title": "Germany Roundup: &#8216;First fully merchant financing&#8217;, 180MWh M&#038;A, analytics deal on 282MWh project",
       "url": "https://www.energy-storage.news/germany-roundup-first-fully-merchant-financing-180mwh-ma-analytics-deal-on-282mwh-project/",
       "date": "2026-06-10T09:59:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Gamuda Renewables acquires interest in 1.8GWh solar-plus-storage site in Victoria, Australia",
-      "url": "https://www.energy-storage.news/gamuda-renewables-acquires-interest-in-1-8gwh-solar-plus-storage-site-in-victoria-australia/",
-      "date": "2026-06-10T01:59:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "German BESS market has moved beyond peak hype",
-      "url": "https://www.energy-storage.news/german-bess-market-moved-beyond-peak-tsunami-hype/",
-      "date": "2026-06-09T13:22:18.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
