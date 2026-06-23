@@ -1,6 +1,55 @@
 {
-  "ts": 1782210241842,
+  "ts": 1782221529128,
   "items": [
+    {
+      "title": "Moonwatt showcases sodium-ion storage solutions for utility-scale applications",
+      "url": "https://www.pv-magazine.com/2026/06/23/moonwatt-showcases-sodium-ion-storage-solutions-for-utility-scale-applications/",
+      "date": "2026-06-23T12:50:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "rPlus Energies’ 1,600MWh Utah solar-plus-storage project begins commercial operation",
+      "url": "https://www.energy-storage.news/rplus-energies-1600mwh-utah-solar-plus-storage-project-begins-commercial-operation/",
+      "date": "2026-06-23T12:43:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "ZincFive bets on revenue track record in US$752 million SPAC merger after 2021 cohort struggles",
+      "url": "https://www.energy-storage.news/zincfive-bets-on-revenue-track-record-in-us752-million-spac-merger-after-2021-cohort-struggles/",
+      "date": "2026-06-23T12:26:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "CATL: System- and cell-level advances driving sodium-ion energy density improvements",
+      "url": "https://www.energy-storage.news/catl-system-and-cell-level-advances-driving-sodium-ion-energy-density-improvements/",
+      "date": "2026-06-23T12:21:43.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "REV Renewables and LS Power commission California&#8217;s first 8-hour duration lithium-ion BESS",
+      "url": "https://www.energy-storage.news/rev-renewables-and-ls-power-commission-californias-first-8-hour-duration-lithium-ion-bess/",
+      "date": "2026-06-23T12:10:36.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Jupiter International starts production at 1.25 GW TOPCon solar cell factory in India",
+      "url": "https://www.pv-magazine.com/2026/06/23/jupiter-international-starts-production-at-1-25-gw-topcon-solar-cell-line-in-himachal-pradesh/",
+      "date": "2026-06-23T12:06:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "TCL Sunpower unveils 505 W back contact PV module for residential use",
+      "url": "https://www.pv-magazine.com/2026/06/23/tcl-sunpower-unveils-505-w-back-contact-pv-module-for-residential-use/",
+      "date": "2026-06-23T10:49:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Phenogy unveils modular sodium-ion storage solution",
       "url": "https://www.pv-magazine.com/2026/06/23/phenogy-unveils-modular-sodium-ion-storage-solution/",
@@ -51,31 +100,10 @@
       "bucket": "A"
     },
     {
-      "title": "Dinto Solar launches 775 W heterojunction PV module with 25.0% efficiency",
-      "url": "https://www.pv-magazine.com/2026/06/23/dinto-solar-launches-775-w-heterojunction-pv-module-with-25-0-efficiency/",
-      "date": "2026-06-23T08:10:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "EU Roundup: Optimisation and offtake for large-scale BESS with Flower and ENGIE in Germany; Entrix and DRI in Poland",
       "url": "https://www.energy-storage.news/eu-roundup-optimisation-and-offtake-for-large-scale-bess-with-flower-and-engie-in-germany-entrix-and-dri-in-poland/",
       "date": "2026-06-23T08:07:17.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ATW launches 1.3 GW encapsulation turnkey solution for heterojunction solar modules",
-      "url": "https://www.pv-magazine.com/2026/06/23/atw-launches-1-3-gw-encapsulation-turnkey-solution-for-heterojunction-solar-modules/",
-      "date": "2026-06-23T07:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar PV can return Greater Cairo to become the city of the sun once more",
-      "url": "https://www.pv-magazine.com/2026/06/23/solar-pv-can-return-greater-cairo-to-become-the-city-of-the-sun-once-more/",
-      "date": "2026-06-23T07:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -390,34 +418,6 @@
       "title": "Spain&#8217;s BESS pipeline is real: the PE models are wrong",
       "url": "https://www.energy-storage.news/spains-bess-pipeline-is-real-the-pe-models-are-wrong/",
       "date": "2026-06-11T09:51:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "SNEC 2026: BESS overtakes PV modules in expo floor space, more than 97GWh of deals signed",
-      "url": "https://www.energy-storage.news/snec-2026-bess-overtakes-pv-modules-in-expo-floor-space-more-than-97gwh-of-deals-signed/",
-      "date": "2026-06-11T09:48:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "DNV verifies 98.7% availability of Fluence&#8217;s global battery energy storage fleet",
-      "url": "https://www.energy-storage.news/dnv-verifies-98-7-availability-of-fluences-global-battery-energy-storage-fleet/",
-      "date": "2026-06-11T08:42:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Thermal energy storage tech analysis: Rondo, Antora, Malta Inc, MGA, 1414, EnergyNest, Polar Night and Brenmiller",
-      "url": "https://www.energy-storage.news/thermal-energy-storage-tech-analysis-rondo-antora-malta-inc-mga-1414-energynest-polar-night-and-brenmiller/",
-      "date": "2026-06-10T13:28:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Challenges remain for inertia in Germany, but value to BESS ‘will only go up’",
-      "url": "https://www.energy-storage.news/challenges-remain-inertia-german-bess-value-will-only-go-up/",
-      "date": "2026-06-10T13:13:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
