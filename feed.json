@@ -1,6 +1,13 @@
 {
-  "ts": 1782252505867,
+  "ts": 1782258245850,
   "items": [
+    {
+      "title": "Hong Kong energy storage stock rally gains new contenders: Cubenergy files for IPO, Anker Innovation clears listing hearing",
+      "url": "https://www.energy-storage.news/hong-kong-energy-storage-stock-rally-gains-new-contenders-cubenergy-files-for-ipo-anker-innovation-clears-listing-hearing/",
+      "date": "2026-06-23T23:09:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Record high power prices in Belgium, Netherlands and Germany",
       "url": "https://www.pv-magazine.com/2026/06/23/record-high-power-prices-in-belgium-netherlands-and-germany/",
@@ -411,13 +418,6 @@
       "title": "Established manufacturing footprint, new technology: SK On’s US BESS market strategy",
       "url": "https://www.energy-storage.news/established-manufacturing-footprint-new-technology-sk-ons-us-bess-market-strategy/",
       "date": "2026-06-11T10:30:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain&#8217;s BESS pipeline is real: the PE models are wrong",
-      "url": "https://www.energy-storage.news/spains-bess-pipeline-is-real-the-pe-models-are-wrong/",
-      "date": "2026-06-11T09:51:42.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
