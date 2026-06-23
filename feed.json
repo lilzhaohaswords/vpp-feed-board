@@ -1,6 +1,69 @@
 {
-  "ts": 1782180587544,
+  "ts": 1782196510625,
   "items": [
+    {
+      "title": "Solar everywhere: The infrastructure opportunity",
+      "url": "https://www.pv-magazine.com/2026/06/23/solar-everywhere-the-infrastructure-opportunity/",
+      "date": "2026-06-23T06:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Very low cost rooftop solar slashes domestic energy cost &#8211; Part 2: South American Countries",
+      "url": "https://www.pv-magazine.com/2026/06/23/very-low-cost-rooftop-solar-slashes-domestic-energy-cost-part-2-south-american-countries/",
+      "date": "2026-06-23T05:53:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Next2Sun presents new mounting solution for vertical PV plants",
+      "url": "https://www.pv-magazine.com/2026/06/23/next2sun-presents-new-mounting-solution-for-vertical-pv-plants/",
+      "date": "2026-06-23T05:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Europe’s storage capacity passes 100 GW, overtakes nuclear",
+      "url": "https://www.pv-magazine.com/2026/06/23/europes-storage-capacity-passes-100-gw-overtakes-nuclear/",
+      "date": "2026-06-23T05:27:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s hybrid projects serving as blueprint for global energy transition",
+      "url": "https://www.pv-magazine.com/2026/06/23/australias-hybrid-projects-serving-as-blueprint-for-global-energy-transition/",
+      "date": "2026-06-23T05:23:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Boron nitride nanotubes move lithium ions 31 times faster than expected",
+      "url": "https://www.pv-magazine.com/2026/06/23/boron-nitride-nanotubes-move-lithium-ions-31-times-faster-than-expected/",
+      "date": "2026-06-23T05:17:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Meridian Energy&#8217;s 622MW Waiinu hybrid project enters New Zealand fast-track consenting pathway",
+      "url": "https://www.energy-storage.news/meridian-energys-622mw-waiinu-hybrid-project-enters-new-zealand-fast-track-consenting-pathway/",
+      "date": "2026-06-23T04:19:03.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Running out of gas",
+      "url": "https://www.pv-magazine.com/2026/06/23/running-out-of-gas/",
+      "date": "2026-06-23T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "CATL claims purpose-built sodium-ion BESS can help solve ‘uncertainties’ facing industry",
+      "url": "https://www.energy-storage.news/catl-claims-purpose-built-sodium-ion-bess-can-help-solve-uncertainties-facing-industry/",
+      "date": "2026-06-23T03:57:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Canadian Solar launches TOPCon high-power-density module with 24.8% efficiency",
       "url": "https://www.pv-magazine.com/2026/06/22/canadian-solar-launches-topcon-3-0-high-power-density-module-with-24-8-efficiency/",
@@ -26,55 +89,6 @@
       "title": "Global solar additions reached 664 GW in 2025",
       "url": "https://www.pv-magazine.com/2026/06/22/global-solar-additions-reached-664-gw-in-2025/",
       "date": "2026-06-22T10:55:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "European heat pump sales increased 13% last year",
-      "url": "https://www.pv-magazine.com/2026/06/22/european-heat-pump-sales-increased-13-last-year/",
-      "date": "2026-06-22T10:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Improving perovskite solar cell efficiency with random textured interfaces",
-      "url": "https://www.pv-magazine.com/2026/06/22/improving-perovskite-solar-cell-efficiency-with-random-textured-interfaces/",
-      "date": "2026-06-22T09:45:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy Start-up Map: From project development and battery hardware to battery diagnostics and flexibility marketing",
-      "url": "https://www.pv-magazine.com/2026/06/22/energy-start-up-map-energy-from-project-development-and-battery-hardware-to-battery-diagnostics-and-flexibility-marketi/",
-      "date": "2026-06-22T09:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar PV potential at one of the world’s northernmost settlements",
-      "url": "https://www.pv-magazine.com/2026/06/22/solar-pv-potential-at-one-of-the-worlds-northernmost-settlements/",
-      "date": "2026-06-22T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Nextpower to acquire Zimmermann PV Steel in $378 million transaction",
-      "url": "https://www.pv-magazine.com/2026/06/22/nextpower-to-acquire-zimmermann-pv-steel-in-378-million-transaction/",
-      "date": "2026-06-22T08:56:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "KIT, DLR publish dataset from German solar power tower",
-      "url": "https://www.pv-magazine.com/2026/06/22/researchers-publish-dataset-from-german-solar-power-tower/",
-      "date": "2026-06-22T08:55:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Circuitor unveils reactive energy controller for PV self-consumption",
-      "url": "https://www.pv-magazine.com/2026/06/22/circuitor-unveils-reactive-energy-controller-for-pv-self-consumption/",
-      "date": "2026-06-22T08:30:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -404,20 +418,6 @@
       "title": "US ROUNDUP: EDP 800MWh Arizona project, Pathway targets SPP &#038; MISO, Waymo second-life partnership",
       "url": "https://www.energy-storage.news/us-roundup-edp-800mwh-arizona-project-pathway-targets-spp-miso-waymo-second-life-partnership/",
       "date": "2026-06-10T12:37:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Expert counterparties and tolling structures key to minimising uncertainty in German BESS market",
-      "url": "https://www.energy-storage.news/working-with-experts-signing-tolling-agreements-options-minimise-uncertainty-german-bess/",
-      "date": "2026-06-10T11:57:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chile’s president attends inauguration of 3.5GWh BESS at Grenergy’s Oasis de Atacama solar-plus-storage complex",
-      "url": "https://www.energy-storage.news/chiles-president-attends-inauguration-of-3-5gwh-bess-at-grenergys-oasis-de-atacama-solar-plus-storage-complex/",
-      "date": "2026-06-10T10:23:06.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
