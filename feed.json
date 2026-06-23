@@ -1,6 +1,13 @@
 {
-  "ts": 1782221529128,
+  "ts": 1782231376856,
   "items": [
+    {
+      "title": "Record high power prices in Belgium, Netherlands and Germany",
+      "url": "https://www.pv-magazine.com/2026/06/23/record-high-power-prices-in-belgium-netherlands-and-germany/",
+      "date": "2026-06-23T15:40:09.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Moonwatt showcases sodium-ion storage solutions for utility-scale applications",
       "url": "https://www.pv-magazine.com/2026/06/23/moonwatt-showcases-sodium-ion-storage-solutions-for-utility-scale-applications/",
@@ -89,13 +96,6 @@
       "title": "Penumbra-aware irradiance modeling for agrivoltaic orchards",
       "url": "https://www.pv-magazine.com/2026/06/23/penumbra-aware-irradiance-modeling-for-agrivoltaic-orchards/",
       "date": "2026-06-23T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK startup presents sodium-ion storage solution for rooftop PV",
-      "url": "https://www.pv-magazine.com/2026/06/23/uk-startup-presents-sodium-ion-storage-solution-for-rooftop-pv/",
-      "date": "2026-06-23T08:30:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
