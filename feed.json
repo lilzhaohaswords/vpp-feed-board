@@ -1,6 +1,55 @@
 {
-  "ts": 1782265794414,
+  "ts": 1782280429617,
   "items": [
+    {
+      "title": "Germany&#8217;s battery energy storage market is entering a new phase of maturity",
+      "url": "https://www.energy-storage.news/germanys-battery-energy-storage-market-is-entering-a-new-phase-of-maturity/",
+      "date": "2026-06-24T05:13:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia awards 4.2GW/16.1GWh of battery storage under Capacity Investment Scheme Tender 8",
+      "url": "https://www.energy-storage.news/australia-awards-4-2gw-16-1gwh-of-battery-storage-under-capacity-investment-scheme-tender-8/",
+      "date": "2026-06-24T05:12:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Feeding Europe’s AI energy demand",
+      "url": "https://www.pv-magazine.com/2026/06/24/feeding-europes-ai-energy-demand/",
+      "date": "2026-06-24T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar industry’s shift from silver presents potential barrier for panel recycling",
+      "url": "https://www.pv-magazine.com/2026/06/24/solar-industrys-shift-from-silver-presents-potential-barrier-for-panel-recycling/",
+      "date": "2026-06-24T03:37:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Catalyst breakthrough could accelerate green hydrogen production",
+      "url": "https://www.pv-magazine.com/2026/06/24/catalyst-breakthrough-could-accelerate-green-hydrogen-production/",
+      "date": "2026-06-24T03:33:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Three U.S. solar companies file petition for AD/CVD investigation into South Korea",
+      "url": "https://www.pv-magazine.com/2026/06/24/three-u-s-solar-companies-file-petition-for-ad-cvd-investigation-into-south-korea/",
+      "date": "2026-06-24T03:29:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Talon PV CEO Adam Tesanovich explains why cell production is key to U.S. PV leadership",
+      "url": "https://www.pv-magazine.com/2026/06/24/talon-pv-ceo-adam-tesanovich-explains-why-cell-production-is-key-to-u-s-pv-leadership/",
+      "date": "2026-06-24T03:28:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hong Kong energy storage stock rally gains new contenders: Cubenergy files for IPO, Anker Innovation clears listing hearing",
       "url": "https://www.energy-storage.news/hong-kong-energy-storage-stock-rally-gains-new-contenders-cubenergy-files-for-ipo-anker-innovation-clears-listing-hearing/",
@@ -68,41 +117,6 @@
       "title": "Phenogy unveils modular sodium-ion storage solution",
       "url": "https://www.pv-magazine.com/2026/06/23/phenogy-unveils-modular-sodium-ion-storage-solution/",
       "date": "2026-06-23T09:50:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Longi launches 680 W back contact solar module with 25.17% efficiency",
-      "url": "https://www.pv-magazine.com/2026/06/23/longi-launches-680-w-back-contact-solar-module-with-25-2-efficiency/",
-      "date": "2026-06-23T09:29:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Researchers build 22.36%-efficient 3D/2D solar modules based on stabilized hybrid perovskite",
-      "url": "https://www.pv-magazine.com/2026/06/23/researchers-build-22-36-efficient-3d-2d-solar-modules-based-on-stabilized-hybrid-perovskite/",
-      "date": "2026-06-23T09:20:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Jackery showcases SolarVault 3 home energy storage solutions at The smarter E Europe 2026",
-      "url": "https://www.pv-magazine.com/2026/06/23/jackery-showcases-solarvault-3-home-energy-storage-solutions-at-the-smarter-e-europe-2026/",
-      "date": "2026-06-23T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Grids, solar and BESS &#8211; Balancing the buildout",
-      "url": "https://www.pv-magazine.com/2026/06/23/balancing-the-buildout/",
-      "date": "2026-06-23T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Penumbra-aware irradiance modeling for agrivoltaic orchards",
-      "url": "https://www.pv-magazine.com/2026/06/23/penumbra-aware-irradiance-modeling-for-agrivoltaic-orchards/",
-      "date": "2026-06-23T09:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -404,20 +418,6 @@
       "title": "Greenvolt inaugurates Hungary&#8217;s largest BESS; pipelines progressed and financed elsewhere in EU",
       "url": "https://www.energy-storage.news/greenvolt-inaugurates-hungarys-largest-bess-pipelines-progressed-and-financed-elsewhere-in-eu/",
       "date": "2026-06-11T11:56:04.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Europe is ‘walking into new dependencies’ in global battery supply chain",
-      "url": "https://www.energy-storage.news/europe-walking-into-new-dependencies-global-battery-supply-chain/",
-      "date": "2026-06-11T10:46:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Established manufacturing footprint, new technology: SK On’s US BESS market strategy",
-      "url": "https://www.energy-storage.news/established-manufacturing-footprint-new-technology-sk-ons-us-bess-market-strategy/",
-      "date": "2026-06-11T10:30:27.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
