@@ -1,6 +1,55 @@
 {
-  "ts": 1782376906750,
+  "ts": 1782386956814,
   "items": [
+    {
+      "title": "Sunwoda Energy launches SunESS H Series and deepens European partnerships",
+      "url": "https://www.pv-magazine.com/2026/06/25/sunwoda-energy-launches-suness-h-series-and-deepens-european-partnerships/",
+      "date": "2026-06-25T11:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "North Macedonia prepares to integrate gigawatt-sized project pipeline",
+      "url": "https://www.pv-magazine.com/2026/06/25/north-macedonia-prepares-to-integrate-gigawatt-sized-project-pipeline/",
+      "date": "2026-06-25T11:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Nextpower and Prevalon CEOs discuss acquisition background and future strategy",
+      "url": "https://www.energy-storage.news/nextpower-and-prevalon-ceos-discuss-acquisition-background-and-future-strategy/",
+      "date": "2026-06-25T10:54:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Top Cable unveils flexible cable for battery storage projects",
+      "url": "https://www.pv-magazine.com/2026/06/25/top-cable-unveils-flexible-cable-for-battery-storage-projects/",
+      "date": "2026-06-25T10:44:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Norway’s solar market slows as batteries gain traction",
+      "url": "https://www.pv-magazine.com/2026/06/25/norways-solar-market-slows-as-batteries-gain-traction/",
+      "date": "2026-06-25T10:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar, storage uptake grows in Ukraine as community prosumers emerge",
+      "url": "https://www.pv-magazine.com/2026/06/25/solar-storage-uptake-grows-in-ukraine-as-community-prosumers-emerge/",
+      "date": "2026-06-25T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Impacts of the EU inverter ban",
+      "url": "https://www.pv-magazine.com/2026/06/25/solar-inverters-or-sitting-ducks/",
+      "date": "2026-06-25T08:45:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Storage leading growth in Denmark’s energy market",
       "url": "https://www.pv-magazine.com/2026/06/25/storage-leading-growth-in-denmarks-energy-market/",
@@ -37,34 +86,6 @@
       "bucket": "A"
     },
     {
-      "title": "Virtual home-energy trading study lowers costs, boosts access to clean power",
-      "url": "https://www.pv-magazine.com/2026/06/25/virtual-home-energy-trading-study-lowers-costs-boosts-access-to-clean-power/",
-      "date": "2026-06-25T04:25:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EMMVEE ramps up 1.4 GW TOPCon solar cell line with German equipment",
-      "url": "https://www.pv-magazine.com/2026/06/25/emmvee-ramps-up-1-4-gw-topcon-solar-cell-line-with-german-equipment-places-multi-gw-follow-up-order/",
-      "date": "2026-06-25T04:23:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Heliene debuts 410 W all-black PERC module for residential, light commercial PV",
-      "url": "https://www.pv-magazine.com/2026/06/25/heliene-debuts-410-w-all-black-perc-module-for-residential-light-commercial-pv/",
-      "date": "2026-06-25T04:20:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Agrivoltaics in Italy: Sowing the seeds of change",
-      "url": "https://www.pv-magazine.com/2026/06/25/the-seeds-of-change/",
-      "date": "2026-06-25T04:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Australia: AEMO calls for 35GW of short and medium-duration storage plus 5GW of long-duration storage by 2050",
       "url": "https://www.energy-storage.news/australia-aemo-calls-for-35gw-of-short-and-medium-duration-storage-plus-5gw-of-long-duration-storage-by-2050/",
       "date": "2026-06-25T02:30:12.000Z",
@@ -76,20 +97,6 @@
       "url": "https://www.energy-storage.news/dominion-energy-launches-long-duration-energy-storage-rfi-in-virginia/",
       "date": "2026-06-24T13:44:00.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Turkish PV keeps growing amid policy shift, financing constraints",
-      "url": "https://www.pv-magazine.com/2026/06/24/turkish-pv-keeps-growing-amid-policy-shift-financing-constraints/",
-      "date": "2026-06-24T12:54:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Czech PV market faces policy reset, supply-chain uncertainty",
-      "url": "https://www.pv-magazine.com/2026/06/24/czech-pv-market-faces-policy-reset-supply-chain-uncertainty/",
-      "date": "2026-06-24T12:20:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -411,13 +418,6 @@
       "title": "Panasonic to convert Kansas EV battery factory for data centre applications",
       "url": "https://www.energy-storage.news/panasonic-to-convert-kansas-ev-battery-factory-for-data-centre-applications/",
       "date": "2026-06-12T11:52:09.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "New Jersey Senators advance bill to incentivise customer-sited energy storage installations",
-      "url": "https://www.energy-storage.news/new-jersey-senators-advance-bill-to-incentivise-customer-sited-energy-storage-installations/",
-      "date": "2026-06-12T11:47:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
