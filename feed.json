@@ -1,6 +1,20 @@
 {
-  "ts": 1782395591433,
+  "ts": 1782403875892,
   "items": [
+    {
+      "title": "Tesla, Sunrun, Renew Home announce 16GW VPP framework, focus on PJM",
+      "url": "https://www.energy-storage.news/tesla-sunrun-renew-home-announce-16gw-vpp-framework-focus-on-pjm/",
+      "date": "2026-06-25T14:00:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "US ROUNDUP: e-Storage, Spearmint Energy, and OCI Energy advance BESS projects in Michigan and Texas",
+      "url": "https://www.energy-storage.news/us-roundup-e-storage-spearmint-energy-and-oci-energy-advance-bess-projects-in-michigan-and-texas/",
+      "date": "2026-06-25T13:56:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Romania on course for another record solar year",
       "url": "https://www.pv-magazine.com/2026/06/25/romania-on-course-for-another-record-solar-year/",
@@ -9,7 +23,7 @@
       "bucket": "A"
     },
     {
-      "title": "Sodium-ion will reach LCOS parity with LFP &#8216;in two to three years,&#8217; BESS firm says",
+      "title": "Sodium-ion will reach cost parity with LFP &#8216;in two to three years&#8217;, BESS firm says",
       "url": "https://www.energy-storage.news/sodium-ion-will-reach-lcos-parity-with-lfp-in-two-to-three-years-bess-firm-says/",
       "date": "2026-06-25T12:25:57.000Z",
       "source": "Energy Storage News",
@@ -404,20 +418,6 @@
       "title": "VIDEO: Germany’s ramp constraints, grid limitations and their impact on the energy storage business case",
       "url": "https://www.energy-storage.news/video-germanys-ramp-constraints-grid-limitations-and-their-impact-on-the-energy-storage-business-case/",
       "date": "2026-06-15T07:21:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Inside South Australia&#8217;s FERM tender: Why a technology-neutral process produced an all-battery outcome",
-      "url": "https://www.energy-storage.news/inside-south-australias-ferm-tender-why-a-technology-neutral-process-produced-an-all-battery-outcome/",
-      "date": "2026-06-15T03:16:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "APAC data centres risk a fossil fuel dependency long-duration energy storage can help end",
-      "url": "https://www.energy-storage.news/apac-data-centres-risk-a-fossil-fuel-dependency-long-duration-energy-storage-can-help-end/",
-      "date": "2026-06-15T00:57:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
