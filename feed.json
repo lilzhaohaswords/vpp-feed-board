@@ -1,6 +1,20 @@
 {
-  "ts": 1782366806908,
+  "ts": 1782376906750,
   "items": [
+    {
+      "title": "Storage leading growth in Denmark’s energy market",
+      "url": "https://www.pv-magazine.com/2026/06/25/storage-leading-growth-in-denmarks-energy-market/",
+      "date": "2026-06-25T08:17:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "ees Europe 2026: Grid-forming PCS, DC-coupling, C&#038;I and data centre solutions among product launches and market debuts",
+      "url": "https://www.energy-storage.news/ees-europe-2026-grid-forming-pcs-dc-coupling-ci-and-data-centre-solutions-among-product-launches-and-market-debuts/",
+      "date": "2026-06-25T06:16:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The Smarter E spotlights Renewables 24/7",
       "url": "https://www.pv-magazine.com/2026/06/25/the-smarter-e-spotlights-renewables-24-7/",
@@ -9,7 +23,7 @@
       "bucket": "A"
     },
     {
-      "title": "ITRPV: Global solar module shipments reached approximately 706 GW in 2025",
+      "title": "ITRPV: Global solar module shipments reached 706 GW in 2025",
       "url": "https://www.pv-magazine.com/2026/06/25/itrpv-global-solar-module-shipments-reached-approximately-706-gw-in-2025/",
       "date": "2026-06-25T05:28:36.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -75,13 +89,6 @@
       "title": "Czech PV market faces policy reset, supply-chain uncertainty",
       "url": "https://www.pv-magazine.com/2026/06/24/czech-pv-market-faces-policy-reset-supply-chain-uncertainty/",
       "date": "2026-06-24T12:20:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Grid-forming BESS to enhance stability in utility-scale PV",
-      "url": "https://www.pv-magazine.com/2026/06/24/grid-forming-bess-to-enhance-stability-in-utility-scale-pv/",
-      "date": "2026-06-24T12:17:17.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "New Jersey Senators advance bill to incentivise customer-sited energy storage installations",
       "url": "https://www.energy-storage.news/new-jersey-senators-advance-bill-to-incentivise-customer-sited-energy-storage-installations/",
       "date": "2026-06-12T11:47:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European BESS M&#038;A &#8216;up materially&#8217; in Q1, market maturing and repricing risk",
-      "url": "https://www.energy-storage.news/european-bess-ma-up-materially-in-q1-market-maturing-and-repricing-risk/",
-      "date": "2026-06-12T11:46:12.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
