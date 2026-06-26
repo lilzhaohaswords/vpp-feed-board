@@ -1,6 +1,34 @@
 {
-  "ts": 1782432055368,
+  "ts": 1782449980768,
   "items": [
+    {
+      "title": "Solar skills shortage intensifies",
+      "url": "https://www.pv-magazine.com/2026/06/26/hands-on-skills/",
+      "date": "2026-06-26T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Asian Development Bank supports 500MWh grid-forming battery energy storage project in Cambodia",
+      "url": "https://www.energy-storage.news/asian-development-bank-supports-500mwh-grid-forming-battery-energy-storage-project-in-cambodia/",
+      "date": "2026-06-26T03:01:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Goldwind Capital submits 1GWh wind-plus-storage site to Australia&#8217;s EPBC Act",
+      "url": "https://www.energy-storage.news/goldwind-capital-submits-1gwh-wind-plus-storage-site-to-australias-epbc-act/",
+      "date": "2026-06-26T02:50:56.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Trends to look out for at Energy Storage Summit Asia 2026",
+      "url": "https://www.energy-storage.news/trends-to-look-out-for-at-energy-storage-summit-asia-2026/",
+      "date": "2026-06-26T00:02:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Tesla, Sunrun, Renew Home announce 16GW VPP framework, focus on PJM",
       "url": "https://www.energy-storage.news/tesla-sunrun-renew-home-announce-16gw-vpp-framework-focus-on-pjm/",
@@ -97,13 +125,6 @@
       "url": "https://www.energy-storage.news/ees-europe-2026-grid-forming-pcs-dc-coupling-ci-and-data-centre-solutions-among-product-launches-and-market-debuts/",
       "date": "2026-06-25T06:16:48.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The Smarter E spotlights Renewables 24/7",
-      "url": "https://www.pv-magazine.com/2026/06/25/the-smarter-e-spotlights-renewables-24-7/",
-      "date": "2026-06-25T05:42:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "Western Power begins work on 18 new community batteries in Western Australia",
       "url": "https://www.energy-storage.news/western-power-begins-work-on-18-new-community-batteries-in-western-australia/",
       "date": "2026-06-16T01:32:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s Energy Security Corporation&#8217;s debut investment backs 650MW Ausgrid battery storage platform",
-      "url": "https://www.energy-storage.news/australias-energy-security-corporations-debut-investment-backs-650mw-ausgrid-battery-storage-platform/",
-      "date": "2026-06-16T01:22:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Wärtsilä wraps energy storage business into joint venture with solar manufacturer RCT Solutions",
-      "url": "https://www.energy-storage.news/wartsila-wraps-energy-storage-business-into-joint-venture-with-solar-manufacturer-rct-solutions/",
-      "date": "2026-06-15T11:13:09.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Germany’s ramp constraints, grid limitations and their impact on the energy storage business case",
-      "url": "https://www.energy-storage.news/video-germanys-ramp-constraints-grid-limitations-and-their-impact-on-the-energy-storage-business-case/",
-      "date": "2026-06-15T07:21:57.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
