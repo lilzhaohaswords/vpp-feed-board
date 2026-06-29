@@ -1,45 +1,108 @@
 {
-  "ts": 1782717402145,
+  "ts": 1782735523666,
   "items": [
     {
-      "title": "SAEL breaks ground on integrated 5 GW solar cell and module fact0ry in India",
-      "url": "https://www.pv-magazine.com/2026/06/29/sael-breaks-ground-on-integrated-5-gw-solar-cell-and-5-gw-module-manufacturing-facility-in-uttar-pradesh/",
-      "date": "2026-06-29T06:02:42.000Z",
+      "title": "Flow batteries selected for microgrid deployments in Maldives, Paskenta Tribe lands in California",
+      "url": "https://www.energy-storage.news/flow-batteries-selected-for-microgrid-deployments-in-maldives-paskenta-tribe-lands-in-california/",
+      "date": "2026-06-29T11:09:04.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy&#8217;s largest solar plant goes online",
+      "url": "https://www.pv-magazine.com/2026/06/29/italys-largest-solar-plant-goes-online/",
+      "date": "2026-06-29T10:53:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "Miners test viability of battery-electric technology",
-      "url": "https://www.pv-magazine.com/2026/06/29/miners-test-viability-of-battery-electric-technology/",
-      "date": "2026-06-29T05:36:51.000Z",
+      "title": "Sunoyster showcases 450 W lightweight glass-glass solar module",
+      "url": "https://www.pv-magazine.com/2026/06/29/sunoyster-showcases-450-w-lightweight-glass-glass-solar-module/",
+      "date": "2026-06-29T10:39:46.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "The virtual power plant era has arrived",
-      "url": "https://www.pv-magazine.com/2026/06/29/the-virtual-power-plant-era-has-arrived/",
-      "date": "2026-06-29T05:33:42.000Z",
+      "title": "EU launches call to accredit cross-border renewable energy projects",
+      "url": "https://www.pv-magazine.com/2026/06/29/eu-launches-call-to-accredit-cross-border-renewable-energy-projects/",
+      "date": "2026-06-29T10:03:46.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "Time to talk electrification",
-      "url": "https://www.pv-magazine.com/2026/06/29/time-to-talk-electrification/",
-      "date": "2026-06-29T04:00:00.000Z",
+      "title": "Kyocera testing Sekisui Chemical&#8217;s perovksite solar tech at Japanese sites",
+      "url": "https://www.pv-magazine.com/2026/06/29/kyocera-testing-sekisui-chemicals-perovksite-solar-tech-at-japanese-sites/",
+      "date": "2026-06-29T10:02:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "Lower temperatures, higher heat pump efficiency",
-      "url": "https://www.pv-magazine.com/2026/06/27/lower-temperatures-higher-heat-pump-efficiency/",
-      "date": "2026-06-27T04:00:00.000Z",
+      "title": "EU tripartite agreement targets 30-35GW of storage deployments by 2028",
+      "url": "https://www.energy-storage.news/eu-tripartite-agreement-targets-30-35gw-of-storage-deployments-by-2028/",
+      "date": "2026-06-29T09:32:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "How to detect low-energy fractures in PV modules",
+      "url": "https://www.pv-magazine.com/2026/06/29/how-to-detect-low-energy-fractures-in-pv-modules/",
+      "date": "2026-06-29T09:31:58.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
-      "title": "The Hydrogen Stream: EU inches closer to 4th hydrogen auction",
-      "url": "https://www.pv-magazine.com/2026/06/26/the-hydrogen-stream-eu-inches-closer-to-the-4th-hydrogen-auction/",
-      "date": "2026-06-26T12:00:23.000Z",
+      "title": "EcoFlow unveils OASIS 3.0: Pioneering energy intelligence for the European home",
+      "url": "https://www.pv-magazine.com/2026/06/29/ecoflow-unveils-oasis-3-0-pioneering-energy-intelligence-for-the-european-home/",
+      "date": "2026-06-29T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Mexico aims to add 22 GW of renewables by 2030",
+      "url": "https://www.pv-magazine.com/2026/06/29/mexico-aims-to-add-22-gw-of-renewables-by-2030/",
+      "date": "2026-06-29T08:46:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Panasonic launches CO₂ air-to-water heat pump with coefficient of performance of 6.1",
+      "url": "https://www.pv-magazine.com/2026/06/29/panasonic-launches-co%e2%82%82-air-to-water-heat-pump-with-coefficient-of-performance-of-6-1/",
+      "date": "2026-06-29T08:33:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Atmoce integrates snow removal tech in microinverters",
+      "url": "https://www.pv-magazine.com/2026/06/29/atmoce-integrates-snow-removal-tech-in-microinverters/",
+      "date": "2026-06-29T08:12:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Envision to supply 660MWh of battery storage for South Africa&#8217;s ‘largest private hybrid power project’",
+      "url": "https://www.energy-storage.news/envision-to-supply-660mwh-of-battery-storage-for-south-africas-largest-private-hybrid-power-project/",
+      "date": "2026-06-29T07:57:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "AGL submits 50MW/100MWh Awaba BESS to Australia&#8217;s EPBC Act",
+      "url": "https://www.energy-storage.news/agl-submits-50mw-100mwh-awaba-bess-to-australias-epbc-act/",
+      "date": "2026-06-29T07:53:44.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Decisions look obvious after the event. They rarely are in real time&#8217;: OptiGrid on South Australia&#8217;s battery storage price cap event",
+      "url": "https://www.energy-storage.news/decisions-look-obvious-after-the-event-they-rarely-are-in-real-time-optigrid-on-south-australias-battery-storage-price-cap-event/",
+      "date": "2026-06-29T07:52:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Oman tenders 1.5 GW of solar",
+      "url": "https://www.pv-magazine.com/2026/06/29/oman-tenders-1-5-gw-of-solar/",
+      "date": "2026-06-29T07:43:19.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -55,34 +118,6 @@
       "url": "https://www.energy-storage.news/uks-ofgem-goes-big-on-ldes-cap-and-floor-window-1-18-hour-lithium-ion-among-winners/",
       "date": "2026-06-26T11:54:20.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Argentina battery storage auction attracts bids as low as $7,397/MW-month",
-      "url": "https://www.pv-magazine.com/2026/06/26/argentina-battery-storage-auction-attracts-bids-as-low-as-7397-mw-month/",
-      "date": "2026-06-26T11:53:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Leadership Lens: Highlighting the double standards shaping leadership in the energy transition",
-      "url": "https://www.pv-magazine.com/2026/06/26/the-leadership-lens-highlighting-the-double-standards-shaping-leadership-in-the-energy-transition/",
-      "date": "2026-06-26T11:48:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "East Asia’s sunny May lifts coastal irradiance above average as El Niño builds",
-      "url": "https://www.pv-magazine.com/2026/06/26/east-asias-sunny-may-lifts-coastal-irradiance-above-average-as-el-nino-builds/",
-      "date": "2026-06-26T11:44:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "GHG Protocol uncertainty is cooling solar corporate PPA market, says Renewabl CEO",
-      "url": "https://www.pv-magazine.com/2026/06/26/ghg-protocol-uncertainty-is-cooling-solar-corporate-ppa-market-says-renewabl-ceo/",
-      "date": "2026-06-26T11:32:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -383,41 +418,6 @@
       "title": "EU Roundup: Octopus and Eco Stor financing deals for large-scale BESS in Italy and Germany enable 1.6GWh of capacity",
       "url": "https://www.energy-storage.news/eu-roundup-octopus-and-eco-stor-financing-deals-for-large-scale-bess-in-italy-and-germany-enable-1-6gwh-of-capacity/",
       "date": "2026-06-17T09:56:20.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar Energy Corporation of India invites bids for 4.8GWh of energy storage-backed FDRE capacity",
-      "url": "https://www.energy-storage.news/solar-energy-corporation-of-india-invites-bids-for-4-8gwh-of-energy-storage-backed-fdre-capacity/",
-      "date": "2026-06-17T08:24:41.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "14.6GWh of BESS deployed globally in May; activity up 24% in 2026 so far",
-      "url": "https://www.energy-storage.news/14-6gwh-of-bess-deployed-globally-in-may-activity-up-24-in-2026-so-far/",
-      "date": "2026-06-17T08:17:03.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Southeast Asia’s BESS developers must &#8216;engage early with regulators, utilities and communities&#8217;",
-      "url": "https://www.energy-storage.news/southeast-asias-bess-developers-must-engage-early-with-regulators-utilities-and-communities/",
-      "date": "2026-06-17T05:51:14.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy Dome, Invinity Energy Systems advance non-lithium LDES projects in the US",
-      "url": "https://www.energy-storage.news/energy-dome-invinity-energy-systems-advance-non-lithium-ldes-projects-in-the-us/",
-      "date": "2026-06-16T15:03:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AESC signs 10GWh US domestic content BESS cell and module deal with system integrator Prevalon",
-      "url": "https://www.energy-storage.news/aesc-signs-10gwh-us-domestic-content-bess-cell-and-module-deal-with-system-integrator-prevalon/",
-      "date": "2026-06-16T14:50:40.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
