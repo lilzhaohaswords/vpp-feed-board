@@ -1,6 +1,69 @@
 {
-  "ts": 1782784455576,
+  "ts": 1782799065464,
   "items": [
+    {
+      "title": "UK increasing heat pump grant for heating oil households",
+      "url": "https://www.pv-magazine.com/2026/06/30/uk-increasing-heat-pump-grant-for-heating-oil-households/",
+      "date": "2026-06-30T05:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "First Solar hits legal headwinds as shareholders file tariff-related class action",
+      "url": "https://www.pv-magazine.com/2026/06/30/first-solar-hits-legal-headwinds-as-shareholders-file-tariff-related-class-action/",
+      "date": "2026-06-30T05:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "CATL, CALB among backers of new China BESS industry payment and contracting initiative",
+      "url": "https://www.energy-storage.news/catl-calb-among-backers-of-new-china-bess-industry-payment-and-contracting-initiative/",
+      "date": "2026-06-30T04:44:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Off-grid solar and battery system delivers energy solution for remote Fiji islands",
+      "url": "https://www.pv-magazine.com/2026/06/30/off-grid-solar-and-battery-system-delivers-energy-solution-for-remote-fiji-islands/",
+      "date": "2026-06-30T04:16:40.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Waaree contests CBP evasion finding, assures no Chinese-origin cells used in U.S. shipments",
+      "url": "https://www.pv-magazine.com/2026/06/30/waaree-contests-cbp-evasion-finding-assures-no-chinese-origin-cells-used-in-u-s-shipments/",
+      "date": "2026-06-30T04:14:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bangladesh launches tender for 95 MW of solar",
+      "url": "https://www.pv-magazine.com/2026/06/30/bangladesh-launches-tender-for-95-mw-of-solar/",
+      "date": "2026-06-30T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Energy North submits 1GW off-grid hyperscale data centre with 16GWh of battery storage to Australia&#8217;s EPBC Act",
+      "url": "https://www.energy-storage.news/energy-north-submits-1gw-off-grid-hyperscale-data-centre-with-16gwh-of-battery-storage-to-australias-epbc-act/",
+      "date": "2026-06-30T03:36:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Neoen Australia begins construction on 963MWh battery storage system at 440MWp solar PV plant",
+      "url": "https://www.energy-storage.news/neoen-australia-begins-construction-on-963mwh-battery-storage-system-at-440mwp-solar-pv-plant/",
+      "date": "2026-06-30T03:31:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Akaysha Energy&#8217;s 1,660MWh Orana BESS reaches commercial operations in Australia",
+      "url": "https://www.energy-storage.news/akaysha-energys-1660mwh-orana-bess-reaches-commercial-operations-in-australia/",
+      "date": "2026-06-30T03:29:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "German government considers cybersecurity measures against Chinese inverters",
       "url": "https://www.pv-magazine.com/2026/06/29/german-government-considers-cybersecurity-measures-against-chinese-inverters/",
@@ -44,45 +107,10 @@
       "bucket": "A"
     },
     {
-      "title": "Kyocera testing Sekisui Chemical&#8217;s perovksite solar tech at Japanese sites",
-      "url": "https://www.pv-magazine.com/2026/06/29/kyocera-testing-sekisui-chemicals-perovksite-solar-tech-at-japanese-sites/",
-      "date": "2026-06-29T10:02:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "EU tripartite agreement targets 30-35GW of storage deployments by 2028",
       "url": "https://www.energy-storage.news/eu-tripartite-agreement-targets-30-35gw-of-storage-deployments-by-2028/",
       "date": "2026-06-29T09:32:38.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How to detect low-energy fractures in PV modules",
-      "url": "https://www.pv-magazine.com/2026/06/29/how-to-detect-low-energy-fractures-in-pv-modules/",
-      "date": "2026-06-29T09:31:58.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EcoFlow unveils OASIS 3.0: Pioneering energy intelligence for the European home",
-      "url": "https://www.pv-magazine.com/2026/06/29/ecoflow-unveils-oasis-3-0-pioneering-energy-intelligence-for-the-european-home/",
-      "date": "2026-06-29T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Mexico aims to add 22 GW of renewables by 2030",
-      "url": "https://www.pv-magazine.com/2026/06/29/mexico-aims-to-add-22-gw-of-renewables-by-2030/",
-      "date": "2026-06-29T08:46:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Panasonic launches CO₂ air-to-water heat pump with coefficient of performance of 6.1",
-      "url": "https://www.pv-magazine.com/2026/06/29/panasonic-launches-co%e2%82%82-air-to-water-heat-pump-with-coefficient-of-performance-of-6-1/",
-      "date": "2026-06-29T08:33:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -390,34 +418,6 @@
       "title": "CEE Roundup: EPCs complete CATL and Sungrow-supplied 600MWh Bulgaria projects",
       "url": "https://www.energy-storage.news/cee-roundup-epcs-complete-catl-and-sungrow-supplied-600mwh-bulgaria-projects/",
       "date": "2026-06-18T09:55:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fire and Rescue NSW mandates 240-minute fire resistance for lithium-ion battery storage rooms in data centres",
-      "url": "https://www.energy-storage.news/fire-and-rescue-nsw-mandates-240-minute-fire-resistance-for-lithium-ion-battery-storage-rooms-in-data-centres/",
-      "date": "2026-06-18T03:21:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Neoen Australia signs virtual battery deals for 2.3GWh Western Downs Battery",
-      "url": "https://www.energy-storage.news/neoen-australia-signs-virtual-battery-deals-for-540mwh-western-downs-battery/",
-      "date": "2026-06-18T03:19:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Limited synergies and profitability drive Wärtsilä&#8217;s energy storage divestment",
-      "url": "https://www.energy-storage.news/limited-synergies-and-profitability-drive-wartsilas-energy-storage-divestment/",
-      "date": "2026-06-17T14:51:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU Roundup: Octopus and Eco Stor financing deals for large-scale BESS in Italy and Germany enable 1.6GWh of capacity",
-      "url": "https://www.energy-storage.news/eu-roundup-octopus-and-eco-stor-financing-deals-for-large-scale-bess-in-italy-and-germany-enable-1-6gwh-of-capacity/",
-      "date": "2026-06-17T09:56:20.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
