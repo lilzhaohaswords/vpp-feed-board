@@ -1,6 +1,34 @@
 {
-  "ts": 1782819789154,
+  "ts": 1782826266135,
   "items": [
+    {
+      "title": "Avangrid to build 82MWh Oregon BESS project",
+      "url": "https://www.energy-storage.news/avangrid-to-build-82mwh-oregon-bess-project/",
+      "date": "2026-06-30T12:19:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "India’s annual solar installations could reach 85 GW by fiscal year 2030",
+      "url": "https://www.pv-magazine.com/2026/06/30/indias-annual-solar-installations-could-touch-85-gw-by-fy30-equirus/",
+      "date": "2026-06-30T12:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Voltec boosts residential module power with 50-cell layout",
+      "url": "https://www.pv-magazine.com/2026/06/30/voltec-boosts-residential-module-power-with-new-50-cell-layout/",
+      "date": "2026-06-30T11:56:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New reflective solar panel geometry promises 20% higher energy yield",
+      "url": "https://www.pv-magazine.com/2026/06/30/new-reflective-solar-panel-geometry-promises-20-higher-energy-yield/",
+      "date": "2026-06-30T11:45:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "European heatwave drives up electricity prices",
       "url": "https://www.pv-magazine.com/2026/06/30/european-heatwave-drives-up-electricity-prices/",
@@ -65,31 +93,10 @@
       "bucket": "A"
     },
     {
-      "title": "UK increasing heat pump grant for heating oil households",
-      "url": "https://www.pv-magazine.com/2026/06/30/uk-increasing-heat-pump-grant-for-heating-oil-households/",
-      "date": "2026-06-30T05:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "First Solar hits legal headwinds as shareholders file tariff-related class action",
-      "url": "https://www.pv-magazine.com/2026/06/30/first-solar-hits-legal-headwinds-as-shareholders-file-tariff-related-class-action/",
-      "date": "2026-06-30T05:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "CATL, CALB among backers of new China BESS industry payment and contracting initiative",
       "url": "https://www.energy-storage.news/catl-calb-among-backers-of-new-china-bess-industry-payment-and-contracting-initiative/",
       "date": "2026-06-30T04:44:41.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Off-grid solar and battery system delivers energy solution for remote Fiji islands",
-      "url": "https://www.pv-magazine.com/2026/06/30/off-grid-solar-and-battery-system-delivers-energy-solution-for-remote-fiji-islands/",
-      "date": "2026-06-30T04:16:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -411,13 +418,6 @@
       "title": "US sodium-ion startups form coalition to challenge China&#8217;s battery dominance",
       "url": "https://www.energy-storage.news/us-sodium-ion-startups-form-coalition-to-challenge-chinas-battery-dominance/",
       "date": "2026-06-18T12:30:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Aypa Power brings 1,000MWh Arizona BESS online in utility Salt River Project&#8217;s busy June",
-      "url": "https://www.energy-storage.news/aypa-power-brings-1000mwh-arizona-bess-online-in-utility-salt-river-projects-busy-june/",
-      "date": "2026-06-18T12:25:18.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
