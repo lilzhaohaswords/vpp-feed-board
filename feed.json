@@ -1,6 +1,34 @@
 {
-  "ts": 1782809954318,
+  "ts": 1782819789154,
   "items": [
+    {
+      "title": "European heatwave drives up electricity prices",
+      "url": "https://www.pv-magazine.com/2026/06/30/european-heatwave-drives-up-electricity-prices/",
+      "date": "2026-06-30T10:55:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ireland expected to exceed 3.3 GW of connected solar capacity by year-end",
+      "url": "https://www.pv-magazine.com/2026/06/30/ireland-expected-to-exceed-3-3-gw-of-connected-solar-capacity-by-year-end/",
+      "date": "2026-06-30T10:49:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EnBW, Elements Green and VPI launch construction, enlist suppliers for 2.5GWh of BESS in Germany",
+      "url": "https://www.energy-storage.news/enbw-elements-green-and-vpi-launch-construction-enlist-suppliers-for-2-5gwh-of-bess-in-germany/",
+      "date": "2026-06-30T09:47:46.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "EU Roundup: Axpo and e-Storage partner in Italy, RES secures Nordic asset management deal, R.Power sells Poland BESS to Engie",
+      "url": "https://www.energy-storage.news/eu-roundup-axpo-and-e-storage-partner-in-italy-res-secures-nordic-asset-management-deal-r-power-sells-poland-bess-to-engie/",
+      "date": "2026-06-30T09:15:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Europe could integrate 614 GW of solar within hourly demand limits",
       "url": "https://www.pv-magazine.com/2026/06/30/europe-could-integrate-614-gw-of-solar-within-hourly-demand-limits/",
@@ -61,20 +89,6 @@
       "title": "Off-grid solar and battery system delivers energy solution for remote Fiji islands",
       "url": "https://www.pv-magazine.com/2026/06/30/off-grid-solar-and-battery-system-delivers-energy-solution-for-remote-fiji-islands/",
       "date": "2026-06-30T04:16:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Waaree contests CBP evasion finding, assures no Chinese-origin cells used in U.S. shipments",
-      "url": "https://www.pv-magazine.com/2026/06/30/waaree-contests-cbp-evasion-finding-assures-no-chinese-origin-cells-used-in-u-s-shipments/",
-      "date": "2026-06-30T04:14:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bangladesh launches tender for 95 MW of solar",
-      "url": "https://www.pv-magazine.com/2026/06/30/bangladesh-launches-tender-for-95-mw-of-solar/",
-      "date": "2026-06-30T04:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -404,20 +418,6 @@
       "title": "Aypa Power brings 1,000MWh Arizona BESS online in utility Salt River Project&#8217;s busy June",
       "url": "https://www.energy-storage.news/aypa-power-brings-1000mwh-arizona-bess-online-in-utility-salt-river-projects-busy-june/",
       "date": "2026-06-18T12:25:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy trader Second Foundation on owning projects and the &#8216;art&#8217; of trading batteries in Germany",
-      "url": "https://www.energy-storage.news/energy-trader-second-foundation-on-owning-projects-and-the-art-of-trading-batteries-in-germany/",
-      "date": "2026-06-18T11:31:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CEE Roundup: EPCs complete CATL and Sungrow-supplied 600MWh Bulgaria projects",
-      "url": "https://www.energy-storage.news/cee-roundup-epcs-complete-catl-and-sungrow-supplied-600mwh-bulgaria-projects/",
-      "date": "2026-06-18T09:55:25.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
