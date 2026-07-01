@@ -1,6 +1,20 @@
 {
-  "ts": 1782912509926,
+  "ts": 1782922345272,
   "items": [
+    {
+      "title": "KKR to acquire EDF’s North American operations for $4.2 billion",
+      "url": "https://www.pv-magazine.com/2026/07/01/kkr-to-acquire-edf-power-solutions-north-american-operations-for-4-2-billion/",
+      "date": "2026-07-01T14:34:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Opsun introduces commercial flat-roof inverter racking system",
+      "url": "https://www.pv-magazine.com/2026/07/01/opsunintroducesdedicated-commercial-flat-roof-inverter-racking-system/",
+      "date": "2026-07-01T14:28:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Energy Dome to build 23 MW/200 MWh carbon battery in Ireland",
       "url": "https://www.pv-magazine.com/2026/07/01/energy-dome-to-build-23-mw-200-mwh-carbon-battery-in-ireland/",
@@ -58,7 +72,7 @@
       "bucket": "A"
     },
     {
-      "title": "Tests begin on Spain&#8217;s largest green hydrogen facility",
+      "title": "Tests begin at Spain&#8217;s largest green hydrogen facility",
       "url": "https://www.pv-magazine.com/2026/07/01/tests-begin-on-spains-largest-green-hydrogen-facility/",
       "date": "2026-07-01T09:06:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
@@ -89,20 +103,6 @@
       "title": "Vertical agrivoltaics for oats",
       "url": "https://www.pv-magazine.com/2026/07/01/vertical-agrivoltaics-for-oats/",
       "date": "2026-07-01T07:01:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Maxeon, Qcells settle patent dispute",
-      "url": "https://www.pv-magazine.com/2026/07/01/maxeon-qcells-settle-patent-dispute/",
-      "date": "2026-07-01T06:24:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Biwatt launches modular sodium-ion residential storage system",
-      "url": "https://www.pv-magazine.com/2026/07/01/biwatt-launches-modular-sodium-ion-residential-storage-system/",
-      "date": "2026-07-01T06:07:10.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
