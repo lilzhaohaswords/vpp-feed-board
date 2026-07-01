@@ -1,6 +1,69 @@
 {
-  "ts": 1782887083667,
+  "ts": 1782902086908,
   "items": [
+    {
+      "title": "Europe goes big: BESS projects totalling 11GWh launched by IPPs BW ESS, Greenvolt and Giga Storage",
+      "url": "https://www.energy-storage.news/europe-goes-big-bess-projects-totalling-11gwh-launched-by-ipps-bw-ess-greenvolt-and-giga-storage/",
+      "date": "2026-07-01T10:10:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Scotland’s solar capacity reaches 0.9 GW",
+      "url": "https://www.pv-magazine.com/2026/07/01/scotlands-solar-capacity-reaches-0-9-gw/",
+      "date": "2026-07-01T09:54:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "When the rivers ran warm: how a heatwave thinned France’s nuclear export cushion",
+      "url": "https://www.pv-magazine.com/2026/07/01/when-the-rivers-ran-warm-how-a-heatwave-thinned-frances-nuclear-export-cushion/",
+      "date": "2026-07-01T09:24:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Tests begin on Spain&#8217;s largest green hydrogen facility",
+      "url": "https://www.pv-magazine.com/2026/07/01/tests-begin-on-spains-largest-green-hydrogen-facility/",
+      "date": "2026-07-01T09:06:55.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SolaX introduces AC-side V2H system at Intersolar Europe 2026",
+      "url": "https://www.pv-magazine.com/2026/07/01/solax-introduces-ac-side-v2h-system-at-intersolar-europe-2026/",
+      "date": "2026-07-01T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "German researchers achieve world record 25.5% efficiency for perovskite-CIGS tandem solar cell",
+      "url": "https://www.pv-magazine.com/2026/07/01/german-researchers-achieve-world-record-25-5-efficiency-for-perovskite-cigs-tandem-solar-cell/",
+      "date": "2026-07-01T07:51:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "RWE, PPC complete 930 MW solar cluster in Greece",
+      "url": "https://www.pv-magazine.com/2026/07/01/rwe-ppc-complete-930-mw-solar-cluster-in-greece/",
+      "date": "2026-07-01T07:45:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Vertical agrivoltaics for oats",
+      "url": "https://www.pv-magazine.com/2026/07/01/vertical-agrivoltaics-for-oats/",
+      "date": "2026-07-01T07:01:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Maxeon, Qcells settle patent dispute",
+      "url": "https://www.pv-magazine.com/2026/07/01/maxeon-qcells-settle-patent-dispute/",
+      "date": "2026-07-01T06:24:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Biwatt launches modular sodium-ion residential storage system",
       "url": "https://www.pv-magazine.com/2026/07/01/biwatt-launches-modular-sodium-ion-residential-storage-system/",
@@ -23,38 +86,10 @@
       "bucket": "A"
     },
     {
-      "title": "Solar can outcompete grid power in rural India",
-      "url": "https://www.pv-magazine.com/2026/07/01/solar-can-outcompete-grid-power-in-rural-india-with-the-right-planning-study/",
-      "date": "2026-07-01T04:34:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Portugal sets September auction for 1.05 GW of energy storage",
-      "url": "https://www.pv-magazine.com/2026/07/01/portugal-sets-september-auction-for-1-05-gw-of-energy-storage/",
-      "date": "2026-07-01T04:27:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Wärtsilä completes 300MWh Bungama BESS for Revera Energy in South Australia",
       "url": "https://www.energy-storage.news/wartsila-completes-300mwh-bungama-bess-for-revera-energy-in-south-australia/",
       "date": "2026-07-01T04:21:26.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Trump administration reportedly drafting ban on Chinese solar inverters",
-      "url": "https://www.pv-magazine.com/2026/07/01/trump-administration-reportedly-drafting-ban-on-chinese-solar-inverters/",
-      "date": "2026-07-01T04:13:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korea’s solar crossroads",
-      "url": "https://www.pv-magazine.com/2026/07/01/south-koreas-solar-crossroads/",
-      "date": "2026-07-01T04:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -72,38 +107,10 @@
       "bucket": "A"
     },
     {
-      "title": "Goldbeck Solar developing 3-step solution for automated construction of utility-scale PV plants",
-      "url": "https://www.pv-magazine.com/2026/06/30/goldbeck-solar-offers-3-step-solution-for-automated-construction-of-utility-scale-pv-plants/",
-      "date": "2026-06-30T13:50:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "pv magazine Focus: Quality control underpins bankable BESS projects",
-      "url": "https://www.pv-magazine.com/2026/06/30/pv-magazine-focus-quality-control-underpins-bankable-bess-projects/",
-      "date": "2026-06-30T13:36:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Avangrid to build 82MWh Oregon BESS project",
       "url": "https://www.energy-storage.news/avangrid-to-build-82mwh-oregon-bess-project/",
       "date": "2026-06-30T12:19:58.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "India’s annual solar installations could reach 85 GW by fiscal year 2030",
-      "url": "https://www.pv-magazine.com/2026/06/30/indias-annual-solar-installations-could-touch-85-gw-by-fy30-equirus/",
-      "date": "2026-06-30T12:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Voltec boosts residential module power with 50-cell layout",
-      "url": "https://www.pv-magazine.com/2026/06/30/voltec-boosts-residential-module-power-with-new-50-cell-layout/",
-      "date": "2026-06-30T11:56:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -411,13 +418,6 @@
       "title": "European utilities’ association Eurelectric: Long-duration energy storage an increasingly viable flexibility option",
       "url": "https://www.energy-storage.news/european-utilities-association-eurelectric-long-duration-energy-storage-an-increasingly-viable-flexibility-option/",
       "date": "2026-06-19T10:57:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Investment under uncertainty: How AI, volatility and real-options thinking are reshaping battery storage economics",
-      "url": "https://www.energy-storage.news/investment-under-uncertainty-how-ai-volatility-and-real-options-thinking-are-reshaping-battery-storage-economics/",
-      "date": "2026-06-19T09:25:17.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
