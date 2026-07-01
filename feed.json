@@ -1,6 +1,41 @@
 {
-  "ts": 1782902086908,
+  "ts": 1782912509926,
   "items": [
+    {
+      "title": "Energy Dome to build 23 MW/200 MWh carbon battery in Ireland",
+      "url": "https://www.pv-magazine.com/2026/07/01/energy-dome-to-build-23-mw-200-mwh-carbon-battery-in-ireland/",
+      "date": "2026-07-01T12:11:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Co-location of solar and BESS still has a long way to go",
+      "url": "https://www.energy-storage.news/co-location-of-solar-and-bess-still-has-a-long-way-to-go/",
+      "date": "2026-07-01T11:31:26.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Grenergy signs 1TWh night-time PPA for 3.5GWh Chile BESS",
+      "url": "https://www.energy-storage.news/grenergy-signs-1twh-night-time-ppa-for-3-5gwh-chile-bess/",
+      "date": "2026-07-01T11:18:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Neoen awarded capacity contract for 1,600MWh Ontario BESS through LT2 procurement",
+      "url": "https://www.energy-storage.news/neoen-awarded-capacity-contract-for-1600mwh-ontario-bess-through-lt2-procurement/",
+      "date": "2026-07-01T11:16:18.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "2025 BESS cell and system shipments: BYD takes BESS crown, no Korean firms in top 10 cell suppliers",
+      "url": "https://www.energy-storage.news/2025-bess-cell-and-system-shipments-byd-takes-bess-crown-no-korean-firms-in-top-10-cell-suppliers/",
+      "date": "2026-07-01T11:07:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Europe goes big: BESS projects totalling 11GWh launched by IPPs BW ESS, Greenvolt and Giga Storage",
       "url": "https://www.energy-storage.news/europe-goes-big-bess-projects-totalling-11gwh-launched-by-ipps-bw-ess-greenvolt-and-giga-storage/",
@@ -68,13 +103,6 @@
       "title": "Biwatt launches modular sodium-ion residential storage system",
       "url": "https://www.pv-magazine.com/2026/07/01/biwatt-launches-modular-sodium-ion-residential-storage-system/",
       "date": "2026-07-01T06:07:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Daikin unveils residential heat pump combining air-to-air and hydronic heating",
-      "url": "https://www.pv-magazine.com/2026/07/01/daikin-unveils-residential-heat-pump-combining-air-to-air-and-hydronic-heating/",
-      "date": "2026-07-01T05:48:42.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -390,34 +418,6 @@
       "title": "Multi-day energy storage startup Ore Energy signs 1GWh iron-air battery deal with Dutch utility",
       "url": "https://www.energy-storage.news/multi-day-energy-storage-startup-ore-energy-signs-1gwh-iron-air-battery-deal-with-dutch-utility/",
       "date": "2026-06-22T08:07:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Policy certainty takes priority&#8217; in APAC battery storage investment decisions, says Banpu NEXT",
-      "url": "https://www.energy-storage.news/policy-certainty-takes-priority-in-apac-battery-storage-investment-decisions-says-banpu-next/",
-      "date": "2026-06-22T02:12:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "South Australia hits AU$20,300/MWh price cap twice in one evening as battery storage fleet captures AU$324,000",
-      "url": "https://www.energy-storage.news/south-australia-hits-au20300-mwh-price-cap-twice-in-one-evening-as-battery-storage-fleet-captures-au324000/",
-      "date": "2026-06-22T00:45:32.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US BESS integrator FlexGen, LDES tech provider Eos enter European market with first deals",
-      "url": "https://www.energy-storage.news/us-bess-integrator-flexgen-ldes-tech-provider-eos-enter-european-market-with-first-deals/",
-      "date": "2026-06-19T11:04:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European utilities’ association Eurelectric: Long-duration energy storage an increasingly viable flexibility option",
-      "url": "https://www.energy-storage.news/european-utilities-association-eurelectric-long-duration-energy-storage-an-increasingly-viable-flexibility-option/",
-      "date": "2026-06-19T10:57:36.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
