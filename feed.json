@@ -1,6 +1,13 @@
 {
-  "ts": 1782985754430,
+  "ts": 1782993535555,
   "items": [
+    {
+      "title": "Renewables generated 45.5% of EU electricity in Q1 2026",
+      "url": "https://www.pv-magazine.com/2026/07/02/renewables-generated-45-5-of-eu-electricity-in-q1-2026/",
+      "date": "2026-07-02T10:15:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Vopak takes FID on 800MWh Netherlands &#8216;controllable congestion mitigator&#8217; BESS",
       "url": "https://www.energy-storage.news/vopak-final-investment-decision-on-200mw-800mwh-netherlands-bess-battery-storage/",
@@ -82,13 +89,6 @@
       "title": "French company unveils on-site manufacturing concept for modular floating PV systems",
       "url": "https://www.pv-magazine.com/2026/07/02/french-company-unveils-on-site-manufacturing-concept-for-modular-floating-pv-systems/",
       "date": "2026-07-02T04:57:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Renewables covered 57.7% of Germany&#8217;s electricity demand in H1",
-      "url": "https://www.pv-magazine.com/2026/07/02/renewables-covered-57-7-of-germanys-electricity-demand-in-h1/",
-      "date": "2026-07-02T04:38:38.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
