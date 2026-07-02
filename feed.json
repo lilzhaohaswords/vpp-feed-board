@@ -1,6 +1,55 @@
 {
-  "ts": 1782993535555,
+  "ts": 1783000166751,
   "items": [
+    {
+      "title": "Scotland: ContourGlobal 2GWh acquisition, Zenobē and Revera FIDs on 800MWh projects",
+      "url": "https://www.energy-storage.news/scotland-contourglobal-2gwh-acquisition-zenobe-and-revera-fids-on-800mwh-projects/",
+      "date": "2026-07-02T12:46:19.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar warehouse in Kyiv struck by Russian missiles",
+      "url": "https://www.pv-magazine.com/2026/07/02/solar-warehouse-in-kyiv-struck-by-russian-missiles/",
+      "date": "2026-07-02T12:43:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Shallow gabion foundations enable solar plant deployment on archaeological site",
+      "url": "https://www.pv-magazine.com/2026/07/02/shallow-gabion-foundations-enable-solar-plant-deployment-on-archaeological-site/",
+      "date": "2026-07-02T12:35:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Atmoce releases stackable AC-coupled storage system for C&#038;I solar",
+      "url": "https://www.pv-magazine.com/2026/07/02/atmoce-releases-stackable-ac-coupled-storage-system-for-ci-solar/",
+      "date": "2026-07-02T12:27:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Calculating state of charge (SOC) in BESS",
+      "url": "https://www.energy-storage.news/calculating-state-of-charge-soc-in-bess/",
+      "date": "2026-07-02T12:22:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "World Bank backs 300 MW pumped hydropower storage plant in Morocco",
+      "url": "https://www.pv-magazine.com/2026/07/02/world-bank-backs-300-mw-pumped-hydropower-storage-plant-in-morocco/",
+      "date": "2026-07-02T12:20:36.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sunner unveils predictive technology to detect tracker galloping in real time",
+      "url": "https://www.pv-magazine.com/2026/07/02/sunner-unveils-predictive-technology-to-detect-tracker-galloping-in-real-time/",
+      "date": "2026-07-02T12:12:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Renewables generated 45.5% of EU electricity in Q1 2026",
       "url": "https://www.pv-magazine.com/2026/07/02/renewables-generated-45-5-of-eu-electricity-in-q1-2026/",
@@ -54,41 +103,6 @@
       "title": "El Salvador&#8217;s PV capacity tops 846 MW",
       "url": "https://www.pv-magazine.com/2026/07/02/el-salvadors-pv-capacity-tops-846-mw/",
       "date": "2026-07-02T07:32:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chile has now more than 500 MW of solar power under net billing schem",
-      "url": "https://www.pv-magazine.com/2026/07/02/pv-capacity-under-chiles-net-billing-scheme-exceeds-500-mw/",
-      "date": "2026-07-02T07:26:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New PV module recycling tech achieves 97.75% silicon recovery for electrode production",
-      "url": "https://www.pv-magazine.com/2026/07/02/new-pv-module-recycling-tech-achieves-97-75-silicon-recovery-for-electrode-production/",
-      "date": "2026-07-02T07:16:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New research shows ground-mounted PV needs enhanced earthing systems to safely manage lightning-induced step voltages",
-      "url": "https://www.pv-magazine.com/2026/07/02/new-research-shows-ground-mounted-pv-needs-enhanced-earthing-systems-to-safely-manage-lightning-induced-step-voltages/",
-      "date": "2026-07-02T06:26:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Glass frit optimization in silver paste leads to measurable gains in solar cell efficiency",
-      "url": "https://www.pv-magazine.com/2026/07/02/glass-frit-optimization-in-silver-paste-leads-to-measurable-gains-in-solar-cell-efficiency/",
-      "date": "2026-07-02T05:50:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "French company unveils on-site manufacturing concept for modular floating PV systems",
-      "url": "https://www.pv-magazine.com/2026/07/02/french-company-unveils-on-site-manufacturing-concept-for-modular-floating-pv-systems/",
-      "date": "2026-07-02T04:57:38.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -404,20 +418,6 @@
       "title": "REV Renewables and LS Power commission California&#8217;s first 8-hour duration lithium-ion BESS",
       "url": "https://www.energy-storage.news/rev-renewables-and-ls-power-commission-californias-first-8-hour-duration-lithium-ion-bess/",
       "date": "2026-06-23T12:10:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU Roundup: Optimisation and offtake for large-scale BESS with Flower and ENGIE in Germany; Entrix and DRI in Poland",
-      "url": "https://www.energy-storage.news/eu-roundup-optimisation-and-offtake-for-large-scale-bess-with-flower-and-engie-in-germany-entrix-and-dri-in-poland/",
-      "date": "2026-06-23T08:07:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Meridian Energy&#8217;s 622MW Waiinu hybrid project enters New Zealand fast-track consenting pathway",
-      "url": "https://www.energy-storage.news/meridian-energys-622mw-waiinu-hybrid-project-enters-new-zealand-fast-track-consenting-pathway/",
-      "date": "2026-06-23T04:19:03.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
