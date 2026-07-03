@@ -1,10 +1,87 @@
 {
-  "ts": 1783057054842,
+  "ts": 1783068045377,
   "items": [
     {
-      "title": "The aggregation imperative",
-      "url": "https://www.pv-magazine.com/2026/07/03/the-aggregation-imperative/",
-      "date": "2026-07-03T04:00:00.000Z",
+      "title": "China moves to curb overcapacity in PV industry with mandatory energy consumption standards",
+      "url": "https://www.pv-magazine.com/2026/07/03/china-moves-to-curb-pv-overcapacity-with-mandatory-energy-consumption-standards/",
+      "date": "2026-07-03T08:26:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese scientists build 27.3%-efficient inverted perovskite solar cell based on dual-molecule interface",
+      "url": "https://www.pv-magazine.com/2026/07/03/chinese-scientists-build-27-3-efficient-inverted-perovskite-solar-cell-based-on-dual-molecule-interface/",
+      "date": "2026-07-03T08:17:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia&#8217;s grid-scale battery storage fleet generates AU$17.98 million in the NEM as revenue capture reaches 32%",
+      "url": "https://www.energy-storage.news/australias-grid-scale-battery-storage-fleet-generates-au17-98-million-in-the-nem-as-revenue-capture-reaches-32/",
+      "date": "2026-07-03T07:55:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "AGL to deliver 10.2MWh battery storage microgrid for South Australia&#8217;s largest almond orchard",
+      "url": "https://www.energy-storage.news/agl-to-deliver-10-2mwh-battery-storage-microgrid-for-south-australias-largest-almond-orchard/",
+      "date": "2026-07-03T07:52:40.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Chile&#8217;s PV capacity reaches 12.18 GW",
+      "url": "https://www.pv-magazine.com/2026/07/03/chiles-pv-capacity-reaches-12-18-gw/",
+      "date": "2026-07-03T07:44:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Agrivoltaic cold frame system for controlled-environment crop cultivation",
+      "url": "https://www.pv-magazine.com/2026/07/03/agrivoltaic-cold-frame-system-for-controlled-environment-crop-cultivation/",
+      "date": "2026-07-03T07:28:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bhutan secures funding for 310 MW of solar",
+      "url": "https://www.pv-magazine.com/2026/07/03/bhutan-secures-funding-for-310-mw-of-solar/",
+      "date": "2026-07-03T07:28:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Blocking, El Niño and extreme events redistribute solar resource in 2026 so far",
+      "url": "https://www.pv-magazine.com/2026/07/03/blocking-el-nino-and-extreme-events-redistribute-solar-resource-in-2026-so-far/",
+      "date": "2026-07-03T06:51:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: TCL Zhonghuan completes acquisition of Das Solar",
+      "url": "https://www.pv-magazine.com/2026/07/03/chinese-pv-industry-brief-tcl-zhonghuan-completes-acquisition-of-das-solar/",
+      "date": "2026-07-03T06:33:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China solar module forward prices ease amid softer Europe demand",
+      "url": "https://www.pv-magazine.com/2026/07/03/china-solar-module-forward-prices-ease-amid-softer-europe-demand/",
+      "date": "2026-07-03T06:18:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Powering fertilizer production with agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/07/03/powering-fertiliser-production-with-agrivoltaics/",
+      "date": "2026-07-03T06:11:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Synchronous condenser starts operating in Australia, set to unlock 600 MW of clean energy",
+      "url": "https://www.pv-magazine.com/2026/07/03/ararat-synchronous-condenser-starts-operating-set-to-unlock-600-mw-of-clean-energy/",
+      "date": "2026-07-03T05:54:46.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -16,52 +93,10 @@
       "bucket": "A"
     },
     {
-      "title": "Solar warehouse in Kyiv struck by Russian missiles",
-      "url": "https://www.pv-magazine.com/2026/07/02/solar-warehouse-in-kyiv-struck-by-russian-missiles/",
-      "date": "2026-07-02T12:43:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Shallow gabion foundations enable solar plant deployment on archaeological site",
-      "url": "https://www.pv-magazine.com/2026/07/02/shallow-gabion-foundations-enable-solar-plant-deployment-on-archaeological-site/",
-      "date": "2026-07-02T12:35:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Atmoce releases stackable AC-coupled storage system for C&#038;I solar",
-      "url": "https://www.pv-magazine.com/2026/07/02/atmoce-releases-stackable-ac-coupled-storage-system-for-ci-solar/",
-      "date": "2026-07-02T12:27:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Calculating state of charge (SOC) in BESS",
       "url": "https://www.energy-storage.news/calculating-state-of-charge-soc-in-bess/",
       "date": "2026-07-02T12:22:27.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "World Bank backs 300 MW pumped hydropower storage plant in Morocco",
-      "url": "https://www.pv-magazine.com/2026/07/02/world-bank-backs-300-mw-pumped-hydropower-storage-plant-in-morocco/",
-      "date": "2026-07-02T12:20:36.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sunner unveils predictive technology to detect tracker galloping in real time",
-      "url": "https://www.pv-magazine.com/2026/07/02/sunner-unveils-predictive-technology-to-detect-tracker-galloping-in-real-time/",
-      "date": "2026-07-02T12:12:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Renewables generated 45.5% of EU electricity in Q1 2026",
-      "url": "https://www.pv-magazine.com/2026/07/02/renewables-generated-45-5-of-eu-electricity-in-q1-2026/",
-      "date": "2026-07-02T10:15:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -79,31 +114,10 @@
       "bucket": "A"
     },
     {
-      "title": "Dahua Technology showcases “Visible AI in New Energy” at Intersolar Europe 2026",
-      "url": "https://www.pv-magazine.com/2026/07/02/dahua-technology-showcases-visible-ai-in-new-energy-at-intersolar-europe-2026/",
-      "date": "2026-07-02T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Oman awards 500 MW solar, 2 GW pumped hydro contracts",
-      "url": "https://www.pv-magazine.com/2026/07/02/oman-awards-500-mw-solar-2-gw-pumped-hydro-contracts/",
-      "date": "2026-07-02T08:45:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Vena Energy secures AU$1.4 billion to scale Australian platform with solar and battery storage infrastructure",
       "url": "https://www.energy-storage.news/vena-energy-secures-au1-4-billion-to-scale-australian-platform-with-solar-and-battery-storage-infrastructure/",
       "date": "2026-07-02T08:24:08.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Africa&#8217;s largest floating PV plant comes online in Morocco",
-      "url": "https://www.pv-magazine.com/2026/07/02/africas-largest-floating-pv-plant-comes-online-in-morocco/",
-      "date": "2026-07-02T08:03:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "ZincFive bets on revenue track record in US$752 million SPAC merger after 2021 cohort struggles",
       "url": "https://www.energy-storage.news/zincfive-bets-on-revenue-track-record-in-us752-million-spac-merger-after-2021-cohort-struggles/",
       "date": "2026-06-23T12:26:31.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CATL: System- and cell-level advances driving sodium-ion energy density improvements",
-      "url": "https://www.energy-storage.news/catl-system-and-cell-level-advances-driving-sodium-ion-energy-density-improvements/",
-      "date": "2026-06-23T12:21:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "REV Renewables and LS Power commission California&#8217;s first 8-hour duration lithium-ion BESS",
-      "url": "https://www.energy-storage.news/rev-renewables-and-ls-power-commission-californias-first-8-hour-duration-lithium-ion-bess/",
-      "date": "2026-06-23T12:10:36.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
