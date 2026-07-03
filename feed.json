@@ -1,6 +1,13 @@
 {
-  "ts": 1783041811523,
+  "ts": 1783057054842,
   "items": [
+    {
+      "title": "The aggregation imperative",
+      "url": "https://www.pv-magazine.com/2026/07/03/the-aggregation-imperative/",
+      "date": "2026-07-03T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Scotland: ContourGlobal 2GWh acquisition, Zenobē and Revera FIDs on 800MWh projects",
       "url": "https://www.energy-storage.news/scotland-contourglobal-2gwh-acquisition-zenobe-and-revera-fids-on-800mwh-projects/",
@@ -96,13 +103,6 @@
       "title": "Africa&#8217;s largest floating PV plant comes online in Morocco",
       "url": "https://www.pv-magazine.com/2026/07/02/africas-largest-floating-pv-plant-comes-online-in-morocco/",
       "date": "2026-07-02T08:03:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "El Salvador&#8217;s PV capacity tops 846 MW",
-      "url": "https://www.pv-magazine.com/2026/07/02/el-salvadors-pv-capacity-tops-846-mw/",
-      "date": "2026-07-02T07:32:36.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
