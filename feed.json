@@ -1,6 +1,55 @@
 {
-  "ts": 1783068045377,
+  "ts": 1783077642260,
   "items": [
+    {
+      "title": "&#8216;Pivot, learn and continue&#8217;",
+      "url": "https://www.pv-magazine.com/2026/07/03/pivot-learn-and-continue/",
+      "date": "2026-07-03T11:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: Fluence&#8217;s Lars Stephan on what data centres and cybersecurity developments mean for BESS in Europe",
+      "url": "https://www.energy-storage.news/video-fluences-lars-stephan-on-what-data-centres-and-cybersecurity-developments-mean-for-bess-in-europe/",
+      "date": "2026-07-03T10:15:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;It&#8217;s really about flexibility&#8217;: FERC issues &#8216;show cause&#8217; orders to US grid operators on large load integration",
+      "url": "https://www.energy-storage.news/its-really-about-flexibility-ferc-issues-show-cause-orders-to-us-grid-operators-on-large-load-integration/",
+      "date": "2026-07-03T10:04:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Mild oxalic acid process enables efficient indium recovery from heterojunction solar cells",
+      "url": "https://www.pv-magazine.com/2026/07/03/mild-oxalic-acid-process-enables-efficient-indium-recovery-from-heterojunction-solar-cells/",
+      "date": "2026-07-03T09:48:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EDF, Total, ACWA, Tesla, Gotion and Envision among qualified bidders for Saudi&#8217;s 12GWh BESS tender",
+      "url": "https://www.energy-storage.news/edf-total-acwa-tesla-gotion-and-envision-qualified-bidders-saudis-12gwh-bess-tender/",
+      "date": "2026-07-03T09:10:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "HiTHIUM showcases its 6.9 MWh, eight-hour LDES solution at The smarter E Europe",
+      "url": "https://www.pv-magazine.com/2026/07/03/hithium-showcases-its-6-9-mwh-eight-hour-ldes-solution-at-the-smarter-e-europe/",
+      "date": "2026-07-03T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Defying the residential storage shakeout: MOVA LumeGret bets on AI differentiation in crowded European market",
+      "url": "https://www.energy-storage.news/defying-the-residential-storage-shakeout-mova-lumegret-bets-on-ai-differentiation-in-crowded-european-market/",
+      "date": "2026-07-03T08:46:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "China moves to curb overcapacity in PV industry with mandatory energy consumption standards",
       "url": "https://www.pv-magazine.com/2026/07/03/china-moves-to-curb-pv-overcapacity-with-mandatory-energy-consumption-standards/",
@@ -61,27 +110,6 @@
       "title": "Chinese PV Industry Brief: TCL Zhonghuan completes acquisition of Das Solar",
       "url": "https://www.pv-magazine.com/2026/07/03/chinese-pv-industry-brief-tcl-zhonghuan-completes-acquisition-of-das-solar/",
       "date": "2026-07-03T06:33:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China solar module forward prices ease amid softer Europe demand",
-      "url": "https://www.pv-magazine.com/2026/07/03/china-solar-module-forward-prices-ease-amid-softer-europe-demand/",
-      "date": "2026-07-03T06:18:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Powering fertilizer production with agrivoltaics",
-      "url": "https://www.pv-magazine.com/2026/07/03/powering-fertiliser-production-with-agrivoltaics/",
-      "date": "2026-07-03T06:11:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Synchronous condenser starts operating in Australia, set to unlock 600 MW of clean energy",
-      "url": "https://www.pv-magazine.com/2026/07/03/ararat-synchronous-condenser-starts-operating-set-to-unlock-600-mw-of-clean-energy/",
-      "date": "2026-07-03T05:54:46.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -390,34 +418,6 @@
       "title": "Germany&#8217;s battery energy storage market is entering a new phase of maturity",
       "url": "https://www.energy-storage.news/germanys-battery-energy-storage-market-is-entering-a-new-phase-of-maturity/",
       "date": "2026-06-24T05:13:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia awards 4.2GW/16.1GWh of battery storage under Capacity Investment Scheme Tender 8",
-      "url": "https://www.energy-storage.news/australia-awards-4-2gw-16-1gwh-of-battery-storage-under-capacity-investment-scheme-tender-8/",
-      "date": "2026-06-24T05:12:01.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hong Kong energy storage stock rally gains new contenders: Cubenergy files for IPO, Anker Innovation clears listing hearing",
-      "url": "https://www.energy-storage.news/hong-kong-energy-storage-stock-rally-gains-new-contenders-cubenergy-files-for-ipo-anker-innovation-clears-listing-hearing/",
-      "date": "2026-06-23T23:09:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "rPlus Energies’ 1,600MWh Utah solar-plus-storage project begins commercial operation",
-      "url": "https://www.energy-storage.news/rplus-energies-1600mwh-utah-solar-plus-storage-project-begins-commercial-operation/",
-      "date": "2026-06-23T12:43:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ZincFive bets on revenue track record in US$752 million SPAC merger after 2021 cohort struggles",
-      "url": "https://www.energy-storage.news/zincfive-bets-on-revenue-track-record-in-us752-million-spac-merger-after-2021-cohort-struggles/",
-      "date": "2026-06-23T12:26:31.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
