@@ -1,24 +1,87 @@
 {
-  "ts": 1783318294984,
+  "ts": 1783336658464,
   "items": [
+    {
+      "title": "Norwegian startup develops floating PV tech designed to withstand waves of up to 3.5 m",
+      "url": "https://www.pv-magazine.com/2026/07/06/norwegian-startup-develops-floating-pv-tech-designed-to-withstand-waves-of-up-to-3-5-meters/",
+      "date": "2026-07-06T11:15:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar boom in the Philippines continues as electricity prices rise",
+      "url": "https://www.pv-magazine.com/2026/07/06/solar-boom-in-the-philippines-continues-as-electricity-prices-rise/",
+      "date": "2026-07-06T09:17:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Poweroad receives China’s first pilot Battery Passport from Bureau Veritas",
+      "url": "https://www.pv-magazine.com/2026/07/06/poweroad-receives-chinas-first-pilot-battery-passport-from-bureau-veritas/",
+      "date": "2026-07-06T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solax unveils new energy management system for residential PV",
+      "url": "https://www.pv-magazine.com/2026/07/06/solax-announces-new-energy-management-system-for-residential-pv/",
+      "date": "2026-07-06T08:58:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Medium-voltage series regulator enables 260% more PV capacity in German distribution grids",
+      "url": "https://www.pv-magazine.com/2026/07/06/medium-voltage-series-regulator-enables-260-more-pv-capacity-in-german-distribution-grids/",
+      "date": "2026-07-06T08:54:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Photovoltaics for metro stations",
+      "url": "https://www.pv-magazine.com/2026/07/06/photovoltaics-for-metro-stations/",
+      "date": "2026-07-06T08:32:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Vikram Solar starts PV module production at manufacturing facility in India",
+      "url": "https://www.pv-magazine.com/2026/07/06/vikram-solar-begins-pv-module-production-at-new-tamil-nadu-manufacturing-facility/",
+      "date": "2026-07-06T08:22:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Amazon pens battery storage PPA for 220MWh solar-plus-storage site in Australia",
+      "url": "https://www.energy-storage.news/amazon-pens-battery-storage-ppa-for-220mwh-solar-plus-storage-site-in-australia/",
+      "date": "2026-07-06T08:10:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia&#8217;s Zen Energy appoints administrators with wholesale electricity volatility cited as main driver",
+      "url": "https://www.energy-storage.news/australias-zen-energy-appoints-administrators-with-wholesale-electricity-volatility-cited-as-main-driver/",
+      "date": "2026-07-06T08:08:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "How to retrofit residential air-source heat pumps to run on DC",
+      "url": "https://www.pv-magazine.com/2026/07/06/how-to-retrofit-residential-air-source-heat-pumps-to-run-on-dc/",
+      "date": "2026-07-06T08:02:47.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "FuturaSun launches PV modules with integrated anti-soiling glass technology",
+      "url": "https://www.pv-magazine.com/2026/07/06/futurasun-launches-pv-modules-with-integrated-anti-soiling-glass-technology/",
+      "date": "2026-07-06T07:11:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Documenting risk",
       "url": "https://www.pv-magazine.com/2026/07/06/documenting-risk/",
       "date": "2026-07-06T04:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Orica moves forward with 50 MW hydrogen hub in Australia",
-      "url": "https://www.pv-magazine.com/2026/07/03/the-hydrogen-stream-orica-move-forward-with-50-mw-hydrogen-hub-in-australia/",
-      "date": "2026-07-03T12:17:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Pivot, learn and continue&#8217;",
-      "url": "https://www.pv-magazine.com/2026/07/03/pivot-learn-and-continue/",
-      "date": "2026-07-03T11:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -37,13 +100,6 @@
       "bucket": "A"
     },
     {
-      "title": "Mild oxalic acid process enables efficient indium recovery from heterojunction solar cells",
-      "url": "https://www.pv-magazine.com/2026/07/03/mild-oxalic-acid-process-enables-efficient-indium-recovery-from-heterojunction-solar-cells/",
-      "date": "2026-07-03T09:48:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "EDF, Total, ACWA, Tesla, Gotion and Envision among qualified bidders for Saudi&#8217;s 12GWh BESS tender",
       "url": "https://www.energy-storage.news/edf-total-acwa-tesla-gotion-and-envision-qualified-bidders-saudis-12gwh-bess-tender/",
       "date": "2026-07-03T09:10:51.000Z",
@@ -51,31 +107,10 @@
       "bucket": "A"
     },
     {
-      "title": "HiTHIUM showcases its 6.9 MWh, eight-hour LDES solution at The smarter E Europe",
-      "url": "https://www.pv-magazine.com/2026/07/03/hithium-showcases-its-6-9-mwh-eight-hour-ldes-solution-at-the-smarter-e-europe/",
-      "date": "2026-07-03T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Defying the residential storage shakeout: MOVA LumeGret bets on AI differentiation in crowded European market",
       "url": "https://www.energy-storage.news/defying-the-residential-storage-shakeout-mova-lumegret-bets-on-ai-differentiation-in-crowded-european-market/",
       "date": "2026-07-03T08:46:57.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "China moves to curb overcapacity in PV industry with mandatory energy consumption standards",
-      "url": "https://www.pv-magazine.com/2026/07/03/china-moves-to-curb-pv-overcapacity-with-mandatory-energy-consumption-standards/",
-      "date": "2026-07-03T08:26:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese scientists build 27.3%-efficient inverted perovskite solar cell based on dual-molecule interface",
-      "url": "https://www.pv-magazine.com/2026/07/03/chinese-scientists-build-27-3-efficient-inverted-perovskite-solar-cell-based-on-dual-molecule-interface/",
-      "date": "2026-07-03T08:17:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -90,27 +125,6 @@
       "url": "https://www.energy-storage.news/agl-to-deliver-10-2mwh-battery-storage-microgrid-for-south-australias-largest-almond-orchard/",
       "date": "2026-07-03T07:52:40.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chile&#8217;s PV capacity reaches 12.18 GW",
-      "url": "https://www.pv-magazine.com/2026/07/03/chiles-pv-capacity-reaches-12-18-gw/",
-      "date": "2026-07-03T07:44:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Agrivoltaic cold frame system for controlled-environment crop cultivation",
-      "url": "https://www.pv-magazine.com/2026/07/03/agrivoltaic-cold-frame-system-for-controlled-environment-crop-cultivation/",
-      "date": "2026-07-03T07:28:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Bhutan secures funding for 310 MW of solar",
-      "url": "https://www.pv-magazine.com/2026/07/03/bhutan-secures-funding-for-310-mw-of-solar/",
-      "date": "2026-07-03T07:28:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Grid-forming technology explored and explained: Download our white paper, with Kehua Digital Energy &#038; TÜV Rheinland",
       "url": "https://www.energy-storage.news/grid-forming-technology-explored-and-explained-download-our-white-paper-with-kehua-digital-energy-tuv-rheinland/",
       "date": "2026-06-24T09:25:17.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "NatPower, Tesla sign 25GWh Megapack supply and execution agreement for Italy and UK BESS projects",
-      "url": "https://www.energy-storage.news/natpower-tesla-sign-25gwh-megapack-supply-and-execution-agreement-for-italy-and-uk-bess-projects/",
-      "date": "2026-06-24T09:05:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany&#8217;s battery energy storage market is entering a new phase of maturity",
-      "url": "https://www.energy-storage.news/germanys-battery-energy-storage-market-is-entering-a-new-phase-of-maturity/",
-      "date": "2026-06-24T05:13:54.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
