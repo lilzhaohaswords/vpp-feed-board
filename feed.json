@@ -1,6 +1,13 @@
 {
-  "ts": 1783301406349,
+  "ts": 1783318294984,
   "items": [
+    {
+      "title": "Documenting risk",
+      "url": "https://www.pv-magazine.com/2026/07/06/documenting-risk/",
+      "date": "2026-07-06T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "The Hydrogen Stream: Orica moves forward with 50 MW hydrogen hub in Australia",
       "url": "https://www.pv-magazine.com/2026/07/03/the-hydrogen-stream-orica-move-forward-with-50-mw-hydrogen-hub-in-australia/",
@@ -103,13 +110,6 @@
       "title": "Bhutan secures funding for 310 MW of solar",
       "url": "https://www.pv-magazine.com/2026/07/03/bhutan-secures-funding-for-310-mw-of-solar/",
       "date": "2026-07-03T07:28:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Blocking, El Niño and extreme events redistribute solar resource in 2026 so far",
-      "url": "https://www.pv-magazine.com/2026/07/03/blocking-el-nino-and-extreme-events-redistribute-solar-resource-in-2026-so-far/",
-      "date": "2026-07-03T06:51:07.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
