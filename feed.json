@@ -1,6 +1,41 @@
 {
-  "ts": 1783403615506,
+  "ts": 1783414679808,
   "items": [
+    {
+      "title": "Chinese system integrators capture 76% of global BESS market as competition intensifies",
+      "url": "https://www.energy-storage.news/chinese-system-integrators-capture-76-of-global-bess-market-as-competition-intensifies/",
+      "date": "2026-07-07T08:56:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Enphase targets 800 V DC data centers with distributed solid-state transformers",
+      "url": "https://www.pv-magazine.com/2026/07/07/enphase-targets-800-v-dc-data-centers-with-distributed-solid-state-transformers/",
+      "date": "2026-07-07T08:49:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK CfD price ceiling and new auction framework for solar revealed",
+      "url": "https://www.pv-magazine.com/2026/07/07/uk-cfd-price-ceiling-and-new-auction-framework-for-solar-revealed/",
+      "date": "2026-07-07T08:14:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ivory Coast switches on 52 MW of solar",
+      "url": "https://www.pv-magazine.com/2026/07/07/ivory-coast-switches-on-52-mw-of-solar/",
+      "date": "2026-07-07T07:52:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Recycling of spin-triplet excitons enables 20.5% efficiency in organic solar cell",
+      "url": "https://www.pv-magazine.com/2026/07/07/recycling-of-spin-triplet-excitons-enables-20-5-efficiency-in-organic-solar-cell/",
+      "date": "2026-07-07T05:59:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australian O&#038;M specialist backs proactive maintenance to reduce premature PV waste",
       "url": "https://www.pv-magazine.com/2026/07/07/solar-shine-backs-proactive-maintenance-to-reduce-premature-pv-waste/",
@@ -68,34 +103,6 @@
       "title": "Vertical rooftop PV reaches Vancouver",
       "url": "https://www.pv-magazine.com/2026/07/06/vertical-rooftop-pv-reaches-vancouver/",
       "date": "2026-07-06T13:26:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "German startup offers passive exoskeletons for PV installers",
-      "url": "https://www.pv-magazine.com/2026/07/06/german-startup-offers-passive-exoskeletons-for-pv-installers/",
-      "date": "2026-07-06T13:18:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "European B2C photovoltaic market lacks truly dominant players",
-      "url": "https://www.pv-magazine.com/2026/07/06/european-b2c-photovoltaic-market-lacks-truly-dominant-players/",
-      "date": "2026-07-06T11:50:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Huawei launches the latest grid-forming strategy for future power systems at The smarter E 2026",
-      "url": "https://www.pv-magazine.com/2026/07/06/huawei-launches-the-latest-grid-forming-strategy-for-future-power-systems-at-the-smarter-e-2026/",
-      "date": "2026-07-06T11:23:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Norwegian startup develops floating PV tech designed to withstand waves of up to 3.5 m",
-      "url": "https://www.pv-magazine.com/2026/07/06/norwegian-startup-develops-floating-pv-tech-designed-to-withstand-waves-of-up-to-3-5-meters/",
-      "date": "2026-07-06T11:15:14.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "ees Europe 2026: Grid-forming PCS, DC-coupling, C&#038;I and data centre solutions among product launches and market debuts",
       "url": "https://www.energy-storage.news/ees-europe-2026-grid-forming-pcs-dc-coupling-ci-and-data-centre-solutions-among-product-launches-and-market-debuts/",
       "date": "2026-06-25T06:16:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia: AEMO calls for 35GW of short and medium-duration storage plus 5GW of long-duration storage by 2050",
-      "url": "https://www.energy-storage.news/australia-aemo-calls-for-35gw-of-short-and-medium-duration-storage-plus-5gw-of-long-duration-storage-by-2050/",
-      "date": "2026-06-25T02:30:12.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
