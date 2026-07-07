@@ -1,6 +1,48 @@
 {
-  "ts": 1783414679808,
+  "ts": 1783424474878,
   "items": [
+    {
+      "title": "ENSD launches 40 kW charging module for DC EV-charging stations",
+      "url": "https://www.pv-magazine.com/2026/07/07/ensd-launches-40-kw-charging-module-for-dc-ev-charging-stations/",
+      "date": "2026-07-07T11:00:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: HyperStrong to deploy sodium-ion BESS first in China, international projects could follow in 2027",
+      "url": "https://www.energy-storage.news/video-hyperstrong-to-deploy-sodium-ion-bess-first-in-china-international-projects-could-follow-in-2027/",
+      "date": "2026-07-07T10:52:27.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "European battery &#038; BESS manufacturing gets boost with Eni Storage and Hithium gigafactory milestones in Italy, Spain",
+      "url": "https://www.energy-storage.news/european-battery-manufacturing-boost-eni-storage-hithium-lfp-gigafactory-milestones-italy-spain/",
+      "date": "2026-07-07T10:47:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "ISFH now offering calibration services for large-area tandem solar cells",
+      "url": "https://www.pv-magazine.com/2026/07/07/isfh-now-offering-calibration-services-for-large-area-tandem-solar-cells/",
+      "date": "2026-07-07T10:14:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New methodology to prevent false data injection attacks in PV plants",
+      "url": "https://www.pv-magazine.com/2026/07/07/new-methodology-to-prevent-false-data-injection-attacks-in-pv-plants/",
+      "date": "2026-07-07T10:03:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "‘Climate risk is a daily operational reality’ for BESS developers in Southeast Asia",
+      "url": "https://www.energy-storage.news/climate-risk-is-a-daily-operational-reality-for-bess-developers-in-southeast-asia/",
+      "date": "2026-07-07T09:26:45.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Chinese system integrators capture 76% of global BESS market as competition intensifies",
       "url": "https://www.energy-storage.news/chinese-system-integrators-capture-76-of-global-bess-market-as-competition-intensifies/",
@@ -65,13 +107,6 @@
       "bucket": "A"
     },
     {
-      "title": "US solar trade and residential market continues to tighten",
-      "url": "https://www.pv-magazine.com/2026/07/07/us-solar-trade-and-residential-market-continues-to-tighten/",
-      "date": "2026-07-07T04:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Australia’s CleanPeak Energy to deploy 120MWh battery storage system at Western Sydney International Airport",
       "url": "https://www.energy-storage.news/australias-cleanpeak-energy-to-deploy-120mwh-battery-storage-system-at-western-sydney-international-airport/",
       "date": "2026-07-07T01:52:13.000Z",
@@ -90,20 +125,6 @@
       "url": "https://www.energy-storage.news/engie-agrees-offtake-deal-developer-625mwh-spain-bess-flexibility-floor-toll/",
       "date": "2026-07-06T13:37:36.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Competition grows for U.S. solar industry workforce",
-      "url": "https://www.pv-magazine.com/2026/07/06/competition-grows-for-us-solar-industry-workforce/",
-      "date": "2026-07-06T13:30:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Vertical rooftop PV reaches Vancouver",
-      "url": "https://www.pv-magazine.com/2026/07/06/vertical-rooftop-pv-reaches-vancouver/",
-      "date": "2026-07-06T13:26:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "US ROUNDUP: e-Storage, Spearmint Energy, and OCI Energy advance BESS projects in Michigan and Texas",
       "url": "https://www.energy-storage.news/us-roundup-e-storage-spearmint-energy-and-oci-energy-advance-bess-projects-in-michigan-and-texas/",
       "date": "2026-06-25T13:56:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Sodium-ion will reach cost parity with LFP &#8216;in two to three years&#8217;, BESS firm says",
-      "url": "https://www.energy-storage.news/sodium-ion-will-reach-lcos-parity-with-lfp-in-two-to-three-years-bess-firm-says/",
-      "date": "2026-06-25T12:25:57.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Nextpower and Prevalon CEOs discuss acquisition background and future strategy",
-      "url": "https://www.energy-storage.news/nextpower-and-prevalon-ceos-discuss-acquisition-background-and-future-strategy/",
-      "date": "2026-06-25T10:54:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ees Europe 2026: Grid-forming PCS, DC-coupling, C&#038;I and data centre solutions among product launches and market debuts",
-      "url": "https://www.energy-storage.news/ees-europe-2026-grid-forming-pcs-dc-coupling-ci-and-data-centre-solutions-among-product-launches-and-market-debuts/",
-      "date": "2026-06-25T06:16:48.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
