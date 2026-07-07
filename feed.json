@@ -1,6 +1,55 @@
 {
-  "ts": 1783387794047,
+  "ts": 1783403615506,
   "items": [
+    {
+      "title": "Australian O&#038;M specialist backs proactive maintenance to reduce premature PV waste",
+      "url": "https://www.pv-magazine.com/2026/07/07/solar-shine-backs-proactive-maintenance-to-reduce-premature-pv-waste/",
+      "date": "2026-07-07T05:31:48.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Meridian Energy secures three-year consent to access 545GWh hydro storage at New Zealand’s Lake Pūkaki",
+      "url": "https://www.energy-storage.news/meridian-energy-secures-three-year-consent-to-access-545gwh-hydro-storage-at-new-zealands-lake-pukaki/",
+      "date": "2026-07-07T05:30:41.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "How a Colorado tribe beat the federal solar permit freeze",
+      "url": "https://www.pv-magazine.com/2026/07/07/how-a-colorado-tribe-beat-the-federal-solar-permit-freeze/",
+      "date": "2026-07-07T05:29:20.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ofgem approves rule changes for UK frequency response markets",
+      "url": "https://www.pv-magazine.com/2026/07/07/ofgem-approves-rule-changes-for-uk-frequency-response-markets/",
+      "date": "2026-07-07T05:03:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "US solar trade and residential market continues to tighten",
+      "url": "https://www.pv-magazine.com/2026/07/07/us-solar-trade-and-residential-market-continues-to-tighten/",
+      "date": "2026-07-07T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s CleanPeak Energy to deploy 120MWh battery storage system at Western Sydney International Airport",
+      "url": "https://www.energy-storage.news/australias-cleanpeak-energy-to-deploy-120mwh-battery-storage-system-at-western-sydney-international-airport/",
+      "date": "2026-07-07T01:52:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "3.8GWh of battery storage progresses through Australia&#8217;s EPBC Act process across three projects",
+      "url": "https://www.energy-storage.news/3-8gwh-of-battery-storage-progresses-through-australias-epbc-act-process-across-three-projects/",
+      "date": "2026-07-07T01:50:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Engie agrees offtake deal with developer for 625MWh of Spain BESS",
       "url": "https://www.energy-storage.news/engie-agrees-offtake-deal-developer-625mwh-spain-bess-flexibility-floor-toll/",
@@ -47,34 +96,6 @@
       "title": "Norwegian startup develops floating PV tech designed to withstand waves of up to 3.5 m",
       "url": "https://www.pv-magazine.com/2026/07/06/norwegian-startup-develops-floating-pv-tech-designed-to-withstand-waves-of-up-to-3-5-meters/",
       "date": "2026-07-06T11:15:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar boom in the Philippines continues as electricity prices rise",
-      "url": "https://www.pv-magazine.com/2026/07/06/solar-boom-in-the-philippines-continues-as-electricity-prices-rise/",
-      "date": "2026-07-06T09:17:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Poweroad receives China’s first pilot Battery Passport from Bureau Veritas",
-      "url": "https://www.pv-magazine.com/2026/07/06/poweroad-receives-chinas-first-pilot-battery-passport-from-bureau-veritas/",
-      "date": "2026-07-06T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solax unveils new energy management system for residential PV",
-      "url": "https://www.pv-magazine.com/2026/07/06/solax-announces-new-energy-management-system-for-residential-pv/",
-      "date": "2026-07-06T08:58:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Medium-voltage series regulator enables 260% more PV capacity in German distribution grids",
-      "url": "https://www.pv-magazine.com/2026/07/06/medium-voltage-series-regulator-enables-260-more-pv-capacity-in-german-distribution-grids/",
-      "date": "2026-07-06T08:54:41.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -397,27 +418,6 @@
       "title": "Australia: AEMO calls for 35GW of short and medium-duration storage plus 5GW of long-duration storage by 2050",
       "url": "https://www.energy-storage.news/australia-aemo-calls-for-35gw-of-short-and-medium-duration-storage-plus-5gw-of-long-duration-storage-by-2050/",
       "date": "2026-06-25T02:30:12.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Dominion Energy launches long-duration energy storage RFI in Virginia",
-      "url": "https://www.energy-storage.news/dominion-energy-launches-long-duration-energy-storage-rfi-in-virginia/",
-      "date": "2026-06-24T13:44:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EU funding ban on Chinese inverters drives BESS industry towards optionality, supply chain resiliency",
-      "url": "https://www.energy-storage.news/eu-funding-ban-on-chinese-inverters-drives-bess-industry-towards-optionality-supply-chain-resiliency/",
-      "date": "2026-06-24T11:58:22.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US energy storage installations will quadruple by 2031, Wood Mackenzie forecasts",
-      "url": "https://www.energy-storage.news/us-energy-storage-installations-will-quadruple-by-2031-wood-mackenzie-forecasts/",
-      "date": "2026-06-24T11:56:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
