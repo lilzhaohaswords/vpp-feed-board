@@ -1,6 +1,48 @@
 {
-  "ts": 1783486385297,
+  "ts": 1783495059581,
   "items": [
+    {
+      "title": "TÜV NORD study confirms back-contact advantage over TOPCon is limited to mild shading conditions",
+      "url": "https://www.pv-magazine.com/2026/07/08/tuv-nord-study-confirms-back-contact-advantage-over-topcon-is-limited-to-mild-shading-conditions/",
+      "date": "2026-07-08T07:06:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Haier launches propane air-to-water heat pump for commercial applications",
+      "url": "https://www.pv-magazine.com/2026/07/08/haier-launches-propane-air-to-water-heat-pump-for-commercial-applications/",
+      "date": "2026-07-08T06:26:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian utility delivers solar microgrid for farming operation",
+      "url": "https://www.pv-magazine.com/2026/07/08/agl-delivers-solar-powered-microgrid-for-farming-operation-2/",
+      "date": "2026-07-08T05:04:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK scraps mandatory consultations for large-scale solar planning",
+      "url": "https://www.pv-magazine.com/2026/07/08/uk-scraps-mandatory-consultations-for-large-scale-solar-planning/",
+      "date": "2026-07-08T05:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "ES Foundry completes 3 GW solar cell factory expansion",
+      "url": "https://www.pv-magazine.com/2026/07/08/es-foundry-completes-factor-expansion-bringing-output-capacity-to-3-gw-per-year/",
+      "date": "2026-07-08T04:57:58.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Akaysha Energy begins construction of 82MWh BESS in southern Japan with Itochu-Tokyo Century JV",
+      "url": "https://www.energy-storage.news/akaysha-energy-begins-construction-of-82mwh-bess-in-southern-japan-with-itochu-tokyo-century-jv/",
+      "date": "2026-07-08T04:54:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Who maintains Europe’s orphaned rooftop solar?",
       "url": "https://www.pv-magazine.com/2026/07/08/who-maintains-europes-orphaned-rooftop-solar/",
@@ -51,20 +93,6 @@
       "bucket": "A"
     },
     {
-      "title": "The decision points that make or break solar projects",
-      "url": "https://www.pv-magazine.com/2026/07/07/the-decision-points-that-make-or-break-solar-projects/",
-      "date": "2026-07-07T11:43:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ENSD launches 40 kW charging module for DC EV-charging stations",
-      "url": "https://www.pv-magazine.com/2026/07/07/ensd-launches-40-kw-charging-module-for-dc-ev-charging-stations/",
-      "date": "2026-07-07T11:00:46.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "VIDEO: HyperStrong to deploy sodium-ion BESS first in China, international projects could follow in 2027",
       "url": "https://www.energy-storage.news/video-hyperstrong-to-deploy-sodium-ion-bess-first-in-china-international-projects-could-follow-in-2027/",
       "date": "2026-07-07T10:52:27.000Z",
@@ -79,20 +107,6 @@
       "bucket": "A"
     },
     {
-      "title": "ISFH now offering calibration services for large-area tandem solar cells",
-      "url": "https://www.pv-magazine.com/2026/07/07/isfh-now-offering-calibration-services-for-large-area-tandem-solar-cells/",
-      "date": "2026-07-07T10:14:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New methodology to prevent false data injection attacks in PV plants",
-      "url": "https://www.pv-magazine.com/2026/07/07/new-methodology-to-prevent-false-data-injection-attacks-in-pv-plants/",
-      "date": "2026-07-07T10:03:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "‘Climate risk is a daily operational reality’ for BESS developers in Southeast Asia",
       "url": "https://www.energy-storage.news/climate-risk-is-a-daily-operational-reality-for-bess-developers-in-southeast-asia/",
       "date": "2026-07-07T09:26:45.000Z",
@@ -104,13 +118,6 @@
       "url": "https://www.energy-storage.news/chinese-system-integrators-capture-76-of-global-bess-market-as-competition-intensifies/",
       "date": "2026-07-07T08:56:48.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Enphase targets 800 V DC data centers with distributed solid-state transformers",
-      "url": "https://www.pv-magazine.com/2026/07/07/enphase-targets-800-v-dc-data-centers-with-distributed-solid-state-transformers/",
-      "date": "2026-07-07T08:49:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -411,13 +418,6 @@
       "title": "Goldwind Capital submits 1GWh wind-plus-storage site to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/goldwind-capital-submits-1gwh-wind-plus-storage-site-to-australias-epbc-act/",
       "date": "2026-06-26T02:50:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Trends to look out for at Energy Storage Summit Asia 2026",
-      "url": "https://www.energy-storage.news/trends-to-look-out-for-at-energy-storage-summit-asia-2026/",
-      "date": "2026-06-26T00:02:19.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
