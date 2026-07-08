@@ -1,6 +1,41 @@
 {
-  "ts": 1783512575036,
+  "ts": 1783523008345,
   "items": [
+    {
+      "title": "BESS developer opts for California Energy Commission fast-track approval after facing local county ordinance obstacles",
+      "url": "https://www.energy-storage.news/bess-developer-opts-for-california-energy-commission-fast-track-approval-after-facing-local-county-ordinance-obstacles/",
+      "date": "2026-07-08T13:43:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Unigrid unveils sodium-ion residential energy storage systems",
+      "url": "https://www.pv-magazine.com/2026/07/08/unigrid-unveils-sodium-ion-residential-energy-storage-systems/",
+      "date": "2026-07-08T13:22:53.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Honda-LG ES begin ESS cell production at retooled Ohio EV cell facility",
+      "url": "https://www.energy-storage.news/honda-lg-es-begin-ess-cell-production-at-retooled-ohio-ev-cell-facility/",
+      "date": "2026-07-08T12:58:02.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "One-third of India&#8217;s new renewable energy capacity faces curtailment",
+      "url": "https://www.pv-magazine.com/2026/07/08/one-third-of-indias-new-renewable-energy-capacity-faces-curtailment-due-to-grid-constraints/",
+      "date": "2026-07-08T12:30:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Algeria’s path to 15 GW of solar",
+      "url": "https://www.pv-magazine.com/2026/07/08/algerias-path-to-15-gw-of-solar/",
+      "date": "2026-07-08T12:10:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hiconics discusses PowerNexus residential smart energy solution at Intersolar Europe",
       "url": "https://www.energy-storage.news/hiconics-discusses-powernexus-residential-smart-energy-solution-at-intersolar-europe/",
@@ -68,27 +103,6 @@
       "title": "Haier launches propane air-to-water heat pump for commercial applications",
       "url": "https://www.pv-magazine.com/2026/07/08/haier-launches-propane-air-to-water-heat-pump-for-commercial-applications/",
       "date": "2026-07-08T06:26:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian utility delivers solar microgrid for farming operation",
-      "url": "https://www.pv-magazine.com/2026/07/08/agl-delivers-solar-powered-microgrid-for-farming-operation-2/",
-      "date": "2026-07-08T05:04:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK scraps mandatory consultations for large-scale solar planning",
-      "url": "https://www.pv-magazine.com/2026/07/08/uk-scraps-mandatory-consultations-for-large-scale-solar-planning/",
-      "date": "2026-07-08T05:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ES Foundry completes 3 GW solar cell factory expansion",
-      "url": "https://www.pv-magazine.com/2026/07/08/es-foundry-completes-factor-expansion-bringing-output-capacity-to-3-gw-per-year/",
-      "date": "2026-07-08T04:57:58.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -404,20 +418,6 @@
       "title": "&#8216;Decisions look obvious after the event. They rarely are in real time&#8217;: OptiGrid on South Australia&#8217;s battery storage price cap event",
       "url": "https://www.energy-storage.news/decisions-look-obvious-after-the-event-they-rarely-are-in-real-time-optigrid-on-south-australias-battery-storage-price-cap-event/",
       "date": "2026-06-29T07:52:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Enlight secures financing for 1.2GW/4GWh Arizona solar and storage ‘Complex’",
-      "url": "https://www.energy-storage.news/enlight-secures-financing-for-1-2gw-4gwh-arizona-solar-and-storage-complex/",
-      "date": "2026-06-26T11:55:31.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UK’s Ofgem goes big on LDES cap-and-floor window 1; 18-hour lithium-ion among winners",
-      "url": "https://www.energy-storage.news/uks-ofgem-goes-big-on-ldes-cap-and-floor-window-1-18-hour-lithium-ion-among-winners/",
-      "date": "2026-06-26T11:54:20.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
