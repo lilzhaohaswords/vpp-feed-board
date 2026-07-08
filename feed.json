@@ -1,6 +1,27 @@
 {
-  "ts": 1783473278914,
+  "ts": 1783486385297,
   "items": [
+    {
+      "title": "Who maintains Europe’s orphaned rooftop solar?",
+      "url": "https://www.pv-magazine.com/2026/07/08/who-maintains-europes-orphaned-rooftop-solar/",
+      "date": "2026-07-08T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia reserves 500MW generation and 2GWh storage for First Nations in Capacity Investment Scheme Tenders 9 and 10",
+      "url": "https://www.energy-storage.news/australia-reserves-500mw-generation-and-2gwh-storage-for-first-nations-in-capacity-investment-scheme-tenders-9-and-10/",
+      "date": "2026-07-08T03:13:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "‘Battery storage may be important, but we also welcome long-duration storage’: QIC on Queensland’s North West Energy Fund",
+      "url": "https://www.energy-storage.news/battery-storage-may-be-important-but-we-also-welcome-long-duration-storage-qic-on-queenslands-north-west-energy-fund/",
+      "date": "2026-07-08T03:12:58.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Octopus Energy launches plug-in home batteries",
       "url": "https://www.pv-magazine.com/2026/07/07/octopus-energy-launches-plug-in-home-battery/",
@@ -89,13 +110,6 @@
       "title": "Enphase targets 800 V DC data centers with distributed solid-state transformers",
       "url": "https://www.pv-magazine.com/2026/07/07/enphase-targets-800-v-dc-data-centers-with-distributed-solid-state-transformers/",
       "date": "2026-07-07T08:49:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK CfD price ceiling and new auction framework for solar revealed",
-      "url": "https://www.pv-magazine.com/2026/07/07/uk-cfd-price-ceiling-and-new-auction-framework-for-solar-revealed/",
-      "date": "2026-07-07T08:14:03.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -404,20 +418,6 @@
       "title": "Trends to look out for at Energy Storage Summit Asia 2026",
       "url": "https://www.energy-storage.news/trends-to-look-out-for-at-energy-storage-summit-asia-2026/",
       "date": "2026-06-26T00:02:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Tesla, Sunrun, Renew Home announce 16GW VPP framework, focus on PJM",
-      "url": "https://www.energy-storage.news/tesla-sunrun-renew-home-announce-16gw-vpp-framework-focus-on-pjm/",
-      "date": "2026-06-25T14:00:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US ROUNDUP: e-Storage, Spearmint Energy, and OCI Energy advance BESS projects in Michigan and Texas",
-      "url": "https://www.energy-storage.news/us-roundup-e-storage-spearmint-energy-and-oci-energy-advance-bess-projects-in-michigan-and-texas/",
-      "date": "2026-06-25T13:56:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
