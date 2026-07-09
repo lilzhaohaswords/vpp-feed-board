@@ -1,6 +1,62 @@
 {
-  "ts": 1783576166052,
+  "ts": 1783587419024,
   "items": [
+    {
+      "title": "Longi starts 21 GW production of copper-metallized back-contact solar cells",
+      "url": "https://www.pv-magazine.com/2026/07/09/longi-switches-on-21-gw-production-line-for-copper-metallized-back-contact-solar-cells/",
+      "date": "2026-07-09T08:35:57.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ban on high-risk PV inverters to impact 14% of EU solar demand to 2030",
+      "url": "https://www.pv-magazine.com/2026/07/09/ban-on-high-risk-pv-inverters-to-impact-14-of-eu-solar-demand-to-2030/",
+      "date": "2026-07-09T08:11:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK ROUNDUP: Field closes financing on 1GWh portfolio; Pulse Clean Energy selects Envision for 310MWh project",
+      "url": "https://www.energy-storage.news/uk-roundup-field-closes-financing-on-1gwh-portfolio-pulse-clean-energy-selects-envision-for-310mwh-project/",
+      "date": "2026-07-09T08:04:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "In the age of AI data centres and electrification, the grid is the real bottleneck",
+      "url": "https://www.energy-storage.news/in-the-age-of-ai-data-centres-and-electrification-the-grid-is-the-real-bottleneck/",
+      "date": "2026-07-09T07:56:28.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "S&#038;P Global releases 2026 Tier 1 Cleantech Companies list",
+      "url": "https://www.pv-magazine.com/2026/07/09/sp-global-releases-2026-tier-1-cleantech-companies-list/",
+      "date": "2026-07-09T07:46:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Free online calculator shows Irish homeowners how to save with solar",
+      "url": "https://www.pv-magazine.com/2026/07/09/free-online-calculator-shows-irish-homeowners-how-to-save-with-solar/",
+      "date": "2026-07-09T07:17:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK approves PV projects totaling 1.2 GW",
+      "url": "https://www.pv-magazine.com/2026/07/09/uk-approves-pv-projects-totaling-1-2-gw/",
+      "date": "2026-07-09T07:05:46.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Growth of U.S. pure-play solar cell makers critical for downstream module buyers and investors",
+      "url": "https://www.pv-magazine.com/2026/07/09/growth-of-u-s-pure-play-solar-cell-makers-critical-for-downstream-module-buyers-and-investors/",
+      "date": "2026-07-09T07:03:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Notes from the field",
       "url": "https://www.pv-magazine.com/2026/07/09/notes-from-the-field/",
@@ -58,52 +114,10 @@
       "bucket": "A"
     },
     {
-      "title": "South Africa awards licenses to 1 GW of solar",
-      "url": "https://www.pv-magazine.com/2026/07/08/south-africa-awards-licenses-to-1-gw-of-solar/",
-      "date": "2026-07-08T09:56:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany plans to reduce subsidies for heat pumps",
-      "url": "https://www.pv-magazine.com/2026/07/08/germany-plans-to-reduce-subsidies-for-heat-pumps/",
-      "date": "2026-07-08T09:46:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "A rebuildable solar array to train students and access &#8216;beginner’s mind&#8217;",
-      "url": "https://www.pv-magazine.com/2026/07/08/a-rebuildable-pv-array-to-train-students-and-access-beginners-mind/",
-      "date": "2026-07-08T08:34:53.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Elestor, Windpark Zeewolde partner on 10-40-hour hydrogen-iron flow battery LDES project in Netherlands",
       "url": "https://www.energy-storage.news/elestor-windpark-zeewolde-partner-on-10-40-hour-hydrogen-iron-flow-battery-ldes-project-in-netherlands/",
       "date": "2026-07-08T08:01:42.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Grid expansion, storage, flexibility lag behind Europe’s renewables growth",
-      "url": "https://www.pv-magazine.com/2026/07/08/grid-expansion-storage-flexibility-lag-behind-europes-renewables-growth/",
-      "date": "2026-07-08T07:49:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Water-jet delamination for solar module recycling",
-      "url": "https://www.pv-magazine.com/2026/07/08/water-jet-delamination-for-solar-module-recycling/",
-      "date": "2026-07-08T07:18:29.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "TÜV NORD study finds back-contact advantage over TOPCon is limited to mild shading conditions",
-      "url": "https://www.pv-magazine.com/2026/07/08/tuv-nord-study-confirms-back-contact-advantage-over-topcon-is-limited-to-mild-shading-conditions/",
-      "date": "2026-07-08T07:06:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Envision to supply 660MWh of battery storage for South Africa&#8217;s ‘largest private hybrid power project’",
       "url": "https://www.energy-storage.news/envision-to-supply-660mwh-of-battery-storage-for-south-africas-largest-private-hybrid-power-project/",
       "date": "2026-06-29T07:57:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AGL submits 50MW/100MWh Awaba BESS to Australia&#8217;s EPBC Act",
-      "url": "https://www.energy-storage.news/agl-submits-50mw-100mwh-awaba-bess-to-australias-epbc-act/",
-      "date": "2026-06-29T07:53:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Decisions look obvious after the event. They rarely are in real time&#8217;: OptiGrid on South Australia&#8217;s battery storage price cap event",
-      "url": "https://www.energy-storage.news/decisions-look-obvious-after-the-event-they-rarely-are-in-real-time-optigrid-on-south-australias-battery-storage-price-cap-event/",
-      "date": "2026-06-29T07:52:08.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
