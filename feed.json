@@ -1,6 +1,13 @@
 {
-  "ts": 1783560356501,
+  "ts": 1783576166052,
   "items": [
+    {
+      "title": "Notes from the field",
+      "url": "https://www.pv-magazine.com/2026/07/09/notes-from-the-field/",
+      "date": "2026-07-09T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "BESS developer opts for California Energy Commission fast-track approval after facing local county ordinance obstacles",
       "url": "https://www.energy-storage.news/bess-developer-opts-for-california-energy-commission-fast-track-approval-after-facing-local-county-ordinance-obstacles/",
@@ -96,13 +103,6 @@
       "title": "TÜV NORD study finds back-contact advantage over TOPCon is limited to mild shading conditions",
       "url": "https://www.pv-magazine.com/2026/07/08/tuv-nord-study-confirms-back-contact-advantage-over-topcon-is-limited-to-mild-shading-conditions/",
       "date": "2026-07-08T07:06:13.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Haier launches propane air-to-water heat pump for commercial applications",
-      "url": "https://www.pv-magazine.com/2026/07/08/haier-launches-propane-air-to-water-heat-pump-for-commercial-applications/",
-      "date": "2026-07-08T06:26:31.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
