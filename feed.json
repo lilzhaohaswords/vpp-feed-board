@@ -1,6 +1,20 @@
 {
-  "ts": 1783745305740,
+  "ts": 1783753298792,
   "items": [
+    {
+      "title": "U.S. assembled solar module prices steady at $0.30/W",
+      "url": "https://www.pv-magazine.com/2026/07/11/u-s-assembled-module-prices-steady-at-0-30-w/",
+      "date": "2026-07-11T07:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The Hydrogen Stream: Pilot project in Iceland shows geothermal-driven H2 could achieve LCOH of $1.75/kg",
+      "url": "https://www.pv-magazine.com/2026/07/11/the-hydrogen-stream-pilot-project-in-iceland-shows-geothermal-driven-h2-could-achieve-lcoh-of-1-75-kg/",
+      "date": "2026-07-11T06:30:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Strengthening El Niño to reshape global irradiance for the second half of 2026",
       "url": "https://www.pv-magazine.com/2026/07/10/strengthening-el-nino-to-reshape-global-irradiance-for-the-second-half-of-2026/",
@@ -58,13 +72,6 @@
       "bucket": "A"
     },
     {
-      "title": "Laser-patterned poly-Si finger contacts reduce parasitic absorption, improve efficiency in TOPCon solar cells",
-      "url": "https://www.pv-magazine.com/2026/07/10/laser-patterned-poly-si-finger-contacts-reduce-parasitic-absorption-improve-efficiency-in-topcon-solar-cells/",
-      "date": "2026-07-10T08:30:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "US-based BESS companies Peak Energy, ESS Inc and Unigrid aim to commercialise sodium-ion in US, Europe",
       "url": "https://www.energy-storage.news/us-based-bess-companies-peak-energy-ess-inc-and-unigrid-aim-to-commercialise-sodium-ion-in-us-europe/",
       "date": "2026-07-10T08:25:47.000Z",
@@ -76,13 +83,6 @@
       "url": "https://www.energy-storage.news/state-of-health-the-critical-metric-for-measuring-battery-ageing-and-performance-and-why-it-matters-for-bess/",
       "date": "2026-07-10T07:42:42.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Zambia introduces new procurement approaches as solar interest booms",
-      "url": "https://www.pv-magazine.com/2026/07/10/zambia-introduces-new-procurement-approaches-as-solar-interest-booms/",
-      "date": "2026-07-10T07:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
