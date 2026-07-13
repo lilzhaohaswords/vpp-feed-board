@@ -1,6 +1,27 @@
 {
-  "ts": 1783919959080,
+  "ts": 1783931844025,
   "items": [
+    {
+      "title": "Germany energy provider builds 50 MW power-to-heat system",
+      "url": "https://www.pv-magazine.com/2026/07/13/germany-energy-provider-builds-50-mw-power-to-heat-system/",
+      "date": "2026-07-13T08:08:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Daikin unveils inverter-driven rooftop heat pump for light commercial buildings",
+      "url": "https://www.pv-magazine.com/2026/07/13/daikin-unveils-inverter-driven-rooftop-heat-pump-for-light-commercial-buildings/",
+      "date": "2026-07-13T07:17:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "‘Australian first’ compressed CO2 battery project takes shape",
+      "url": "https://www.pv-magazine.com/2026/07/13/sec-plans-australian-first-compressed-co2-battery-in-victorian-coal-country/",
+      "date": "2026-07-13T06:23:31.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Battery storage investment at stake as Australia’s AEMC consults on minimum system load market rules",
       "url": "https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/",
@@ -54,27 +75,6 @@
       "title": "The Hydrogen Stream: Pilot project in Iceland shows geothermal-driven H2 could achieve LCOH of $1.75/kg",
       "url": "https://www.pv-magazine.com/2026/07/11/the-hydrogen-stream-pilot-project-in-iceland-shows-geothermal-driven-h2-could-achieve-lcoh-of-1-75-kg/",
       "date": "2026-07-11T06:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Strengthening El Niño to reshape global irradiance for the second half of 2026",
-      "url": "https://www.pv-magazine.com/2026/07/10/strengthening-el-nino-to-reshape-global-irradiance-for-the-second-half-of-2026/",
-      "date": "2026-07-10T12:50:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Canadian Solar unveils new EP Cube systems featuring higher power, scalable storage",
-      "url": "https://www.pv-magazine.com/2026/07/10/canadian-solar-unveils-new-ep-cube-systems-featuring-higher-power-scalable-storage/",
-      "date": "2026-07-10T10:52:47.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "TCL Zhonghuan converts 20 GW of TOPCon cell capacity to back-contact",
-      "url": "https://www.pv-magazine.com/2026/07/10/tcl-zhonghuan-converts-20-gw-of-topcon-cell-capacity-to-back-contact/",
-      "date": "2026-07-10T09:59:08.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
