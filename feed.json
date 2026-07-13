@@ -1,6 +1,20 @@
 {
-  "ts": 1783905402039,
+  "ts": 1783919959080,
   "items": [
+    {
+      "title": "Battery storage investment at stake as Australia’s AEMC consults on minimum system load market rules",
+      "url": "https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/",
+      "date": "2026-07-13T04:12:10.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Spain targets wafer production",
+      "url": "https://www.pv-magazine.com/2026/07/13/spain-targets-wafer-production/",
+      "date": "2026-07-13T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "China could produce more batteries than global demand by 2030, says US think tank",
       "url": "https://www.pv-magazine.com/2026/07/11/china-could-produce-more-batteries-than-global-demand-by-2030-says-us-think-tank/",
@@ -61,13 +75,6 @@
       "title": "TCL Zhonghuan converts 20 GW of TOPCon cell capacity to back-contact",
       "url": "https://www.pv-magazine.com/2026/07/10/tcl-zhonghuan-converts-20-gw-of-topcon-cell-capacity-to-back-contact/",
       "date": "2026-07-10T09:59:08.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "EU publishes draft terms of 4th hydrogen auction",
-      "url": "https://www.pv-magazine.com/2026/07/10/eu-publishes-draft-terms-of-4th-hydrogen-auction/",
-      "date": "2026-07-10T09:49:15.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "Samsung C&#038;T submits 600MWh Comet Park BESS to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/samsung-ct-submits-600mwh-comet-park-bess-to-australias-epbc-act/",
       "date": "2026-07-01T03:50:34.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australian AI developer locks in 1.5GWh of battery energy storage under 12-year agreement",
-      "url": "https://www.energy-storage.news/australian-ai-developer-locks-in-1-5gwh-of-battery-energy-storage-under-12-year-agreement/",
-      "date": "2026-07-01T03:49:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
