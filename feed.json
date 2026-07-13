@@ -1,6 +1,20 @@
 {
-  "ts": 1783950707523,
+  "ts": 1783959351132,
   "items": [
+    {
+      "title": "Argentina awards 700MW BESS in elevenfold oversubscribed tender",
+      "url": "https://www.energy-storage.news/argentina-awards-700mw-bess-in-elevenfold-oversubscribed-tender/",
+      "date": "2026-07-13T14:44:07.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "How EPCs can de-risk solar carport projects",
+      "url": "https://www.pv-magazine.com/2026/07/13/how-epcs-can-de-risk-solar-carport-projects/",
+      "date": "2026-07-13T14:09:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Passive mooring system enables floating PV to track water-level changes",
       "url": "https://www.pv-magazine.com/2026/07/13/passive-mooring-system-enables-floating-pv-to-track-water-level-changes/",
@@ -82,13 +96,6 @@
       "title": "France&#8217;s Reden halts solar module production",
       "url": "https://www.pv-magazine.com/2026/07/13/frances-reden-halts-solar-module-production/",
       "date": "2026-07-13T09:06:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "KUKA Cable highlights material innovation as the next frontier of solar cable reliability",
-      "url": "https://www.pv-magazine.com/2026/07/13/kuka-cable-highlights-material-innovation-as-the-next-frontier-of-solar-cable-reliability/",
-      "date": "2026-07-13T09:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "2025 BESS cell and system shipments: BYD takes BESS crown, no Korean firms in top 10 cell suppliers",
       "url": "https://www.energy-storage.news/2025-bess-cell-and-system-shipments-byd-takes-bess-crown-no-korean-firms-in-top-10-cell-suppliers/",
       "date": "2026-07-01T11:07:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Europe goes big: BESS projects totalling 11GWh launched by IPPs BW ESS, Greenvolt and Giga Storage",
-      "url": "https://www.energy-storage.news/europe-goes-big-bess-projects-totalling-11gwh-launched-by-ipps-bw-ess-greenvolt-and-giga-storage/",
-      "date": "2026-07-01T10:10:23.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
