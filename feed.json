@@ -1,6 +1,34 @@
 {
-  "ts": 1783943123758,
+  "ts": 1783950707523,
   "items": [
+    {
+      "title": "Passive mooring system enables floating PV to track water-level changes",
+      "url": "https://www.pv-magazine.com/2026/07/13/passive-mooring-system-enables-floating-pv-to-track-water-level-changes/",
+      "date": "2026-07-13T13:35:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Smart controllers help Brazilian PV projects bypass reverse power flow constraints",
+      "url": "https://www.pv-magazine.com/2026/07/13/smart-controllers-help-brazilian-pv-projects-bypass-reverse-power-flow-constraints/",
+      "date": "2026-07-13T13:12:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Philippines proposes transmission grid reforms, updates to net-metering",
+      "url": "https://www.pv-magazine.com/2026/07/13/philippines-proposes-transmission-grid-reforms-updates-to-net-metering/",
+      "date": "2026-07-13T12:08:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "CMBlu Energy advances US manufacturing plans and targets multiple market segments for organic flow battery technology",
+      "url": "https://www.energy-storage.news/cmblu-energy-advances-us-manufacturing-plans-and-targets-multiple-market-segments-for-organic-flow-battery-technology/",
+      "date": "2026-07-13T11:54:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Leaked EU Electrification Action Plan recognises need for 200GW of energy storage by 2030",
       "url": "https://www.energy-storage.news/leaked-eu-electrification-action-plan-recognises-need-for-200gw-of-energy-storage-by-2030/",
@@ -61,27 +89,6 @@
       "title": "KUKA Cable highlights material innovation as the next frontier of solar cable reliability",
       "url": "https://www.pv-magazine.com/2026/07/13/kuka-cable-highlights-material-innovation-as-the-next-frontier-of-solar-cable-reliability/",
       "date": "2026-07-13T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Türkiye to tender 900 MW of solar",
-      "url": "https://www.pv-magazine.com/2026/07/13/turkiye-to-tender-900-mw-of-solar/",
-      "date": "2026-07-13T08:59:25.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany energy provider builds 50 MW power-to-heat system",
-      "url": "https://www.pv-magazine.com/2026/07/13/germany-energy-provider-builds-50-mw-power-to-heat-system/",
-      "date": "2026-07-13T08:08:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Daikin unveils inverter-driven rooftop heat pump for light commercial buildings",
-      "url": "https://www.pv-magazine.com/2026/07/13/daikin-unveils-inverter-driven-rooftop-heat-pump-for-light-commercial-buildings/",
-      "date": "2026-07-13T07:17:11.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "Europe goes big: BESS projects totalling 11GWh launched by IPPs BW ESS, Greenvolt and Giga Storage",
       "url": "https://www.energy-storage.news/europe-goes-big-bess-projects-totalling-11gwh-launched-by-ipps-bw-ess-greenvolt-and-giga-storage/",
       "date": "2026-07-01T10:10:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Energy storage essential to ASEAN nations’ knowledge-based economy transition and uncoupling from volatile fossil fuel costs",
-      "url": "https://www.energy-storage.news/energy-storage-essential-to-asean-nations-knowledge-based-economy-transition-and-uncoupling-from-volatile-fossil-fuel-costs/",
-      "date": "2026-07-01T05:20:25.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
