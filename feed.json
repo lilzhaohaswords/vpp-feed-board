@@ -1,6 +1,76 @@
 {
-  "ts": 1783931844025,
+  "ts": 1783943123758,
   "items": [
+    {
+      "title": "Leaked EU Electrification Action Plan recognises need for 200GW of energy storage by 2030",
+      "url": "https://www.energy-storage.news/leaked-eu-electrification-action-plan-recognises-need-for-200gw-of-energy-storage-by-2030/",
+      "date": "2026-07-13T11:43:52.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "How Dahua is expanding into renewable energy with AI-powered solutions",
+      "url": "https://www.energy-storage.news/how-dahua-is-expanding-into-renewable-energy-with-ai-powered-solutions/",
+      "date": "2026-07-13T11:32:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "United Solar completes $1.6 billion raise for Oman polysilicon factory",
+      "url": "https://www.pv-magazine.com/2026/07/13/united-solar-completes-1-6-billion-raise-for-oman-polysilicon-factory/",
+      "date": "2026-07-13T11:20:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Avaada Electro commissions first phase of 6 GW TOPCon solar cell factory in India",
+      "url": "https://www.pv-magazine.com/2026/07/13/avaada-electro-commissions-first-phase-of-6-gw-topcon-solar-cell-factory-in-india/",
+      "date": "2026-07-13T11:14:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hoymiles issues response after security vulnerability identified in older microinverters",
+      "url": "https://www.pv-magazine.com/2026/07/13/hoymiles-issues-response-after-security-vulnerability-identified-in-older-microinverters/",
+      "date": "2026-07-13T11:07:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "U.S. solar LCOE on the rise, says Lazard",
+      "url": "https://www.pv-magazine.com/2026/07/13/u-s-solar-lcoe-on-the-rise-lazard-says/",
+      "date": "2026-07-13T11:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Triple-junction all-perovskite solar cell based on graphene oxide bilayer achieves 27.3% efficiency",
+      "url": "https://www.pv-magazine.com/2026/07/13/triple-junction-all-perovskite-solar-cell-based-on-graphene-oxide-bilayer-achieves-27-3-efficiency/",
+      "date": "2026-07-13T10:37:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France&#8217;s Reden halts solar module production",
+      "url": "https://www.pv-magazine.com/2026/07/13/frances-reden-halts-solar-module-production/",
+      "date": "2026-07-13T09:06:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "KUKA Cable highlights material innovation as the next frontier of solar cable reliability",
+      "url": "https://www.pv-magazine.com/2026/07/13/kuka-cable-highlights-material-innovation-as-the-next-frontier-of-solar-cable-reliability/",
+      "date": "2026-07-13T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Türkiye to tender 900 MW of solar",
+      "url": "https://www.pv-magazine.com/2026/07/13/turkiye-to-tender-900-mw-of-solar/",
+      "date": "2026-07-13T08:59:25.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Germany energy provider builds 50 MW power-to-heat system",
       "url": "https://www.pv-magazine.com/2026/07/13/germany-energy-provider-builds-50-mw-power-to-heat-system/",
@@ -16,66 +86,10 @@
       "bucket": "A"
     },
     {
-      "title": "‘Australian first’ compressed CO2 battery project takes shape",
-      "url": "https://www.pv-magazine.com/2026/07/13/sec-plans-australian-first-compressed-co2-battery-in-victorian-coal-country/",
-      "date": "2026-07-13T06:23:31.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Battery storage investment at stake as Australia’s AEMC consults on minimum system load market rules",
       "url": "https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/",
       "date": "2026-07-13T04:12:10.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Spain targets wafer production",
-      "url": "https://www.pv-magazine.com/2026/07/13/spain-targets-wafer-production/",
-      "date": "2026-07-13T04:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China could produce more batteries than global demand by 2030, says US think tank",
-      "url": "https://www.pv-magazine.com/2026/07/11/china-could-produce-more-batteries-than-global-demand-by-2030-says-us-think-tank/",
-      "date": "2026-07-11T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Study finds heatwaves cause hourly losses of up to 90% in PV plants in Iberian peninsula",
-      "url": "https://www.pv-magazine.com/2026/07/11/study-finds-heatwaves-cause-hourly-losses-of-up-to-90-in-pv-plants-in-iberian-peninsula/",
-      "date": "2026-07-11T08:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "End-of-life solar module recycling unviable if material diversity is not considered",
-      "url": "https://www.pv-magazine.com/2026/07/11/end-of-life-module-recycling-unviable-if-material-diversity-is-not-considered/",
-      "date": "2026-07-11T08:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "HIZEnergy presents PCS for C&#038;I applications",
-      "url": "https://www.pv-magazine.com/2026/07/11/hizenergy-presents-pcs-for-ci-applications/",
-      "date": "2026-07-11T07:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. assembled solar module prices steady at $0.30/W",
-      "url": "https://www.pv-magazine.com/2026/07/11/u-s-assembled-module-prices-steady-at-0-30-w/",
-      "date": "2026-07-11T07:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Pilot project in Iceland shows geothermal-driven H2 could achieve LCOH of $1.75/kg",
-      "url": "https://www.pv-magazine.com/2026/07/11/the-hydrogen-stream-pilot-project-in-iceland-shows-geothermal-driven-h2-could-achieve-lcoh-of-1-75-kg/",
-      "date": "2026-07-11T06:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Energy storage essential to ASEAN nations’ knowledge-based economy transition and uncoupling from volatile fossil fuel costs",
       "url": "https://www.energy-storage.news/energy-storage-essential-to-asean-nations-knowledge-based-economy-transition-and-uncoupling-from-volatile-fossil-fuel-costs/",
       "date": "2026-07-01T05:20:25.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Wärtsilä completes 300MWh Bungama BESS for Revera Energy in South Australia",
-      "url": "https://www.energy-storage.news/wartsila-completes-300mwh-bungama-bess-for-revera-energy-in-south-australia/",
-      "date": "2026-07-01T04:21:26.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Samsung C&#038;T submits 600MWh Comet Park BESS to Australia&#8217;s EPBC Act",
-      "url": "https://www.energy-storage.news/samsung-ct-submits-600mwh-comet-park-bess-to-australias-epbc-act/",
-      "date": "2026-07-01T03:50:34.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
