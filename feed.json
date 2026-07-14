@@ -1,6 +1,13 @@
 {
-  "ts": 1784033808881,
+  "ts": 1784040094595,
   "items": [
+    {
+      "title": "VIDEO: Scaling solar-coupled, distributed sodium-ion NFPP battery storage with startup Moonwatt",
+      "url": "https://www.energy-storage.news/video-scaling-solar-coupled-distributed-sodium-ion-nfpp-battery-storage-with-startup-moonwatt/",
+      "date": "2026-07-14T13:55:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Ampace launches co-branded C&#038;I energy storage product at Intersolar Europe 2026",
       "url": "https://www.pv-magazine.com/2026/07/14/ampace-launches-co-branded-ci-energy-storage-product-at-intersolar-europe-2026/",
@@ -411,13 +418,6 @@
       "title": "Calculating state of charge (SOC) in BESS",
       "url": "https://www.energy-storage.news/calculating-state-of-charge-soc-in-bess/",
       "date": "2026-07-02T12:22:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Vopak takes FID on 800MWh Netherlands &#8216;controllable congestion mitigator&#8217; BESS",
-      "url": "https://www.energy-storage.news/vopak-final-investment-decision-on-200mw-800mwh-netherlands-bess-battery-storage/",
-      "date": "2026-07-02T09:16:05.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
