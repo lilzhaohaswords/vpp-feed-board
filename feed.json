@@ -1,6 +1,34 @@
 {
-  "ts": 1783991163035,
+  "ts": 1784003714031,
   "items": [
+    {
+      "title": "Avoiding IP issues",
+      "url": "https://www.pv-magazine.com/2026/07/14/avoiding-ip-issues/",
+      "date": "2026-07-14T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Thailand is creating a ‘flexible and competitive environment’ for energy storage market participation",
+      "url": "https://www.energy-storage.news/thailand-is-creating-a-flexible-and-competitive-environment-for-energy-storage-market-participation/",
+      "date": "2026-07-14T03:37:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "California-based nonprofit now accepting pre-orders for plug-in solar kits",
+      "url": "https://www.pv-magazine.com/2026/07/14/bright-saver-begins-offering-plug-in-solar-kits-at-wholesale-costs-to-customers-nationwide/",
+      "date": "2026-07-14T03:27:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s Queensland government reportedly shelves 20GWh pumped hydro project",
+      "url": "https://www.energy-storage.news/australias-queensland-government-reportedly-shelves-20gwh-pumped-hydro-project/",
+      "date": "2026-07-14T01:07:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Argentina awards 700MW BESS in elevenfold oversubscribed tender",
       "url": "https://www.energy-storage.news/argentina-awards-700mw-bess-in-elevenfold-oversubscribed-tender/",
@@ -82,20 +110,6 @@
       "title": "U.S. solar LCOE on the rise, says Lazard",
       "url": "https://www.pv-magazine.com/2026/07/13/u-s-solar-lcoe-on-the-rise-lazard-says/",
       "date": "2026-07-13T11:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Triple-junction all-perovskite solar cell based on graphene oxide bilayer achieves 27.3% efficiency",
-      "url": "https://www.pv-magazine.com/2026/07/13/triple-junction-all-perovskite-solar-cell-based-on-graphene-oxide-bilayer-achieves-27-3-efficiency/",
-      "date": "2026-07-13T10:37:23.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "France&#8217;s Reden halts solar module production",
-      "url": "https://www.pv-magazine.com/2026/07/13/frances-reden-halts-solar-module-production/",
-      "date": "2026-07-13T09:06:04.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -404,20 +418,6 @@
       "title": "Grenergy signs 1TWh night-time PPA for 3.5GWh Chile BESS",
       "url": "https://www.energy-storage.news/grenergy-signs-1twh-night-time-ppa-for-3-5gwh-chile-bess/",
       "date": "2026-07-01T11:18:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Neoen awarded capacity contract for 1,600MWh Ontario BESS through LT2 procurement",
-      "url": "https://www.energy-storage.news/neoen-awarded-capacity-contract-for-1600mwh-ontario-bess-through-lt2-procurement/",
-      "date": "2026-07-01T11:16:18.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "2025 BESS cell and system shipments: BYD takes BESS crown, no Korean firms in top 10 cell suppliers",
-      "url": "https://www.energy-storage.news/2025-bess-cell-and-system-shipments-byd-takes-bess-crown-no-korean-firms-in-top-10-cell-suppliers/",
-      "date": "2026-07-01T11:07:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
