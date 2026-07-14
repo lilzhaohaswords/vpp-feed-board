@@ -1,6 +1,55 @@
 {
-  "ts": 1784012365501,
+  "ts": 1784019740966,
   "items": [
+    {
+      "title": "Jackery showcases plug-in solar storage systems and energy management accessories in Munich",
+      "url": "https://www.pv-magazine.com/2026/07/14/jackery-showcases-plug-in-solar-storage-systems-and-energy-management-accessories-in-munich/",
+      "date": "2026-07-14T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Lazard: US utility-scale energy storage LCOS has increased since restrictions on Chinese cells came into force",
+      "url": "https://www.energy-storage.news/lazard-us-utility-scale-energy-storage-lcos-has-increased-since-restrictions-on-chinese-cells-came-into-force/",
+      "date": "2026-07-14T08:54:42.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "German startup offers solar awnings",
+      "url": "https://www.pv-magazine.com/2026/07/14/german-startup-offers-solar-awnings/",
+      "date": "2026-07-14T08:46:34.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Amsterdam tightens conditions around sustainable solar panel subsidy",
+      "url": "https://www.pv-magazine.com/2026/07/14/amsterdam-tightens-conditions-around-sustainable-solar-panel-subsidy/",
+      "date": "2026-07-14T08:38:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Aditya Birla Group to acquire 5 GW renewables portfolio from Shell",
+      "url": "https://www.pv-magazine.com/2026/07/14/aditya-birla-group-to-acquire-sprng-energy-from-shell/",
+      "date": "2026-07-14T07:59:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Intertek CEA says 587Ah cells could drive down BESS costs through 2027",
+      "url": "https://www.pv-magazine.com/2026/07/14/intertek-cea-says-587ah-cells-could-drive-down-bess-costs-through-2027/",
+      "date": "2026-07-14T07:50:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Three-source heat pump system for cold climates",
+      "url": "https://www.pv-magazine.com/2026/07/14/three-source-heat-pump-system-for-cold-climates/",
+      "date": "2026-07-14T07:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Peru proposes national energy planning framework with solar and storage scenarios",
       "url": "https://www.pv-magazine.com/2026/07/14/peru-proposes-national-energy-planning-framework-with-solar-and-storage-scenarios/",
@@ -37,13 +86,6 @@
       "bucket": "A"
     },
     {
-      "title": "California-based nonprofit now accepting pre-orders for plug-in solar kits",
-      "url": "https://www.pv-magazine.com/2026/07/14/bright-saver-begins-offering-plug-in-solar-kits-at-wholesale-costs-to-customers-nationwide/",
-      "date": "2026-07-14T03:27:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Australia’s Queensland government reportedly shelves 20GWh pumped hydro project",
       "url": "https://www.energy-storage.news/australias-queensland-government-reportedly-shelves-20gwh-pumped-hydro-project/",
       "date": "2026-07-14T01:07:15.000Z",
@@ -55,34 +97,6 @@
       "url": "https://www.energy-storage.news/argentina-awards-700mw-bess-in-elevenfold-oversubscribed-tender/",
       "date": "2026-07-13T14:44:07.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How EPCs can de-risk solar carport projects",
-      "url": "https://www.pv-magazine.com/2026/07/13/how-epcs-can-de-risk-solar-carport-projects/",
-      "date": "2026-07-13T14:09:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Passive mooring system enables floating PV to track water-level changes",
-      "url": "https://www.pv-magazine.com/2026/07/13/passive-mooring-system-enables-floating-pv-to-track-water-level-changes/",
-      "date": "2026-07-13T13:35:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Smart controllers help Brazilian PV projects bypass reverse power flow constraints",
-      "url": "https://www.pv-magazine.com/2026/07/13/smart-controllers-help-brazilian-pv-projects-bypass-reverse-power-flow-constraints/",
-      "date": "2026-07-13T13:12:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Philippines proposes transmission grid reforms, updates to net-metering",
-      "url": "https://www.pv-magazine.com/2026/07/13/philippines-proposes-transmission-grid-reforms-updates-to-net-metering/",
-      "date": "2026-07-13T12:08:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -104,13 +118,6 @@
       "url": "https://www.energy-storage.news/how-dahua-is-expanding-into-renewable-energy-with-ai-powered-solutions/",
       "date": "2026-07-13T11:32:53.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "United Solar completes $1.6 billion raise for Oman polysilicon factory",
-      "url": "https://www.pv-magazine.com/2026/07/13/united-solar-completes-1-6-billion-raise-for-oman-polysilicon-factory/",
-      "date": "2026-07-13T11:20:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -411,13 +418,6 @@
       "title": "Co-location of solar and BESS still has a long way to go",
       "url": "https://www.energy-storage.news/co-location-of-solar-and-bess-still-has-a-long-way-to-go/",
       "date": "2026-07-01T11:31:26.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Grenergy signs 1TWh night-time PPA for 3.5GWh Chile BESS",
-      "url": "https://www.energy-storage.news/grenergy-signs-1twh-night-time-ppa-for-3-5gwh-chile-bess/",
-      "date": "2026-07-01T11:18:54.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
