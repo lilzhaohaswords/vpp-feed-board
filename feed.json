@@ -1,6 +1,48 @@
 {
-  "ts": 1784019740966,
+  "ts": 1784027624635,
   "items": [
+    {
+      "title": "Port of Valencia activates first 500 kW floating offshore PV unit",
+      "url": "https://www.pv-magazine.com/2026/07/14/port-of-valencia-activates-first-500-kw-floating-offshore-pv-unit/",
+      "date": "2026-07-14T10:17:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: FEOC and the Future of BESS Procurement, a webinar with Intertek CEA",
+      "url": "https://www.energy-storage.news/video-feoc-and-the-future-of-bess-procurement-a-webinar-with-intertek-cea/",
+      "date": "2026-07-14T09:50:08.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Two injured in fire at photovoltaic plant in Spain",
+      "url": "https://www.pv-magazine.com/2026/07/14/two-injured-in-fire-at-photovoltaic-plant-in-spain/",
+      "date": "2026-07-14T09:45:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "France, Italy, Spain set daily solar records",
+      "url": "https://www.pv-magazine.com/2026/07/14/france-italy-spain-set-daily-solar-records/",
+      "date": "2026-07-14T09:44:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Giga Storage secures finance for 2.8GWh &#8216;critical infrastructure&#8217; Belgium BESS",
+      "url": "https://www.energy-storage.news/giga-storage-secures-finance-for-2-8gwh-critical-infrastructure-belgium-bess/",
+      "date": "2026-07-14T09:10:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "The technology breakthroughs behind Huawei’s next-generation Smart-String Grid-Forming ESS Platform",
+      "url": "https://www.energy-storage.news/the-technology-breakthroughs-behind-huaweis-next-generation-smart-string-grid-forming-ess-platform/",
+      "date": "2026-07-14T09:05:21.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Jackery showcases plug-in solar storage systems and energy management accessories in Munich",
       "url": "https://www.pv-magazine.com/2026/07/14/jackery-showcases-plug-in-solar-storage-systems-and-energy-management-accessories-in-munich/",
@@ -54,27 +96,6 @@
       "title": "Peru proposes national energy planning framework with solar and storage scenarios",
       "url": "https://www.pv-magazine.com/2026/07/14/peru-proposes-national-energy-planning-framework-with-solar-and-storage-scenarios/",
       "date": "2026-07-14T06:01:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hydraulic storage proves more cost-effective than batteries for PV irrigation",
-      "url": "https://www.pv-magazine.com/2026/07/14/hydraulic-storage-proves-more-cost-effective-than-batteries-for-pv-irrigation/",
-      "date": "2026-07-14T05:44:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sungrow, TÜV Rheinland release long-term inverter reliability testing standards",
-      "url": "https://www.pv-magazine.com/2026/07/14/sungrow-tuv-rheinland-release-long-term-inverter-reliability-testing-standards/",
-      "date": "2026-07-14T05:24:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Avoiding IP issues",
-      "url": "https://www.pv-magazine.com/2026/07/14/avoiding-ip-issues/",
-      "date": "2026-07-14T04:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -397,27 +418,6 @@
       "title": "Vopak takes FID on 800MWh Netherlands &#8216;controllable congestion mitigator&#8217; BESS",
       "url": "https://www.energy-storage.news/vopak-final-investment-decision-on-200mw-800mwh-netherlands-bess-battery-storage/",
       "date": "2026-07-02T09:16:05.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Alsym Energy signs 9GWh sodium-ion BESS agreement with consultancy for global mining operations",
-      "url": "https://www.energy-storage.news/alsym-energy-signs-9gwh-sodium-ion-bess-agreement-with-consultancy-for-global-mining-operations/",
-      "date": "2026-07-02T09:08:44.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Vena Energy secures AU$1.4 billion to scale Australian platform with solar and battery storage infrastructure",
-      "url": "https://www.energy-storage.news/vena-energy-secures-au1-4-billion-to-scale-australian-platform-with-solar-and-battery-storage-infrastructure/",
-      "date": "2026-07-02T08:24:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Co-location of solar and BESS still has a long way to go",
-      "url": "https://www.energy-storage.news/co-location-of-solar-and-bess-still-has-a-long-way-to-go/",
-      "date": "2026-07-01T11:31:26.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
