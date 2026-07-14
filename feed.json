@@ -1,6 +1,27 @@
 {
-  "ts": 1784003714031,
+  "ts": 1784012365501,
   "items": [
+    {
+      "title": "Peru proposes national energy planning framework with solar and storage scenarios",
+      "url": "https://www.pv-magazine.com/2026/07/14/peru-proposes-national-energy-planning-framework-with-solar-and-storage-scenarios/",
+      "date": "2026-07-14T06:01:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hydraulic storage proves more cost-effective than batteries for PV irrigation",
+      "url": "https://www.pv-magazine.com/2026/07/14/hydraulic-storage-proves-more-cost-effective-than-batteries-for-pv-irrigation/",
+      "date": "2026-07-14T05:44:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sungrow, TÜV Rheinland release long-term inverter reliability testing standards",
+      "url": "https://www.pv-magazine.com/2026/07/14/sungrow-tuv-rheinland-release-long-term-inverter-reliability-testing-standards/",
+      "date": "2026-07-14T05:24:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Avoiding IP issues",
       "url": "https://www.pv-magazine.com/2026/07/14/avoiding-ip-issues/",
@@ -89,27 +110,6 @@
       "title": "United Solar completes $1.6 billion raise for Oman polysilicon factory",
       "url": "https://www.pv-magazine.com/2026/07/13/united-solar-completes-1-6-billion-raise-for-oman-polysilicon-factory/",
       "date": "2026-07-13T11:20:02.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Avaada Electro commissions first phase of 6 GW TOPCon solar cell factory in India",
-      "url": "https://www.pv-magazine.com/2026/07/13/avaada-electro-commissions-first-phase-of-6-gw-topcon-solar-cell-factory-in-india/",
-      "date": "2026-07-13T11:14:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Hoymiles issues response after security vulnerability identified in older microinverters",
-      "url": "https://www.pv-magazine.com/2026/07/13/hoymiles-issues-response-after-security-vulnerability-identified-in-older-microinverters/",
-      "date": "2026-07-13T11:07:38.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "U.S. solar LCOE on the rise, says Lazard",
-      "url": "https://www.pv-magazine.com/2026/07/13/u-s-solar-lcoe-on-the-rise-lazard-says/",
-      "date": "2026-07-13T11:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
