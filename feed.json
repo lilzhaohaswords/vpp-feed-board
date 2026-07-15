@@ -1,6 +1,41 @@
 {
-  "ts": 1784114221487,
+  "ts": 1784120405624,
   "items": [
+    {
+      "title": "The Philippines inaugurates first phase of massive solar-storage project",
+      "url": "https://www.pv-magazine.com/2026/07/15/the-philippines-inaugurates-first-phase-of-massive-solar-storage-project/",
+      "date": "2026-07-15T12:47:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Japan’s 28th solar auction allocates 89.2 MW of PV capacity",
+      "url": "https://www.pv-magazine.com/2026/07/15/japans-28th-solar-auction-allocates-89-2-mw-of-pv-capacity/",
+      "date": "2026-07-15T12:15:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Avantus progresses California solar-plus-storage projects, Fluence providing domestic content BESS",
+      "url": "https://www.energy-storage.news/avantus-progresses-california-solar-plus-storage-projects-fluence-providing-domestic-content-bess/",
+      "date": "2026-07-15T11:47:15.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "AI for the electricity grid",
+      "url": "https://www.pv-magazine.com/2026/07/15/ai-for-the-electricity-grid/",
+      "date": "2026-07-15T11:32:10.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Pakistan imports 4.6 GWh of BESS in 2025",
+      "url": "https://www.pv-magazine.com/2026/07/15/pakistan-imports-4-6-gwh-of-bess-in-2025/",
+      "date": "2026-07-15T11:22:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Zambia signs contracts for 2 MW of solar in 156 constituencies",
       "url": "https://www.pv-magazine.com/2026/07/15/zambia-signs-contracts-for-2-mw-of-solar-in-156-constituencies/",
@@ -65,38 +100,10 @@
       "bucket": "A"
     },
     {
-      "title": "Grid tariff design key to renewable energy communities",
-      "url": "https://www.pv-magazine.com/2026/07/15/grid-tariff-design-key-to-renewable-energy-communities/",
-      "date": "2026-07-15T08:18:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "What does a bankable route-to-market strategy for battery storage in Europe actually look like?",
       "url": "https://www.energy-storage.news/what-does-a-bankable-route-to-market-strategy-for-battery-storage-in-europe-actually-look-like/",
       "date": "2026-07-15T07:59:18.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "ISC Konstanz study highlights atomic layer deposition as a superior approach for TOPCon UV stability",
-      "url": "https://www.pv-magazine.com/2026/07/15/isc-konstanz-study-highlights-atomic-layer-deposition-as-a-superior-approach-for-topcon-uv-stability/",
-      "date": "2026-07-15T07:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar PV offers significant untapped potential for Finland",
-      "url": "https://www.pv-magazine.com/2026/07/15/solar-pv-offers-significant-untapped-potential-for-finland/",
-      "date": "2026-07-15T06:15:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Longi sets new world record with 35.5%-efficient perovskite-silicon tandem cell",
-      "url": "https://www.pv-magazine.com/2026/07/15/longi-sets-new-world-record-with-35-5-efficient-perovskite-silicon-tandem-cell/",
-      "date": "2026-07-15T05:54:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -411,13 +418,6 @@
       "title": "VIDEO: Fluence&#8217;s Lars Stephan on what data centres and cybersecurity developments mean for BESS in Europe",
       "url": "https://www.energy-storage.news/video-fluences-lars-stephan-on-what-data-centres-and-cybersecurity-developments-mean-for-bess-in-europe/",
       "date": "2026-07-03T10:15:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;It&#8217;s really about flexibility&#8217;: FERC issues &#8216;show cause&#8217; orders to US grid operators on large load integration",
-      "url": "https://www.energy-storage.news/its-really-about-flexibility-ferc-issues-show-cause-orders-to-us-grid-operators-on-large-load-integration/",
-      "date": "2026-07-03T10:04:29.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
