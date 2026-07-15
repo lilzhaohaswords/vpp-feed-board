@@ -1,6 +1,20 @@
 {
-  "ts": 1784120405624,
+  "ts": 1784126948647,
   "items": [
+    {
+      "title": "Germany installs 7.4 GW of PV in H1",
+      "url": "https://www.pv-magazine.com/2026/07/15/germany-installs-7-4-gw-of-pv-in-h1/",
+      "date": "2026-07-15T14:10:49.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "UK grid operator denies blackout risks during extreme heat event",
+      "url": "https://www.pv-magazine.com/2026/07/15/uk-grid-operator-denies-blackout-risks-during-extreme-heat-event/",
+      "date": "2026-07-15T13:42:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "The Philippines inaugurates first phase of massive solar-storage project",
       "url": "https://www.pv-magazine.com/2026/07/15/the-philippines-inaugurates-first-phase-of-massive-solar-storage-project/",
@@ -72,24 +86,10 @@
       "bucket": "A"
     },
     {
-      "title": "China’s new PV industry standards unlikely to resolve overcapacity",
-      "url": "https://www.pv-magazine.com/2026/07/15/chinas-new-pv-industry-standards-unlikely-to-resolve-overcapacity/",
-      "date": "2026-07-15T09:56:07.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Google projects are evidence that long-duration CO2 Batteries are ‘reliable capacity assets,’ Energy Dome says",
       "url": "https://www.energy-storage.news/google-projects-are-evidence-that-long-duration-co2-batteries-are-reliable-capacity-assets-energy-dome-says/",
       "date": "2026-07-15T09:51:16.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Arctech tailors tracker solutions to the European market",
-      "url": "https://www.pv-magazine.com/2026/07/15/arctech-tailors-tracker-solutions-to-the-european-market/",
-      "date": "2026-07-15T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
