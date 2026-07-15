@@ -1,6 +1,55 @@
 {
-  "ts": 1784108660837,
+  "ts": 1784114221487,
   "items": [
+    {
+      "title": "Zambia signs contracts for 2 MW of solar in 156 constituencies",
+      "url": "https://www.pv-magazine.com/2026/07/15/zambia-signs-contracts-for-2-mw-of-solar-in-156-constituencies/",
+      "date": "2026-07-15T10:58:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy deploys 3 GW of solar in H1",
+      "url": "https://www.pv-magazine.com/2026/07/15/italy-deploys-3-gw-of-solar-in-h1/",
+      "date": "2026-07-15T10:58:32.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Pilot tests show vertical PV with specular reflectors delivers 51% higher yield",
+      "url": "https://www.pv-magazine.com/2026/07/15/pilot-tests-show-vertical-pv-system-with-specular-reflectors-delivers-50-higher-yield/",
+      "date": "2026-07-15T10:43:51.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Europe&#8217;s record solar output drives surge in negative electricity prices",
+      "url": "https://www.pv-magazine.com/2026/07/15/europes-record-solar-output-drives-surge-in-negative-electricity-prices/",
+      "date": "2026-07-15T10:30:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Global BESS deployments soar 27% in H1 2026, Saudi Arabia drives figures in June",
+      "url": "https://www.energy-storage.news/global-bess-deployments-soar-27-in-h1-2026-saudi-arabia-drives-figures-in-june/",
+      "date": "2026-07-15T10:28:54.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "China’s new PV industry standards unlikely to resolve overcapacity",
+      "url": "https://www.pv-magazine.com/2026/07/15/chinas-new-pv-industry-standards-unlikely-to-resolve-overcapacity/",
+      "date": "2026-07-15T09:56:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Google projects are evidence that long-duration CO2 Batteries are ‘reliable capacity assets,’ Energy Dome says",
+      "url": "https://www.energy-storage.news/google-projects-are-evidence-that-long-duration-co2-batteries-are-reliable-capacity-assets-energy-dome-says/",
+      "date": "2026-07-15T09:51:16.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Arctech tailors tracker solutions to the European market",
       "url": "https://www.pv-magazine.com/2026/07/15/arctech-tailors-tracker-solutions-to-the-european-market/",
@@ -51,34 +100,6 @@
       "bucket": "A"
     },
     {
-      "title": "Australian grid operator backs grid-forming battery technology to bolster system strength",
-      "url": "https://www.pv-magazine.com/2026/07/15/transgrid-backs-grid-forming-battery-technology-to-bolster-system-strength/",
-      "date": "2026-07-15T05:46:43.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese scientists achieve world record efficiency of 28.04% for perovksite-organic tandem solar cell",
-      "url": "https://www.pv-magazine.com/2026/07/15/chinese-scientists-achieve-world-record-efficiency-of-28-04-for-perovksite-organic-tandem-solar-cell/",
-      "date": "2026-07-15T05:40:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New Zealand’s largest solar farm comes online",
-      "url": "https://www.pv-magazine.com/2026/07/15/new-zealands-largest-yet-solar-farm-successfully-energised/",
-      "date": "2026-07-15T05:03:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Google agrees to purchase 100% of power from largest solar-plus-storage project in U.S.",
-      "url": "https://www.pv-magazine.com/2026/07/15/google-agrees-to-purchase-100-of-power-from-largest-solar-plus-storage-project-in-u-s/",
-      "date": "2026-07-15T04:59:52.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Over 4GWh of battery storage added to Australia&#8217;s updated National Renewable Energy Priority List",
       "url": "https://www.energy-storage.news/over-4gwh-of-battery-storage-added-to-australias-updated-national-renewable-energy-priority-list/",
       "date": "2026-07-15T03:04:33.000Z",
@@ -97,13 +118,6 @@
       "url": "https://www.energy-storage.news/video-scaling-solar-coupled-distributed-sodium-ion-nfpp-battery-storage-with-startup-moonwatt/",
       "date": "2026-07-14T13:55:54.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Ampace launches co-branded C&#038;I energy storage product at Intersolar Europe 2026",
-      "url": "https://www.pv-magazine.com/2026/07/14/ampace-launches-co-branded-ci-energy-storage-product-at-intersolar-europe-2026/",
-      "date": "2026-07-14T11:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "&#8216;It&#8217;s really about flexibility&#8217;: FERC issues &#8216;show cause&#8217; orders to US grid operators on large load integration",
       "url": "https://www.energy-storage.news/its-really-about-flexibility-ferc-issues-show-cause-orders-to-us-grid-operators-on-large-load-integration/",
       "date": "2026-07-03T10:04:29.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "EDF, Total, ACWA, Tesla, Gotion and Envision among qualified bidders for Saudi&#8217;s 12GWh BESS tender",
-      "url": "https://www.energy-storage.news/edf-total-acwa-tesla-gotion-and-envision-qualified-bidders-saudis-12gwh-bess-tender/",
-      "date": "2026-07-03T09:10:51.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Defying the residential storage shakeout: MOVA LumeGret bets on AI differentiation in crowded European market",
-      "url": "https://www.energy-storage.news/defying-the-residential-storage-shakeout-mova-lumegret-bets-on-ai-differentiation-in-crowded-european-market/",
-      "date": "2026-07-03T08:46:57.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
