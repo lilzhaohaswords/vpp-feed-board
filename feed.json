@@ -1,6 +1,55 @@
 {
-  "ts": 1784090094404,
+  "ts": 1784098968698,
   "items": [
+    {
+      "title": "ISC Konstanz study highlights atomic layer deposition as a superior approach for TOPCon UV stability",
+      "url": "https://www.pv-magazine.com/2026/07/15/isc-konstanz-study-highlights-atomic-layer-deposition-as-a-superior-approach-for-topcon-uv-stability/",
+      "date": "2026-07-15T07:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Solar PV offers significant untapped potential for Finland",
+      "url": "https://www.pv-magazine.com/2026/07/15/solar-pv-offers-significant-untapped-potential-for-finland/",
+      "date": "2026-07-15T06:15:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Longi sets new world record with 35.5%-efficient perovskite-silicon tandem cell",
+      "url": "https://www.pv-magazine.com/2026/07/15/longi-sets-new-world-record-with-35-5-efficient-perovskite-silicon-tandem-cell/",
+      "date": "2026-07-15T05:54:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australian grid operator backs grid-forming battery technology to bolster system strength",
+      "url": "https://www.pv-magazine.com/2026/07/15/transgrid-backs-grid-forming-battery-technology-to-bolster-system-strength/",
+      "date": "2026-07-15T05:46:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese scientists achieve world record efficiency of 28.04% for perovksite-organic tandem solar cell",
+      "url": "https://www.pv-magazine.com/2026/07/15/chinese-scientists-achieve-world-record-efficiency-of-28-04-for-perovksite-organic-tandem-solar-cell/",
+      "date": "2026-07-15T05:40:16.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "New Zealand’s largest solar farm comes online",
+      "url": "https://www.pv-magazine.com/2026/07/15/new-zealands-largest-yet-solar-farm-successfully-energised/",
+      "date": "2026-07-15T05:03:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Google agrees to purchase 100% of power from largest solar-plus-storage project in U.S.",
+      "url": "https://www.pv-magazine.com/2026/07/15/google-agrees-to-purchase-100-of-power-from-largest-solar-plus-storage-project-in-u-s/",
+      "date": "2026-07-15T04:59:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Over 4GWh of battery storage added to Australia&#8217;s updated National Renewable Energy Priority List",
       "url": "https://www.energy-storage.news/over-4gwh-of-battery-storage-added-to-australias-updated-national-renewable-energy-priority-list/",
@@ -51,20 +100,6 @@
       "bucket": "A"
     },
     {
-      "title": "Two injured in fire at photovoltaic plant in Spain",
-      "url": "https://www.pv-magazine.com/2026/07/14/two-injured-in-fire-at-photovoltaic-plant-in-spain/",
-      "date": "2026-07-14T09:45:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "France, Italy, Spain set daily solar records",
-      "url": "https://www.pv-magazine.com/2026/07/14/france-italy-spain-set-daily-solar-records/",
-      "date": "2026-07-14T09:44:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Giga Storage secures finance for 2.8GWh &#8216;critical infrastructure&#8217; Belgium BESS",
       "url": "https://www.energy-storage.news/giga-storage-secures-finance-for-2-8gwh-critical-infrastructure-belgium-bess/",
       "date": "2026-07-14T09:10:34.000Z",
@@ -79,45 +114,10 @@
       "bucket": "A"
     },
     {
-      "title": "Jackery showcases plug-in solar storage systems and energy management accessories in Munich",
-      "url": "https://www.pv-magazine.com/2026/07/14/jackery-showcases-plug-in-solar-storage-systems-and-energy-management-accessories-in-munich/",
-      "date": "2026-07-14T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Lazard: US utility-scale energy storage LCOS has increased since restrictions on Chinese cells came into force",
       "url": "https://www.energy-storage.news/lazard-us-utility-scale-energy-storage-lcos-has-increased-since-restrictions-on-chinese-cells-came-into-force/",
       "date": "2026-07-14T08:54:42.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "German startup offers solar awnings",
-      "url": "https://www.pv-magazine.com/2026/07/14/german-startup-offers-solar-awnings/",
-      "date": "2026-07-14T08:46:34.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Amsterdam tightens conditions around sustainable solar panel subsidy",
-      "url": "https://www.pv-magazine.com/2026/07/14/amsterdam-tightens-conditions-around-sustainable-solar-panel-subsidy/",
-      "date": "2026-07-14T08:38:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Aditya Birla Group to acquire 5 GW renewables portfolio from Shell",
-      "url": "https://www.pv-magazine.com/2026/07/14/aditya-birla-group-to-acquire-sprng-energy-from-shell/",
-      "date": "2026-07-14T07:59:39.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Intertek CEA says 587Ah cells could drive down BESS costs through 2027",
-      "url": "https://www.pv-magazine.com/2026/07/14/intertek-cea-says-587ah-cells-could-drive-down-bess-costs-through-2027/",
-      "date": "2026-07-14T07:50:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
