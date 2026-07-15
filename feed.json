@@ -1,6 +1,20 @@
 {
-  "ts": 1784077387026,
+  "ts": 1784090094404,
   "items": [
+    {
+      "title": "Over 4GWh of battery storage added to Australia&#8217;s updated National Renewable Energy Priority List",
+      "url": "https://www.energy-storage.news/over-4gwh-of-battery-storage-added-to-australias-updated-national-renewable-energy-priority-list/",
+      "date": "2026-07-15T03:04:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Pumped hydro costs revised up, battery storage costs down, as Australia&#8217;s CSIRO publishes final GenCost 2025-26 report",
+      "url": "https://www.energy-storage.news/pumped-hydro-costs-revised-up-battery-storage-costs-down-as-australias-csiro-publishes-final-gencost-2025-26-report/",
+      "date": "2026-07-15T02:59:34.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "VIDEO: Scaling solar-coupled, distributed sodium-ion NFPP battery storage with startup Moonwatt",
       "url": "https://www.energy-storage.news/video-scaling-solar-coupled-distributed-sodium-ion-nfpp-battery-storage-with-startup-moonwatt/",
@@ -404,20 +418,6 @@
       "title": "AGL to deliver 10.2MWh battery storage microgrid for South Australia&#8217;s largest almond orchard",
       "url": "https://www.energy-storage.news/agl-to-deliver-10-2mwh-battery-storage-microgrid-for-south-australias-largest-almond-orchard/",
       "date": "2026-07-03T07:52:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Scotland: ContourGlobal 2GWh acquisition, Zenobē and Revera FIDs on 800MWh projects",
-      "url": "https://www.energy-storage.news/scotland-contourglobal-2gwh-acquisition-zenobe-and-revera-fids-on-800mwh-projects/",
-      "date": "2026-07-02T12:46:19.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Calculating state of charge (SOC) in BESS",
-      "url": "https://www.energy-storage.news/calculating-state-of-charge-soc-in-bess/",
-      "date": "2026-07-02T12:22:27.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
