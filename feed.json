@@ -1,6 +1,20 @@
 {
-  "ts": 1784207278344,
+  "ts": 1784215311884,
   "items": [
+    {
+      "title": "Xpanner introduces excavator-mounted automation tool to ease utility-scale installation bottlenecks",
+      "url": "https://www.pv-magazine.com/2026/07/16/xpanner-introduces-excavator-mounted-automation-tool-to-ease-utility-scale-installation-bottlenecks/",
+      "date": "2026-07-16T13:22:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sunrun, FranklinWH expand BESS virtual power plant capacity in California, Texas",
+      "url": "https://www.energy-storage.news/sunrun-franklinwh-expand-bess-virtual-power-plant-capacity-in-california-texas/",
+      "date": "2026-07-16T13:20:05.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Rise in solar module prices comes to a halt",
       "url": "https://www.pv-magazine.com/2026/07/16/rise-in-solar-module-prices-comes-to-a-halt/",
@@ -89,13 +103,6 @@
       "title": "Italy’s solar capture price falls below market average in southern regions",
       "url": "https://www.pv-magazine.com/2026/07/16/italys-solar-capture-price-falls-below-market-average-in-southern-regions/",
       "date": "2026-07-16T09:09:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Brazil’s distributed solar fleet achieves 72% average performance ratio",
-      "url": "https://www.pv-magazine.com/2026/07/16/brazils-distributed-solar-fleet-achieves-72-average-performance-ratio/",
-      "date": "2026-07-16T08:54:14.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "‘Climate risk is a daily operational reality’ for BESS developers in Southeast Asia",
       "url": "https://www.energy-storage.news/climate-risk-is-a-daily-operational-reality-for-bess-developers-in-southeast-asia/",
       "date": "2026-07-07T09:26:45.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese system integrators capture 76% of global BESS market as competition intensifies",
-      "url": "https://www.energy-storage.news/chinese-system-integrators-capture-76-of-global-bess-market-as-competition-intensifies/",
-      "date": "2026-07-07T08:56:48.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
