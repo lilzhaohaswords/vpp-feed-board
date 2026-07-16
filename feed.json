@@ -1,6 +1,20 @@
 {
-  "ts": 1784177114817,
+  "ts": 1784185892652,
   "items": [
+    {
+      "title": "Australia’s New South Wales grants planning consent for 3.6GWh pumped hydro project at former coal mine",
+      "url": "https://www.energy-storage.news/australias-new-south-wales-grants-planning-consent-for-3-6gwh-pumped-hydro-project-at-former-coal-mine/",
+      "date": "2026-07-16T04:57:30.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia’s Transgrid opens pathway for 900MW of grid-forming battery storage as synchronous condenser costs surge 38%",
+      "url": "https://www.energy-storage.news/australias-transgrid-opens-pathway-for-900mw-of-grid-forming-battery-storage-as-synchronous-condenser-costs-surge-38/",
+      "date": "2026-07-16T04:52:38.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "The swiftest route to scale",
       "url": "https://www.pv-magazine.com/2026/07/16/the-swiftest-route-to-scale/",
@@ -404,20 +418,6 @@
       "title": "Amazon pens battery storage PPA for 220MWh solar-plus-storage site in Australia",
       "url": "https://www.energy-storage.news/amazon-pens-battery-storage-ppa-for-220mwh-solar-plus-storage-site-in-australia/",
       "date": "2026-07-06T08:10:23.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia&#8217;s Zen Energy appoints administrators with wholesale electricity volatility cited as main driver",
-      "url": "https://www.energy-storage.news/australias-zen-energy-appoints-administrators-with-wholesale-electricity-volatility-cited-as-main-driver/",
-      "date": "2026-07-06T08:08:37.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: Fluence&#8217;s Lars Stephan on what data centres and cybersecurity developments mean for BESS in Europe",
-      "url": "https://www.energy-storage.news/video-fluences-lars-stephan-on-what-data-centres-and-cybersecurity-developments-mean-for-bess-in-europe/",
-      "date": "2026-07-03T10:15:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
