@@ -1,6 +1,90 @@
 {
-  "ts": 1784185892652,
+  "ts": 1784195421825,
   "items": [
+    {
+      "title": "Germany awards 208 MW of solar in rooftop tender at average price of €0.097/kWh",
+      "url": "https://www.pv-magazine.com/2026/07/16/germany-awards-208-mw-of-solar-in-rooftop-tender-at-average-price-of-e0-097-kwh/",
+      "date": "2026-07-16T09:22:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU ROUNDUP: Operators commission 682MWh of BESS in Germany, Estonia, Belgium, Denmark and Bulgaria",
+      "url": "https://www.energy-storage.news/eu-roundup-operators-commission-682mwh-of-bess-in-germany-estonia-belgium-denmark-and-bulgaria/",
+      "date": "2026-07-16T09:16:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Behind CATL’s ‘zero degradation’ BESS technology",
+      "url": "https://www.energy-storage.news/behind-catls-zero-degradation-bess-technology/",
+      "date": "2026-07-16T09:14:59.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Italy’s solar capture price falls below market average in southern regions",
+      "url": "https://www.pv-magazine.com/2026/07/16/italys-solar-capture-price-falls-below-market-average-in-southern-regions/",
+      "date": "2026-07-16T09:09:37.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Brazil’s distributed solar fleet achieves 72% average performance ratio",
+      "url": "https://www.pv-magazine.com/2026/07/16/brazils-distributed-solar-fleet-achieves-72-average-performance-ratio/",
+      "date": "2026-07-16T08:54:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Where solar meets the soil: The multi-benefit potential of ecovoltaics and agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/07/16/where-solar-meets-the-soil-the-multi-benefit-potential-of-ecovoltaics-and-agrivoltaics/",
+      "date": "2026-07-16T08:45:04.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia to legally require large-scale data centers to secure new clean energy supplies",
+      "url": "https://www.pv-magazine.com/2026/07/16/large-scale-data-centres-legally-bound-to-supply-their-own-new-clean-energy-sources/",
+      "date": "2026-07-16T08:43:23.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Panama plans two 2027 power tenders with a key role for battery storage",
+      "url": "https://www.pv-magazine.com/2026/07/16/panama-plans-two-2027-power-tenders-with-a-key-role-for-battery-storage/",
+      "date": "2026-07-16T08:39:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hithium on the European C&#038;I BESS market and its need for a 4-hour solution",
+      "url": "https://www.energy-storage.news/hithium-on-the-european-ci-bess-market-and-its-need-for-a-4-hour-solution/",
+      "date": "2026-07-16T08:34:05.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Malaysia unveils sixth large-scale solar tender",
+      "url": "https://www.pv-magazine.com/2026/07/16/malaysia-unveils-sixth-large-scale-solar-tender/",
+      "date": "2026-07-16T08:00:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VSL PowerHive launches LFP batteries for residential, small commercial applications",
+      "url": "https://www.pv-magazine.com/2026/07/16/vsl-powerhive-launches-10-kwh-and-15-kwh-residential-small-commercial-energy-storage-systems/",
+      "date": "2026-07-16T07:51:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Hoymiles introduces first UL 3700-compliant plug-in microinverter to U.S. market",
+      "url": "https://www.pv-magazine.com/2026/07/16/hoymiles-introduces-first-ul-3700-compliant-plug-in-microinverter-to-u-s-market/",
+      "date": "2026-07-16T07:49:27.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia’s New South Wales grants planning consent for 3.6GWh pumped hydro project at former coal mine",
       "url": "https://www.energy-storage.news/australias-new-south-wales-grants-planning-consent-for-3-6gwh-pumped-hydro-project-at-former-coal-mine/",
@@ -23,73 +107,10 @@
       "bucket": "A"
     },
     {
-      "title": "Germany installs 7.4 GW of PV in H1",
-      "url": "https://www.pv-magazine.com/2026/07/15/germany-installs-7-4-gw-of-pv-in-h1/",
-      "date": "2026-07-15T14:10:49.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "UK grid operator denies blackout risks during extreme heat event",
-      "url": "https://www.pv-magazine.com/2026/07/15/uk-grid-operator-denies-blackout-risks-during-extreme-heat-event/",
-      "date": "2026-07-15T13:42:16.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Philippines inaugurates first phase of massive solar-storage project",
-      "url": "https://www.pv-magazine.com/2026/07/15/the-philippines-inaugurates-first-phase-of-massive-solar-storage-project/",
-      "date": "2026-07-15T12:47:26.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Japan’s 28th solar auction allocates 89.2 MW of PV capacity",
-      "url": "https://www.pv-magazine.com/2026/07/15/japans-28th-solar-auction-allocates-89-2-mw-of-pv-capacity/",
-      "date": "2026-07-15T12:15:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Avantus progresses California solar-plus-storage projects, Fluence providing domestic content BESS",
       "url": "https://www.energy-storage.news/avantus-progresses-california-solar-plus-storage-projects-fluence-providing-domestic-content-bess/",
       "date": "2026-07-15T11:47:15.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "AI for the electricity grid",
-      "url": "https://www.pv-magazine.com/2026/07/15/ai-for-the-electricity-grid/",
-      "date": "2026-07-15T11:32:10.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pakistan imports 4.6 GWh of BESS in 2025",
-      "url": "https://www.pv-magazine.com/2026/07/15/pakistan-imports-4-6-gwh-of-bess-in-2025/",
-      "date": "2026-07-15T11:22:27.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Zambia signs contracts for 2 MW of solar in 156 constituencies",
-      "url": "https://www.pv-magazine.com/2026/07/15/zambia-signs-contracts-for-2-mw-of-solar-in-156-constituencies/",
-      "date": "2026-07-15T10:58:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy deploys 3 GW of solar in H1",
-      "url": "https://www.pv-magazine.com/2026/07/15/italy-deploys-3-gw-of-solar-in-h1/",
-      "date": "2026-07-15T10:58:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Pilot tests show vertical PV with specular reflectors delivers 51% higher yield",
-      "url": "https://www.pv-magazine.com/2026/07/15/pilot-tests-show-vertical-pv-system-with-specular-reflectors-delivers-50-higher-yield/",
-      "date": "2026-07-15T10:43:51.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "Australia’s CleanPeak Energy to deploy 120MWh battery storage system at Western Sydney International Airport",
       "url": "https://www.energy-storage.news/australias-cleanpeak-energy-to-deploy-120mwh-battery-storage-system-at-western-sydney-international-airport/",
       "date": "2026-07-07T01:52:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "3.8GWh of battery storage progresses through Australia&#8217;s EPBC Act process across three projects",
-      "url": "https://www.energy-storage.news/3-8gwh-of-battery-storage-progresses-through-australias-epbc-act-process-across-three-projects/",
-      "date": "2026-07-07T01:50:30.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Engie agrees offtake deal with developer for 625MWh of Spain BESS",
-      "url": "https://www.energy-storage.news/engie-agrees-offtake-deal-developer-625mwh-spain-bess-flexibility-floor-toll/",
-      "date": "2026-07-06T13:37:36.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Amazon pens battery storage PPA for 220MWh solar-plus-storage site in Australia",
-      "url": "https://www.energy-storage.news/amazon-pens-battery-storage-ppa-for-220mwh-solar-plus-storage-site-in-australia/",
-      "date": "2026-07-06T08:10:23.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
