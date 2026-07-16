@@ -1,6 +1,27 @@
 {
-  "ts": 1784200974399,
+  "ts": 1784207278344,
   "items": [
+    {
+      "title": "Rise in solar module prices comes to a halt",
+      "url": "https://www.pv-magazine.com/2026/07/16/rise-in-solar-module-prices-comes-to-a-halt/",
+      "date": "2026-07-16T13:07:08.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Alfen, CATL to deploy 5 GWh of sodium-ion battery storage in Europe",
+      "url": "https://www.pv-magazine.com/2026/07/16/alfen-catl-to-deploy-5-gwh-of-sodium-ion-battery-storage-in-europe/",
+      "date": "2026-07-16T12:41:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Alfen and CATL agree 5GWh sodium-ion BESS partnership in Europe",
+      "url": "https://www.energy-storage.news/alfen-and-catl-agree-5gwh-sodium-ion-bess-partnership-in-europe/",
+      "date": "2026-07-16T11:39:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Thailand needs ‘many regulatory reforms’ of electricity sector to catch up with ASEAN leaders on energy storage",
       "url": "https://www.energy-storage.news/thailand-needs-many-regulatory-reforms-of-electricity-sector-to-catch-up-with-asean-leaders-on-energy-storage/",
@@ -75,20 +96,6 @@
       "title": "Brazil’s distributed solar fleet achieves 72% average performance ratio",
       "url": "https://www.pv-magazine.com/2026/07/16/brazils-distributed-solar-fleet-achieves-72-average-performance-ratio/",
       "date": "2026-07-16T08:54:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Where solar meets the soil: The multi-benefit potential of ecovoltaics and agrivoltaics",
-      "url": "https://www.pv-magazine.com/2026/07/16/where-solar-meets-the-soil-the-multi-benefit-potential-of-ecovoltaics-and-agrivoltaics/",
-      "date": "2026-07-16T08:45:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia to legally require large-scale data centers to secure new clean energy supplies",
-      "url": "https://www.pv-magazine.com/2026/07/16/large-scale-data-centres-legally-bound-to-supply-their-own-new-clean-energy-sources/",
-      "date": "2026-07-16T08:43:23.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "Chinese system integrators capture 76% of global BESS market as competition intensifies",
       "url": "https://www.energy-storage.news/chinese-system-integrators-capture-76-of-global-bess-market-as-competition-intensifies/",
       "date": "2026-07-07T08:56:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Meridian Energy secures three-year consent to access 545GWh hydro storage at New Zealand’s Lake Pūkaki",
-      "url": "https://www.energy-storage.news/meridian-energy-secures-three-year-consent-to-access-545gwh-hydro-storage-at-new-zealands-lake-pukaki/",
-      "date": "2026-07-07T05:30:41.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
