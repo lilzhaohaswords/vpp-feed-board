@@ -1,6 +1,41 @@
 {
-  "ts": 1784281281832,
+  "ts": 1784286634348,
   "items": [
+    {
+      "title": "&#8216;It&#8217;s on the up now&#8217;: How grid fee clarity unlocked BW ESS&#8217; German ambitions",
+      "url": "https://www.energy-storage.news/its-on-the-up-now-how-grid-fee-clarity-unlocked-bw-ess-german-ambitions/",
+      "date": "2026-07-17T10:53:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "India switches on first hydrogen train",
+      "url": "https://www.pv-magazine.com/2026/07/17/pm-modi-flags-off-indias-first-hydrogen-train/",
+      "date": "2026-07-17T10:46:02.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Waaree, India’s biggest PV module supplier, opens 5.15GWh battery storage assembly plant",
+      "url": "https://www.energy-storage.news/waaree-indias-biggest-pv-module-supplier-opens-5-15gwh-battery-storage-assembly-plant/",
+      "date": "2026-07-17T09:46:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Tongwei claims record-breaking 93.07% bifaciality factor for 770 W solar module",
+      "url": "https://www.pv-magazine.com/2026/07/17/tongwei-claims-record-breaking-93-07-bifaciality-factor-for-770-w-solar-module/",
+      "date": "2026-07-17T09:45:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Bluetti features new Balco Series line of products at The smarter E 2026",
+      "url": "https://www.pv-magazine.com/2026/07/17/bluetti-features-new-balco-series-line-of-products-at-the-smarter-e-2026/",
+      "date": "2026-07-17T09:45:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "China wafer prices edge lower on abundant supply and weak downstream demand",
       "url": "https://www.pv-magazine.com/2026/07/17/china-wafer-prices-edge-lower-on-abundant-supply-and-weak-downstream-demand/",
@@ -51,13 +86,6 @@
       "bucket": "A"
     },
     {
-      "title": "Scientists build 31%-efficient indium-free tandem perovskite silicon mini-module via reactive plasma deposition",
-      "url": "https://www.pv-magazine.com/2026/07/17/research-breakthrough-develops-indium-free-tandem-solar-cell-with-31-efficiency/",
-      "date": "2026-07-17T05:39:28.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "ib vogt wins approval for 480MWh battery storage site in Australia’s Wagga Wagga Special Activation Precinct",
       "url": "https://www.energy-storage.news/ib-vogt-wins-approval-for-480mwh-battery-storage-site-in-australias-wagga-wagga-special-activation-precinct/",
       "date": "2026-07-17T04:21:49.000Z",
@@ -69,20 +97,6 @@
       "url": "https://www.energy-storage.news/port-of-newcastle-cleared-to-safely-stage-grid-scale-battery-storage-systems-in-new-south-wales-australia/",
       "date": "2026-07-17T04:18:05.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Holistic approach wins for agrivoltaics",
-      "url": "https://www.pv-magazine.com/2026/07/17/holistic-approach-wins-for-agrivoltaics/",
-      "date": "2026-07-17T04:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Xpanner introduces excavator-mounted automation tool to ease utility-scale installation bottlenecks",
-      "url": "https://www.pv-magazine.com/2026/07/16/xpanner-introduces-excavator-mounted-automation-tool-to-ease-utility-scale-installation-bottlenecks/",
-      "date": "2026-07-16T13:22:56.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Australia reserves 500MW generation and 2GWh storage for First Nations in Capacity Investment Scheme Tenders 9 and 10",
       "url": "https://www.energy-storage.news/australia-reserves-500mw-generation-and-2gwh-storage-for-first-nations-in-capacity-investment-scheme-tenders-9-and-10/",
       "date": "2026-07-08T03:13:59.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Battery storage may be important, but we also welcome long-duration storage’: QIC on Queensland’s North West Energy Fund",
-      "url": "https://www.energy-storage.news/battery-storage-may-be-important-but-we-also-welcome-long-duration-storage-qic-on-queenslands-north-west-energy-fund/",
-      "date": "2026-07-08T03:12:58.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "VIDEO: HyperStrong to deploy sodium-ion BESS first in China, international projects could follow in 2027",
-      "url": "https://www.energy-storage.news/video-hyperstrong-to-deploy-sodium-ion-bess-first-in-china-international-projects-could-follow-in-2027/",
-      "date": "2026-07-07T10:52:27.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
