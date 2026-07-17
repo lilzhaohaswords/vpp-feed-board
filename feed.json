@@ -1,6 +1,48 @@
 {
-  "ts": 1784286634348,
+  "ts": 1784292794651,
   "items": [
+    {
+      "title": "South Korea announces 1 GW solar tender",
+      "url": "https://www.pv-magazine.com/2026/07/17/south-korea-announces-1-gw-solar-tender/",
+      "date": "2026-07-17T12:53:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ingeteam announces central inverter for utility-scale BESS",
+      "url": "https://www.pv-magazine.com/2026/07/17/ingeteam-announces-central-inverter-for-utility-scale-bess/",
+      "date": "2026-07-17T12:51:41.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Eos to provide energy storage for US Department of Defense ‘Golden Dome,’ releases preliminary Q2 financials",
+      "url": "https://www.energy-storage.news/eos-to-provide-energy-storage-for-us-department-of-defense-golden-dome-releases-preliminary-q2-financials/",
+      "date": "2026-07-17T12:45:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Chinese PV Industry Brief: module manufacturers forecast heavy losses as oversupply persists",
+      "url": "https://www.pv-magazine.com/2026/07/17/chinese-pv-industry-brief-pv-manufacturers-forecast-heavy-losses-as-oversupply-persists/",
+      "date": "2026-07-17T12:37:50.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "China’s battery boom pivoting from scale to utilization, says Ember",
+      "url": "https://www.pv-magazine.com/2026/07/17/chinas-battery-boom-pivoting-from-scale-to-utilization-says-ember/",
+      "date": "2026-07-17T11:54:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Western Europe sees strong irradiance gains during record June heat",
+      "url": "https://www.pv-magazine.com/2026/07/17/western-europe-sees-strong-irradiance-gains-during-record-june-heat/",
+      "date": "2026-07-17T11:52:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "&#8216;It&#8217;s on the up now&#8217;: How grid fee clarity unlocked BW ESS&#8217; German ambitions",
       "url": "https://www.energy-storage.news/its-on-the-up-now-how-grid-fee-clarity-unlocked-bw-ess-german-ambitions/",
@@ -47,41 +89,6 @@
       "title": "Giving away excess daytime solar for free",
       "url": "https://www.pv-magazine.com/2026/07/17/giving-away-excess-daytime-solar-for-free/",
       "date": "2026-07-17T07:27:48.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Oman plans 6 GW solar cell, module factory",
-      "url": "https://www.pv-magazine.com/2026/07/17/oman-plans-6-gw-solar-cell-module-factory/",
-      "date": "2026-07-17T07:25:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "The Hydrogen Stream: Tanaka energizes 500 kW fuel cell facility in Japan",
-      "url": "https://www.pv-magazine.com/2026/07/17/the-hydrogen-stream-tanaka-energizes-500-kw-pure-hydrogen-fuel-cell-facility-in-japan/",
-      "date": "2026-07-17T07:00:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "AI-powered 9-ton tracked robot for large-scale PV construction",
-      "url": "https://www.pv-magazine.com/2026/07/17/ai-powered-9-ton-tracked-robot-for-large-scale-pv-construction/",
-      "date": "2026-07-17T06:33:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Argentina’s electricity demand fell by 1,700 MW during World Cup semifinal against England",
-      "url": "https://www.pv-magazine.com/2026/07/17/argentinas-electricity-demand-fell-by-1700-mw-during-world-cup-semifinal-against-england/",
-      "date": "2026-07-17T06:05:33.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Construction begins on 31 MW agrivoltaic project in New Zealand",
-      "url": "https://www.pv-magazine.com/2026/07/17/31-mw-agrovoltaic-project-kicks-off-construction-in-new-zealand/",
-      "date": "2026-07-17T05:42:05.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "Akaysha Energy begins construction of 82MWh BESS in southern Japan with Itochu-Tokyo Century JV",
       "url": "https://www.energy-storage.news/akaysha-energy-begins-construction-of-82mwh-bess-in-southern-japan-with-itochu-tokyo-century-jv/",
       "date": "2026-07-08T04:54:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia reserves 500MW generation and 2GWh storage for First Nations in Capacity Investment Scheme Tenders 9 and 10",
-      "url": "https://www.energy-storage.news/australia-reserves-500mw-generation-and-2gwh-storage-for-first-nations-in-capacity-investment-scheme-tenders-9-and-10/",
-      "date": "2026-07-08T03:13:59.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
