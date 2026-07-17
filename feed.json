@@ -1,6 +1,41 @@
 {
-  "ts": 1784263693848,
+  "ts": 1784271963928,
   "items": [
+    {
+      "title": "The Hydrogen Stream: Tanaka energizes 500 kW pure hydrogen fuel cell facility in Japan",
+      "url": "https://www.pv-magazine.com/2026/07/17/the-hydrogen-stream-tanaka-energizes-500-kw-pure-hydrogen-fuel-cell-facility-in-japan/",
+      "date": "2026-07-17T07:00:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "AI-powered 9-ton tracked robot for large-scale PV construction",
+      "url": "https://www.pv-magazine.com/2026/07/17/ai-powered-9-ton-tracked-robot-for-large-scale-pv-construction/",
+      "date": "2026-07-17T06:33:22.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Argentina’s electricity demand fell by 1,700 MW during World Cup semifinal against England",
+      "url": "https://www.pv-magazine.com/2026/07/17/argentinas-electricity-demand-fell-by-1700-mw-during-world-cup-semifinal-against-england/",
+      "date": "2026-07-17T06:05:33.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Construction begins on 31 MW agrivoltaic project in New Zealand",
+      "url": "https://www.pv-magazine.com/2026/07/17/31-mw-agrovoltaic-project-kicks-off-construction-in-new-zealand/",
+      "date": "2026-07-17T05:42:05.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Scientists build 31%-efficient indium-free tandem perovskite silicon mini-module via reactive plasma deposition",
+      "url": "https://www.pv-magazine.com/2026/07/17/research-breakthrough-develops-indium-free-tandem-solar-cell-with-31-efficiency/",
+      "date": "2026-07-17T05:39:28.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "ib vogt wins approval for 480MWh battery storage site in Australia’s Wagga Wagga Special Activation Precinct",
       "url": "https://www.energy-storage.news/ib-vogt-wins-approval-for-480mwh-battery-storage-site-in-australias-wagga-wagga-special-activation-precinct/",
@@ -68,41 +103,6 @@
       "title": "Austrian scientists testing foldable PV system with dual-axis tracking",
       "url": "https://www.pv-magazine.com/2026/07/16/austrian-scientists-testing-foldable-pv-system-with-dual-axis-tracking/",
       "date": "2026-07-16T11:05:22.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Qcells secures TÜV Rheinland certification for perovskite-silicon tandem solar tech",
-      "url": "https://www.pv-magazine.com/2026/07/16/qcells-secures-tuv-rheinland-certification-for-perovskite-silicon-tandem-solar-tech/",
-      "date": "2026-07-16T11:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sigenergy unveils AI-driven plug-and-play home storage system for PV retrofits",
-      "url": "https://www.pv-magazine.com/2026/07/16/sigenergy-unveils-ai-driven-plug-and-play-home-storage-system-for-pv-retrofits/",
-      "date": "2026-07-16T10:53:32.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Kosovo breaks ground on 105 MW of solar",
-      "url": "https://www.pv-magazine.com/2026/07/16/kosovo-breaks-ground-on-105-mw-of-solar/",
-      "date": "2026-07-16T10:43:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "France faces grid bottlenecks, with 10% of territory already saturated",
-      "url": "https://www.pv-magazine.com/2026/07/16/france-faces-grid-bottlenecks-with-10-of-territory-already-saturated/",
-      "date": "2026-07-16T09:51:57.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany awards 208 MW of solar in rooftop tender at average price of €0.097/kWh",
-      "url": "https://www.pv-magazine.com/2026/07/16/germany-awards-208-mw-of-solar-in-rooftop-tender-at-average-price-of-e0-097-kwh/",
-      "date": "2026-07-16T09:22:24.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
