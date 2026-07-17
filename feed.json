@@ -1,6 +1,20 @@
 {
-  "ts": 1784292794651,
+  "ts": 1784298091275,
   "items": [
+    {
+      "title": "China imposes new consumption tax on PV cells, batteries amid industry consolidation push",
+      "url": "https://www.pv-magazine.com/2026/07/17/china-imposes-new-consumption-tax-on-pv-cells-batteries-amid-industry-consolidation-push/",
+      "date": "2026-07-17T13:32:39.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "California batteries missing out on revenue due to suboptimal bidding strategies, Gridmatic analysis finds",
+      "url": "https://www.energy-storage.news/california-batteries-missing-out-on-revenue-due-to-suboptimal-bidding-strategies-gridmatic-analysis-finds/",
+      "date": "2026-07-17T12:53:57.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "South Korea announces 1 GW solar tender",
       "url": "https://www.pv-magazine.com/2026/07/17/south-korea-announces-1-gw-solar-tender/",
@@ -82,13 +96,6 @@
       "title": "China wafer prices edge lower on abundant supply and weak downstream demand",
       "url": "https://www.pv-magazine.com/2026/07/17/china-wafer-prices-edge-lower-on-abundant-supply-and-weak-downstream-demand/",
       "date": "2026-07-17T09:31:40.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Giving away excess daytime solar for free",
-      "url": "https://www.pv-magazine.com/2026/07/17/giving-away-excess-daytime-solar-for-free/",
-      "date": "2026-07-17T07:27:48.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "Elestor, Windpark Zeewolde partner on 10-40-hour hydrogen-iron flow battery LDES project in Netherlands",
       "url": "https://www.energy-storage.news/elestor-windpark-zeewolde-partner-on-10-40-hour-hydrogen-iron-flow-battery-ldes-project-in-netherlands/",
       "date": "2026-07-08T08:01:42.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Akaysha Energy begins construction of 82MWh BESS in southern Japan with Itochu-Tokyo Century JV",
-      "url": "https://www.energy-storage.news/akaysha-energy-begins-construction-of-82mwh-bess-in-southern-japan-with-itochu-tokyo-century-jv/",
-      "date": "2026-07-08T04:54:07.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
