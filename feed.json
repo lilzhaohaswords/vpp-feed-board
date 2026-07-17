@@ -1,6 +1,27 @@
 {
-  "ts": 1784250971661,
+  "ts": 1784263693848,
   "items": [
+    {
+      "title": "ib vogt wins approval for 480MWh battery storage site in Australia’s Wagga Wagga Special Activation Precinct",
+      "url": "https://www.energy-storage.news/ib-vogt-wins-approval-for-480mwh-battery-storage-site-in-australias-wagga-wagga-special-activation-precinct/",
+      "date": "2026-07-17T04:21:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Port of Newcastle cleared to safely stage grid-scale battery storage systems in New South Wales, Australia",
+      "url": "https://www.energy-storage.news/port-of-newcastle-cleared-to-safely-stage-grid-scale-battery-storage-systems-in-new-south-wales-australia/",
+      "date": "2026-07-17T04:18:05.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Holistic approach wins for agrivoltaics",
+      "url": "https://www.pv-magazine.com/2026/07/17/holistic-approach-wins-for-agrivoltaics/",
+      "date": "2026-07-17T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Xpanner introduces excavator-mounted automation tool to ease utility-scale installation bottlenecks",
       "url": "https://www.pv-magazine.com/2026/07/16/xpanner-introduces-excavator-mounted-automation-tool-to-ease-utility-scale-installation-bottlenecks/",
@@ -97,13 +118,6 @@
       "url": "https://www.energy-storage.news/behind-catls-zero-degradation-bess-technology/",
       "date": "2026-07-16T09:14:59.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Italy’s solar capture price falls below market average in southern regions",
-      "url": "https://www.pv-magazine.com/2026/07/16/italys-solar-capture-price-falls-below-market-average-in-southern-regions/",
-      "date": "2026-07-16T09:09:37.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "VIDEO: HyperStrong to deploy sodium-ion BESS first in China, international projects could follow in 2027",
       "url": "https://www.energy-storage.news/video-hyperstrong-to-deploy-sodium-ion-bess-first-in-china-international-projects-could-follow-in-2027/",
       "date": "2026-07-07T10:52:27.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "European battery &#038; BESS manufacturing gets boost with Eni Storage and Hithium gigafactory milestones in Italy, Spain",
-      "url": "https://www.energy-storage.news/european-battery-manufacturing-boost-eni-storage-hithium-lfp-gigafactory-milestones-italy-spain/",
-      "date": "2026-07-07T10:47:00.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "‘Climate risk is a daily operational reality’ for BESS developers in Southeast Asia",
-      "url": "https://www.energy-storage.news/climate-risk-is-a-daily-operational-reality-for-bess-developers-in-southeast-asia/",
-      "date": "2026-07-07T09:26:45.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
