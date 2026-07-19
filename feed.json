@@ -1,6 +1,13 @@
 {
-  "ts": 1784500621757,
+  "ts": 1784504543646,
   "items": [
+    {
+      "title": "Australia moves to legislate net-generator requirement for large-scale data centres",
+      "url": "https://www.energy-storage.news/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres/",
+      "date": "2026-07-19T22:48:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "APsystems introduces plug-in microinverter for U.S. balcony solar",
       "url": "https://www.pv-magazine.com/2026/07/18/apsystems-introduces-plug-in-microinverter-for-u-s-balcony-and-diy-solar-markets/",
@@ -411,13 +418,6 @@
       "title": "Europe ROUNDUP: Projects, supply deals and acquisitions spanning north to east by Green Flexibility, Jinko, OX2 and Baltic Storage Platform",
       "url": "https://www.energy-storage.news/europe-roundup-projects-supply-deals-and-acquisitions-spanning-north-to-east-by-green-flexibility-jinko-ox2-and-baltic-storage-platform/",
       "date": "2026-07-08T10:06:48.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Elestor, Windpark Zeewolde partner on 10-40-hour hydrogen-iron flow battery LDES project in Netherlands",
-      "url": "https://www.energy-storage.news/elestor-windpark-zeewolde-partner-on-10-40-hour-hydrogen-iron-flow-battery-ldes-project-in-netherlands/",
-      "date": "2026-07-08T08:01:42.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
