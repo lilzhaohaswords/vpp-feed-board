@@ -1,6 +1,34 @@
 {
-  "ts": 1784547021327,
+  "ts": 1784554247255,
   "items": [
+    {
+      "title": "Residential BESS ‘access without upfront cash’: Palmetto launches battery subscription in 25 US states",
+      "url": "https://www.energy-storage.news/residential-bess-access-without-upfront-cash-palmetto-launches-battery-subscription-in-25-us-states/",
+      "date": "2026-07-20T13:18:20.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Solyco releases 500 W full-black back contact solar module with 24.5% efficiency",
+      "url": "https://www.pv-magazine.com/2026/07/20/solyco-release-500-w-full-black-back-contact-solar-module-with-24-5-efficiency/",
+      "date": "2026-07-20T13:17:11.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Deep learning model improves PV segmentation in remote sensing images",
+      "url": "https://www.pv-magazine.com/2026/07/20/deep-learning-model-improves-pv-segmentation-in-remote-sensing-images/",
+      "date": "2026-07-20T12:22:17.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "1.8GWh Germany BESS moves to construction; 15GWh+ progressed since grid fees decision",
+      "url": "https://www.energy-storage.news/1-8gwh-germany-bess-moves-to-construction-15gwh-progressed-since-grid-fees-decision/",
+      "date": "2026-07-20T11:44:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "Masdar reaches financial close on ‘round-the-clock’ hybrid solar project with 19GWh BESS in UAE",
       "url": "https://www.energy-storage.news/masdar-reaches-financial-close-on-round-the-clock-hybrid-solar-project-with-19gwh-bess-in-uae/",
@@ -104,20 +132,6 @@
       "url": "https://www.energy-storage.news/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres/",
       "date": "2026-07-19T22:48:00.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "APsystems introduces plug-in microinverter for U.S. balcony solar",
-      "url": "https://www.pv-magazine.com/2026/07/18/apsystems-introduces-plug-in-microinverter-for-u-s-balcony-and-diy-solar-markets/",
-      "date": "2026-07-18T09:30:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "How to protect residential batteries from heat waves",
-      "url": "https://www.pv-magazine.com/2026/07/18/how-to-protect-residential-batteries-from-heat-waves/",
-      "date": "2026-07-18T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Swiss firm Alpiq acquires 90% stake in BESS developer-operator Harmony Energy",
       "url": "https://www.energy-storage.news/alpiq-acquires-harmony-energy/",
       "date": "2026-07-09T12:57:56.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery storage business models explored for AI data centres with Nordic reserve market revenues and US household computing power",
-      "url": "https://www.energy-storage.news/battery-storage-business-models-explored-for-ai-data-centres-with-nordic-reserve-market-revenues-and-us-household-computing-power/",
-      "date": "2026-07-09T10:07:43.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "The State of BESS Analytics: Three Views from The Smarter E 2026",
-      "url": "https://www.energy-storage.news/the-state-of-bess-analytics-three-views-from-the-smarter-e-2026/",
-      "date": "2026-07-09T10:03:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
