@@ -1,6 +1,13 @@
 {
-  "ts": 1784510190051,
+  "ts": 1784525006804,
   "items": [
+    {
+      "title": "The silicon recycling loop remains open",
+      "url": "https://www.pv-magazine.com/2026/07/20/the-silicon-recycling-loop-remains-open/",
+      "date": "2026-07-20T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Australia moves to legislate net-generator requirement for large-scale data centres",
       "url": "https://www.energy-storage.news/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres/",
@@ -83,13 +90,6 @@
       "url": "https://www.energy-storage.news/eos-to-provide-energy-storage-for-us-department-of-defense-golden-dome-releases-preliminary-q2-financials/",
       "date": "2026-07-17T12:45:29.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Chinese PV Industry Brief: module manufacturers forecast heavy losses as oversupply persists",
-      "url": "https://www.pv-magazine.com/2026/07/17/chinese-pv-industry-brief-pv-manufacturers-forecast-heavy-losses-as-oversupply-persists/",
-      "date": "2026-07-17T12:37:50.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
