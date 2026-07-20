@@ -1,6 +1,62 @@
 {
-  "ts": 1784536192303,
+  "ts": 1784547021327,
   "items": [
+    {
+      "title": "Masdar reaches financial close on ‘round-the-clock’ hybrid solar project with 19GWh BESS in UAE",
+      "url": "https://www.energy-storage.news/masdar-reaches-financial-close-on-round-the-clock-hybrid-solar-project-with-19gwh-bess-in-uae/",
+      "date": "2026-07-20T10:36:00.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Netherlands proposes stricter rules for solar near airports",
+      "url": "https://www.pv-magazine.com/2026/07/20/netherlands-proposes-stricter-rules-for-solar-near-airports/",
+      "date": "2026-07-20T10:29:59.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Nibe unveils residential propane air-to-water heat pumps reaching 5.53 COP",
+      "url": "https://www.pv-magazine.com/2026/07/20/nibe-unveils-residential-propane-air-to-water-heat-pumps-reaching-5-53-cop/",
+      "date": "2026-07-20T10:18:01.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EU releases Electrification Action Plan, reaffirms 200GW 2030 energy storage target",
+      "url": "https://www.energy-storage.news/eu-releases-electrification-action-plan-reaffirms-200gw-2030-energy-storage-target/",
+      "date": "2026-07-20T10:18:01.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Middle East, Southeast Asia and India emerge as key alternate manufacturing hubs to China",
+      "url": "https://www.energy-storage.news/middle-east-southeast-asia-and-india-emerge-as-key-alternate-manufacturing-hubs-to-china/",
+      "date": "2026-07-20T09:48:51.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Fraunhofer CSP develops ultrathin glass-glass PV modules strengthened by special coating",
+      "url": "https://www.pv-magazine.com/2026/07/20/fraunhofer-csp-develops-ultrathin-glass-glass-pv-modules-strengthened-by-special-coating/",
+      "date": "2026-07-20T09:09:19.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Autowell showcases latest PV and energy storage solutions at The smarter E 2026",
+      "url": "https://www.pv-magazine.com/2026/07/20/autowell-showcases-latest-pv-and-energy-storage-solutions-at-the-smarter-e-2026/",
+      "date": "2026-07-20T09:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Ukraine recognizes solar installer as official profession",
+      "url": "https://www.pv-magazine.com/2026/07/20/ukraine-recognizes-solar-installer-as-official-profession/",
+      "date": "2026-07-20T08:34:15.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Hithium looks to replicate residential solution ARKVOLT’s Asian success into Europe",
       "url": "https://www.energy-storage.news/hithium-looks-to-replicate-residential-solution-arkvolts-asian-success-into-europe/",
@@ -61,41 +117,6 @@
       "title": "How to protect residential batteries from heat waves",
       "url": "https://www.pv-magazine.com/2026/07/18/how-to-protect-residential-batteries-from-heat-waves/",
       "date": "2026-07-18T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "&#8216;Inclusion has to move beyond good intentions and symbolic actions&#8217;",
-      "url": "https://www.pv-magazine.com/2026/07/18/inclusion-has-to-move-beyond-good-intentions-and-symbolic-actions/",
-      "date": "2026-07-18T08:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New AI tool brings transparency to the solar buying process",
-      "url": "https://www.pv-magazine.com/2026/07/18/an-ex-nrel-scientist-is-using-ai-to-bypass-high-pressure-solar-sales-reps/",
-      "date": "2026-07-18T07:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "From import dependence to global competitiveness: India’s solar manufacturing story",
-      "url": "https://www.pv-magazine.com/2026/07/18/from-import-dependence-to-global-competitiveness-indias-solar-manufacturing-story/",
-      "date": "2026-07-18T06:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "GenCost at Eight: how a decade of disruption reshaped the future of Australia’s energy system",
-      "url": "https://www.pv-magazine.com/2026/07/18/gencost-at-eight-how-a-decade-of-disruption-reshaped-the-future-of-australias-energy-system/",
-      "date": "2026-07-18T05:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "China imposes new consumption tax on PV cells, batteries amid industry consolidation push",
-      "url": "https://www.pv-magazine.com/2026/07/17/china-imposes-new-consumption-tax-on-pv-cells-batteries-amid-industry-consolidation-push/",
-      "date": "2026-07-17T13:32:39.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -397,27 +418,6 @@
       "title": "The State of BESS Analytics: Three Views from The Smarter E 2026",
       "url": "https://www.energy-storage.news/the-state-of-bess-analytics-three-views-from-the-smarter-e-2026/",
       "date": "2026-07-09T10:03:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "UK ROUNDUP: Field closes financing on 1GWh portfolio; Pulse Clean Energy selects Envision for 310MWh project",
-      "url": "https://www.energy-storage.news/uk-roundup-field-closes-financing-on-1gwh-portfolio-pulse-clean-energy-selects-envision-for-310mwh-project/",
-      "date": "2026-07-09T08:04:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "In the age of AI data centres and electrification, the grid is the real bottleneck",
-      "url": "https://www.energy-storage.news/in-the-age-of-ai-data-centres-and-electrification-the-grid-is-the-real-bottleneck/",
-      "date": "2026-07-09T07:56:28.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "BESS developer opts for California Energy Commission fast-track approval after facing local county ordinance obstacles",
-      "url": "https://www.energy-storage.news/bess-developer-opts-for-california-energy-commission-fast-track-approval-after-facing-local-county-ordinance-obstacles/",
-      "date": "2026-07-08T13:43:13.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
