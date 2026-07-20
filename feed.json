@@ -1,6 +1,41 @@
 {
-  "ts": 1784525006804,
+  "ts": 1784536192303,
   "items": [
+    {
+      "title": "Hithium looks to replicate residential solution ARKVOLT’s Asian success into Europe",
+      "url": "https://www.energy-storage.news/hithium-looks-to-replicate-residential-solution-arkvolts-asian-success-into-europe/",
+      "date": "2026-07-20T08:16:31.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "CHINT: Bridging AI infrastructure and energy transition through integrated power solutions",
+      "url": "https://www.energy-storage.news/chint-bridging-ai-infrastructure-and-energy-transition-through-integrated-power-solutions/",
+      "date": "2026-07-20T08:14:53.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia adds 9.1GW of new generation and storage in FY26 with battery storage dominating",
+      "url": "https://www.energy-storage.news/australia-adds-9-1gw-of-new-generation-and-storage-in-fy26-with-battery-storage-dominating/",
+      "date": "2026-07-20T07:57:48.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Electrification action plan aims to make Europe world&#8217;s first electric-powered continent",
+      "url": "https://www.pv-magazine.com/2026/07/20/electrification-action-plan-aims-to-make-europe-worlds-first-electric-powered-continent/",
+      "date": "2026-07-20T05:48:18.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Australia sees record surge in solar, wind and battery projects",
+      "url": "https://www.pv-magazine.com/2026/07/20/solar-wind-and-battery-projects-surge-to-record-high/",
+      "date": "2026-07-20T05:40:07.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "The silicon recycling loop remains open",
       "url": "https://www.pv-magazine.com/2026/07/20/the-silicon-recycling-loop-remains-open/",
@@ -69,20 +104,6 @@
       "url": "https://www.energy-storage.news/california-batteries-missing-out-on-revenue-due-to-suboptimal-bidding-strategies-gridmatic-analysis-finds/",
       "date": "2026-07-17T12:53:57.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "South Korea announces 1 GW solar tender",
-      "url": "https://www.pv-magazine.com/2026/07/17/south-korea-announces-1-gw-solar-tender/",
-      "date": "2026-07-17T12:53:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ingeteam announces central inverter for utility-scale BESS",
-      "url": "https://www.pv-magazine.com/2026/07/17/ingeteam-announces-central-inverter-for-utility-scale-bess/",
-      "date": "2026-07-17T12:51:41.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -397,27 +418,6 @@
       "title": "BESS developer opts for California Energy Commission fast-track approval after facing local county ordinance obstacles",
       "url": "https://www.energy-storage.news/bess-developer-opts-for-california-energy-commission-fast-track-approval-after-facing-local-county-ordinance-obstacles/",
       "date": "2026-07-08T13:43:13.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Honda-LG ES begin ESS cell production at retooled Ohio EV cell facility",
-      "url": "https://www.energy-storage.news/honda-lg-es-begin-ess-cell-production-at-retooled-ohio-ev-cell-facility/",
-      "date": "2026-07-08T12:58:02.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hiconics discusses PowerNexus residential smart energy solution at Intersolar Europe",
-      "url": "https://www.energy-storage.news/hiconics-discusses-powernexus-residential-smart-energy-solution-at-intersolar-europe/",
-      "date": "2026-07-08T10:29:40.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Europe ROUNDUP: Projects, supply deals and acquisitions spanning north to east by Green Flexibility, Jinko, OX2 and Baltic Storage Platform",
-      "url": "https://www.energy-storage.news/europe-roundup-projects-supply-deals-and-acquisitions-spanning-north-to-east-by-green-flexibility-jinko-ox2-and-baltic-storage-platform/",
-      "date": "2026-07-08T10:06:48.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
