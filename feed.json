@@ -1,6 +1,41 @@
 {
-  "ts": 1784628560348,
+  "ts": 1784636148706,
   "items": [
+    {
+      "title": "Acciona Energía tests hybrid battery-ultracapacitor storage in Spain",
+      "url": "https://www.pv-magazine.com/2026/07/21/acciona-energia-tests-hybrid-battery-ultracapacitor-storage-in-spain/",
+      "date": "2026-07-21T11:59:35.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany launches first capacity auction",
+      "url": "https://www.pv-magazine.com/2026/07/21/germany-launches-first-capacity-auction/",
+      "date": "2026-07-21T11:52:06.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Kyrgyzstan plans 2 GW solar cell manufacturing plant",
+      "url": "https://www.pv-magazine.com/2026/07/21/kyrgyzstan-plans-2-gw-solar-cell-manufacturing-plant/",
+      "date": "2026-07-21T11:15:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Set it and forget it&#8217;: California BESS operators miss out on millions with static bidding strategies, Gridmatic says",
+      "url": "https://www.energy-storage.news/set-it-and-forget-it-california-bess-operators-miss-out-on-millions-with-static-bidding-strategies-gridmatic-reports/",
+      "date": "2026-07-21T10:23:23.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Spearmint Energy receives permit for 600MWh Minnesota BESS",
+      "url": "https://www.energy-storage.news/spearmint-energy-receives-permit-for-600mwh-minnesota-bess/",
+      "date": "2026-07-21T10:15:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "FEOC compliance for BESS is a decade-long obligation",
       "url": "https://www.energy-storage.news/feoc-compliance-for-bess-is-a-decade-long-obligation/",
@@ -75,27 +110,6 @@
       "title": "Colombia&#8217;s PV capacity tops 4.58 GW, with 1.19 GW under testing",
       "url": "https://www.pv-magazine.com/2026/07/21/colombias-pv-capacity-tops-4-58-gw-with-1-19-gw-under-testing/",
       "date": "2026-07-21T06:32:12.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ACME Solar secures PPA for 300 MW hybrid wind-solar project in India",
-      "url": "https://www.pv-magazine.com/2026/07/21/acme-solar-signs-ppa-with-seci-for-300-mw-wind-solar-hybrid-renewable-energy-project/",
-      "date": "2026-07-21T06:06:54.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Low-cost catalyst innovation boosts green hydrogen production",
-      "url": "https://www.pv-magazine.com/2026/07/21/low-cost-catalyst-innovation-boosts-green-hydrogen-production/",
-      "date": "2026-07-21T06:02:14.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "When solar has nowhere to go: turning curtailed PV into dispatchable power",
-      "url": "https://www.pv-magazine.com/2026/07/21/when-solar-has-nowhere-to-go-turning-curtailed-pv-into-dispatchable-power/",
-      "date": "2026-07-21T05:58:44.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -404,20 +418,6 @@
       "title": "Battery storage investment at stake as Australia’s AEMC consults on minimum system load market rules",
       "url": "https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/",
       "date": "2026-07-13T04:12:10.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "US-based BESS companies Peak Energy, ESS Inc and Unigrid aim to commercialise sodium-ion in US, Europe",
-      "url": "https://www.energy-storage.news/us-based-bess-companies-peak-energy-ess-inc-and-unigrid-aim-to-commercialise-sodium-ion-in-us-europe/",
-      "date": "2026-07-10T08:25:47.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "State of health: The critical metric for measuring battery ageing and performance, and why it matters for BESS",
-      "url": "https://www.energy-storage.news/state-of-health-the-critical-metric-for-measuring-battery-ageing-and-performance-and-why-it-matters-for-bess/",
-      "date": "2026-07-10T07:42:42.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
