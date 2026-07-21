@@ -1,6 +1,48 @@
 {
-  "ts": 1784609596825,
+  "ts": 1784618646642,
   "items": [
+    {
+      "title": "GoodWe launches single-phase off-grid inverter series for residential microgrids",
+      "url": "https://www.pv-magazine.com/2026/07/21/goodwe-launches-single-phase-off-grid-inverter-series-for-residential-microgrids/",
+      "date": "2026-07-21T07:11:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Chile tenders 2,835 GWh of backup supply open to renewables, storage",
+      "url": "https://www.pv-magazine.com/2026/07/21/chile-tenders-2835-gwh-of-backup-supply-open-to-renewables-storage/",
+      "date": "2026-07-21T06:37:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Colombia&#8217;s PV capacity tops 4.58 GW, with 1.19 GW under testing",
+      "url": "https://www.pv-magazine.com/2026/07/21/colombias-pv-capacity-tops-4-58-gw-with-1-19-gw-under-testing/",
+      "date": "2026-07-21T06:32:12.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "ACME Solar secures PPA for 300 MW hybrid wind-solar project in India",
+      "url": "https://www.pv-magazine.com/2026/07/21/acme-solar-signs-ppa-with-seci-for-300-mw-wind-solar-hybrid-renewable-energy-project/",
+      "date": "2026-07-21T06:06:54.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Low-cost catalyst innovation boosts green hydrogen production",
+      "url": "https://www.pv-magazine.com/2026/07/21/low-cost-catalyst-innovation-boosts-green-hydrogen-production/",
+      "date": "2026-07-21T06:02:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "When solar has nowhere to go: turning curtailed PV into dispatchable power",
+      "url": "https://www.pv-magazine.com/2026/07/21/when-solar-has-nowhere-to-go-turning-curtailed-pv-into-dispatchable-power/",
+      "date": "2026-07-21T05:58:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Scaling sodium storage",
       "url": "https://www.pv-magazine.com/2026/07/21/scaling-sodium-storage/",
@@ -51,13 +93,6 @@
       "bucket": "A"
     },
     {
-      "title": "Deep learning model improves PV segmentation in remote sensing images",
-      "url": "https://www.pv-magazine.com/2026/07/20/deep-learning-model-improves-pv-segmentation-in-remote-sensing-images/",
-      "date": "2026-07-20T12:22:17.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "1.8GWh Germany BESS moves to construction; 15GWh+ progressed since grid fees decision",
       "url": "https://www.energy-storage.news/1-8gwh-germany-bess-moves-to-construction-15gwh-progressed-since-grid-fees-decision/",
       "date": "2026-07-20T11:44:23.000Z",
@@ -72,20 +107,6 @@
       "bucket": "A"
     },
     {
-      "title": "Netherlands proposes stricter rules for solar near airports",
-      "url": "https://www.pv-magazine.com/2026/07/20/netherlands-proposes-stricter-rules-for-solar-near-airports/",
-      "date": "2026-07-20T10:29:59.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Nibe unveils residential propane air-to-water heat pumps reaching 5.53 COP",
-      "url": "https://www.pv-magazine.com/2026/07/20/nibe-unveils-residential-propane-air-to-water-heat-pumps-reaching-5-53-cop/",
-      "date": "2026-07-20T10:18:01.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "EU releases Electrification Action Plan, reaffirms 200GW 2030 energy storage target",
       "url": "https://www.energy-storage.news/eu-releases-electrification-action-plan-reaffirms-200gw-2030-energy-storage-target/",
       "date": "2026-07-20T10:18:01.000Z",
@@ -97,27 +118,6 @@
       "url": "https://www.energy-storage.news/middle-east-southeast-asia-and-india-emerge-as-key-alternate-manufacturing-hubs-to-china/",
       "date": "2026-07-20T09:48:51.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Fraunhofer CSP develops ultrathin glass-glass PV modules strengthened by special coating",
-      "url": "https://www.pv-magazine.com/2026/07/20/fraunhofer-csp-develops-ultrathin-glass-glass-pv-modules-strengthened-by-special-coating/",
-      "date": "2026-07-20T09:09:19.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Autowell showcases latest PV and energy storage solutions at The smarter E 2026",
-      "url": "https://www.pv-magazine.com/2026/07/20/autowell-showcases-latest-pv-and-energy-storage-solutions-at-the-smarter-e-2026/",
-      "date": "2026-07-20T09:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Ukraine recognizes solar installer as official profession",
-      "url": "https://www.pv-magazine.com/2026/07/20/ukraine-recognizes-solar-installer-as-official-profession/",
-      "date": "2026-07-20T08:34:15.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
