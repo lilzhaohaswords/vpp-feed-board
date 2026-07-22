@@ -1,6 +1,27 @@
 {
-  "ts": 1784722675039,
+  "ts": 1784731812554,
   "items": [
+    {
+      "title": "VIDEO: Integrating solar, storage, grid-forming and AI with Envision Energy",
+      "url": "https://www.energy-storage.news/video-integrating-solar-storage-grid-forming-and-ai-with-envision-energy/",
+      "date": "2026-07-22T14:00:29.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Topband showcases Ecosolex energy storage solutions at ees Europe 2026",
+      "url": "https://www.pv-magazine.com/2026/07/22/topband-showcases-ecosolex-energy-storage-solutions-at-ees-europe-2026/",
+      "date": "2026-07-22T14:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Greece to permit balcony solar, storage",
+      "url": "https://www.pv-magazine.com/2026/07/22/greece-to-permit-balcony-solar-storage/",
+      "date": "2026-07-22T12:28:52.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "To sell solar, sell the family, support the champion, and mind the timing",
       "url": "https://www.pv-magazine.com/2026/07/22/to-sell-solar-sell-the-family-support-the-champion-and-mind-the-timing/",
@@ -79,13 +100,6 @@
       "bucket": "A"
     },
     {
-      "title": "Sofab Inks announces $6 million funding to advance novel perovskite ETL materials",
-      "url": "https://www.pv-magazine.com/2026/07/22/sofab-inks-announces-6-million-in-funding-to-advance-novel-perovskite-etl-materials/",
-      "date": "2026-07-22T08:55:42.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "SINEXCEL on engineering grid-forming PCS for European utility-scale BESS projects",
       "url": "https://www.energy-storage.news/sinexcel-on-engineering-grid-forming-pcs-for-european-utility-scale-bess-projects/",
       "date": "2026-07-22T08:50:37.000Z",
@@ -104,13 +118,6 @@
       "url": "https://www.energy-storage.news/northern-europe-delta-capacity-adds-to-nordic-bess-portfolio-ignitis-takes-fid-on-latvia-project/",
       "date": "2026-07-22T08:21:11.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Rising gas costs push European electricity prices higher",
-      "url": "https://www.pv-magazine.com/2026/07/22/rising-gas-costs-push-european-electricity-prices-higher-2/",
-      "date": "2026-07-22T08:09:45.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -411,13 +418,6 @@
       "title": "VIDEO: FEOC and the Future of BESS Procurement, a webinar with Intertek CEA",
       "url": "https://www.energy-storage.news/video-feoc-and-the-future-of-bess-procurement-a-webinar-with-intertek-cea/",
       "date": "2026-07-14T09:50:08.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Giga Storage secures finance for 2.8GWh &#8216;critical infrastructure&#8217; Belgium BESS",
-      "url": "https://www.energy-storage.news/giga-storage-secures-finance-for-2-8gwh-critical-infrastructure-belgium-bess/",
-      "date": "2026-07-14T09:10:34.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
