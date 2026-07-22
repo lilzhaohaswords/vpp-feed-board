@@ -1,6 +1,27 @@
 {
-  "ts": 1784682698213,
+  "ts": 1784695976637,
   "items": [
+    {
+      "title": "Flexibility as an asset",
+      "url": "https://www.pv-magazine.com/2026/07/22/flexibility-as-an-asset/",
+      "date": "2026-07-22T04:00:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Samsung C&#038;T submits 1,000MWh solar-plus-storage project in New South Wales to Australia&#8217;s EPBC Act",
+      "url": "https://www.energy-storage.news/samsung-ct-submits-1000mwh-solar-plus-storage-project-in-new-south-wales-to-australias-epbc-act/",
+      "date": "2026-07-22T03:20:25.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Wärtsilä completes delivery of 1,038 Quantum units to 1,400MWh Wooreen BESS in Australia",
+      "url": "https://www.energy-storage.news/wartsila-completes-delivery-of-1038-quantum-units-to-1400mwh-wooreen-bess-in-australia/",
+      "date": "2026-07-22T02:09:13.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "POWEROAD builds eco-partnerships to strengthen its presence in European market",
       "url": "https://www.pv-magazine.com/2026/07/21/poweroad-builds-eco-partnerships-to-strengthen-its-presence-in-european-market/",
@@ -104,13 +125,6 @@
       "url": "https://www.energy-storage.news/india-awards-long-duration-energy-storage-contracts-for-1344mw-pumped-hydro-utility-scale-flow-battery/",
       "date": "2026-07-21T07:30:05.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "GoodWe launches single-phase off-grid inverter series for residential microgrids",
-      "url": "https://www.pv-magazine.com/2026/07/21/goodwe-launches-single-phase-off-grid-inverter-series-for-residential-microgrids/",
-      "date": "2026-07-21T07:11:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -404,20 +418,6 @@
       "title": "Leaked EU Electrification Action Plan recognises need for 200GW of energy storage by 2030",
       "url": "https://www.energy-storage.news/leaked-eu-electrification-action-plan-recognises-need-for-200gw-of-energy-storage-by-2030/",
       "date": "2026-07-13T11:43:52.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "How Dahua is expanding into renewable energy with AI-powered solutions",
-      "url": "https://www.energy-storage.news/how-dahua-is-expanding-into-renewable-energy-with-ai-powered-solutions/",
-      "date": "2026-07-13T11:32:53.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Battery storage investment at stake as Australia’s AEMC consults on minimum system load market rules",
-      "url": "https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/",
-      "date": "2026-07-13T04:12:10.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
