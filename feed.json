@@ -1,6 +1,76 @@
 {
-  "ts": 1784705184618,
+  "ts": 1784714923727,
   "items": [
+    {
+      "title": "Phase-change material cooling for PV-powered e-bike charging",
+      "url": "https://www.pv-magazine.com/2026/07/22/phase-change-material-cooling-for-pv-powered-e-bike-charging/",
+      "date": "2026-07-22T09:44:38.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "EDF study finds elevated agrivoltaics provide superior plant protection",
+      "url": "https://www.pv-magazine.com/2026/07/22/edf-study-finds-elevated-agrivoltaics-provide-superior-plant-protection/",
+      "date": "2026-07-22T09:28:26.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Sofab Inks announces $6 million funding to advance novel perovskite ETL materials",
+      "url": "https://www.pv-magazine.com/2026/07/22/sofab-inks-announces-6-million-in-funding-to-advance-novel-perovskite-etl-materials/",
+      "date": "2026-07-22T08:55:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "SINEXCEL on engineering grid-forming PCS for European utility-scale BESS projects",
+      "url": "https://www.energy-storage.news/sinexcel-on-engineering-grid-forming-pcs-for-european-utility-scale-bess-projects/",
+      "date": "2026-07-22T08:50:37.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Energy Storage Awards 2026: Judges seek winners with the ambition to solve industry problems",
+      "url": "https://www.energy-storage.news/energy-storage-awards-2026-judges-seek-winners-with-the-ambition-to-solve-industry-problems/",
+      "date": "2026-07-22T08:24:06.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Northern Europe: Delta Capacity adds to Nordic BESS portfolio, Ignitis takes FID on Latvia project",
+      "url": "https://www.energy-storage.news/northern-europe-delta-capacity-adds-to-nordic-bess-portfolio-ignitis-takes-fid-on-latvia-project/",
+      "date": "2026-07-22T08:21:11.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Rising gas costs push European electricity prices higher",
+      "url": "https://www.pv-magazine.com/2026/07/22/rising-gas-costs-push-european-electricity-prices-higher-2/",
+      "date": "2026-07-22T08:09:45.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "VIDEO: &#8216;Not enough priority given to BESS asset management and operation&#8217;",
+      "url": "https://www.energy-storage.news/video-not-enough-priority-given-to-bess-asset-management-and-operation/",
+      "date": "2026-07-22T08:05:09.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "GoodWe showcases residential, C&#038;I, and utility-scale energy solutions at The smarter E 2026",
+      "url": "https://www.pv-magazine.com/2026/07/22/goodwe-showcases-residential-ci-and-utility-scale-energy-solutions-at-the-smarter-e-2026/",
+      "date": "2026-07-22T08:05:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Lians showcases 565 W heterojunction solar module with multi-cut shingled design",
+      "url": "https://www.pv-magazine.com/2026/07/22/lians-showcases-565-w-heterojunction-solar-module-with-multi-cut-shingled-cell-architecture/",
+      "date": "2026-07-22T07:41:43.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Sineng Electric launches 510 kW high-power string inverter for utility-scale solar",
       "url": "https://www.pv-magazine.com/2026/07/22/sineng-electric-launches-510-kw-high-power-string-inverter-for-utility-scale-solar/",
@@ -30,13 +100,6 @@
       "bucket": "A"
     },
     {
-      "title": "Flexibility as an asset",
-      "url": "https://www.pv-magazine.com/2026/07/22/flexibility-as-an-asset/",
-      "date": "2026-07-22T04:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Samsung C&#038;T submits 1,000MWh solar-plus-storage project in New South Wales to Australia&#8217;s EPBC Act",
       "url": "https://www.energy-storage.news/samsung-ct-submits-1000mwh-solar-plus-storage-project-in-new-south-wales-to-australias-epbc-act/",
       "date": "2026-07-22T03:20:25.000Z",
@@ -48,41 +111,6 @@
       "url": "https://www.energy-storage.news/wartsila-completes-delivery-of-1038-quantum-units-to-1400mwh-wooreen-bess-in-australia/",
       "date": "2026-07-22T02:09:13.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "POWEROAD builds eco-partnerships to strengthen its presence in European market",
-      "url": "https://www.pv-magazine.com/2026/07/21/poweroad-builds-eco-partnerships-to-strengthen-its-presence-in-european-market/",
-      "date": "2026-07-21T14:00:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany’s degraded peatlands offer up to 268 GW of solar potential",
-      "url": "https://www.pv-magazine.com/2026/07/21/germanys-degraded-peatlands-offer-up-to-268-gw-of-solar-potential/",
-      "date": "2026-07-21T13:48:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Acciona Energía tests hybrid battery-ultracapacitor storage in Spain",
-      "url": "https://www.pv-magazine.com/2026/07/21/acciona-energia-tests-hybrid-battery-ultracapacitor-storage-in-spain/",
-      "date": "2026-07-21T11:59:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany launches first capacity auction",
-      "url": "https://www.pv-magazine.com/2026/07/21/germany-launches-first-capacity-auction/",
-      "date": "2026-07-21T11:52:06.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Kyrgyzstan plans 2 GW solar cell manufacturing plant",
-      "url": "https://www.pv-magazine.com/2026/07/21/kyrgyzstan-plans-2-gw-solar-cell-manufacturing-plant/",
-      "date": "2026-07-21T11:15:00.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -390,34 +418,6 @@
       "title": "Thailand is creating a ‘flexible and competitive environment’ for energy storage market participation",
       "url": "https://www.energy-storage.news/thailand-is-creating-a-flexible-and-competitive-environment-for-energy-storage-market-participation/",
       "date": "2026-07-14T03:37:49.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Australia’s Queensland government reportedly shelves 20GWh pumped hydro project",
-      "url": "https://www.energy-storage.news/australias-queensland-government-reportedly-shelves-20gwh-pumped-hydro-project/",
-      "date": "2026-07-14T01:07:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Argentina awards 700MW BESS in elevenfold oversubscribed tender",
-      "url": "https://www.energy-storage.news/argentina-awards-700mw-bess-in-elevenfold-oversubscribed-tender/",
-      "date": "2026-07-13T14:44:07.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "CMBlu Energy advances US manufacturing plans and targets multiple market segments for organic flow battery technology",
-      "url": "https://www.energy-storage.news/cmblu-energy-advances-us-manufacturing-plans-and-targets-multiple-market-segments-for-organic-flow-battery-technology/",
-      "date": "2026-07-13T11:54:33.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Leaked EU Electrification Action Plan recognises need for 200GW of energy storage by 2030",
-      "url": "https://www.energy-storage.news/leaked-eu-electrification-action-plan-recognises-need-for-200gw-of-energy-storage-by-2030/",
-      "date": "2026-07-13T11:43:52.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
