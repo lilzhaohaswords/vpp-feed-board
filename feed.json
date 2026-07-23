@@ -1,6 +1,20 @@
 {
-  "ts": 1784808945551,
+  "ts": 1784818571874,
   "items": [
+    {
+      "title": "Brookfield buys BESS developer Aypa Power from Blackstone",
+      "url": "https://www.energy-storage.news/brookfield-buys-bess-developer-aypa-power-from-blackstone/",
+      "date": "2026-07-23T14:53:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Hybrid PPAs see growing adoption in Europe despite a 24% premium over solar PPAs",
+      "url": "https://www.pv-magazine.com/2026/07/23/hybrid-ppas-see-growing-adoption-in-europe-despite-a-24-premium-over-solar-ppas/",
+      "date": "2026-07-23T13:15:56.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Southern Africa shifts toward competitive wholesale electricity markets",
       "url": "https://www.pv-magazine.com/2026/07/23/southern-africa-shifts-toward-competitive-wholesale-electricity-markets/",
@@ -103,13 +117,6 @@
       "title": "Argentina&#8217;s distributed solar capacity grew 34.5% in H1",
       "url": "https://www.pv-magazine.com/2026/07/23/argentinas-distributed-solar-capacity-grew-34-5-in-h1/",
       "date": "2026-07-23T06:13:09.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Flexible contracting framework aims to help renewables meet data center energy demand",
-      "url": "https://www.pv-magazine.com/2026/07/23/data-centre-energy-demand-can-boost-new-grid-scale-solar-and-battery-growth/",
-      "date": "2026-07-23T06:06:55.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -411,13 +418,6 @@
       "title": "Avantus progresses California solar-plus-storage projects, Fluence providing domestic content BESS",
       "url": "https://www.energy-storage.news/avantus-progresses-california-solar-plus-storage-projects-fluence-providing-domestic-content-bess/",
       "date": "2026-07-15T11:47:15.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Global BESS deployments soar 27% in H1 2026, Saudi Arabia drives figures in June",
-      "url": "https://www.energy-storage.news/global-bess-deployments-soar-27-in-h1-2026-saudi-arabia-drives-figures-in-june/",
-      "date": "2026-07-15T10:28:54.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
