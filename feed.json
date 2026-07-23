@@ -1,6 +1,41 @@
 {
-  "ts": 1784801233888,
+  "ts": 1784808945551,
   "items": [
+    {
+      "title": "Southern Africa shifts toward competitive wholesale electricity markets",
+      "url": "https://www.pv-magazine.com/2026/07/23/southern-africa-shifts-toward-competitive-wholesale-electricity-markets/",
+      "date": "2026-07-23T11:41:03.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Germany sets September date for first capacity market auction",
+      "url": "https://www.energy-storage.news/germany-sets-september-date-for-first-capacity-market-auction/",
+      "date": "2026-07-23T11:40:09.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Hail storm damages PV systems across Italy’s Marche region",
+      "url": "https://www.pv-magazine.com/2026/07/23/hail-storm-damages-pv-systems-across-italys-marche-region/",
+      "date": "2026-07-23T11:07:30.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Analysis: Recent AI data centre BESS technology and deployment partnerships",
+      "url": "https://www.energy-storage.news/analysis-recent-ai-data-centre-bess-technology-and-deployment-partnerships/",
+      "date": "2026-07-23T10:37:12.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "&#8216;Growing interest&#8217; in US microgrids attracts tax equity investor Foss &#038; Company to US$30 million Maryland deal",
+      "url": "https://www.energy-storage.news/growing-interest-in-us-microgrids-attracts-tax-equity-investor-foss-company-to-us30-million-maryland-deal/",
+      "date": "2026-07-23T10:14:33.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
     {
       "title": "ON.Energy and Crusoe partner on UPS technology for US data centres, Skeleton Tech in 800 VDC partnership with DG Matrix",
       "url": "https://www.energy-storage.news/on-energy-and-crusoe-partner-on-ups-technology-for-us-data-centres-skeleton-tech-in-800-vdc-partnership-with-dg-matrix/",
@@ -75,20 +110,6 @@
       "title": "Flexible contracting framework aims to help renewables meet data center energy demand",
       "url": "https://www.pv-magazine.com/2026/07/23/data-centre-energy-demand-can-boost-new-grid-scale-solar-and-battery-growth/",
       "date": "2026-07-23T06:06:55.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Solar and storage account for 91% of new U.S. grid capacity in Q1",
-      "url": "https://www.pv-magazine.com/2026/07/23/solar-and-storage-account-for-91-of-new-u-s-grid-capacity-in-first-half-of-2026/",
-      "date": "2026-07-23T05:58:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "New rules for Poland’s grid",
-      "url": "https://www.pv-magazine.com/2026/07/23/new-rules-for-polands-grid/",
-      "date": "2026-07-23T04:00:00.000Z",
       "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
@@ -397,27 +418,6 @@
       "title": "Global BESS deployments soar 27% in H1 2026, Saudi Arabia drives figures in June",
       "url": "https://www.energy-storage.news/global-bess-deployments-soar-27-in-h1-2026-saudi-arabia-drives-figures-in-june/",
       "date": "2026-07-15T10:28:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Google projects are evidence that long-duration CO2 Batteries are ‘reliable capacity assets,’ Energy Dome says",
-      "url": "https://www.energy-storage.news/google-projects-are-evidence-that-long-duration-co2-batteries-are-reliable-capacity-assets-energy-dome-says/",
-      "date": "2026-07-15T09:51:16.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Germany ROUNDUP: TotalEnergies and Kyon, Envision and Ju:niz, Flower progress BESS portfolios",
-      "url": "https://www.energy-storage.news/germany-roundup-totalenergies-and-kyon-envision-and-juniz-flower-progress-bess-portfolios/",
-      "date": "2026-07-15T08:56:54.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "What does a bankable route-to-market strategy for battery storage in Europe actually look like?",
-      "url": "https://www.energy-storage.news/what-does-a-bankable-route-to-market-strategy-for-battery-storage-in-europe-actually-look-like/",
-      "date": "2026-07-15T07:59:18.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
