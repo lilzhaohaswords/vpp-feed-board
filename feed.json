@@ -1,6 +1,55 @@
 {
-  "ts": 1784868889064,
+  "ts": 1784877752177,
   "items": [
+    {
+      "title": "Europe ROUNDUP: Grenergy, MaxSolar with Saft, and Amarenco progress BESS projects in Spain, Germany, and France",
+      "url": "https://www.energy-storage.news/europe-roundup-grenergy-maxsolar-with-saft-and-amarenco-progress-bess-projects-in-spain-germany-and-france/",
+      "date": "2026-07-24T07:01:49.000Z",
+      "source": "Energy Storage News",
+      "bucket": "A"
+    },
+    {
+      "title": "Superhydrophobic nanocomposite coating boosts PV power output by 16%, outperforms manual cleaning",
+      "url": "https://www.pv-magazine.com/2026/07/24/superhydrophobic-nanocomposite-coating-boosts-pv-power-output-by-16-outperforms-manual-cleaning/",
+      "date": "2026-07-24T06:45:00.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Idemitsu plans 864 MWh vanadium flow battery at Australian coal mine site",
+      "url": "https://www.pv-magazine.com/2026/07/24/idemitsu-plans-864-mwh-vanadium-flow-battery-at-australian-coal-mine-site/",
+      "date": "2026-07-24T06:18:13.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Texxecure launches rating system for assessing PV project quality and technical risks",
+      "url": "https://www.pv-magazine.com/2026/07/24/texxecure-launches-rating-system-for-assessing-pv-project-quality-and-technical-risks/",
+      "date": "2026-07-24T06:10:44.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "Wildfire resilience: How vegetation clearing protected an 11 MW solar plant in France",
+      "url": "https://www.pv-magazine.com/2026/07/24/wildfire-resilience-how-vegetation-clearing-protected-an-11-mw-solar-plant-in-france/",
+      "date": "2026-07-24T05:34:24.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "The geopolitics of solar manufacturing and how India can build a China-alternative supply chain",
+      "url": "https://www.pv-magazine.com/2026/07/24/the-geopolitics-of-solar-manufacturing-and-how-can-india-build-a-china-alternative-supply-chain/",
+      "date": "2026-07-24T05:10:14.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
+    {
+      "title": "JinkoSolar targets retail power bills with Sunny 365 solar-storage platform",
+      "url": "https://www.pv-magazine.com/2026/07/24/jinkosolar-targets-retail-power-bills-with-sunny-365-solar-storage-platform/",
+      "date": "2026-07-24T05:06:42.000Z",
+      "source": "PV Magazine (Markets & Policy)",
+      "bucket": "A"
+    },
     {
       "title": "Rayzon Solar, Navitas partner with Caelux to develop 10 GW of perovskite-silicon tandem modules in India",
       "url": "https://www.pv-magazine.com/2026/07/24/rayzon-solar-navitas-partner-us-based-caelux-to-develop-10-gw-of-perovskite-silicon-tandem-modules-in-india/",
@@ -37,24 +86,10 @@
       "bucket": "A"
     },
     {
-      "title": "Southern Africa shifts toward competitive wholesale electricity markets",
-      "url": "https://www.pv-magazine.com/2026/07/23/southern-africa-shifts-toward-competitive-wholesale-electricity-markets/",
-      "date": "2026-07-23T11:41:03.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
       "title": "Germany sets September date for first capacity market auction",
       "url": "https://www.energy-storage.news/germany-sets-september-date-for-first-capacity-market-auction/",
       "date": "2026-07-23T11:40:09.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Hail storm damages PV systems across Italy’s Marche region",
-      "url": "https://www.pv-magazine.com/2026/07/23/hail-storm-damages-pv-systems-across-italys-marche-region/",
-      "date": "2026-07-23T11:07:30.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -90,34 +125,6 @@
       "url": "https://www.energy-storage.news/teslas-energy-division-gross-margin-declines-19-despite-battery-storage-deployment-rebound/",
       "date": "2026-07-23T09:58:14.000Z",
       "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Spanish operational PV assets stabilize at €596,000/MW following 50% value decline",
-      "url": "https://www.pv-magazine.com/2026/07/23/spanish-operational-pv-assets-stabilize-at-e596000-mw-following-50-value-decline/",
-      "date": "2026-07-23T09:19:44.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "ML System presents solar tile for demanding architectural applications",
-      "url": "https://www.pv-magazine.com/2026/07/23/ml-system-unveils-solar-tile-for-demanding-architectural-applications/",
-      "date": "2026-07-23T09:05:04.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Sinovoltaics updates solar module manufacturer financial stability ranking",
-      "url": "https://www.pv-magazine.com/2026/07/23/sinovoltaics-updates-solar-module-manufacturer-financial-stability-ranking-4/",
-      "date": "2026-07-23T08:37:05.000Z",
-      "source": "PV Magazine (Markets & Policy)",
-      "bucket": "A"
-    },
-    {
-      "title": "Fox ESS launches high-voltage battery-inverter solution for C&#038;I solar",
-      "url": "https://www.pv-magazine.com/2026/07/23/fox-ess-unveils-high-voltage-battery-inverter-solution-for-ci-solar/",
-      "date": "2026-07-23T07:16:35.000Z",
-      "source": "PV Magazine (Markets & Policy)",
       "bucket": "A"
     },
     {
@@ -411,13 +418,6 @@
       "title": "Australia’s Transgrid opens pathway for 900MW of grid-forming battery storage as synchronous condenser costs surge 38%",
       "url": "https://www.energy-storage.news/australias-transgrid-opens-pathway-for-900mw-of-grid-forming-battery-storage-as-synchronous-condenser-costs-surge-38/",
       "date": "2026-07-16T04:52:38.000Z",
-      "source": "Energy Storage News",
-      "bucket": "A"
-    },
-    {
-      "title": "Avantus progresses California solar-plus-storage projects, Fluence providing domestic content BESS",
-      "url": "https://www.energy-storage.news/avantus-progresses-california-solar-plus-storage-projects-fluence-providing-domestic-content-bess/",
-      "date": "2026-07-15T11:47:15.000Z",
       "source": "Energy Storage News",
       "bucket": "A"
     }
